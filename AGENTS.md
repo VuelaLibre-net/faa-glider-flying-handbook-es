@@ -2,7 +2,7 @@
 
 ## Manual de Vuelo sin Motor
 
-> **Versión:** 0.1.1  
+> **Versión:** 0.1.2  
 > **Idioma:** Español (con variantes regionales)  
 > **Formato:** AsciiDoc  
 > **Licencia Traducción:** CC BY-SA 4.0  
@@ -282,9 +282,9 @@ La versión del proyecto se define en **tres archivos** que deben mantenerse sin
 
 | Archivo | Atributo | Ejemplo |
 |---------|----------|---------|
-| `es/manual-vuelo-sin-motor.adoc` | `:revnumber:` | `:revnumber: 0.1.1` |
-| `es/config/atributos.adoc` | `:project-version:` | `:project-version: 0.1.1` |
-| `README.md` | Badge | `version-0.1.1-blue` |
+| `es/manual-vuelo-sin-motor.adoc` | `:revnumber:` | `:revnumber: 0.1.2` |
+| `es/config/atributos.adoc` | `:project-version:` | `:project-version: 0.1.2` |
+| `README.md` | Badge | `version-0.1.2-blue` |
 
 **Formato:** `MAJOR.MINOR.PATCH[-prerelease]`
 
