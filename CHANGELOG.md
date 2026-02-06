@@ -9,6 +9,16 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
 
+### Planned
+- Traducción de textos en imágenes (279 figuras)
+- Revisión técnica por pilotos titulados
+- Implementación completa de atributos de terminología `{term-xxx}`
+- Soporte para variante regional de México (mx)
+
+---
+
+## [0.1.2] - 2026-02-06
+
 ### Changed
 - **Mejoras en documentación, estilo y configuración**
   - Actualización de CONTRIBUTING.md: sección de imágenes, atributos de términos, variantes regionales
@@ -18,12 +28,16 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Corrección de referencias a repositorio GitHub
   - Portada PDF cambiada a versión beta (cover-beta.jpeg)
 
-### Planned
-- Traducción de textos en imágenes (279 figuras)
-- Revisión técnica por pilotos titulados
-- Implementación completa de atributos de terminología `{term-xxx}`
-- Corrección de inconsistencias terminológicas («patrón de tráfico» → «circuito de tráfico»)
-- Soporte para variante regional de México (mx)
+### Fixed
+- **Terminología**
+  - Corregido: «patrón de tráfico» → «circuito de tráfico» (17 ocurrencias)
+
+### Added
+- **Assets**
+  - Imágenes mockup WebP para README (mockup.webp, mockup-gestor-imagenes.webp)
+- **Documentación**
+  - AGENTS.md - Guía para agentes de IA
+  - CHANGELOG.md - Registro de cambios
 
 ---
 
