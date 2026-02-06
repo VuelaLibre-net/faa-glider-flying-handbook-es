@@ -52,3 +52,7 @@ es/imagenes/**/*webp
 .env.*
 !.env.example
 !.env.template
+.image_manager_config.json
+
+# Image Manager - prompts personalizados
+scripts/imagemanager/IMG_PROMPT_TRANSLATE.md

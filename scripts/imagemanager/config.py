@@ -76,27 +76,36 @@ class TranslationConfig:
     # Modelo por omisión - Nano Banana Pro preview
     DEFAULT_MODEL: str = "nano-banana-pro-preview"
     
-    # Prompt editable por el usuario (prompt por omisión hardcodificado)
-    EDITABLE_PROMPT: str = """### SYSTEM ROLE
-Act as a Senior Technical Illustrator and Aviation Subject Matter Expert for an educational Glider Pilot Manual.
-Your task is to modernize the visual style of the provided input image and translate all textual elements into Spanish, ensuring technical accuracy across different domains (Mechanics, Meteorology, and Flight Procedures).
-
-### VISUAL STYLE & MODERNIZATION (STRICT)
-- **Aesthetic:** "Modern Vector Illustration" style. Clean, flat design with subtle shadows for depth (2.5D). No photorealism.
-- **Consistency:** Maintain a uniform look across the book. Use a cohesive color palette (e.g., cool blues for air/sky, clean greys for hardware, distinct colors for arrows/vectors).
-- **Typography:** Replace all original text with a modern Sans-Serif font (like Roboto or Helvetica). Text must be crisp, legible, and perfectly aligned with original pointers or zones.
-- **Composition:** Strictly preserve the original spatial layout, diagrams, arrow directions, and proportions. Do not distort flight paths or meteorological formations.
-
-### DYNAMIC TRANSLATION PROTOCOL (ENGLISH -> SPANISH)
-Analyze the context of the image to select the correct terminology:
-1. **If Aircraft Components:** Use "Vuelo a Vela" mechanics terms (e.g., Spoiler -> Aerofreno, Fin -> Deriva).
-2. **If Meteorology:** Use standard meteorological terms (e.g., Lapse rate -> Gradiente térmico, Lee wave -> Onda de montaña).
-3. **If Flight Patterns/Traffic:** Use standard ICAO/EASA phraseology (e.g., Downwind leg -> Tramo de viento en cola, Base leg -> Tramo base, Touchdown -> Toma de contacto).
-
-**CRITICAL:** Do not translate literally. Use the professional aviation term used in Spain/South America.
-
-### OUTPUT GENERATION
-Generate the modernized image in high fidelity. The final result should look like a premium vector diagram from a 2024 aviation textbook."""
+    # Archivo con el prompt por defecto
+    _PROMPT_FILE = Path(__file__).parent / "IMG_PROMPT_TRANSLATE.md"
+    
+    # Prompt editable por el usuario (cargado desde archivo con validaciones)
+    @staticmethod
+    def _load_default_prompt() -> str:
+        """Carga el prompt desde archivo con validaciones de seguridad."""
+        try:
+            if not TranslationConfig._PROMPT_FILE.exists():
+                return "Translate this gliding/soaring image to Spanish."
+            
+            # Validar tamaño máximo (10KB) - protección contra DoS
+            size = TranslationConfig._PROMPT_FILE.stat().st_size
+            if size > 10 * 1024:  # 10KB
+                print(f"[TranslationConfig] Archivo de prompt demasiado grande: {size} bytes")
+                return "Translate this gliding/soaring image to Spanish."
+            
+            content = TranslationConfig._PROMPT_FILE.read_text(encoding='utf-8').strip()
+            
+            # Validar que no esté vacío
+            if not content:
+                return "Translate this gliding/soaring image to Spanish."
+            
+            return content
+            
+        except Exception as e:
+            print(f"[TranslationConfig] Error cargando prompt: {e}")
+            return "Translate this gliding/soaring image to Spanish."
+    
+    EDITABLE_PROMPT: str = ""  # Se inicializa después de la clase
     
     # Si está habilitada la traducción automática en menú contextual
     AUTO_TRANSLATE_CONTEXT: bool = True
@@ -106,6 +115,9 @@ Generate the modernized image in high fidelity. The final result should look lik
 
     DEFAULT_PROMPT = "Translate this gliding/soaring image to Spanish."
 
+
+# Inicializar EDITABLE_PROMPT desde el archivo
+TranslationConfig.EDITABLE_PROMPT = TranslationConfig._load_default_prompt()
 
 # Modelos disponibles para selección
 AVAILABLE_MODELS = [
