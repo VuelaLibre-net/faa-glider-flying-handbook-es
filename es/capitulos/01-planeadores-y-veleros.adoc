@@ -12,7 +12,7 @@ Un planeador moderno, como el que se muestra a continuación <<fig-01-01>>, pued
 
 [[fig-01-01]]
 .Un planeador DG Flugzeugbau GmbH serie 800B
-image::01/fig-01-01.a-dg-flugzeugbau-gmbh-800b-series-planeador.png[width=600]
+image::01/fig-01-01.a-dg-flugzeugbau-gmbh-800b-series-planeador.png[]
 
 El Código de Regulaciones Federales (14 CFR parte 1, sección 1.1) establece que «planeador significa una aeronave más pesada que el aire, que se sustenta en vuelo por la reacción dinámica del aire contra sus superficies sustentadoras y cuyo vuelo libre no depende principalmente de un motor». El término «planeador» también designa la habilitación que se coloca en una licencia de piloto una vez que el aspirante completa satisfactoriamente la formación requerida, tiene la experiencia necesaria, supera cualquier examen de conocimientos requerido y aprueba el examen práctico correspondiente.
 
@@ -20,17 +20,17 @@ Para que un planeador vuele, necesita un medio para elevarse. Los primeros plane
 
 [[fig-01-02]]
 .Otto Lilienthal (el Rey del Planeador) en vuelo a mediados de la década de 1890
-image::01/fig-01-02.otto-lilienthal-the-planeador-king-in-vuelo.png[width=600]
+image::01/fig-01-02.otto-lilienthal-the-planeador-king-in-vuelo.png[]
 
 [[fig-01-03]]
 .Orville Wright (izquierda) y Dan Tate (derecha) lanzaron el planeador Wright 1902 por la ladera este de Big Hill, Kill Devil Hills, Carolina del Norte, el 17 de octubre de 1902. Wilbur Wright estaba pilotando el planeador
-image::01/fig-01-03.orville-wright-left-and-dan-tate-right-launched.png[width=600]
+image::01/fig-01-03.orville-wright-left-and-dan-tate-right-launched.png[]
 
 Tras el desarrollo del vuelo motorizado, un avión podía remolcar un planeador hasta cierta altitud, y esto se convirtió en un medio común de lanzar un planeador. Mientras que los primeros diseños de planeadores solo descendían tras el remolque y la suelta, los diseños posteriores podían soltarse y aprovechar el aire ascendente natural para seguir ganando altitud. Algunos planeadores que requieren remolque para alcanzar altitud también tienen un motor auxiliar para uso en vuelo. El piloto puede arrancar y parar el grupo motor en vuelo y, en algunos modelos, el piloto puede retraer el sistema de hélice dentro del fuselaje del planeador para aumentar la eficiencia aerodinámica. Un motovelero autolanzable puede despegar y ascender hasta altitudes de vuelo a vela sin remolque. <<fig-01-04>>
 
 [[fig-01-04]]
 .Un motovelero ASH 26 E autolanzable con la hélice extendida
-image::01/fig-01-04.an-ash-26-e-autolanzable-motor-planeador-with-the.png[width=600]
+image::01/fig-01-04.an-ash-26-e-autolanzable-motor-planeador-with-the.png[]
 
 == Formación de piloto de planeador
 
