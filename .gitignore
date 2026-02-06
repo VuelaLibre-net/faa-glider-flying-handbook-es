@@ -1,0 +1,54 @@
+# Directorios temporales y de trabajo
+.tmp/
+.opencode/
+AGENTS.md
+GEMINI.md
+en/
+
+# Caché de Python
+scripts/__pycache__/
+__pycache__/
+*.pyc
+
+# Archivos generados en build
+build/
+
+# PDFs originales FAA (no se versionan, se descargan aparte)
+faa-glider-flying-handbook/
+
+# Archivos de bloqueo de dependencias (generados localmente)
+Gemfile.lock
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editores
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Archivos temporales de imágenes (procesamiento)
+# Los JPEGs son archivos de trabajo que se convierten a PNG
+es/imagenes/**/*.jpg
+es/imagenes/**/*.jpeg
+# Backups y temporales creados durante el procesamiento
+es/imagenes/**/*.bak
+es/imagenes/**/*.bak*
+es/**/stem*.png
+
+# Archivos webp generados para html
+es/imagenes/**/*webp
+
+# Archivos de entorno y configuración local
+# Variables de entorno con credenciales API
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*
+!.env.example
+!.env.template

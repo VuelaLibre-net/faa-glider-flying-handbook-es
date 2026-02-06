@@ -1,0 +1,4 @@
+// Terminología aeronáutica - Argentina
+// Si algún término del español de España no os parece correcto, podéis modificarlo aquí. Ej:
+
+:term-downwind: tramo de viento de cola

@@ -1,0 +1,302 @@
+= Manual de Vuelo sin Motor
+:author: VuelaLibre.net
+:email: soporte@vuelalibre.net
+:revnumber: 0.1.0
+:revdate: {docdate}
+:revremark: Borrador en construcción
+:description: Traducción al español del FAA Glider Flying Handbook (FAA-H-8083-13B)
+:keywords: planeador, velero, vuelo a vela, aviación, manual, FAA
+:doctype: book
+:media: print
+:pdf-page-size: A4
+:lang: es
+:stem: latexmath
+:!partnums:
+
+// === LOCALIZACIÓN (debe ir antes del include) ===
+:chapter-label: Capítulo
+:appendix-caption: Apéndice
+:caution-caption: Precaución
+:important-caption: Importante
+:note-caption: Nota
+:tip-caption: Consejo
+:warning-caption: Advertencia
+:example-caption: Ejemplo
+:figure-caption: Figura
+:table-caption: Tabla
+:toc-title: Índice de Contenidos
+:figure-caption: Figura
+:lof-label: Índice de Figuras
+
+// Habilitar índice de figuras
+:lof:
+:preface-title: Prefacio
+:part-signifier: Parte
+:chapter-signifier: Capítulo
+:section-refsig: Sección
+:untitled-label: Sin título
+:version-label: Versión
+:last-update-label: Última actualización
+
+// Incluir configuración global
+include::config/atributos.adoc[]
+
+// Sobrescribir imagesdir para que sea relativo a este archivo
+:imagesdir: imagenes
+
+// === PORTADA Y PRELIMINARES ===
+
+[colophon]
+= Información legal de esta traducción
+
+*Atribución*
+
+____
+Traducción al español del https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/glider_handbook[*FAA Glider Flying Handbook*] (FAA-H-8083-13B).
+
+La obra original en inglés, publicada por la Administración Federal de Aviación de Estados Unidos, se encuentra en el **dominio público** según el Título 17 del Código de los Estados Unidos, Sección 105 (17 U.S.C. § 105):
+
+_"Los trabajos creados por empleados del gobierno federal de Estados Unidos en el ejercicio de sus funciones oficiales no están sujetos a derechos de autor."_
+
+Realizada por y para la comunidad de pilotos de España y Latinoamérica.
+____
+
+*TRADUCCIÓN INDEPENDIENTE NO OFICIAL*
+
+Este documento es una traducción independiente realizada por la comunidad de VuelaLibre.net. *No está avalado, patrocinado ni aprobado por la FAA, el Departamento de Transporte de EE.UU., ni ninguna autoridad aeronáutica.*
+
+El documento original en inglés es la única fuente autorizada. En caso de discrepancia entre esta traducción y el original, prevalece siempre el texto en inglés.
+
+'''
+
+*EXENCIÓN DE RESPONSABILIDAD - USO BAJO PROPIO RIESGO*
+
+La aviación es una actividad que conlleva riesgos inherentes. Aunque se ha realizado un esfuerzo considerable para garantizar la precisión de esta traducción, pueden existir errores de traducción, interpretación o transcripción.
+
+*Los traductores, editores y colaboradores de este proyecto NO asumen responsabilidad alguna* por daños personales, materiales o de cualquier otra índole que pudieran derivarse del uso de esta traducción.
+
+Antes de aplicar cualquier procedimiento descrito en este manual:
+
+* Consulte siempre el documento original en inglés
+* Verifique la normativa vigente de su autoridad aeronáutica (AESA/EASA en España)
+* Confirme los procedimientos con un instructor cualificado
+
+'''
+
+
+____
+*Normativa Aplicable*
+
+Este manual refleja la normativa y procedimientos de la FAA (Estados Unidos). Para la operación de aeronaves en España y Europa, consulte siempre la normativa de AESA y EASA. Los procedimientos, requisitos de licencia y regulaciones pueden diferir significativamente.
+____
+
+'''
+
+*Licencia*
+
+Esta traducción se distribuye bajo licencia *Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)*.
+
+Más información: https://creativecommons.org/licenses/by-sa/4.0/deed.es
+
+Actualizaciones y mejoras son bienvenidas en nuestro repositorio de GitHub: https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es
+
+
+'''
+
+[cols="1,3"]
+|===
+| *Obra original* | Glider Flying Handbook (FAA-H-8083-13B)
+| *Autor original* | Federal Aviation Administration
+| *Traducción* | VuelaLibre.net
+| *Licencia traducción* | CC BY-SA 4.0
+| *Versión* | {revnumber}
+| *Fecha* | {revdate}
+|===
+
+'''
+*Dedicatoria*
+
+Esfuerzo dedicado a la memoria de Iñaqui Ulibarri, quien nos dio las alas y nos enseñó a usarlas con prudencia.
+
+Muchos aprendimos a ser pilotos bajo tu mirada atenta y tu sabia exigencia. Fuiste nuestro mejor maestro: siempre indicándonos dónde estaba la excelencia. Aunque ya no estés en el asiento de atrás, tu legado vuela con nosotros en cada planeo silencioso y en cada decisión segura. Gracias por hacernos mejores pilotos y, sobre todo, mejores personas.
+
+
+
+
+'''
+
+:page-break-before: always
+[colophon]
+[.text-center]
+= Portada FAA
+[.text-center]
+*Manual de Vuelo sin Motor* +
+*Glider Flying Handbook* +
+*2024*
+
+[.text-center]
+U.S. Department of Transportation +
+FEDERAL AVIATION ADMINISTRATION +
+Flight Standards Service
+
+[.text-center]
+_(Este manual, en su versión en inglés de 2024, reemplazó al predecesor *FAA-H-8083-13A* de 2013)_
+
+[preface]
+= Reconocimientos
+
+La FAA desea agradecer a las siguientes personas y organizaciones por su contribución a este manual:
+
+[cols="1,1", frame=none, grid=none]
+|===
+|Sue Telford -- Contribuciones editoriales
+|Jerry Zieba -- dianasailplanes.com
+
+|Tim Mara -- wingsandwheels.com
+|Uli Kremer -- Alexander Schleicher
+
+|Richard Lancaster -- carrotworks.com
+|Dave Nadler
+
+|Dave McConeghey
+|John Brandon -- raa.asn.au
+
+|Patrick Panzera -- contactmagazine.com
+|Jeff Haby -- theweatherprediction.com
+
+|National Soaring Museum
+|Bill Elliot -- soaringcafe.com
+
+|Tiffany Fidler
+|Phil Klauder -- Philadelphia Glider Council
+
+|Soaring Society of America
+|Soaring Safety Foundation
+
+|Brad Temeyer -- NOAA
+|Bill Martin -- NOAA
+|===
+
+Asimismo, hacemos extensivo nuestro agradecimiento a la Soaring Society of America, Inc. (https://www.ssa.org), a la Soaring Safety Foundation, y a los señores Brad Temeyer y Bill Martin de la Administración Nacional Oceánica y Atmosférica (NOAA) por su apoyo técnico y sus aportaciones.
+
+=== Agradecimientos especiales a los colaboradores de la traducción
+
+A la comunidad de pilotos de vuelo a vela de España y Latinoamérica que han aportado su experiencia y sugerencias para mejorar esta traducción. A la FAA (Federal Aviation Administration) por el documento original en dominio público que ha hecho posible este proyecto, y a todos los colaboradores que han participado en su creación y revisión:
+
+[cols="1,1", frame=none, grid=none]
+|===
+|_In Memoriam Iñaqui Ulibarri (SPL, FI(S), FE(S), FIE(S))_
+|Ramón G. Camus (SPL)
+
+|Jxxxx Axxxxxxx (SPL, FI(S))
+|Áxxxxx de la Fxxxxx (SPL, FI(S))
+
+|Pxxxxxx. Rxxxxxx (SPL, ATPL(A))
+|Fxxxxx J. Gxxxxxx (SPL, FI(S))
+
+|Jxxxxxx M. Lxxxxxx (SPL, FI(S))
+|Dxxxxxx S. Mxxxxxx (SPL)
+
+|Cxxxxxx R. Vxxxxxx (SPL, FI(S))
+|Mxxxxxx G. Hxxxxxx (SPL, FE(S), PPL)
+
+|Jxxxxxx L. Sxxxxxx (SPL, FI(S))
+|Axxxxxx G. Rxxxxxx (SPL, FI(S))
+
+|===
+
+
+// Desactivar numeración para el prefacio
+:!sectnums:
+
+[preface]
+= Prefacio
+
+El *Manual de Vuelo en Planeador* está diseñado como manual técnico para candidatos que se preparan para obtener la habilitación de planeador y para pilotos de planeador certificados que desean mejorar sus conocimientos. Los instructores de vuelo certificados encontrarán en este manual una valiosa ayuda para la instrucción, ya que incluye cobertura detallada de toma de decisiones aeronáuticas, componentes y sistemas, aerodinámica, instrumentos de vuelo, limitaciones de rendimiento, operaciones en tierra, maniobras de vuelo, circuitos de tráfico, emergencias, meteorología para vuelo a vela, técnicas de vuelo a vela y vuelo de travesía. Temas como navegación y comunicación por radio, uso de publicaciones de información aeronáutica y normativas están disponibles en otras publicaciones de la Administración Federal de Aviación (FAA).
+
+Las discusiones y explicaciones reflejan las prácticas y principios más comúnmente utilizados. Ocasionalmente, se utiliza la palabra "debe" o lenguaje similar cuando la acción deseada se considera crítica. El uso de dicho lenguaje no pretende añadir, interpretar o aliviar una obligación impuesta por el Título 14 del Código de Regulaciones Federales (14 CFR). Se recomienda a las personas que trabajan para obtener una habilitación de planeador revisar las referencias de los estándares prácticos de examen aplicables. Los recursos de estudio incluyen FAA-H-8083-25, *Pilot's Handbook of Aeronautical Knowledge*; FAA-H-8083-2, *Risk Management Handbook*; y FAA-H-8083-28, *Aviation Weather Handbook*, ya que estos documentos contienen material básico no duplicado en este manual. Todos los candidatos principiantes deben consultar FAA-H-8083-25, *Pilot's Handbook of Aeronautical Knowledge*, para estudio y referencia bibliográfica básica.
+
+Es esencial que las personas que utilizan este manual se familiaricen con las partes pertinentes del 14 CFR y el *Manual de Información Aeronáutica* (AIM). El AIM está disponible en el sitio web de la FAA. El material de entrenamiento y pruebas actual del Servicio de Estándares de Vuelo y las declaraciones de aprendizaje para todos los certificados y habilitaciones de aviador se pueden obtener del sitio web de la FAA.
+
+Este manual reemplaza al FAA-H-8083-13A, *Glider Flying Handbook*, de 2013.
+
+Este manual está disponible para descarga, en formato PDF, desde el sitio web de la FAA.
+
+Este manual es publicado por el Departamento de Transporte de los Estados Unidos, Administración Federal de Aviación, División de Aviación General y Comercial, Grupo de Entrenamiento y Certificación (AFS-810), Sección de Estándares de Pruebas, P.O. Box 25082, Oklahoma City, OK 73125.
+
+Los comentarios sobre esta publicación deben enviarse por correo electrónico a AFS630comments@faa.gov.
+
+[IMPORTANT]
+====
+*Nota del traductor:* Esta es una traducción realizada por y para la comunidad de pilotos de habla hispana e incluye aspectos reglamentarios específicos de EE. UU.
+
+Si vuela en España (bajo normativa EASA) o en otro país hispanohablante, debe consultar siempre su regulación local. Las principales diferencias con EE. UU. radican en la burocracia (licencias y exámenes médicos...), mientras que, obviamente, toda la física del vuelo, los factores humanos, la meteorología, etc., son universales. Incluso la mayoría de los procedimientos operativos en vuelo son prácticamente idénticos.
+
+En cualquier caso, la formación práctica con *un instructor cualificado es imprescindible*. Su instructor y el manual de vuelo de su planeador, siempre tendrán la última palabra sobre procedimientos, técnicas adecuadas o legislación.
+====
+
+// === CONTENIDO PRINCIPAL ===
+// Reactivar numeración para los capítulos
+:sectnums:
+
+// Cada capítulo se incluye completamente desde su archivo
+// Los archivos de capítulos tienen: [[ancla]], título (=), contenido
+// Usamos leveloffset=+1 para convertir el título de capítulo (=) en sección (==)
+
+include::capitulos/01-planeadores-y-veleros.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/02-componentes-y-sistemas.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/03-aerodinamica-del-vuelo.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/04-instrumentos-de-vuelo.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/05-performance.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/06-prevuelo-operaciones-tierra.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/07-lanzamiento-aterrizaje-maniobras.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/08-emergencias.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/09-meteorologia-vuelo-vela.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/10-tecnicas-vuelo-vela.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/11-vuelo-travesia.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/12-remolque.adoc[lines=1..-1, leveloffset=+1]
+
+include::capitulos/13-factores-humanos.adoc[lines=1..-1, leveloffset=+1]
+
+// === APÉNDICES ===
+
+[appendix]
+include::apendices/indice-figuras.adoc[leveloffset=+1]
+
+[appendix]
+[[glosario]]
+include::apendices/glosario.adoc[leveloffset=+1]
+
+// === COLABORADORES ===
+
+=== Colaboradores
+
+Este manual es el resultado del trabajo de muchas personas que han contribuido su tiempo, conocimiento y experiencia para hacerlo posible.
+
+=== Equipo de Traducción
+
+*Traducción y adaptación:* VuelaLibre.net
+
+*Revisión técnica:* Pendiente de validación por Instructories y pilotos de planeador titulados
+
+
+=== Cómo Contribuir
+
+Este es un proyecto de código abierto. Si deseas contribuir:
+
+* Visita: https://github.com/VuelaLibre-net/faa-gfh-castellano
+* Envía correcciones o sugerencias via Pull Request
+* Reporta errores en Issues
+
+Tu nombre aparecerá en futuras versiones en la sección de agradecimientos.

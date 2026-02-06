@@ -1,0 +1,299 @@
+[[cap11]]
+= Vuelo de Travesía
+
+[abstract]
+--
+El vuelo de travesía ocurre cuando el piloto vuela el planeador más allá de la distancia de planeo desde el sitio de planeo local. Este capítulo cubre la preparación, planificación y técnicas para vuelos de travesía.
+--
+
+== Introducción
+
+Un vuelo de travesía ocurre cuando el piloto vuela el planeador más allá de la distancia de planeo desde el sitio de planeo local. El vuelo de travesía requiere más preparación y toma de decisiones que un vuelo local. El piloto debe determinar si el planeador, el equipo y el piloto pueden mantenerse de manera segura dadas las condiciones ambientales conocidas y esperadas a lo largo de la ruta de vuelo.
+
+== Preparación y Planificación del Vuelo
+
+Si se planea usar térmicas, el piloto debe considerar la disponibilidad y fuerza de las térmicas, si permanecerán activas, las posibilidades de aterrizaje y qué aeropuertos a lo largo de la ruta tienen una pista compatible con las condiciones de viento predominantes. El piloto también debe considerar qué efecto tendrá el viento en la distancia de planeo y la mejor velocidad para volar en descenso entre térmicas. Mientras que la parte principal de este capítulo describe volar de travesía usando térmicas, la preparación aumentada para vuelos de travesía también involucra otras fuentes de sustentación, y este capítulo proporciona una breve descripción de planeo de travesía usando sustentación de cresta u onda.
+
+== Preparándose para Vuelos de Travesía
+
+Las habilidades adecuadas de planeo indican la preparación del piloto para el planeo de travesía. Hasta que el piloto haya volado varios vuelos de más de 2 horas y pueda localizar y utilizar térmicas consistentemente, el piloto debe enfocarse en mejorar esas habilidades antes de intentar vuelos de travesía.
+
+Cualquier vuelo de travesía podría terminar en un aterrizaje fuera de campo, por lo que los pilotos que planean volar en vuelos de travesía también deben perfeccionar sus habilidades de aterrizaje en campo corto. Los pilotos pueden practicar estos aterrizajes en vuelos locales estableciendo un área simulada de aterrizaje fuera de campo en un aeropuerto o puerto de planeadores. Los primeros aterrizajes simulados deben utilizar los servicios de un instructor, y el piloto debe practicar varios aterrizajes sin usar el altímetro. Los pilotos deben intentar evitar interferir con el flujo normal de tráfico durante aterrizajes simulados fuera de campo.
+
+Además, el piloto debe saber qué espacio aéreo existe a lo largo de la ruta planeada incluyendo diferentes clases (B, C, D, E, G), áreas restringidas, áreas prohibidas y áreas de operaciones militares. El piloto debe entender las implicaciones de cualquier ruta aérea a lo largo de la trayectoria de vuelo. Una vez cómodo con la carta seccional durante el estudio en tierra, los pilotos pueden localizar puntos de referencia y características dentro de unas pocas millas del sitio de planeo desde el aire.
+
+Mientras que el entrenamiento en campo corto puede usar un área conocida, el entrenamiento en selección de sitio involucra seleccionar un sitio de aterrizaje desde el aire. Usar un planeador de auto-lanzamiento u otra aeronave propulsada para practicar la selección de área de aterrizaje permite aproximaciones simuladas a diferentes áreas seleccionadas en un período de tiempo condensado.
+
+Los pilotos de planeadores pueden usar una Carta Aeronáutica Seccional electrónica o en papel para determinar la posición a lo largo de una ruta de vuelo durante vuelos de travesía. Estas cartas se publican con actualizaciones cada 56 días y contienen información general, como topografía, ciudades, carreteras principales y secundarias, lagos y otras características que pueden destacarse desde el aire, como un rancho en una pradera por lo demás sin características. Además, las seccionales muestran la ubicación de aeropuertos públicos y algunos privados, rutas aéreas, áreas restringidas y de advertencia, y límites y límites verticales de diferentes clases de espacio aéreo. La información cartografiada sobre aeropuertos incluye elevación del campo, orientación y longitud de todas las pistas pavimentadas, iluminación de pista y frecuencias de radio en uso. Cada seccional presenta una leyenda completa. Una descripción detallada de la carta seccional se encuentra en FAA-H-8083-25, el Manual de Conocimientos Aeronáuticos del Piloto. La <<fig-11-01>> muestra una muestra de carta seccional.
+
+[[fig-11-01]]
+.Extracto de una Carta Aeronáutica Seccional
+image::11/fig-11-01.excerpt-from-a-sectional-aeronautical-grafico.png[width=600]
+
+Los pilotos deben dedicar una cantidad significativa de tiempo a estudiar cartas seccionales en tierra. Esto incluye volar algunos vuelos de travesía "virtuales" en varias direcciones desde el sitio de planeo local. Además de estudiar el terreno (colinas, montañas, lagos grandes) que puede afectar el planeo a lo largo de la ruta, el piloto debe estudiar las diversas líneas y símbolos y responder las siguientes preguntas:
+
+* ¿Qué aeropuertos están disponibles en la ruta?
+* ¿Alguno tiene torre de control?
+* ¿Qué significan todos los números y símbolos para cada aeropuerto?
+* ¿Qué significan otros símbolos de la carta?
+
+La navegación GPS y las pantallas de mapa en movimiento mejoran la conciencia de posición durante el vuelo o después de un aterrizaje fuera de campo, y los pilotos deben aprovechar esta tecnología. Sin embargo, los pilotos deben practicar verificar la posición con una carta seccional mientras están en el aire en caso de que el GPS falle.
+
+Cualquier vuelo de travesía puede terminar con un aterrizaje lejos del sitio de planeo de origen, por lo que los pilotos y las tripulaciones deben prepararse para esa ocurrencia antes del vuelo. A veces puede realizarse una recuperación por remolque aéreo si el vuelo termina en un aeropuerto; sin embargo, las recuperaciones con remolque ocurren más a menudo. Tanto el remolque como el vehículo de remolque deben estar en buenas condiciones de operación antes de que el piloto parta en un vuelo de travesía, y el piloto y la tripulación de recuperación deben discutir las opciones de comunicación antes del vuelo.
+
+El piloto debe obtener un informe estándar y un pronóstico de planeo de una fuente meteorológica aprobada. El informe debe incluir información meteorológica general para la ruta planeada, así como cualquier NOTAM, AIRMET o SIGMET, vientos en altura, frente que se aproxima o áreas de probable actividad de tormentas eléctricas. Dependiendo de la perspectiva meteorológica, los pilotos inexperimentados pueden encontrar útil discutir opciones con pilotos más experimentados en su sitio de planeo.
+
+El piloto debe contactar a un informante o fuente derivada del NWS para un pronóstico de planeo actual. Como se discutió brevemente en el Capítulo 9, Vuelo a Vela y Meteorología, ciertas Oficinas de Pronóstico del Tiempo del NWS (WFO) emiten pronósticos de planeo. Estos pronósticos automatizados se derivan principalmente de la observación de radiosonda o sondeos generados por modelo. El contenido y formato de un pronóstico de planeo varían dependiendo de la WFO del NWS que proporcione el pronóstico y las necesidades de la comunidad de planeo local. Un pronóstico de planeo se emite una vez por día sin monitoreo continuo o actualización después de la emisión inicial. El contenido y formato de un pronóstico de planeo así como los tiempos de emisión están sujetos a cambio sin previo aviso. La siguiente muestra de pronóstico de planeo provino de la WFO en Salt Lake City, Utah <<fig-11-02>>:
+
+[[fig-11-02]]
+.Muestra de Pronóstico de Planeo
+image::11/fig-11-02.sample-vuelo-vela-forecast.png[width=600]
+
+En el ejemplo de pronóstico de planeo mostrado arriba, la línea para Altura del Índice Térmico -3 representa la diferencia entre la temperatura ambiental y la temperatura a un nivel particular determinada siguiendo la adiabática seca a través de la temperatura máxima pronosticada hasta ese nivel. Un valor negativo de magnitud creciente indica sustentación térmica más fuerte. Un valor de -3 o menor generalmente indica actividad térmica favorable para planeo de travesía. Los pilotos de planeo deben consultar con la WFO del NWS en su área de planeo para más información sobre el pronóstico de planeo.
+
+== Finalizando los Planes
+
+Los pilotos pueden tener objetivos específicos para su próximo vuelo de travesía y deben planificar basándose en el área y diferentes escenarios meteorológicos. Si se planea un vuelo de 300 millas náuticas (MN) en ruta cerrada, el piloto debe considerar varias rutas posibles de ida y vuelta o triángulo con anticipación. En el día de la salida, el piloto puede seleccionar la mejor opción pre-planeada basándose en la perspectiva meteorológica. Dado que numerosos detalles finales necesitan atención en la mañana del vuelo, el conteo de los artículos usados durante el vuelo debe tener lugar el día anterior.
+
+La falta de preparación puede llevar a retrasos, que pueden no dejar suficiente del día de planeo para lograr el vuelo planeado. Peor aún, la mala planificación lleva a una preparación apresurada de último momento y una prisa por lanzarse, haciendo fácil omitir elementos críticos de seguridad.
+
+Los pilotos inexperimentados y experimentados por igual deben usar listas de verificación para varias fases de la preparación de travesía para organizar los detalles. Cuando se usan apropiadamente, las listas de verificación pueden ayudar a evitar omisiones, como artículos de ensamblaje olvidados, seccionales dejadas en casa, barógrafo no encendido antes del despegue, estado del oxígeno, agua potable en el planeador, etc. Las listas de verificación pueden cubrir lo siguiente:
+
+* Artículos para llevar al puerto de planeadores (comida, agua, batería, cartas, barógrafo).
+* Ensamblaje de acuerdo con el Manual de Vuelo del Planeador/Manual de Operación del Piloto (GFM/POH), incluyendo verificación de ensamblaje y cualquier otro artículo según sea necesario.
+* Verificación de control positivo.
+* Pre-lanzamiento (cartas, barógrafo, calculadora de planeo, oxígeno encendido).
+* Sesiones informativas para piloto de remolque, tripulación de tierra y tripulación de recuperación.
+* Pre-despegue.
+
+Estar mejor organizado antes del vuelo conduce a menos estrés durante el vuelo y mejora la seguridad del vuelo.
+
+== Equipo Personal y Especial
+
+Muchos artículos no requeridos para planeo local aseguran la comodidad del piloto en vuelos largos de travesía. Un suministro adecuado de agua potable previene la deshidratación. Algunos pilotos usan un sistema de bebida con mochila con una manguera fácilmente accesible y válvula de mordida. Este sistema se guarda fácilmente al lado del piloto y permite sorbos frecuentes de agua. Los pilotos también deben tener comida a bordo ya que los vuelos de travesía pueden durar hasta 8 horas o más. Los pilotos también deben tener un sistema de alivio en vuelos más largos.
+
+Varios artículos llevados a bordo pueden ayudar en caso de un aterrizaje fuera de campo. (Para más detalles, vea el Capítulo 8, Procedimientos Anormales y de Emergencia.) Por ejemplo, el kit de aterrizaje fuera de campo debe incluir un sistema para asegurar el planeador. El contenido restante de un kit de aterrizaje fuera de campo depende de la densidad de población y el clima del área de planeo. Un sitio de aterrizaje seguro puede ocurrir a muchas millas de la carretera más cercana, y el kit de aterrizaje fuera de campo debe incluir agua y comida extra para esta contingencia. Los zapatos para caminar podrían ser valiosos si el piloto necesita caminar hasta una estructura a cierta distancia. Un teléfono móvil es útil para aterrizajes en áreas con cobertura celular. Algunos pilotos eligen llevar una Baliza de Radio de Indicación de Posición de Emergencia (EPIRB) en caso de incidente durante un aterrizaje fuera de campo remoto.
+
+El planeo de travesía requiere algún medio de medir distancias a la siguiente fuente de sustentación o al siguiente área de aterrizaje adecuada. Los pilotos pueden usar un sistema GPS para medir distancias o un sistema mecánico como un trazador y carta en papel. <<fig-11-03>>
+
+[[fig-11-03]]
+.Trazador de vuelo de navegación
+image::11/fig-11-03.navigational-plotter.png[width=600]
+
+Los cálculos de planeo tienen en cuenta los vientos de frente o de cola, así como las velocidades para volar a través de varias tasas de descenso como se discutió en el capítulo 5, Rendimiento del Planeador. Las herramientas varían ampliamente en su nivel de sofisticación, pero todas consideran la polar de rendimiento para el planeador. La ayuda de planeo más simple derivada de la polar consiste en una tabla mostrando altitudes requeridas para distancia versus viento. Otra opción consiste en una calculadora de planeo circular como se muestra en la <<fig-11-04>>. Los ajustes en la <<fig-11-04>> indican que un planeo de 18 millas en un viento de frente estimado de 10 nudos toma 3,600 pies. Nótese que esto solo da la altitud requerida para hacer el planeo. Los planeadores de alto rendimiento a menudo tienen computadoras de planeo/navegación que calculan automáticamente la relación de planeo (L/D).
+
+[[fig-11-04]]
+.Calculadora circular de planeo
+image::11/fig-11-04.circular-planeador-calculator.png[width=600]
+
+Otro método permite a un piloto calcular la relación de planeo efectiva utilizando una fórmula estándar. La relación de planeo, con respecto al aire (GRA) o L/D, permanece constante a una velocidad dada. Por ejemplo, el piloto podría conocer la relación de planeo, y sustentación sobre resistencia (L/D) siendo 30 a 1 (expresado como 30:1) para una velocidad de 50 nudos en un planeador específico. A 50 nudos de velocidad del aire con un L/D de 30:1, un viento de cola de 10 nudos resulta en una relación de planeo efectiva de 36:1. <<fig-11-05>>
+
+[[fig-11-05]]
+.Ejemplos de cálculo de planeo para viento de frente y viento de cola
+image::11/fig-11-05.planeo-calculation-examples-for-a-viento-en-proa.png[width=600]
+
+Además de una calculadora de planeo, una computadora de vuelo o anillo MacCready en el variómetro le da al piloto la velocidad apropiada para volar para diferentes tasas de descenso. Datos como velocidad y dirección del viento pueden introducirse manual o automáticamente dependiendo de la edad y capacidad de la computadora de vuelo. Volar la velocidad correcta con precisión en aire descendente puede extender considerablemente el planeo logrado.
+
+Existen muchos modelos de calculadoras de planeo electrónicas. A menudo acopladas con un variómetro electrónico, muestran la altitud necesaria para distancia y viento según lo introduce el piloto. Además, muchas calculadoras de planeo electrónicas tienen funciones de velocidad para volar que indican si el piloto debe volar más rápido o más lento. La mayoría de los directores electrónicos de velocidad para volar incluyen indicaciones de audio, por lo que el piloto puede permanecer enfocado visualmente fuera de la cabina. El piloto debe tener respaldos manuales para calculadoras de planeo electrónicas y directores de velocidad para volar en caso de batería baja u otra falla del sistema electrónico.
+
+Otro equipo puede verificar el rendimiento de planeo que permite a un piloto recibir una insignia de la Federación Aeronáutica Internacional (FAI) o registrar vuelos. Estos incluyen cámaras de puntos de giro, barógrafos y grabadores de vuelo GPS. Para descripciones completas de estos artículos, así como reglas de insignias o registros, consulte el sitio web de la Soaring Society of America para detalles.
+
+Finalmente, los pilotos deben considerar usar un bloc de notas o tablero de rodilla para hacer anotaciones antes y durante el vuelo. Las notas antes del vuelo podrían incluir información meteorológica como pronósticos de vientos en altura o distancia entre puntos de giro. En vuelo, anotar la hora de despegue y de inicio y el tiempo alrededor de cualquier punto de giro ayuda a calcular la velocidad promedio alrededor de la ruta.
+
+Los pilotos de aviones navegan por pilotaje (volando por referencia a puntos de referencia en tierra) o navegación estimada (calculando un rumbo desde la velocidad verdadera y el viento, y luego estimando el tiempo necesario para volar a un destino). Los pilotos de planeadores generalmente usan pilotaje ya que a menudo se desvían de una línea de curso sobre una larga distancia y no vuelan una velocidad durante ningún período de tiempo. A veces, los pilotos de planeadores pueden usar una combinación de los dos métodos.
+
+== Un Ejemplo de Vuelo de Travesía
+
+Para fines de entrenamiento, un piloto podría planificar una ruta triangular comenzando en el Aeropuerto de Portales (PRZ), con puntos de giro en el Aeropuerto de Benger (X54) y el pueblo de Circle Back. La preparación pre-vuelo incluye dibujar las líneas de curso para las tres patas usando un sistema electrónico o carta. <<fig-11-06>>
+
+[[fig-11-06]]
+.Triángulo de travesía dibujado en la Carta Seccional de Albuquerque
+image::11/fig-11-06.travesia-triangle-drawn-on-the-albuquerque.png[width=600]
+
+El pronóstico muestra la base esperada de los cúmulos a 11,000 MSL, y los vientos en altura indican 320° a 10 nudos a 9,000 MSL y 330° a 20 nudos a 12,000 MSL durante el vuelo. El piloto debe tomar nota de los vientos en altura para referencia durante el vuelo. Por ejemplo, la primera pata tiene casi un viento cruzado directo desde la izquierda; la segunda pata tiene un componente de viento cruzado más débil desde la derecha; la última pata tiene casi un viento de frente directo. Por esta razón, el piloto de planeador puede decidir volar el curso en la dirección opuesta. Sin embargo, en este ejemplo, el piloto acepta un viento de frente en la última pata.
+
+Durante la preparación pre-vuelo, el piloto debe estudiar la línea de curso a lo largo de cada pata para puntos de referencia esperados y posibles sitios de aterrizaje alternativos. Por ejemplo, la primera pata sigue la carretera y paralela a las vías del tren por varias millas antes de que la carretera gire hacia el norte justo al sur de Clovis. El pueblo de Clovis debería volverse obvio a la izquierda. Nótese el espacio aéreo Clase D alrededor de la Base de la Fuerza Aérea de Cannon (CVS) justo al oeste de Clovis. Si existen mejores condiciones de planeo al norte de la ruta de curso y con el viento del noroeste, el planeador podría cruzar la trayectoria de aeronaves en una final larga a la pista de noroeste-sureste en la base aérea. Conocer los cursos y el rumbo aproximado para cada pata ayuda a mantener al piloto sin perderse incluso cuando se hacen desviaciones hacia la mejor sustentación. Durante el vuelo, si el cielo adelante muestra varias nubes cúmulo igualmente prometedoras, elegir la más cercana a la línea de curso mantiene la distancia de vuelo al mínimo y tiene más sentido.
+
+El piloto debería ver el aeropuerto de Clovis (CVN) a continuación y verificar el tráfico operando dentro y fuera del aeropuerto. Después de Clovis, los pueblos de Bovina y Friona pueden servir como puntos de referencia para el vuelo. El VOR Texico (TXO), una estación de Rango Omnidireccional VHF cerca de Bovina sirve como ayuda de aproximación al aeropuerto de Clovis, y el piloto debe permanecer alerta por más tráfico de aeronaves propulsadas como resultado.
+
+El piloto puede localizar el primer punto de giro fácilmente debido a buenos puntos de referencia, incluyendo el Aeropuerto de Benger (X54). <<fig-11-07>> La segunda pata tiene menos puntos de referencia. Después de aproximadamente 25 millas, el pueblo de Muleshoe y el aeropuerto de Muleshoe (2T1) deberían aparecer. (Vea la <<fig-11-06>>). El pueblo debería aparecer a la derecha y el aeropuerto a la izquierda del curso previsto.
+
+[[fig-11-07]]
+.VOR TEXICO y Aeropuerto de Benger (X54)
+image::11/fig-11-07.texico-vor-and-benger-aerodromo-x54.png[width=600]
+
+A continuación, el curso entra en el Área de Operaciones Militares Bronco 1 (MOA). Las dimensiones del MOA aparecen en la carta seccional, y el piloto debe determinar los tiempos activos de este espacio aéreo. Al acercarse al segundo punto de giro, el piloto podría confundir los pueblos de Circle Back y Needmore. <<fig-11-08>> La posición relativa de una obstrucción de 466 pies sobre el nivel del terreno (AGL) y una carretera que se dirige hacia el norte fuera de Needmore proporcionan pistas para la identificación. Los puntos de referencia en la tercera pata <<fig-11-08>> incluyen líneas de transmisión eléctrica, Lago Salt (posiblemente seco), el pequeño pueblo de Arch y una carretera principal que viene hacia el sur desde Portales.
+
+[[fig-11-08]]
+.Circle Back y Needmore
+image::11/fig-11-08.circle-back-and-needmore.png[width=600]
+
+El vuelo puede comenzar después de una verificación final del tiempo, un pre-vuelo exhaustivo del planeador y después de guardar todo el equipo apropiado. Una vez en el aire y en rumbo, el piloto puede intentar verificar los vientos en altura mientras usa pilotaje para permanecer lo más cerca posible de la línea de curso según permitan las condiciones de planeo. Si se hacen desviaciones de curso, el piloto debe permanecer consciente de la ubicación de la línea de curso al siguiente punto de giro. Por ejemplo, una Cu directamente adelante puede indicar sustentación, pero una a 30° fuera de curso indica posiblemente aún más sustentación. El piloto elige si proceder hacia la sustentación mayor aceptando una distancia más larga para volar, o aceptar sustentación menor con una desviación menor fuera de curso.
+
+A veces un piloto determina un curso aproximado mientras está en el aire. Suponga que unas pocas millas antes de llegar al pueblo de Muleshoe, en la segunda pata, el tiempo adelante se ha deteriorado—se desarrolló una lluvia en el punto de giro final (Circle Back). En lugar de continuar, el piloto puede acortar el triángulo y regresar directamente a Portales. El piloto determina que Portales está a unas 37 millas de distancia en un rumbo estimado de unos 240° verdadero o unos 231° magnético después de contar por la variación magnética. El piloto ajusta por el viento del noroeste a casi 90° a través del nuevo curso y usa un crabeo de 10° o 20° a la derecha, permitiendo algo de deriva en ascensos térmicos. Con práctica, un piloto puede manejar un cambio de curso en vuelo con relativa facilidad.
+
+El cielo hacia Portales indica condiciones de sustentación favorables. Sin embargo, el área a lo largo del nuevo curso incluye colinas de arena, un área que puede no tener buenas opciones para aterrizajes fuera de campo. El piloto decide tomar tiempo para ganar altitud en térmicas hasta más allá de este punto y hasta estar dentro de la distancia de planeo de sitios de aterrizaje adecuados.
+
+== Navegación Usando GPS
+
+Un sistema GPS hace la navegación más fácil. Una unidad GPS muestra distancia y rumbo a un punto especificado, generalmente encontrado desplazándose a través de una base de datos interna de puntos de referencia. Muchas unidades GPS también calculan y muestran continuamente la velocidad sobre el suelo. Dada la información de TAS, el GPS puede calcular el componente de viento de frente.
+
+Al usar una unidad GPS, el piloto debe continuar enfocándose en volar el planeador, encontrar sustentación y escanear el tráfico. Como cualquier instrumento electrónico, una unidad GPS puede fallar, y el piloto debe tener un sistema de respaldo.
+
+== Técnicas de Travesía
+
+Para planeo seguro de travesía, el piloto siempre debe permanecer dentro del alcance de planeo de un área de aterrizaje adecuada. El área de aterrizaje puede ser un aeropuerto u otro lugar adecuado para aterrizar fuera de campo. Si se sigue esta práctica, incluso con altas tasas de descenso entre térmicas, el piloto nunca debería necesitar una térmica para obtener el alcance a un área de aterrizaje adecuada.
+
+Antes de aventurarse más allá de la distancia de planeo del aeropuerto de origen, el piloto puede practicar técnicas de termalización y travesía usando triángulos pequeños u otras rutas cortas. La <<fig-11-09>> muestra tres ejemplos. La longitud de cada pata, típicamente entre 5 y 10 millas, depende del rendimiento del planeador. El piloto no necesita condiciones de planeo excelentes para volar estas rutas cortas, pero las condiciones no deben hacer difícil permanecer en el aire. En un buen día, el piloto puede volar el patrón de ruta corta más de una vez y también puede practicar cambiar frecuencias de comunicación y escuchar transmisiones de aeronaves o controladores en aeropuertos cercanos. Mientras progresa a lo largo de cada pata del triángulo, el piloto debe verificar frecuentemente la altitud necesaria para regresar al aeropuerto de origen y abandonar el curso si es necesario. Establecer una altitud mínima de llegada al sitio de origen de 1,500 o 2,000 pies AGL añade un margen de seguridad. El piloto debe hacer cada aterrizaje al concluir un vuelo de planeo un aterrizaje de precisión para mantener la atención del piloto enfocada hasta la conclusión del vuelo.
+
+[[fig-11-09]]
+.Ejemplos de rutas de práctica de travesía
+image::11/fig-11-09.examples-of-practice-travesia-courses.png[width=600]
+
+Algunas computadoras de vuelo calculan automáticamente los vientos en altura mientras que otros sistemas GPS estiman los vientos calculando la deriva después de varios giros térmicos. Al volar con GPS, el piloto puede determinar un componente de viento de frente de TAS por simple resta de la velocidad sobre el suelo mientras se mantiene un rumbo particular. Determinar los vientos en altura sin ninguno de los sistemas puede resultar difícil. Una primera estimación viene de los pronósticos de vientos en altura. Una vez en el aire, el piloto puede estimar la velocidad del viento a nivel de nube desde la trayectoria de las sombras de los cúmulos sobre el suelo. Sin embargo, los vientos a niveles más bajos pueden diferir de los a nivel de nube. En días sin nubes, el piloto puede estimar el viento notando la deriva mientras se termaliza. Si se pierde más altitud en planeos de lo esperado, el piloto debe aumentar la estimación de viento de frente.
+
+Una técnica común de planificación de vuelo involucra dibujar círculos de radio de 5 y 10 millas náuticas alrededor de sitios de aterrizaje alternativos a lo largo de la ruta planeada. Esto ayuda al piloto a visualizar la altitud necesaria para llegar de manera segura a un sitio alternativo si la actividad térmica es insuficiente para continuar la travesía. Alternativamente, un piloto usando una calculadora de planeo o herramienta computarizada puede determinar rápidamente la altitud necesaria para planear una distancia específica. Por ejemplo, mientras está en un vuelo de travesía y sobre un buen sitio de aterrizaje, el siguiente buen sitio de aterrizaje aparece a 12 millas de distancia contra un viento de frente de 10 nudos. <<fig-11-10>> Un cálculo de planeo muestra que el planeador perderá 3,200 pies durante el planeo, y el piloto debe añadir al menos 1,500 pies para permitir la preparación para el aterrizaje, lo que hace que la altitud total necesaria para hacer el planeo sea de 4,700 pies. Aunque no está lo suficientemente alto para lograr el planeo de 12 millas, la altitud actual de 3,800 pies permite al piloto comenzar a lo largo del curso siempre que el piloto permanezca dentro de la distancia de planeo del sitio de aterrizaje donde comenzó el planeo. Después de dos millas sin sustentación, el planeador ha descendido a una altitud de casi 3,300 pies. Aunque no está lo suficientemente alto para planear las 10 millas restantes, el piloto todavía puede planear de regreso al sitio de aterrizaje dos millas atrás. Después de casi 4 millas, el piloto encuentra una térmica de 4 nudos a unos 2,700 pies y asciende a 4,300 pies.
+
+[[fig-11-10]]
+.Ejemplo de perfil de vuelo durante una ruta de travesía
+image::11/fig-11-10.example-of-a-vuelo-profile-during-a-travesia.png[width=600]
+
+La calculadora de planeo o computadora considera la tasa de descenso del planeador en aire tranquilo, que el piloto puede ajustar por vientos de frente y de cola. Sin embargo, cualquier corriente vertical (descenso) puede afectar drásticamente estos cálculos y distorsionar los resultados. Las áreas de buena sustentación térmica existen con áreas de fuerte descenso, y un piloto de planeador debe leer el cielo para encontrar la sustentación y evitar o pasar a través del descenso lo más rápido posible. Un piloto competente de planeador entiende las curvas polares del planeador y los efectos de diferentes condiciones de sustentación, descenso y vientos.
+
+Durante el ascenso en el ejemplo anterior, la deriva a favor del viento de la térmica mueve el planeador hacia atrás aproximadamente media milla. El piloto quisiera planear casi 9 millas hasta el siguiente sitio de aterrizaje, y una verificación de la calculadora de planeo indica 2,400 pies necesarios más 1,500 pies en el destino, para un total de 3,900 pies. El piloto tiene 400 pies sobre la altitud necesaria para el planeo con un margen para planificar el aterrizaje. En el ejemplo anterior, si la térmica hubiera llegado a 3,600 pies (en lugar de 4,300 pies) el piloto podría continuar en curso con la esperanza de encontrar más sustentación antes de necesitar girar a favor del viento y regresar al sitio de aterrizaje anterior. Cualquier vuelo de planeo de travesía involucra docenas de decisiones y cálculos como este. Además, un piloto debe planificar aumentar el margen de seguridad de altitud si las condiciones pueden causar una relación de planeo efectiva menor. Por ejemplo, otros pilotos reportando fuerte descenso a lo largo del curso previsto alertarían a un piloto para aumentar el margen de seguridad.
+
+En cualquier vuelo de planeo, existe una altitud crítica donde se debe tomar una decisión para cesar los intentos de trabajar térmicas y comprometerse con un aterrizaje. Los vuelos de travesía pueden tener aterrizajes en lugares desconocidos y presentan presiones adicionales como las discutidas en el Capítulo 8, Procedimientos Anormales y de Emergencia. En el evento de no llegar a un sitio de aterrizaje planeado, un procedimiento razonable involucra elegir un área general a 2,000 pies AGL, seleccionar un sitio de aterrizaje a 1,500 pies AGL y comprometerse con el aterrizaje a 1,000 pies AGL. La altitud exacta donde los procesos de pensamiento deben cambiar de planeo a preparación de aterrizaje depende del terreno. En áreas donde pueden existir numerosos campos adecuados para aterrizaje, el piloto puede retrasar la selección de campo a una altitud más baja. En áreas con sitios de aterrizaje espaciados por 30 millas o más, el enfoque del piloto en comprometerse con un sitio de aterrizaje debe comenzar a altitudes mucho más altas sobre el suelo.
+
+Los intentos de termalizar en el patrón pueden llevar a un accidente de pérdida o barrena. Por lo tanto, una vez comprometido en el patrón, el piloto no debe intentar termalizar. Cuando está sobre un sitio de aterrizaje seguro, el piloto debe realizar la lista de verificación pre-aterrizaje.
+
+Un vuelo de travesía inicial común consiste en un vuelo de distancia recta de 50 kilómetros (32 millas estatutarias) con un aterrizaje en otro campo. El piloto puede volar esta distancia a un ritmo pausado en un día de planeo promedio. El piloto debe revisar cuidadosamente el curso planeado, investigar todas las áreas de aterrizaje disponibles a lo largo del camino, llegar temprano y completar todas las preparaciones pre-vuelo. Una vez en el aire, el piloto debe tomar tiempo para sentir las térmicas del día. Si el día se ve lo suficientemente bueno y el planeador gana altitud adecuada, el piloto puede partir en rumbo.
+
+Los pilotos ganan habilidades de travesía a través de la práctica pero también deben continuar revisando la teoría mientras ganan esa experiencia. Una teoría o técnica que inicialmente tuvo poco sentido toma mucha más significancia después de varios vuelos de travesía. La auto-crítica post-vuelo, que puede ocurrir en cualquier momento antes del siguiente vuelo, también mejora las habilidades del piloto.
+
+== Planeando Más Rápido y Más Lejos
+
+Una velocidad promedio de travesía de 20 o 30 millas por hora parece adecuada para un vuelo de 32 millas, pero esa velocidad promedio no acomoda vuelos más largos. Volar a velocidades promedio de travesía más altas permite distancias de vuelo de planeo aumentadas.
+
+En el contexto del planeo de travesía, volar más rápido significa lograr una velocidad promedio sobre el suelo más rápida. El secreto para un vuelo de travesía más rápido radica en pasar menos tiempo ascendiendo y más tiempo planeando. Esto ocurre cuando se usan mejores térmicas y se pasa más tiempo en aire ascendente y menos tiempo en aire descendente. La teoría del anillo MacCready y/o la teoría de velocidad para volar determinan las velocidades óptimas entre térmicas. El uso apropiado del anillo de velocidad MacCready o director de velocidad electrónico equivalente muestra la velocidad apropiada.
+
+=== Bandas de Altitud
+
+En la mayoría de los días de planeo, un rango de altitud llamado banda de altitud describe dónde existe la fuerza térmica máxima. Las bandas de altitud dan el rango de altitud óptimo en el cual ascender y planear en un día dado. Por ejemplo, una térmica puede tener sustentación de 200 a 300 pies por minuto entre 3,000 y 5,000 pies AGL que luego se debilita antes de terminar a 6,000 pies AGL. En este caso, existe una banda de altitud de 2,000 pies entre 3,000 pies y 5,000 pies AGL. Permanecer dentro de la banda de altitud da los mejores (más rápidos) ascensos. En un vuelo largo de travesía, el piloto debe termalizar mientras está dentro de la banda de altitud y evitar detenerse por térmicas débiles a menos que necesite altitud adicional en ese momento.
+
+En otro día, las térmicas pueden ser fuertes de 1,000 pies a 6,000 pies AGL antes de debilitarse, lo que sugeriría una banda de altitud de 5,000 pies de profundidad. En este caso, sin embargo, dependiendo del espaciado térmico, terreno, nivel de experiencia del piloto y otros factores, una banda de altitud podría correr de 2,000 pies o 3,000 pies hasta 6,000 pies AGL. Los pilotos deben evitar planear hasta los límites inferiores de térmicas fuertes (1,000 pies AGL) ya que la térmica podría disiparse y comprometer al piloto con un aterrizaje mal planeado. <<fig-11-10>>
+
+[NOTE]
+====
+Los METAR dan los niveles de nube como AGL, mientras que los PIREPS reportan nubes usando MSL. Los Pronósticos de Área Gráficos (GFA) dan nubes como MSL. Los pilotos deben interpretar las alturas de nube reportadas con cuidado. Esta interpretación toma significado adicional cuando los pilotos de planeadores viajan a aeropuertos de mayor elevación y restan la elevación del campo de los reportes MSL para asegurar separaciones de nubes.
+====
+
+Determinar la parte superior de la banda de altitud depende de la preferencia personal y experiencia, pero una regla general pone la parte superior en una altitud donde las térmicas caen al 75 por ciento del mejor ascenso logrado. Un piloto que encuentra 400 pies por minuto como la fuerza térmica máxima en la banda de altitud podría salir cuando las térmicas disminuyen a 300 pies por minuto por más de un giro o dos. Los pilotos también pueden comparar el ascenso actual con el ascenso promedio logrado para determinar la parte superior de la banda de altitud. Si el ascenso cae al 75 por ciento o menos del ascenso promedio, el piloto debe considerar salir de la térmica. Muchos variómetros electrónicos tienen una función de promedio que muestra el ascenso promedio sobre intervalos de tiempo específicos. Otra técnica involucra simplemente cronometrar la altitud ganada en 30 segundos o 1 minuto.
+
+Teóricamente, el piloto puede lograr la velocidad promedio más alta en un vuelo de travesía cuando ajusta el anillo MacCready, si está disponible, para la tasa de ascenso dentro de la banda de altitud. Para hacer esto, el piloto rota el anillo para que la marca índice se alinee con la tasa de ascenso (por ejemplo, 400 pies por minuto) en lugar de en cero (el ajuste usado para distancia máxima). <<fig-11-12>> Este ajuste optimiza la distribución de tiempo entre ascenso y planeo. Si se vuela más lento que el ajuste MacCready, el piloto consume más tiempo entre térmicas de lo que puede ahorrar durante menos tiempo en térmicas fuertes. Si se vuela más rápido que el ajuste MacCready, el piloto pierde demasiada altitud entre térmicas y usa más que la cantidad óptima de tiempo para recuperar la altitud.
+
+[[fig-11-12]]
+.Un Anillo MacCready ajustado para un ascenso esperado de 4 nudos en la siguiente térmica. Con un descenso actual de poco más de 2 nudos, el anillo MacCready sugiere 65 nudos como la velocidad a la siguiente térmica.
+image::11/fig-11-12.a-maccready-anillo-set-for-an-expected-4-knot.png[width=600]
+
+La teoría del anillo MacCready asume que la siguiente térmica tiene al menos la misma fuerza que la ajustada en el anillo, y el planeador puede alcanzar la siguiente térmica con altitud suficiente. El piloto debe juzgar si las condiciones actuales apoyan la adherencia a los números. Los factores que pueden requerir desviación de la teoría del anillo MacCready incluyen terreno (altura extra necesaria para pasar una cresta), distancia al siguiente sitio de aterrizaje adecuado, o condiciones de planeo deteriorándose adelante. Si la siguiente térmica parece estar fuera de alcance antes de caer debajo de la banda de altitud, el piloto debe ascender más alto, planear más lentamente, o ambos.
+
+Para ilustrar el uso de la teoría de velocidad para volar, asuma que hay cuatro planeadores a la misma altura. El escenario incluye tres nubes cúmulo débiles cada una producida por térmicas de 200 pies por minuto seguidas por un cúmulo más grande con térmicas de 600 pies por minuto debajo de ella, ilustrado en la <<fig-11-13>>.
+
+[[fig-11-13]]
+.Ejemplo de planeos logrados para diferentes ajustes de anillo MacCready
+image::11/fig-11-13.example-of-glides-achieved-for-different.png[width=600]
+
+* El Piloto 1 ajusta el anillo a 6 nudos para el ascenso fuerte anticipado bajo el cúmulo grande, pero el enfoque agresivo tiene el planeador en el suelo antes de llegar a la nube.
+* El Piloto 2 ajusta el anillo para 2 nudos y asciende bajo cada nube hasta reajustar el anillo a 6 nudos después de ascender bajo el tercer cúmulo débil, de acuerdo con la teoría estricta de velocidad para volar.
+* El Piloto 3 es conservador y ajusta el anillo a cero para el planeo máximo.
+* El Piloto 4 calcula la altitud necesaria para planear hasta el cúmulo grande usando un ajuste intermedio de 3 nudos y encuentra que el planeador puede planear hasta la nube y todavía estar dentro de la banda de altitud.
+
+Para cuando el piloto 4 asciende bajo el cúmulo grande, el piloto se sienta bien adelante de los pilotos 2 y 3 y puede transmitir instrucciones de recuperación para el piloto 1. Este ejemplo ilustra la ciencia y el arte del planeo de travesía más rápido. La ciencia viene de la teoría de velocidad para volar, mientras que el arte involucra interpretar y modificar la teoría para las condiciones actuales.
+
+=== Consejos y Técnicas
+
+La banda de altitud cambia durante el día. En un día típico de planeo, la altura y fuerza térmica a menudo aumentan rápidamente durante la mañana tardía, y luego tanto la fuerza como la altura permanecen algo estables durante varias horas durante la tarde. La banda de altitud sube y se amplía con la altura térmica general. A veces una base de nubes cúmulo limita la parte superior de la banda de altitud. La base de nube puede aumentar lentamente por miles de pies durante varias horas, durante las cuales la banda de altitud también aumenta. Los pilotos deben detener el viaje y termalizar cuando están en o cerca del fondo de la banda de altitud. Presionar demasiado por distancia puede llevar a un aterrizaje fuera de campo temprano o llevar a tiempo perdido gastado ascendiendo ineficientemente a altitudes más bajas. Las térmicas a menudo "se apagan" rápidamente al final del día, y los pilotos deben considerar permanecer más alto al final del día. <<fig-11-14>>
+
+[[fig-11-14]]
+.Altura térmica y banda de altitud versus hora del día
+image::11/fig-11-14.termica-height-and-height-band-versus-time-of-day.png[width=600]
+
+Otra manera de aumentar la velocidad de travesía involucra una técnica conocida como "vuelo de delfín," que cubre distancias sorprendentes con poco o ningún giro o circulación. La idea involucra picar para acelerar mientras está en descenso y frenar y ascender en sustentación mientras se mantiene una línea de curso recta. Esta técnica utiliza térmicas espaciadas estrechamente, como ocurre a lo largo de una calle de nubes. La velocidad para volar entre áreas de sustentación depende del ajuste MacCready apropiado.
+
+Como ejemplo, asuma que dos planeadores comienzan en el mismo punto y vuelan bajo una calle de nubes con térmicas frecuentes con descenso débil entre las térmicas. El Planeador 1 usa "vuelo de delfín" volando más rápido en el descenso y más lento en sustentación. El Planeador 2 conserva la altitud y permanece cerca de la base de la nube volando mejor L/D a través de descenso débil. Para llegar a la siguiente nube, el piloto del planeador 2 vuela más rápido en áreas de sustentación. Al final de la calle de nubes, una buena subida pone rápidamente al planeador 1 cerca de la base de la nube y bien adelante del planeador 2. <<fig-11-15>> La mejor velocidad para volar disminuye el tiempo en descenso y por lo tanto disminuye la cantidad total de descenso pero produce el mejor progreso hacia adelante. Ser más lento en descenso aumenta el tiempo descendiendo y frena el progreso hacia adelante. Ser rápido en sustentación disminuye el tiempo en sustentación y la altitud ganada.
+
+[[fig-11-15]]
+.Ventaja de la velocidad apropiada para volar bajo una calle de nubes
+image::11/fig-11-15.advantage-of-proper-velocidad-to-fly-under-a-nube.png[width=600]
+
+En un vuelo real de travesía, el piloto puede usar una combinación de vuelo de delfín y ascenso y planeo clásico. En el ejemplo anterior los pilotos decidieron no detenerse y circular en las térmicas débiles espaciadas estrechamente, pero podrían detenerse y circular si encuentran áreas de sustentación fuerte.
+
+== Situaciones Especiales
+
+=== Desviaciones de Curso
+
+Los pilotos podrían considerar la desviación en un vuelo de travesía de planeo como la norma en lugar de la excepción. Incluso con cúmulos de buen tiempo espaciados uniformemente en todos los cuadrantes, el piloto podría decidir desviarse hacia sustentación más fuerte. Las desviaciones de 10° o menos añaden poco a la distancia total y los pilotos no deben dudar en volar hacia tal mejor sustentación. Incluso desviaciones hasta 30° pueden funcionar bien si conducen hacia mejor sustentación o evitan descenso sospechado adelante. Cuanto antes comience la desviación, menos distancia extra cubrirá el planeador durante la desviación. <<fig-11-16>>
+
+[[fig-11-16]]
+.Efectos de comenzar desviaciones de curso en diferentes tiempos. Las flechas rojas muestran distancia extra de curso e indican el beneficio de desviaciones de curso tempranas.
+image::11/fig-11-16.effects-of-starting-course-deviations-at.png[width=600]
+
+El piloto podría usar desviaciones de 45° o incluso 90° para evitar condiciones pobres adelante. Áreas a evitar podrían incluir un área grande sin nubes o un área sombreada donde los cúmulos se han extendido en nubes estratificadas. El desarrollo de nubes puede sombrear la tierra, disminuir el calentamiento de la superficie y disminuir la sustentación. Un piloto podría desviarse más de 90° para regresar a térmicas activas después de aventurarse en aire estable.
+
+Generalmente, los pilotos de planeadores que encuentran un área grande de aire estable o aire descendente terminarán aterrizando antes de que las condiciones VFR desaparezcan. La termalización cesa a medida que el cielo se nubla y sombrea la superficie de la tierra. Sin embargo, los pilotos deben desviarse o tener una opción para aterrizar en lugar de volar hacia techos descendentes o chubascos adelante. La sustentación de cresta podría permanecer, pero las bases de nubes pueden oscurecer esa fuente de sustentación también. Las tormentas eléctricas a lo largo del curso pueden generar flujos de salida y afectar los vientos de superficie por muchas millas alrededor de la tormenta. El piloto debe evitar aterrizar cerca de una tormenta eléctrica. Las tormentas eléctricas adelante a menudo justifican grandes desviaciones de curso de hasta 180° (es decir, retirarse a la seguridad).
+
+=== Procedimientos de Extraviado
+
+Un sistema GPS funcionando hace casi imposible perderse. Sin embargo, los sistemas GPS pueden fallar, y los pilotos deben tener un plan de respaldo si eso ocurre. Las siguientes acciones aumentan la probabilidad de reorientación sin usar GPS.
+
+Si se pierde después de alguna búsqueda inicial, el piloto debe permanecer calmado y asegurar que exista un área de aterrizaje adecuada dentro de la distancia de planeo. El piloto debe entonces intentar encontrar una fuente de sustentación y ascender. Incluso sustentación débil puede proporcionar más tiempo para buscar puntos de referencia. Termalizar y ascender mientras se busca tiene la ventaja adicional de permitir un área más amplia para escanear mientras se circula. El piloto debe estimar la última posición conocida, el curso volado y cualquier posible diferencia en el viento a altitud. Quizás el viento de frente fue más fuerte de lo anticipado, y el vuelo no progresó tan lejos a lo largo del curso como se esperaba. El piloto puede intentar precisar la posición presente desde una estimación de la distancia viajada por un tiempo dado desde un punto conocido y confirmarla con puntos de referencia visibles en una carta electrónica o en papel.
+
+Una vez localizado un punto de referencia conocido en la carta y en el suelo, el piloto puede confirmar la ubicación encontrando algunos otros puntos de referencia cercanos. Por ejemplo, si se ve un pueblo específico abajo, una carretera adyacente debería curvarse como la que se muestra en la carta. Los aeropuertos y las pistas de aeropuerto proporcionan pistas valiosas si se avista un aeropuerto, que incluyen orientación de pista y marcas o la ubicación de un pueblo o ciudad relativa al aeropuerto. Si todavía se está perdido y cerca de un área de aterrizaje adecuada, el piloto debe permanecer en esa área hasta estar cierto de la ubicación. Si los esfuerzos previos fallan, una llamada de radio a otros pilotos de planeo en el área con una descripción de lo que yace abajo y cerca puede traer ayuda de otro piloto. Finalmente, un aterrizaje seguro proporciona la oportunidad de determinar la ubicación en tierra.
+
+== Vuelo de Travesía en un Planeador de Auto-Lanzamiento
+
+Aunque más complejo y costoso, un planeador de auto-lanzamiento puede dar al piloto libertad adicional. Primero, un planeador de auto-lanzamiento permite al piloto volar desde aeropuertos sin un avión de remolque o piloto de remolque. Segundo, el piloto puede usar el motor para evitar aterrizajes fuera de campo y extender el vuelo. En teoría, cuando se está bajo en un planeador de auto-lanzamiento, el piloto simplemente arranca el motor y asciende a la siguiente fuente de sustentación. Sin embargo, esta práctica tiene sus propios riesgos y ha llevado a muchos accidentes debido a falla del motor o procedimientos de arranque incorrectos.
+
+La confianza excesiva en el motor puede llevar a los pilotos a planear sobre terreno inadecuado para aterrizar. Si el motor falla, el piloto no tiene un lugar seguro para aterrizar. Algunos accidentes han ocurrido cuando el piloto se apresuró para evitar un aterrizaje y olvidó una tarea crítica, como encender el encendido. Otros accidentes han ocurrido en los que el motor no arrancó inmediatamente, y el piloto voló demasiado lejos de un área de aterrizaje adecuada mientras intentaba solucionar el problema. Para un planeador de auto-lanzamiento con un motor que se guarda en el fuselaje detrás del piloto, la resistencia adicional de un motor extendido puede reducir la relación de planeo en un 50 a 75 por ciento. <<fig-11-17>>
+
+[[fig-11-17]]
+.Efectos en la relación de planeo del motor estando extendido pero no funcionando
+image::11/fig-11-17.effects-on-the-planeo-relacion-of-the-motor-being.png[width=600]
+
+El procedimiento de arranque del motor en un planeador de auto-lanzamiento aumenta la altitud de decisión crítica para comprometerse con un aterrizaje fuera de campo. El tiempo necesario para arrancar el motor y la resistencia extra durante el proceso de arranque puede añadir de 200 a 500 pies de altitud perdida para extender y arrancar el motor. Mientras que un planeador puro puede comprometerse con el aterrizaje a 1,000 pies AGL, el piloto de un planeador de auto-lanzamiento probablemente opta por 1,500 pies AGL, dependiendo del planeador y las opciones de aterrizaje si el motor no arranca. En este sentido, el planeador de auto-lanzamiento se vuelve más restrictivo durante el vuelo de travesía.
+
+El vuelo de travesía también puede realizarse bajo potencia con un planeador de auto-lanzamiento, o una combinación de vuelo propulsado y de planeo. Para algunos planeadores de auto-lanzamiento, la distancia más eficiente por galón de combustible usa un ascenso máximo bajo potencia seguido de un planeo sin potencia. El piloto debe verificar el GFM/POH para recomendaciones.
+
+Otro tipo de planeador tiene un motor sustentador. Aunque este tipo de motor no tiene suficiente potencia para auto-lanzamiento, puede mantener el planeador en el aire si la sustentación falla. Sin embargo, los motores sustentadores solo pueden producir suficiente potencia para superar la tasa de descenso del planeador. Las tasas de descenso más altas pueden abrumar la capacidad de muchas plantas de potencia sustentadoras. Los motores sustentadores típicamente eliminan la necesidad de una recuperación que consume tiempo al final de una travesía, y operan con menos complejidad que sus contrapartes de auto-lanzamiento. Los pilotos volando un planeador con motor sustentador tienen preocupaciones similares a los pilotos volando planeadores de auto-lanzamiento respecto a terreno inadecuado y altitudes de decisión de altura.
+
+== Operaciones de Planeadores de Alto Rendimiento y Consideraciones
+
+Se han realizado vuelos extendidos de travesía en planeadores relativamente de bajo rendimiento. Sin embargo, en cualquier día de planeo dado, el mismo piloto puede volar un planeador con una relación de planeo de 40:1 más lejos y más rápido que uno con relación de 20:1.
+
+=== Complejidad del Planeador
+
+La experiencia requerida para volar un planeador de alto rendimiento no necesariamente depende de las horas totales de planeador del piloto. Los pilotos deben considerar los tipos de planeadores volados (bajo y alto rendimiento). La mayoría de los planeadores de alto rendimiento tienen un solo asiento. El piloto debe obtener algo de instrucción de un instructor de vuelo autorizado en un planeador de alto rendimiento de dos asientos, si está disponible, antes de intentar volar un planeador de alto rendimiento de un solo asiento por primera vez. Antes de volar cualquier planeador de un solo asiento, los pilotos deben familiarizarse completamente con el GFM/POH, incluyendo velocidades importantes, problemas de peso y balance, y todos los sistemas en el planeador.
+
+Muchos planeadores de alto rendimiento tienen flaps. Los pilotos pueden usar unos pocos grados de flap positivo al termalizar, 0° para planeos a velocidad relativamente baja, y ajustes de flap negativo para planeos a velocidades más altas. El GFM/POH y la polar del planeador proporcionan ajustes de flap recomendados para diferentes velocidades, así como velocidades máximas permitidas para diferentes ajustes de flap. Algunos planeadores de alto rendimiento no tienen frenos de aire y usan ajustes de flap positivo grandes para el aterrizaje.
+
+== Lastre de Agua
+
+El lastre de agua puede maximizar la velocidad promedio de travesía en un día con térmicas fuertes. La ganancia en velocidad entre térmicas supera el tiempo perdido debido a ascensos ligeramente más lentos con lastre de agua. Los pilotos no deben planear usar lastre en un día con térmicas débiles. Si las térmicas fuertes se vuelven débiles, el piloto puede descargar el lastre de agua.
+
+El agua se expande al pasar del estado líquido al estado sólido. La fuerza del lastre de agua congelándose puede partir las pieles de alas compuestas. Si se anticipa volar en un vuelo de travesía y pasar tiempo a niveles con temperaturas por debajo de 0 °C, el piloto debe añadir el anticongelante recomendado por el GFM/POH al lastre antes de la salida.
+
+== Vuelo de Travesía Usando Otras Fuentes de Sustentación
+
+La sustentación de cresta u onda proporciona sustentación más consistente que las térmicas, permitiendo tramos largos y rectos de cientos de millas a alta velocidad.
+
+Los pilotos con poca experiencia usando sustentación de cresta en un vuelo de travesía deben planificar para un día con viento y tiempo ideales. En crestas relativamente bajas (por ejemplo, en el este de los Estados Unidos), la sustentación de cresta puede no extenderse muy alto. La mejor sustentación a menudo se encuentra muy cerca de la cima de la cresta en aire turbulento, y los pilotos podrían terminar volando cerca del terreno en condiciones ásperas durante horas a la vez. Si el piloto pierde la sustentación, la maniobra para un aterrizaje fuera de campo podría ocurrir con poca advertencia. En condiciones más suaves, la travesía podría requerir termalización para ganar suficiente altura para cruzar cualquier brecha de cresta. Si los cúmulos se extienden para formar una capa estratificada sombreando el suelo y eliminando las térmicas, el piloto podría necesitar usar una ladera orientada al viento para mantener el vuelo de planeo mientras espera que la sombra se disipe. A menos que el sol regrese y genere la térmica necesaria para ganar altitud suficiente, el piloto necesitaría un plan alternativo.
+
+La sustentación de onda también puede proporcionar oportunidades para vuelos de travesía largos o rápidos. La mayoría de los vuelos récord han sido a lo largo de cordilleras de montañas; vuelos de más de 2,000 kilómetros han sido volados en Nueva Zelanda y a lo largo de los Andes. En los Estados Unidos, récords de velocidad se han establecido usando la onda en la sotavento de las Montañas de la Sierra Nevada. En teoría, los vuelos de larga distancia también podrían ocurrir ascendiendo alto en una onda, luego planeando con un fuerte viento de cola hasta la siguiente cordillera a sotavento para otro ascenso. El piloto necesita considerar la fisiología (frío, oxígeno, etc.) y las restricciones de espacio aéreo para vuelos de travesía usando sustentación de onda.
+
+Las zonas de convergencia también pueden mejorar la velocidad de travesía. Incluso si la convergencia no forma una línea consistente y actúa solo como un foco para térmicas, podría ocurrir vuelo de delfín. Al volar bajo, la conciencia de convergencia local a pequeña escala puede ayudar al piloto a encontrar desencadenantes térmicos y permitir un ascenso de vuelta a una altitud de crucero cómoda.
+
+Un piloto podría encontrar una combinación de sustentación de cresta, térmica, onda e incluso convergencia durante un vuelo de travesía. El uso óptimo de las varias fuentes de sustentación requiere agilidad mental y hace un vuelo emocionante y gratificante.
+
+== Resumen del Capítulo
+
+Los pilotos deben comenzar a planificar vuelos de travesía cuidadosamente y dentro de su capacidad y la del planeador. La planificación incluye una consideración de pronósticos meteorológicos, rutas posibles, qué llevar, espacio aéreo y sitios de aterrizaje potenciales. En el día de un vuelo planeado, el piloto puede elegir entre planes y rutas considerando las condiciones ambientales existentes. El piloto debe informar a cualquier tripulación de tierra y completar todas las verificaciones pre-vuelo sin apresurarse. Los pilotos que hacen vuelos de travesía saben cómo maximizar la sustentación disponible para aumentar la velocidad promedio del vuelo. También entienden y siguen restricciones de altura sensatas para mantenerse seguros. Pueden desviarse cuando sea necesario y saber cuándo comprometerse con un aterrizaje fuera de aeropuerto si la sustentación se vuelve menor que la necesaria para continuar. Los pilotos que vuelan planeadores propulsados saben que se comprometen con procedimientos de aterrizaje a altitudes seguras y que podrían encontrar una situación donde su motor no arranque.

@@ -1,0 +1,277 @@
+[[cap13]]
+= Factores Humanos
+
+[abstract]
+--
+El estudio de los factores humanos involucra diferentes disciplinas. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, problemas fisiológicos relacionados con la seguridad del planeo, manejo por parte del piloto de un planeador y sus sistemas, y la toma de decisiones aeronáuticas como un proceso que puede mitigar el riesgo de vuelo de planeador y prevenir muchos tipos comunes de accidentes.
+--
+
+== Introducción
+
+El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-01>> Cuando se refieren a factores humanos, los ingenieros a veces se refieren a las 3Ds: diseño, desarrollo y despliegue de sistemas que mejoran la interfaz sistema/humano. El estudio de los factores humanos también involucra entender y prevenir errores humanos que los ingenieros no pueden prevenir usando las 3Ds. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, problemas fisiológicos relacionados con la seguridad del planeo, manejo por parte del piloto de un planeador y sus sistemas, y la toma de decisiones aeronáuticas como un proceso que puede mitigar el riesgo de vuelo de planeador y prevenir muchos tipos comunes de accidentes. Para más información sobre factores humanos y riesgo, vea el Manual de Gestión de Riesgos (FAA-H-8083-2) o el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25).
+
+[[fig-13-01]]
+.Disciplinas de factores humanos
+image::13/fig-13-01.human-factor-disciplines.png[width=600]
+
+== Reconociendo Actitudes Peligrosas
+
+Las actitudes peligrosas llevan a comportamientos peligrosos que incluyen complacencia, indisciplina y sobreconfianza, que todos aumentan el riesgo de un accidente de planeador.
+
+=== Complacencia
+
+La complacencia puede ocurrir si un piloto siente una falsa sensación de seguridad sobre los alrededores. Esto podría afectar a un piloto de planeador que solo quiere volar y no comprende los peligros y riesgos asociados. La complacencia también afecta a pilotos de planeadores que ya no se sienten obligados a adherirse a precauciones de seguridad estándar (por ejemplo, "He hecho esto un millón de veces y no necesito referirme a una lista de verificación.").
+
+Algunas contramedidas incluyen:
+
+* Reservar tiempo suficiente para prepararse para cada vuelo.
+* Examinar los peligros y abordar el riesgo asociado de cada vuelo.
+* Desafiarse a uno mismo para cumplir con un estándar de excelencia en cada vuelo.
+
+=== Indisciplina
+
+Los accidentes de aviación a veces resultan del incumplimiento del piloto de los estándares regulatorios. Tener la disciplina para seguir las reglas reduce la posibilidad de un accidente.
+
+Los requisitos regulatorios establecen un estándar de seguridad. Los pilotos deben considerar desarrollar limitaciones personales más estrictas que pueden modificarse a medida que crecen su experiencia y competencia. Por ejemplo, el piloto podría establecer condiciones mínimas de visibilidad y viento para el vuelo. En ese caso, el piloto no volaría si las condiciones excedieran los mínimos personales establecidos. Un piloto disciplinado solo bajaría los mínimos personales basándose en entrenamiento y toma de decisiones racional y no basándose en el deseo de hacer un vuelo particular. Además, un piloto podría elevar los mínimos si está bajo estrés adicional de problemas personales o laborales o si vuela con poca frecuencia.
+
+A veces los pilotos sienten que su experiencia les ha enseñado una manera más fácil o rápida de hacer ciertas tareas. Deberían preguntarse si su actitud y procedimientos se alinean con las pautas establecidas por aviadores disciplinados. Si no, estos pilotos deberían considerar que los procedimientos estandarizados, reglas y estrategias formales de mitigación de riesgos ofrecen mejor protección contra accidentes.
+
+Los pilotos interesados en más información sobre un enfoque disciplinado a la seguridad aeronáutica pueden referirse al Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2), que describe técnicas estructuradas que los pilotos pueden usar que incluyen cómo establecer o revisar mínimos personales y cómo conducir un análisis de seguridad disciplinado y exhaustivo antes del vuelo.
+
+=== Sobreconfianza
+
+Un nivel realista de confianza permite a un piloto sentirse bien sobre una operación de vuelo particular. Esa confianza viene de la experiencia, entrenamiento, competencia, preparación adecuada para un vuelo y disciplina continua.
+
+La sobreconfianza refleja una falta de comprensión sobre las propias limitaciones del piloto, no entender la aeronave o condiciones que podrían amenazar la seguridad del vuelo, negación de la realidad de las deficiencias del piloto, o un deseo de probar algo. Cualquiera sea la causa, la confianza injustificada puede llevar a un accidente. Los pilotos deben considerar cuidadosamente sus limitaciones al intentar volar en un planeador desconocido o en un entorno desconocido y resistir dejar que la sobreconfianza o el orgullo interfieran con el buen juicio. Los pilotos de planeadores que no vuelan regularmente o que no han volado durante varios meses deben reconocer los diferentes niveles de seguridad que vienen de tener una revisión de vuelo vigente cada dos años, cumplir con los requisitos de moneda de despegue y aterrizaje, y tener el nivel de competencia necesario dadas las condiciones actuales.
+
+== Error del Piloto
+
+Todos los pilotos cometen errores, y muchos pilotos pueden tener lagunas en el conocimiento. Las evaluaciones de entrenamiento, exámenes de vuelo (escritos u orales), verificaciones operacionales, críticas y autoevaluaciones post-vuelo del piloto pueden destacar lo que un piloto puede hacer mejor. Una evaluación honesta y justa puede llevar a la corrección de cualquier deficiencia y reducir el potencial de accidentes.
+
+=== Tipos de Errores
+
+Un tipo de error involuntario involucra la falla en realizar una acción prevista dentro de tolerancias aceptables. Por otro lado, una opinión incorrecta, mal juicio, razonamiento deficiente, actitud descuidada o conocimiento insuficiente puede causar un error más serio. Por ejemplo, un piloto con buenas habilidades de palanca y timón pero nuevo en el planeo de cresta podría volar hacia fuerte descenso en el lado de sotavento de una cresta y escapar por poco de golpear el terreno. La falta de conocimiento y el mal juicio del piloto podrían llevar a este tipo de error.
+
+=== Intencional
+
+Si un piloto sabiamente hace algo mal, ese piloto se desvió intencionalmente de prácticas, procedimientos, estándares o reglamentos seguros. En aviación, un error intencional sugiere una falta grave y subyacente de preocupación por la seguridad. El piloto debe reflexionar sobre la razón del error, buscar consejo o asesoramiento, y no volar a menos que sea capaz de prevenir ese comportamiento.
+
+== Factores Fisiológicos/Médicos que Afectan el Rendimiento del Piloto
+
+=== Fatiga
+
+La fatiga involucra una reducción o deterioro en cualquiera de los siguientes: capacidad cognitiva, toma de decisiones, tiempo de reacción, coordinación, velocidad, fuerza y equilibrio. La fatiga reduce el estado de alerta y a menudo reduce la capacidad de una persona para enfocarse y mantener la atención en una tarea. <<fig-13-02>> La fatiga emocional existe y puede afectar el rendimiento mental y físico. La falta de sueño, el estrés y el exceso de trabajo pueden causar o agravar la fatiga.
+
+[[fig-13-02]]
+.Muestra de factores que interactúan con la fatiga
+image::13/fig-13-02.sampling-of-factors-that-interact-with-fatiga.png[width=600]
+
+El estado mental y físico de una persona naturalmente cicla a través de varios niveles de rendimiento cada día. Variables como temperatura corporal, presión arterial, frecuencia cardíaca, química sanguínea, estado de alerta y atención suben y bajan en un patrón diario conocido como ritmo circadiano. <<fig-13-03>> La capacidad de una persona para trabajar y descansar sube y baja durante este ciclo. La actividad contraria al ritmo circadiano de una persona puede causar dificultades sutiles y fatiga. Una persona afectada podría no reconocer esta situación. Dado que otra persona podría alertar a un piloto sobre los signos de fatiga, volar un planeador solo cuando se está fatigado crea una situación particularmente peligrosa. Por ejemplo, un piloto de planeador fatigado podría no ver y evitar activamente otro tráfico. Los pilotos deben evitar volar cuando no han tenido una noche completa de descanso, después de trabajar horas excesivas, o después de un día especialmente agotador o estresante.
+
+[[fig-13-03]]
+.Muchos factores de rendimiento humano suben y bajan diariamente
+image::13/fig-13-03.many-human-performance-factors-rise-and-fall-daily.png[width=600]
+
+El mejor remedio para la fatiga involucra dormir lo suficiente de manera regular. Los pilotos deben rastrear sus horas y calidad de sueño para la conciencia de fatiga. Las contramedidas a la fatiga como la cafeína pueden funcionar por una duración corta, pero muchas contramedidas pueden empeorar la fatiga a largo plazo. Los pilotos deben ejercer precaución si usan medicación para combatir la fatiga ya que una persona fatigada puede tener problemas para obtener el descanso necesario después de usar medicación. Un piloto experimentando problemas de fatiga continuos o fatiga crónica debe dejar de volar un planeador, consultar a un médico y resolver el problema antes de volar de nuevo.
+
+=== Hiperventilación
+
+La hiperventilación resulta cuando una persona respira a una tasa aumentada o respira más profundamente, lo que reduce el nivel de dióxido de carbono en la sangre. La reducción de dióxido de carbono en la sangre puede elevar el pH sanguíneo y llevar a efectos de salud indeseables.
+
+La hiperventilación puede ocurrir como resultado de estrés emocional, miedo o dolor. Los pilotos de planeadores que encuentran turbulencia extrema o inesperada o áreas fuertes de descenso sobre terreno accidentado o agua pueden aumentar inconscientemente su tasa respiratoria o volumen de respiración. Al volar a altitudes más altas, ya sea con o sin oxígeno, puede ocurrir una tendencia a respirar más rápido de lo normal.
+
+<<fig-13-04>> enumera los síntomas comunes de hiperventilación. El tratamiento para la hiperventilación involucra restaurar el nivel adecuado de dióxido de carbono. Ralentizar conscientemente la tasa respiratoria o hablar en voz alta puede revertir los efectos de la hiperventilación. La recuperación usualmente ocurre rápidamente una vez que la tasa respiratoria regresa a la normalidad. En casos raros, la hiperventilación puede causar inconsciencia.
+
+[[fig-13-04]]
+.Síntomas comunes de hiperventilación
+image::13/fig-13-04.common-symptoms-of-hyperventilation.png[width=600]
+
+=== Hipoxia
+
+La hipoxia resulta de oxígeno reducido o no suficiente oxígeno. Aunque el tejido celular humano morirá si se le priva de oxígeno por tiempo suficiente, la preocupación principal para los pilotos es la falta de oxígeno al cerebro, que puede reducir la capacidad cognitiva y resultar en errores que amenazan la vida. La hipoxia tiene varios factores causales, incluyendo un suministro insuficiente de oxígeno, transporte inadecuado de oxígeno, o la incapacidad de los tejidos corporales para usar el oxígeno. Las formas de hipoxia se basan en sus causas:
+
+==== Hipoxia Hipóxica
+
+La hipoxia hipóxica resulta de oxígeno insuficiente disponible para el cuerpo en su conjunto. La reducción en la presión parcial de oxígeno a gran altitud puede hacer que un piloto experimente este tipo de hipoxia. A medida que una aeronave no presurizada asciende durante el vuelo, el porcentaje de oxígeno atmosférico permanece constante, pero un número reducido de moléculas de oxígeno entra en los pulmones y pasa entre las membranas dentro del sistema respiratorio.
+
+==== Hipoxia Hémica
+
+La hipoxia hémica ocurre cuando la sangre no puede absorber suficiente oxígeno. Las causas de esta forma de hipoxia incluyen volumen sanguíneo reducido por sangrado severo o ciertas enfermedades sanguíneas, como anemia. El envenenamiento por monóxido de carbono causa este tipo de hipoxia. La hemoglobina, la molécula sanguínea que transporta oxígeno, se vuelve químicamente incapaz de unir moléculas de oxígeno si se expone al monóxido de carbono. La hipoxia hémica también puede ocurrir después de una donación de sangre. Mientras que el volumen sanguíneo se normaliza rápidamente después de una donación, restaurar la hemoglobina perdida puede tomar varias semanas. Aunque los efectos de la pérdida de sangre parecen leves al nivel del suelo, la donación de sangre puede crear un riesgo de vuelo durante el período de recuperación.
+
+==== Hipoxia Estancada
+
+La hipoxia estancada o isquemia resulta cuando la sangre rica en oxígeno en los pulmones no se mueve a los tejidos que lo necesitan. Un brazo o pierna quedándose dormido debido a flujo sanguíneo restringido es una forma de hipoxia estancada. Este tipo de hipoxia también puede resultar de shock, el corazón fallando en bombear sangre efectivamente, o una arteria constreñida. Durante el vuelo, fuerzas G excesivas pueden causar hipoxia estancada. Las temperaturas frías también pueden reducir la circulación y disminuir el suministro de sangre a las extremidades.
+
+==== Hipoxia Histotóxica
+
+Cuando ocurre la hipoxia histotóxica, el cuerpo transporta suficiente oxígeno a las células, pero ellas no pueden hacer uso de él. Este deterioro de la respiración a nivel celular puede resultar del consumo de alcohol, exposición a ciertas drogas o narcóticos, o exposición a venenos.
+
+==== Síntomas de Hipoxia
+
+La privación de oxígeno causa deterioro del cerebro y otros órganos vitales. Los primeros síntomas de hipoxia pueden incluir euforia y una sensación de despreocupación. Con la privación de oxígeno aumentada, las extremidades se vuelven menos responsivas y el vuelo se vuelve menos coordinado. Los síntomas de hipoxia varían con el individuo, pero los síntomas comunes incluyen:
+
+* Cianosis (uñas y labios azules).
+* Respuesta disminuida a estímulos y tiempo de reacción aumentado.
+* Juicio deteriorado
+* Deterioro visual
+* Somnolencia
+* Sensación de mareo o aturdimiento
+* Hormigueo en dedos de manos y pies
+
+A medida que la hipoxia empeora, el campo de visión del piloto comienza a estrecharse, y la interpretación de instrumentos puede volverse difícil. Incluso con todos estos síntomas, los efectos de la hipoxia pueden dar a un piloto una falsa sensación de seguridad.
+
+==== Tratamiento de la Hipoxia
+
+El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que la altitud aumenta por encima de 10,000 pies, los síntomas de hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
+
+[[fig-13-05]]
+.Tiempo de conciencia útil
+image::13/fig-13-05.time-of-useful-consciousness.png[width=600]
+
+Dado que los individuos experimentan la hipoxia de manera diferente, experimentar los efectos de la hipoxia en una cámara de altitud <<fig-13-06>> puede mejorar el reconocimiento de un individuo de sus propios síntomas. La Administración Federal de Aviación (FAA) proporciona esta oportunidad a través de entrenamiento en fisiología de aviación, que ocurre en el Instituto Médico Aeroespacial Civil (CAMI) de la FAA en Oklahoma City, Oklahoma, y en muchas instalaciones militares a través de los Estados Unidos. Para información sobre el curso de entrenamiento fisiológico de un día de la FAA con demostraciones de cámara de altitud y vértigo, visite el sitio web de la FAA.
+
+[[fig-13-06]]
+.Cámara de altitud CAMI
+image::13/fig-13-06.cami-altitud-chamber.png[width=600]
+
+=== Malestar del Oído Interno
+
+La presión interna de la cavidad del oído medio cambia más lentamente que la presión fuera del oído. Una diferencia de presión puede desarrollarse durante un ascenso o descenso, que puede resultar en pérdida temporal de audición, malestar, dolor y distracción de las tareas de vuelo.
+
+Cuando un planeador asciende, la presión del aire del oído medio puede exceder la presión del aire en el canal auditivo externo, causando que el tímpano se abombe hacia afuera. Esta condición usualmente se resuelve por sí sola, y el piloto puede notar un sonido de estallido a medida que la presión se equaliza y la sensibilidad auditiva regresa a la normalidad. Durante un descenso, la presión del aire en el canal auditivo externo puede aumentar por encima de la de la cavidad del oído medio, lo que causa que el tímpano se abombe hacia adentro. La condición durante un descenso parece más dolorosa y desagradable para la mayoría de las personas. La congestión nasal o un resfrío pueden hacer la equalización de presión difícil o imposible. Masticar chicle, chupar dulces duros o tragar pueden ayudar a la equalización de presión durante un descenso.
+
+El malestar durante un descenso termina cuando suficiente aire fluye al oído medio a través de la trompa de Eustaquio. Sin embargo, la presión más baja en el oído medio tiende a constreñir las paredes de la trompa de Eustaquio y prevenir el flujo de aire al oído medio. Un piloto puede intentar la maniobra de Valsalva para corregir esta situación. El piloto debe pellizcar las fosas nasales, cerrar la boca y los labios, y soplar lentamente y suavemente en la boca y nariz para forzar aire por la trompa de Eustaquio hacia el oído medio.
+
+=== Buceo con Escafandra
+
+El buceo con escafandra somete al cuerpo a presión aumentada, que disuelve más nitrógeno en los tejidos y fluidos corporales. La reducción de la presión atmosférica que acompaña volar puede producir problemas físicos para los buceadores de escafandra cuando pequeñas burbujas de nitrógeno se forman dentro del cuerpo a medida que el gas sale de solución. Estas burbujas pueden causar una condición dolorosa y potencialmente incapacitante llamada los dolores de descompresión.
+
+El entrenamiento de buceo enfatiza cómo prevenir los dolores al subir a la superficie de un cuerpo de agua. Sin embargo, el nitrógeno en exceso puede permanecer en los fluidos tisulares por varias horas después de terminar una inmersión. Un piloto que bucea con escafandra puede experimentar los dolores desde tan bajo como 8,000 pies MSL, con severidad creciente a medida que aumenta la altitud. Como se indica en el Manual de Información Aeronáutica (AIM), el tiempo mínimo recomendado entre buceo con escafandra en inmersiones sin parada de descompresión y volar es de 12 horas, mientras que el tiempo mínimo recomendado entre buceo con parada de descompresión y volar es de 24 horas.
+
+=== Desorientación Espacial
+
+La mayoría de los planeadores usados para entrenamiento primario tienen instrumentación básica solamente, y los pilotos de planeadores normalmente no se entrenan para vuelo únicamente por referencia a instrumentos. Los pilotos de planeadores deben evitar el vuelo en baja visibilidad o en cualquier condición que haga difícil discernir el horizonte. Estas condiciones aumentan la probabilidad de que el piloto sucumba a una ilusión y experimente una pérdida de control. <<fig-13-07>> Los pilotos de planeadores que vuelan en visibilidad marginal deben establecer y cumplir con mínimos personales para visibilidad.
+
+[[fig-13-07]]
+.Volar en neblina u otras restricciones de visibilidad aumenta la probabilidad de desorientación espacial
+image::13/fig-13-07.flying-in-haze-or-other-restrictions-to.png[width=600]
+
+El vuelo en un planeador propulsado puede ocurrir de noche o en condiciones instrumentales siempre que el planeador cumpla con los requisitos de 14 CFR parte 91, sección 91.205, y el piloto cumpla con los requisitos aplicables de 14 CFR parte 61, sección 61.57. Los pilotos tienen menos pistas visuales disponibles para juzgar la actitud de vuelo de noche o en condiciones instrumentales. Ambos regímenes presentan potencial adicional para ilusiones, errores de navegación, colisiones y pérdida de control. Además, cualquier emergencia de noche se vuelve mucho más difícil de manejar. Los pilotos de planeadores que vuelan en estas condiciones normalmente tienen calificaciones en otras categorías de aeronaves que incluyen entrenamiento y pruebas para condiciones de noche o instrumentales. Un piloto de planeador sin entrenamiento adicional, certificación, recencia y competencia debe evitar operaciones de noche o instrumentales.
+
+=== Deshidratación
+
+Los pilotos de planeadores a menudo vuelan por largos períodos de tiempo en temperaturas de verano calurosas o a altas altitudes que pueden causar deshidratación. Aunque los efectos de la deshidratación pueden desarrollarse lentamente, la pérdida de fluidos por transpiración y respiración puede resultar en fatiga y progresar a mareo, debilidad, náuseas, hormigueo de manos y pies, calambres abdominales y sed extrema. <<fig-13-08>>
+
+[[fig-13-08]]
+.Síntomas de deshidratación
+image::13/fig-13-08.symptoms-of-dehydration.png[width=600]
+
+Los pilotos deben llevar agua en cada vuelo para prevenir la deshidratación. Algunos pilotos de planeadores usan un sombrero con ala para sombra y para mantener la cabeza fresca. Los pilotos deben asegurar que el ala del sombrero no interfiera con la capacidad de escanear otros planeadores y tráfico aéreo.
+
+El golpe de calor resulta cuando el cuerpo no puede controlar la temperatura alta excesiva. El inicio de esta condición puede imitar la deshidratación, pero también puede llevar a colapso. Para prevenir estos síntomas, el piloto debe llevar un suministro amplio de agua y usarlo en intervalos frecuentes en cualquier vuelo largo, incluso si no tiene sed. Usar ropa de color claro, porosa y un sombrero proporciona protección del sol. Ventilar la cabina también ayuda a remover calor excesivo.
+
+=== Clima Frío
+
+Prepararse para frío extremo puede parecer extraño cuando existen temperaturas cómodas al nivel del suelo en días de planeo de onda. Sin embargo, al volar a altas altitudes, el interior del planeador puede ponerse frío. Un planeador a gran altitud puede encontrar temperaturas de -30° a -60 °C. Al planear, el sol a través del dosel puede mantener la parte superior del cuerpo del piloto caliente por un tiempo, pero las piernas y pies sombreados pueden enfriarse rápidamente o sufrir congelación. Después de una hora o dos a tales temperaturas, incluso la parte superior del cuerpo puede volverse bastante fría. La ropa en capas, suelta ayuda a aislar el calor corporal. Ya sean guantes de lana o guantes ajustados con manoplas sobre ellos pueden proteger las manos. Dos o tres pares de calcetines en capas con seda en el interior y lana en el exterior más una bota aislada pueden ayudar a mantener los pies cómodos. Los fabricantes de ropa producen ropa y calcetines con elementos de calefacción internos y baterías de litio recargables que el piloto puede encender y regular. Estos hacen una gran adición al guardarropa de un piloto de planeador.
+
+Las temperaturas bajas pueden causar otras condiciones desagradables o peligrosas. La humedad exhalada del piloto o pasajero puede condensarse y luego congelarse o depositarse directamente como escarcha en el interior del dosel. El piloto puede usar un pedazo de tela limpia que no dañe el dosel para limpiar la condensación o escarcha ligera. Permitir aire fresco a través de una ventila puede limpiar la condensación y detener la formación de escarcha. Desafortunadamente, esto también baja rápidamente la temperatura interior, y puede requerir añadir una capa de ropa.
+
+El cuerpo se deshidrata más rápidamente en frío extremo y abstenerse de beber agua puede causar deshidratación incluso en condiciones frías. Debido a que el clima frío causa que los riñones excreten líquido a una tasa más rápida, el piloto debe hacer una parada al baño antes del despegue y considerar un sistema de alivio para el vuelo.
+
+== Manejo de la Cabina y Equipo
+
+Antes del lanzamiento, el piloto debe informar a cualquier pasajero sobre el uso de cinturones de seguridad, arneses de hombros y procedimientos de emergencia. El piloto debe verificar la seguridad de cualquier lastre de trim, organizar los artículos llevados a bordo, y guardar y asegurar apropiadamente todos los demás artículos. La colocación de cartas, tabletas y ayudas de travesía debe permitir al piloto alcanzarlos fácilmente.
+
+Los pilotos pueden usar un paracaídas para emergencias. Un empacador de paracaídas certificado y apropiadamente calificado debe reempacar un paracaídas de nailon dentro de los 180 días precedentes. La información de fecha de empaque usualmente se encuentra en una tarjeta contenida en un pequeño bolsillo en el cuerpo del paracaídas. Refiérase a 14 CFR, parte 91, sección 91.307 para más información.
+
+=== Oxígeno Suplemental
+
+Los vuelos de planeo de gran altitud requieren el uso de oxígeno suplemental. En algunas partes del país, el planeo ocurre rutinariamente hasta una base de nubes de 16,000 a 18,000 pies en térmicas. El vuelo usando ondas de montaña puede llevar a vuelo a altitudes de más de 30,000 pies en los Estados Unidos.
+
+La respiración suministra oxígeno a la sangre y remueve dióxido de carbono. En cada respiración a 18,000 pies, el piloto respira solo la mitad de oxígeno que al nivel del mar. La reacción automática del piloto sin un suministro adecuado de oxígeno involucraría respirar dos veces más rápido. Esta hiperventilación, o respiración excesiva, resultaría en eliminar demasiado dióxido de carbono de la sangre.
+
+14 CFR, parte 91, sección 91.211, dicta los requisitos de tiempo y altitud para el uso de oxígeno suplemental. Antes del uso de oxígeno suplemental, el sistema debe verificarse por disponibilidad y flujo de oxígeno. El piloto puede usar la lista de verificación PRICE:
+
+* P = Presión (Pressure)
+* R = Regulador (Regulator)
+* I = Indicador (Indicator)
+* C = Conexiones (Connections)
+* E = Botella de emergencia para eyección (Emergency bail-out bottle)
+
+==== Sistemas de Oxígeno de Aviación
+
+Un sistema portátil de oxígeno de aviación entrega oxígeno usando componentes livianos y compactos. Entrega una cantidad calibrada de oxígeno basada en investigación extensiva en fisiología de vuelo humano. Antes de comprar cualquier tipo de sistema de oxígeno, los pilotos deben considerar el tipo de vuelo que hacen. Dos tipos comunes diferentes de sistemas usados hoy incluyen el Sistema de Flujo Continuo y el Sistema de Oxígeno de Pulso Electrónico a Demanda (EDS). Los pilotos solo deben usar oxígeno de aviador suministrado en una botella verde con estos sistemas y nunca usar oxígeno médico. El oxígeno médico puede contener agua y podría dejar inoperable el sistema de oxígeno de un piloto.
+
+===== Sistema de Flujo Continuo
+
+El sistema de flujo continuo usa un tanque de almacenamiento de alta presión y una válvula reguladora reductora de presión que reduce la presión en el cilindro a aproximadamente la presión atmosférica en la máscara. <<fig-13-09>> El oxígeno fluye continuamente cuando el sistema está encendido siempre que la botella contenga oxígeno suficiente. En algunas instalaciones, el piloto puede ajustar manualmente la cantidad de flujo de oxígeno para altitudes bajas, intermedias y altas; los reguladores automáticos ajustan el flujo de oxígeno por medio de un fuelle, que varía el flujo de acuerdo con la altitud. Al usar el sistema de oxígeno de flujo continuo, el piloto puede usar ya sea una máscara de oxígeno o una cánula nasal. <<fig-13-10>> y <<fig-13-11>>
+
+[[fig-13-09]]
+.Sistema de oxígeno de flujo continuo
+image::13/fig-13-09.continuous-flow-oxigeno-sistema.png[width=600]
+
+[[fig-13-10]]
+.Máscara de oxígeno
+image::13/fig-13-10.oxigeno-mask.png[width=600]
+
+[[fig-13-11]]
+.Cánula nasal
+image::13/fig-13-11.nasal-cannula.png[width=600]
+
+===== Sistema de Oxígeno de Pulso Electrónico a Demanda (EDS)
+
+El EDS entrega pulsos de oxígeno compensados por altitud solo cuando el piloto inhala. Típicamente usa 1⁄6 de la cantidad de oxígeno a 1⁄4 del peso y volumen de sistemas convencionales de flujo constante. <<fig-13-12>> El EDS tiene un barómetro de presión de altitud microelectrónico que determina automáticamente el volumen para cada pulso de oxígeno hasta altitudes de presión de 32,000 pies. El EDS automáticamente va a un modo de pulso-demanda al 100 por ciento a altitudes de presión por encima de 32,000 pies.
+
+[[fig-13-12]]
+.Sistema de Oxígeno de Pulso Electrónico a Demanda (EDS)
+image::13/fig-13-12.electronic-pulse-demand-oxigeno-sistema-eds.png[width=600]
+
+El piloto puede ajustar un EDS a diferentes modos y retrasos. Por ejemplo, puede responder con oxígeno a altitudes donde se necesita y conservar oxígeno a altitudes más bajas. También puede ajustarse a modo nocturno o modo ahora donde responde desde el nivel del mar y arriba. El EDS limita su respuesta a una tasa respiratoria máxima de unos 20 respiros por minuto, virtualmente eliminando cualquier hiperventilación. El piloto lo enciende y no necesita leer escalas ni ajustar ninguna perilla al subir o descender. Estos dispositivos no necesitan ajuste de altímetro local ya que responden directamente a la altitud de presión, justo como lo hace el cuerpo.
+
+== Gestión de Riesgos
+
+La gestión de riesgos para pilotos incluye la identificación de peligros que representan un riesgo de vuelo, evaluación del nivel de riesgo asociado con cada peligro, y toma de decisiones para manejar y mitigar cualquier riesgo inaceptable.
+
+Los peligros incluyen cualquier condición que previsiblemente pueda causar o contribuir a un accidente de aeronave. Los peligros típicos incluyen condición del piloto o falta de competencia, malfunciones o deficiencias de la aeronave o equipo, y condiciones ambientales que incluyen clima, montañas, obstáculos, otras aeronaves, cables y vuelo de gran altitud. Cualquier presión externa para hacer un vuelo particular puede crear un peligro adicional. Estos artículos forman parte de la lista de verificación PAVE (Piloto, Aeronave, enVironment, Presión Externa) que los pilotos pueden usar para considerar y manejar riesgos comunes de vuelo.
+
+El compuesto de la severidad predicha y la probabilidad del efecto potencial de un peligro constituye el riesgo. El nivel de riesgo asociado con un peligro depende de la probabilidad de un accidente y la severidad del daño o lesión que podría ocurrir. La mitigación de riesgo involucra un análisis e implementación de cambios que el piloto puede hacer para bajar el nivel de riesgo. Por ejemplo, un piloto de planeador reconoce el riesgo asociado con una rotura de línea de remolque. El piloto baja el nivel de este riesgo entrenando para esta posibilidad. Antes de cada remolque, el piloto también debe considerar un plan de acción en el evento de una rotura de cuerda. Si esa consideración no mitiga adecuadamente ese riesgo para el conjunto dado de condiciones en un día particular, el piloto podría decidir esperar a que los vientos cambien, pedir una dirección diferente de remolque, o posponer o cancelar la operación.
+
+=== Sistema de Gestión de Seguridad (SMS)
+
+Este Manual se enfoca en el individuo y no en sistemas de gestión de seguridad (SMS). El SMS aborda la gestión de riesgos desde una perspectiva organizacional como una actividad continua. Las personas interesadas pueden obtener información sobre SMS del Manual de Gestión de Riesgos (FAA-H-8083-2).
+
+=== Toma de Decisiones Aeronáuticas (ADM)
+
+Un piloto toma numerosas decisiones aeronáuticas involucrando la gestión de riesgos antes de que comience un vuelo. Un medio estructurado involucra usar una Herramienta de Evaluación de Riesgo de Vuelo o FRAT. Los pilotos pueden consultar el Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2) para una muestra de FRAT y pueden usar una para mejorar la seguridad del vuelo.
+
+Las regulaciones de la FAA establecen requisitos mínimos de seguridad específicos para algunas condiciones, pero eso no significa que cada piloto tenga la capacidad de volar en esas condiciones. Como se mencionó anteriormente, los pilotos pueden establecer sus propias reglas más estrictas para las condiciones personales, de equipo y ambientales que podrían llevarles a decidir no volar en un día dado. El Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2) tiene un capítulo explicando la racionalidad de mínimos personales en más detalle y cómo establecer y mantener estos mínimos.
+
+La toma de decisiones aeronáuticas (ADM) en vuelo usualmente involucra un proceso mental sistemático que usan los pilotos para determinar un curso de acción en respuesta a un conjunto dado de circunstancias. Los pilotos deben percibir cualquier peligro que amenace la seguridad del vuelo, determinar un curso de acción que lleve a un resultado exitoso, y luego realizar los pasos esperados para llevar a ese resultado exitoso. El proceso de percepción de peligro, procesamiento de situación y rendimiento debe repetirse a medida que progresa el vuelo. Al conclusión de un vuelo el piloto puede autoevaluar la calidad de la toma de decisiones.
+
+A pesar del avance en métodos de entrenamiento, equipos y sistemas de aviones, y servicios para pilotos, los incidentes y accidentes todavía ocurren. A pesar de todos los cambios en tecnología para mejorar la seguridad del vuelo, el factor humano juega un papel en un alto porcentaje de todos los accidentes de aviación.
+
+Los accidentes relacionados con factores humanos usualmente no involucran una sola decisión sino que resultan de una cadena de decisiones y factores que podrían llevar a un accidente. Una cadena de error describe la secuencia de varios eventos en un accidente relacionado con factores humanos. Romper un eslabón en la cadena normalmente cambiaría el resultado de la secuencia de eventos.
+
+Esta lista presenta diferentes peligros y respuestas de pilotos. ¿Consideraron cuidadosamente estos pilotos las consecuencias de sus decisiones?
+
+* Circunstancia: Mi sistema de oxígeno tiene una fuga lenta. Decisión: Las condiciones de planeo son perfectas, y no necesitaré oxígeno para hoy.
+* Circunstancia: Se pronostican vientos fuertes más tarde hoy. Decisión: Puedo volar y regresar antes de que cambie el viento.
+* Circunstancia: Las baterías de mi aeronave o radio están bajas. Decisión: Solo estoy planeando un vuelo corto, así que iré.
+
+Circunstancias tan mundanas como una fuga lenta de oxígeno, un pronóstico de viento fuerte, o baterías bajas se convierten en parte de una cadena de decisión que puede llevar a un incidente o accidente. En las circunstancias anteriores, el piloto podría interrumpir una cadena de accidente haciendo reparar la fuga lenta de oxígeno, respetando el pronóstico de viento fuerte y posponiendo el vuelo, o recargando las baterías bajas antes del vuelo.
+
+El Circular Asesivo (AC) 60-22, Toma de Decisiones Aeronáuticas, proporciona material introductorio, información de antecedentes y material de referencia sobre ADM. El material en este AC proporciona un enfoque sistemático a la evaluación de riesgos y manejo del estrés en aviación, ilustra cómo las actitudes personales pueden influir en la toma de decisiones, y cómo esas actitudes pueden modificarse para mejorar la seguridad. Este AC también proporciona a los instructores métodos para enseñar técnicas y habilidades de ADM en conjunción con instrucción de vuelo convencional. Las personas aprendiendo a volar planeadores deben buscar instructores que integren entrenamiento de ADM. El Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2) proporciona una visión general y ejemplos de lo que hacen los pilotos para hacer sus vuelos seguros y agradables.
+
+== Análisis de Accidentes Previos
+
+La Junta Nacional de Seguridad de Transporte (NTSB) compila un informe de accidente cada vez que ocurre un accidente de planeador reportable. Las personas interesadas pueden encontrar esta información pública en www.ntsb.gov.
+
+Un individuo usando la base de datos de accidentes del NTSB puede usar su herramienta de consulta suministrada para realizar una búsqueda simple usando el término "glider" (y otros elementos opcionales) para recuperar informes de accidentes involucrando planeadores. El detalle en estos informes proporciona una narrativa de circunstancias y eventos que llevaron a cada accidente. Dado que las decisiones del piloto antes y durante el vuelo pueden haber prevenido estos accidentes, una revisión puede ilustrar el concepto de una cadena de accidente. Ese entendimiento debería impulsar a los pilotos a hacer de la seguridad y la mitigación de riesgos una alta prioridad. La <<fig-13-13>> contiene un resumen de varios informes finales de accidentes de planeadores de los últimos años.
+
+[[fig-13-13]]
+.Datos de accidentes de planeadores de la base de datos del NTSB
+image::13/fig-13-13.planeador-accidente-data-from-the-ntsb-database.png[width=600]
+
+== Resumen del Capítulo
+
+Este capítulo se enfoca en el subconjunto de factores humanos que los pilotos pueden controlar para prevenir accidentes. Las actitudes peligrosas juegan un papel en los accidentes, y el piloto debe reconocerlas y evitarlas y los tipos de errores a los que llevan. El capítulo discute la fisiología humana relacionada con el vuelo de planeador. Los pilotos deben saber cómo cuidar sus necesidades físicas antes y durante el vuelo. El capítulo también discute sistemas que los pilotos podrían usar durante el vuelo de planeador incluyendo sistemas de oxígeno. El capítulo discute la gestión de riesgos y la reducción del nivel de riesgo para evitar accidentes. La base de datos del NTSB contiene informes de accidentes que ilustran el concepto de una cadena de accidente. Mientras que el vuelo de planeador tiene riesgo inherente asociado, los principios discutidos en este capítulo y a lo largo de este manual pueden reducir el nivel de exposición de un piloto de planeador a ese riesgo.

@@ -1,0 +1,28 @@
+# Localización en español para asciidoctor-pdf
+# Este archivo traduce los términos internos del generador PDF
+
+# Términos de secciones
+chapter_label: Capítulo
+part_label: Parte
+appendix_label: Apéndice
+section_label: Sección
+
+# Términos de referencias
+example_caption: Ejemplo
+figure_caption: Figura
+table_caption: Tabla
+listing_caption: Listado
+
+# Admonitions
+note_caption: Nota
+tip_caption: Consejo
+important_caption: Importante
+warning_caption: Advertencia
+caution_caption: Precaución
+
+# Otros
+toc_title: Índice de Contenidos
+preface_title: Prefacio
+untitled_label: Sin título
+version_label: Versión
+last_update_label: Última actualización

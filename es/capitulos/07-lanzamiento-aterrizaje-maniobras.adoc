@@ -1,0 +1,980 @@
+[[cap07]]
+= Lanzamiento, Aterrizaje y Maniobras
+
+[abstract]
+--
+Este capítulo cubre las técnicas y procedimientos de lanzamiento del planeador, incluyendo remolque aéreo, lanzamiento con torno y auto-lanzamiento, así como procedimientos de aterrizaje y maniobras de vuelo.
+--
+
+== Introducción
+
+En los primeros días del vuelo a vela, una tripulación podía lanzar un planeador desde la cima de una colina usando una cuerda elástica. Con la cola del planeador atada, la tripulación en tierra unía el centro de una cuerda elástica a un gancho en la nariz del planeador. Los miembros de la tripulación estiraban los extremos separados de la cuerda elástica hacia adelante, contra el viento, y desplazados del planeador. Con suficiente tensión en la cuerda elástica y tras soltar la sujeción de la cola, el planeador aceleraba como si fuera lanzado desde una honda.
+
+A medida que los planeadores se hacían más grandes, los pilotos buscaron mejores formas de lanzar. Los entusiastas comenzaron a usar automóviles para remolcar planeadores. Con el tiempo, los cabrestantes motorizados y el remolque aéreo se convirtieron en los métodos de lanzamiento preferidos. Este capítulo discute las técnicas y procedimientos de lanzamiento del planeador, así como procedimientos de despegue, patrones de tráfico, maniobras de vuelo, y procedimientos de aterrizaje y recuperación.
+
+Los pilotos de planeadores deben entender los riesgos asociados con la gran envergadura de un planeador y las operaciones en tierra. Las alas pueden golpear luces de pista y otras obstrucciones cerca de la pista durante el reposicionamiento, despegue o aterrizaje. El impacto con una punta de ala podría provocar giros en tierra durante el despegue o aterrizaje. Un volteo podría ocurrir si una punta de ala golpea el suelo antes de que el planeador toque tierra, llevando a daños extensos y lesiones graves. El entrenamiento, la competencia del piloto, la consideración de peligros y la mitigación de riesgos antes y durante el vuelo reducen la probabilidad de estos eventos indeseables.
+
+== Procedimientos de Despegue en Remolque Aéreo
+
+Las señales visuales mejoran la comunicación y coordinación entre el piloto del planeador, el piloto de la aeronave de remolque y el personal de tierra.
+
+=== Señales Previas al Lanzamiento
+
+Las señales previas al lanzamiento facilitan la comunicación entre pilotos y miembros de la tripulación de lanzamiento cuando se preparan para el despegue. <<fig-07-01>> ilustra estas señales manuales. La señal de elevar la punta del ala a posición nivelada la da el piloto.
+
+[[fig-07-01]]
+.Señales previas al lanzamiento en remolque aéreo
+image::07/fig-07-01.remolque-aereo-pre-lanzamiento-senales.png[width=600]
+
+=== Señales en Vuelo
+
+Cuando están en el aire, los pilotos usan los controles de vuelo para crear señales visuales que permiten la comunicación entre el piloto de remolque y el piloto del planeador. Las señales se dividen en dos tipos: las del piloto de remolque al piloto del planeador y las señales del piloto del planeador al piloto de remolque. <<fig-07-02>> muestra estas señales.
+
+[[fig-07-02]]
+.Señales visuales de remolque aéreo en vuelo
+image::07/fig-07-02.en-vuelo-remolque-aereo-visual-senales.png[width=600]
+
+El piloto de remolque podría usar las señales de remolque aéreo mostradas en los dos paneles del lado izquierdo de la <<fig-07-02>> cuando está cerca del suelo. El piloto del planeador debe saber cómo diferenciar entre estas señales para evitar una liberación innecesaria cerca del suelo. Incluso con radio de dos vías en ambas aeronaves, las comunicaciones por radio podrían distraer a cualquiera de los pilotos cuando operan cerca del suelo y podrían aumentar el riesgo de pérdida de control.
+
+Los dos paneles verdes de la fila superior de la <<fig-07-02>> ilustran cómo un piloto de planeador solicita un giro. Dado que un desplazamiento lateral grande o abrupto tiene el potencial de interferir con el control del avión de remolque, los pilotos de planeadores solo deben usar señales de desplazamiento lateral como se muestra en o por encima de 1,000 pies AGL.
+
+Los dos paneles verdes de la fila inferior de la <<fig-07-02>> ilustran cómo un planeador señala para un cambio de velocidad cuando está en o por encima de 1,000 pies AGL. El piloto del planeador guiña repetidamente o balancea las alas como se muestra, y la fuerza en la línea de remolque oscila y causa una serie de pequeñas aceleraciones y desaceleraciones. Señalizar de esta manera debería llamar la atención del piloto de remolque quien entonces puede mirar hacia atrás e interpretar la señal.
+
+=== Procedimientos y Técnicas de Despegue
+
+Los despegues se benefician de un miembro de la tripulación en tierra que pueda escanear el tráfico y proporcionar asistencia general durante el despegue. Un despegue asistido incluye un miembro de la tripulación o corredor de ala que mantiene el ala del planeador en una posición nivelada a medida que el planeador comienza su carrera de despegue. Un despegue sin asistencia no incluye un corredor de ala u otro personal de tierra. Los pilotos de planeadores y de remolque solo deben realizar un lanzamiento sin asistencia si están entrenados en el procedimiento y si las condiciones permiten un despegue sin asistencia seguro. Un planeador desconocido o la falta de competencia añade el riesgo de este tipo de despegue.
+
+Antes del despegue, el piloto de remolque y el piloto del planeador deben acordar un plan para el remolque aéreo. El piloto del planeador también debe asegurarse de que el miembro de la tripulación de lanzamiento tenga suficiente conocimiento del plan. Algunos elementos a considerar incluyen la trayectoria prevista en tierra, procedimientos de despeje del patrón, y verificaciones de configuración del planeador (aerofrenos cerrados, carrito de cola retirado, cabina asegurada). Los despegues normalmente ocurren contra el viento.
+
+Conectar la línea de remolque a un planeador en preparación para el despegue solo debe ocurrir con el piloto del planeador a bordo y listo para volar. El miembro de la tripulación de lanzamiento presenta el extremo de la cuerda de remolque al piloto para que el piloto pueda asegurarse de que esté en buenas condiciones y con el anillo correcto y eslabón débil, si se requiere. Cuando las listas de verificación requeridas se han completado con tanto el planeador como el avión de remolque listos para el despegue, el miembro de la tripulación de lanzamiento/corredor de ala comienza a enganchar la línea de remolque al planeador. Si el piloto sale del planeador por cualquier razón, el piloto o el miembro de la tripulación de lanzamiento deben desconectar la línea de remolque para evitar el remolque accidental de un planeador desocupado.
+
+==== Despegue Asistido Normal
+
+Un enganche deliberado de la cuerda de remolque debe ocurrir, lo que incluye una verificación del mecanismo de liberación para una operación adecuada. El miembro de la tripulación de lanzamiento debe aplicar tensión a la línea de remolque y señalar al piloto del planeador para activar la liberación. El miembro de la tripulación de lanzamiento debe verificar que la liberación funcione correctamente y comunicar esa información al piloto del planeador. Con la línea de remolque nuevamente enganchada al planeador, el miembro de la tripulación de lanzamiento se mueve al extremo del ala en el suelo y despeja tanto el área de despegue como de aterrizaje.
+
+Cuando el piloto del planeador señala al miembro de la tripulación de lanzamiento en el extremo del ala para levantar el ala, ese miembro de la tripulación recoge y sostiene el ala en una posición nivelada y señala al piloto de remolque para "tomar la holgura" en la línea de remolque. Con la holgura fuera de la línea de remolque, el piloto del planeador señala listo para despegue moviendo el timón, y el miembro de la tripulación simultáneamente señala al piloto de remolque para despegar. Si usa radio, el piloto del planeador podría indicar la señal de despegue al piloto de remolque declarando: "Cabina cerrada y listo para despegue".
+
+A medida que el remolque aéreo comienza y el planeador acelera, el miembro de la tripulación de lanzamiento corre junto al planeador, sosteniendo el ala en una actitud nivelada hasta que el piloto del planeador gane control de balanceo o la velocidad del planeador exceda la velocidad segura de carrera del miembro de la tripulación. Un aumento en la resistencia al movimiento de los alerones indica la efectividad de los alerones. Sostener las alas niveladas con los alerones puede requerir desviación total de los controles de vuelo hasta que la velocidad suficiente aumente la efectividad de los controles.
+
+El riesgo de colisión con luces de pista, señalización y otras obstrucciones junto a la pista durante la carrera de despegue aumenta debido a la combinación de alas largas y tren de aterrizaje corto cuando se comparan con aviones. El piloto puede mitigar este riesgo dirigiendo el planeador únicamente con el timón para no tener un ala baja. <<fig-07-03>>
+
+[[fig-07-03]]
+.Siguiendo la línea central de la pista
+image::07/fig-07-03.tracking-the-pista-centerline.png[width=600]
+
+Cuando el planeador alcanza la velocidad de despegue, el piloto del planeador debe mantener el planeador a una baja altitud de 2 a 4 pies—la altitud exacta depende del planeador específico. A medida que el planeador y el avión de remolque aceleran, el piloto del planeador debe mantener la altitud aplicando presión en la palanca, según sea necesario. Si el planeador sube por encima de la cola del avión de remolque durante el despegue, la tensión en la línea de remolque tira hacia arriba en la cola del avión de remolque y podría forzar la hélice del avión de remolque contra la superficie de la pista. Una vez que ocurre el despegue y dado que la desviación lateral puede forzar al avión de remolque fuera de la pista, el piloto del planeador puede usar alerón y timón coordinados para permanecer directamente detrás de la cola del avión de remolque.
+
+Durante la mayoría de los despegues, el planeador alcanza la velocidad de vuelo antes que el avión de remolque. En este caso y una vez que el avión de remolque despega, acelera en efecto suelo a la velocidad de ascenso deseada, y el ascenso comienza tanto para el avión de remolque como para el planeador. Sin embargo, un planeador cargado con lastre podría no alcanzar la velocidad de despegue antes que el avión de remolque. En esta situación, el avión de remolque debe permanecer en efecto suelo hasta que el planeador esté en el aire.
+
+==== Despegue Sin Asistencia
+
+El despegue sin asistencia comienza con el planeador posicionado ligeramente desalineado con la pista (línea central de la pista) aproximadamente 10-20° con un ala en el suelo. Si el planeador está inclinado hacia la derecha, entonces el ala izquierda debe descansar en el suelo. Si está inclinado hacia la izquierda, el ala derecha debe descansar en el suelo. Cuando el planeador está listo para despegar, el piloto del planeador avisa al piloto de remolque ya sea por radio o señalizando al piloto de remolque con la señal de movimiento de timón "listo para despegue". A medida que el avión de remolque acelera, el ala en el suelo acelera a una velocidad más lenta debido al aumento de resistencia por el contacto con el suelo. Esto imparte un movimiento de guiñada que ayudará a enderezar el planeador. El piloto debe usar el timón para levantar el ala baja hasta obtener suficiente velocidad para permitir el control del alabeo con los alerones. Si el planeador comienza la carrera de despegue alineado con el avión de remolque durante el despegue, el ala en el suelo tiende a arrastrar y un viraje severo o un giro en tierra se vuelve más probable.
+
+=== Despegue con Viento Cruzado
+
+La mayoría de los planeadores tienen un límite de viento cruzado de hasta aproximadamente 10-12 nudos. Los pilotos deben consultar el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto (GFM/POH) para información específica del modelo.
+
+Los procedimientos de despegue con viento cruzado compensan lo siguiente:
+
+. El planeador tiende a weathervanear (orientarse) hacia el viento cruzado con el peso en la rueda principal.
+. Después del despegue, el planeador tiende a derivar fuera de la línea central de la pista con el viento cruzado.
+
+Antes del despegue, el piloto del planeador debe dirigir al miembro de la tripulación de lanzamiento para sostener el ala barlovento ligeramente baja durante la carrera de despegue inicial. En un viento cruzado, el piloto debe mantener alerón completo hacia el viento a medida que comienza la carrera de despegue. El piloto mantiene esta posición de control mientras el planeador acelera hasta que los alerones se vuelven efectivos. Al mismo tiempo, el piloto usa timón hacia sotavento para mantener una trayectoria de despegue recta y compensar cualquier tendencia a weathervanear mientras está en tierra. <<fig-07-04>> Nótese que el despegue usando un gancho de CG hace que el planeador sea más sensible a las fuerzas de viento cruzado ya que no hay fuerza de la línea de remolque actuando para mantener la nariz del planeador alineada con la dirección del movimiento.
+
+[[fig-07-04]]
+.Corrección de viento cruzado para despegue
+image::07/fig-07-04.viento-cruzado-correction-for-despegue.png[width=600]
+
+A medida que la velocidad hacia adelante del planeador aumenta, el viento cruzado se convierte más en un viento relativo de frente, y el piloto reduce la aplicación de alerón hacia el viento. Sin embargo, el piloto mantiene presión suficiente de alerón durante toda la carrera de despegue para evitar que el viento cruzado levante el ala barlovento.
+
+Si el ala barlovento se levanta y expone más superficie de ala al viento cruzado, puede resultar una acción de salto lateral o una serie de pequeños rebotes a medida que el planeador comienza a volar y luego se asienta de nuevo en la pista. Este salto lateral impone cargas laterales en el tren de aterrizaje. Si la punta del ala de sotavento toca el suelo, la fricción resultante puede hacer que el planeador guiñe en la dirección del ala que arrastra, lo que podría llevar a una pérdida de control direccional y salida de la pista.
+
+Mientras está en la pista durante el despegue, el piloto del planeador usa el timón para controlar la dirección y alineación detrás de la aeronave de remolque. El piloto debe evitar guiñar de un lado a otro detrás del avión de remolque, ya que esto afecta la capacidad del piloto de remolque para mantener el control. Si la controlabilidad del planeador se convierte en un problema, el piloto del planeador debe liberarse y detener el planeador en la pista restante. En este caso, a medida que el planeador se frena, el viento cruzado puede hacer que el planeador weathervanee.
+
+Después de estar en el aire, pero antes de que el avión de remolque despegue, el piloto del planeador debe mantener la corrección de viento cruzado para permanecer detrás del avión de remolque. Una vez que el avión de remolque está en el aire y despejado de obstáculos, el piloto del planeador se reposiciona según sea necesario para alinearse detrás del avión de remolque.
+
+Los pilotos experimentados pueden considerar usar un procedimiento de lanzamiento sin asistencia con viento cruzado. Un despegue sin asistencia con viento cruzado usa diferente posicionamiento de alas y alineación del planeador. El viento cruzado golpea el fuselaje del planeador, tendiendo a empujarlo hacia sotavento, haciendo necesario posicionar el planeador en el lado barlovento de la pista. Si no puede compensar, el piloto del avión de remolque puede angulares hacia el viento para reducir el componente de viento cruzado para el planeador.
+
+El planeador debe descansar desplazado en la pista con el ala de sotavento en el suelo y el planeador angulado aproximadamente 20-30° hacia el viento. <<fig-07-05>> Como en un despegue sin asistencia normal, la resistencia en el ala de sotavento imparte un momento de guiñada que balancea el ala barlovento hacia adelante a una velocidad más rápida que el ala de sotavento, ayudando al piloto a nivelar las alas. Si el piloto comienza la carrera de despegue con el ala de sotavento en el suelo, puede resultar un giro en tierra ya que el ala de sotavento arrastrará a lo largo del suelo. El piloto debe ejecutar procedimientos de despegue con viento cruzado como se describió arriba una vez que el ala barlovento se levanta y mantener una posición normal directamente detrás del avión de remolque.
+
+[[fig-07-05]]
+.Al configurar para un despegue con viento cruzado, el planeador debe comenzar en el lado barlovento de la pista
+image::07/fig-07-05.when-setting-up-for-a-viento-cruzado-despegue-the.png[width=600]
+
+=== Oscilaciones Inducidas por el Piloto (PIOs) Durante el Lanzamiento
+
+Durante los primeros momentos de la carrera de despegue, a medida que el flujo de aire comienza a impactar las superficies de control, se necesita un desplazamiento considerable de los controles de vuelo para afectar la trayectoria del planeador. El piloto también experimenta un mayor tiempo de retardo de control debido a la reducida efectividad del control a baja velocidad. A medida que el planeador acelera, la respuesta aerodinámica mejora, el tiempo de retardo disminuye, y los PIOs se vuelven menos probables.
+
+Varias técnicas de piloto reducen la probabilidad y severidad de los PIOs durante el lanzamiento por remolque aéreo. Un piloto no debe intentar despegar hasta que el planeador responda suficientemente al control aerodinámico. Justo después del momento del despegue, el piloto debe llevar el planeador a dos a cuatro pies sobre la pista para evitar el contacto con el suelo de cualquier excursión menor en la actitud de cabeceo. <<fig-07-06>>
+
+[[fig-07-06]]
+.Despegues prematuros y PIOs
+image::07/fig-07-06.premature-takeoffs-and-pios.png[width=600]
+
+==== Oscilaciones de Cabeceo Inducidas por el Piloto
+
+Los planeadores con una pestaña de compensación aerodinámica del elevador o una antipértiga en el elevador pueden experimentar problemas de control más desafiantes cuando están mal compensados. Los pilotos encuentran que un sistema simple de compensación del elevador por resorte tiende a ayudar a prevenir los PIOs, pero aún pueden ocurrir.
+
+==== Ajuste Incorrecto de Flaps y PIOs
+
+Con un ajuste incorrecto de flaps positivo, el planeador puede despegar de la pista prematuramente. En respuesta, el piloto ejerce presión hacia adelante en los controles y ejerce una fuerza creciente de nariz abajo en el planeador. Cuando el planeador eventualmente cabecea hacia abajo, el piloto puede ejercer presión considerable hacia atrás en la palanca para arrestar el descenso. Podría resultar un ciclo de PIOs, lo que podría llevar a un contacto fuerte con la superficie de la pista, daño al planeador y lesiones personales.
+
+Un ajuste incorrecto de flaps negativo disminuye la curvatura del ala y la sustentación del ala, y el planeador puede permanecer en la pista incluso después de que el avión de remolque despegue y comience a ascender. El piloto puede ejercer presión significativa hacia atrás en la palanca de control para despegar, y puede ocurrir un globo a medida que el elevador se vuelve más efectivo. Puede resultar una serie de PIOs, lo que podría requerir la terminación del remolque para evitar el contacto con el suelo o pérdida de control del avión de remolque.
+
+==== Oscilaciones Inducidas por Ráfagas
+
+Los vientos de frente con ráfagas pueden inducir oscilaciones de cabeceo debido a cambios en la velocidad del flujo de aire sobre el elevador, mientras que las ráfagas de viento cruzado pueden inducir oscilaciones de guiñada y alabeo. En vientos cruzados con ráfagas, los efectos en el control del planeador cambian rápidamente dependiendo de la velocidad y ángulo del componente de viento cruzado.
+
+Obstáculos cercanos, como hangares, árboles, o colinas y crestas pueden afectar los vientos de baja altitud, particularmente en el lado de sotavento de la obstrucción. En general, un obstáculo de barlovento induce turbulencia adicional y ráfagas en el viento. Los pilotos pueden encontrar estas condiciones desde la superficie hasta una altitud de 300 pies o más. Si vuela en estas condiciones, el piloto debe usar una velocidad más rápida que la normal antes del despegue.
+
+La velocidad adicional aumenta la capacidad de respuesta de los controles, simplifica la corrección para turbulencia y ráfagas, y proporciona una medida de protección contra los PIOs. La velocidad añadida también proporciona un margen de seguridad por encima de la velocidad de pérdida ya que las variaciones en el componente de viento de frente afectan la velocidad del aire.
+
+[CAUTION]
+====
+El piloto no debe exceder las limitaciones de velocidad de remolque del planeador cuando añade velocidad para el despegue en condiciones de viento.
+====
+
+==== Oscilaciones de Alabeo Inducidas por el Piloto Durante el Lanzamiento
+
+A medida que el piloto de remolque aplica potencia, el planeador se mueve hacia adelante, equilibrado lateralmente sobre su rueda principal por el corredor de ala. Después de que el corredor de ala suelta y antes de que el planeador alcance velocidad significativa, una punta de ala puede caer hacia el suelo. En respuesta, el piloto puede aplicar un desplazamiento considerable de control llevando a una serie de oscilaciones y posible contacto de la punta de ala con el suelo. <<fig-07-07>>
+
+[[fig-07-07]]
+.Oscilaciones de alabeo inducidas por el piloto durante la carrera de despegue
+image::07/fig-07-07.pilot-induced-balanceo-oscillations-during.png[width=600]
+
+Si la punta de ala de un planeador contacta el suelo durante la carrera de despegue, la resistencia de la punta de ala en el suelo induce una guiñada en la dirección del ala en tierra. El arrastre leve y la guiñada resultan con una punta de ala en pavimento liso, pero se desarrollan arrastre fuerte y guiñada desde una punta de ala arrastrando a través de hierba alta. Si la presión apropiada de alerón falla en levantar rápidamente la punta de ala del suelo, el piloto debe liberar la línea de remolque antes de perder el control del planeador.
+
+==== Oscilaciones de Guiñada Inducidas por el Piloto Durante el Lanzamiento
+
+Si el planeador se desvía del avión de remolque mientras está en tierra, la aplicación del timón en la dirección apropiada corrige la situación. A medida que el planeador continúa acelerando, el efecto del timón aumenta, y el tiempo de retardo disminuye. El piloto debe anticipar el momento del planeador alrededor del eje vertical y reducir la presión en el pedal del timón cuando la nariz del planeador comienza a guiñar en la dirección deseada. <<fig-07-08>> Si el piloto mantiene la presión del timón por demasiado tiempo, el momento del planeador resulta en un sobrepaso de la posición de guiñada deseada. En casos extremos, y después de una serie de PIOs, el planeador puede salirse de la pista o forzar al avión de remolque a salirse de la pista.
+
+[[fig-07-08]]
+.Oscilaciones de guiñada inducidas por el piloto durante la carrera de despegue
+image::07/fig-07-08.pilot-induced-guinada-oscillations-during.png[width=600]
+
+==== Errores Comunes
+
+Los errores comunes en despegues por remolque aéreo incluyen:
+
+* Configuración incorrecta del planeador para despegue.
+* Posicionamiento inicial incorrecto de los controles de vuelo.
+* Alineación incorrecta del planeador (despegue sin asistencia).
+* Uso o interpretación incorrecta de las señales de lanzamiento visuales.
+* Falla en mantener alineación detrás del avión de remolque antes de que el avión de remolque esté en el aire.
+* Alineación incorrecta con el avión de remolque después de estar en el aire.
+* Ascenso demasiado alto después del despegue causando una alteración del avión de remolque.
+
+=== Ascenso en Remolque Aéreo
+
+La estela del avión de remolque se desplaza hacia abajo detrás del avión de remolque, y el planeador puede ascender por encima o por debajo de esa estela. Durante el remolque alto, el piloto del planeador mantiene una posición ligeramente por encima de la estela del avión de remolque. Durante el vuelo de remolque bajo, el piloto posiciona el planeador justo debajo de la estela del avión de remolque. <<fig-07-09>> Los pilotos deben usar ambas posiciones cuando aprenden procedimientos de remolque coordinado y dinámica de remolque aéreo. Para planeadores con tren retráctil, el piloto normalmente deja el tren bajado hasta después de la liberación.
+
+[[fig-07-09]]
+.Posiciones de ascenso en remolque aéreo
+image::07/fig-07-09.remolque-aereo-climb-out-positions.png[width=600]
+
+El piloto de remolque se esfuerza por mantener una actitud de cabeceo estable y una potencia constante para la velocidad de ascenso deseada. Cualquier desviación excesiva de la posición de remolque bajo o alto por parte del planeador hace que el piloto de remolque use entradas de control anormales, que generan más resistencia y degradan el rendimiento de ascenso durante el remolque. El piloto del planeador usa referencias visuales en el avión de remolque para mantener una posición lateral y vertical adecuada. El piloto del planeador puede usar diferentes cuadros visuales, incluyendo ajustar en relación a la imagen de las alas del avión de remolque en el horizonte o manteniendo el timón del avión de remolque centrado sobre un punto en el fuselaje del avión de remolque.
+
+El remolque bajo ofrece al piloto del planeador una mejor vista del avión de remolque y resulta en un remolque más aerodinámicamente eficiente, especialmente durante el ascenso, ya que el avión de remolque requiere menos deflexión de elevador hacia arriba debido al tirón descendente del planeador. Sin embargo, el remolque bajo aumenta el riesgo de enredos de la línea de remolque de una línea rota o liberación por parte del avión de remolque durante un ascenso. El remolque bajo funciona bien para un remolque en vuelo nivelado durante un vuelo de travesía.
+
+El piloto de remolque normalmente hace giros de ascenso usando ángulos de alabeo poco profundos. Durante los giros, el piloto del planeador observa el avión de remolque, iguala el ángulo de inclinación en un giro coordinado y apunta la nariz del planeador hacia la punta del ala exterior del avión de remolque. <<fig-07-10>>
+
+[[fig-07-10]]
+.Giros de ascenso en remolque aéreo
+image::07/fig-07-10.remolque-aereo-climbing-turns.png[width=600]
+
+Si el piloto del planeador usa un ángulo de inclinación más pronunciado que el avión de remolque, el radio de giro del planeador se vuelve menor que el del avión de remolque. <<fig-07-11>> Si ocurre esto, la tensión reducida en la línea de remolque causa que la línea se arquee y afloje y permite que la velocidad del aire del planeador disminuya. Como resultado, el planeador puede comenzar a descender en relación al avión de remolque. El piloto del planeador puede corregir reduciendo el ángulo de alabeo del planeador, para que el planeador vuele el mismo radio de giro que el avión de remolque. Una sección siguiente en este capítulo describe cómo usar los spoilers o realizar un resbalón puede corregir la línea floja.
+
+[[fig-07-11]]
+.El alabeo del planeador es más pronunciado que el del avión de remolque, causando holgura en la línea de remolque
+image::07/fig-07-11.planeador-inclinacion-is-steeper-than-that-of.png[width=600]
+
+Si el piloto del planeador usa un ángulo de inclinación más suave que el avión de remolque, el radio de giro del planeador excede el del avión de remolque. <<fig-07-12>> Si ocurre esto, la tensión aumentada en la línea de remolque hace que el planeador acelere y ascienda. El piloto del planeador puede corregir aumentando el ángulo de alabeo del planeador, para que el planeador vuele el mismo radio de giro que el avión de remolque. Sin acción correctiva oportuna y si el planeador asciende demasiado alto por encima del avión de remolque, el avión de remolque puede perder el control de timón y elevador. Si esto ocurre, el piloto del planeador debe liberar la línea de remolque y girar para evitar el avión de remolque.
+
+[[fig-07-12]]
+.Allebo del planeador demasiado suave, causando giro fuera del giro del avión de remolque
+image::07/fig-07-12.planeador-inclinacion-too-shallow-causing-giro.png[width=600]
+
+==== Características del Gancho de Remolque/Línea de Remolque y PIOs
+
+Una línea de remolque corta mantiene el planeador cerca del avión de remolque y su estela turbulenta y complica el control del planeador. Usar una línea de remolque de longitud adecuada—200 pies mínimo para operaciones normales de remolque—minimiza la influencia de la estela del avión de remolque y reduce la probabilidad de PIOs.
+
+Las características de la combinación de gancho de remolque/línea de remolque pueden causar cambios en la actitud de cabeceo durante el remolque. En muchos planeadores, el gancho de remolque reside debajo del recinto del piloto o justo adelante del tren de aterrizaje. Un aumento en la tensión en la línea de remolque causa un cabeceo no comandado de la nariz del planeador hacia arriba como se muestra en la <<fig-07-13>>. La disminución de la tensión en la línea de remolque resulta en un cabeceo no comandado hacia abajo. Incluso si cambios rápidos en la tensión de la línea de remolque durante un remolque aéreo turbulento de un planeador equipado con gancho de centro de gravedad llevan a estos cambios de cabeceo, el piloto debe hacer entradas de control que eviten el sobrecontrol y los PIOs.
+
+[[fig-07-13]]
+.Efectos del aumento de tensión de la línea de remolque en la actitud de cabeceo de planeadores equipados con gancho de centro de gravedad durante el remolque aéreo
+image::07/fig-07-13.effects-of-increased-remolque-linea-tension-on.png[width=600]
+
+==== Errores Comunes
+
+Los errores comunes en el ascenso por remolque aéreo incluyen:
+
+* No mantener la posición vertical y lateral adecuada durante remolque alto o bajo.
+* Entrada inadvertida en la estela del avión de remolque.
+* Falla en mantener la alineación del planeador durante giros en remolque aéreo.
+
+==== Línea Floja
+
+La mayoría de los casos de línea floja son menores, no requieren acción correctiva por parte del piloto del planeador y se resuelven usando una trayectoria de vuelo estabilizada. Si es lo suficientemente severa, la línea floja o la tensión reducida en la línea de remolque podrían enredar el planeador y resultar en daño al planeador o avión de remolque. Por lo tanto, si el piloto pierde de vista ya sea la cuerda o el avión de remolque, debe realizarse una liberación inmediata. Las siguientes situaciones pueden resultar en una línea floja:
+
+* Reducción abrupta de potencia por parte del avión de remolque
+* Descensos por remolque aéreo
+* Giros del planeador dentro del radio de giro del avión de remolque
+* Corrientes ascendentes y descendentes
+* Recuperación abrupta de una esquina de estela
+
+Si el avión de remolque precede al planeador en una corriente ascendente, el piloto del planeador primero percibe el avión de remolque ascendiendo más rápido y más alto que el planeador. Luego, a medida que el planeador entra en la corriente ascendente, asciende más eficientemente que el avión de remolque. Como resultado, el piloto del planeador cabecea el planeador hacia abajo para recuperar la posición de remolque adecuada. El aumento resultante en la velocidad del aire crea la línea de remolque floja. <<fig-07-14>> Para evitar la holgura, el piloto del planeador debe controlar el descenso y la tasa de cierre con el avión de remolque.
+
+[[fig-07-14]]
+.Buceando sobre el avión de remolque
+image::07/fig-07-14.diving-on-towplane.png[width=600]
+
+El piloto del planeador debe iniciar procedimientos de recuperación de línea floja tan pronto como sea posible. El planeador puede intentar deslizarse de nuevo en alineación con el avión de remolque. Si el deslizamiento falla en reducir la holgura suficientemente, el uso cuidadoso de spoilers o aerofrenos puede desacelerar el planeador para tomar suavemente la holgura. Cuando la línea de remolque se tensa y el remolque se estabiliza, el piloto del planeador gradualmente reanuda la posición de remolque aéreo deseada. Cuando la holgura en la línea de remolque se vuelve excesiva o más allá de la capacidad del piloto para recuperar de manera segura, el piloto del planeador debe liberarse del remolque aéreo.
+
+==== Errores Comunes
+
+Los errores comunes respecto a la recuperación de línea floja incluyen:
+
+* Falla en tomar acción correctiva ante la primera indicación de línea floja.
+* Procedimiento incorrecto para corregir línea floja causando estrés excesivo en la línea de remolque, avión de remolque y el planeador.
+
+=== Boxear la Estela
+
+El avión de remolque genera dos tipos de turbulencia de estela. La lavada de la hélice genera una ligera sacudida mientras los torbellinos de las puntas de ala inducen un fuerte movimiento de balanceo. Boxear la estela demuestra la capacidad del piloto para maniobrar el planeador alrededor de la estela del avión de remolque con precisión y seguridad durante el remolque aéreo. <<fig-07-15>> Un piloto puede maniobrar ya sea en sentido horario o antihorario alrededor de la estela. El ejemplo siguiente usa un ejemplo en sentido horario.
+
+[[fig-07-15]]
+.Boxear la estela
+image::07/fig-07-15.boxing-the-wake.png[width=600]
+
+Boxear la estela implica volar un patrón rectangular alrededor de la estela del avión de remolque. Antes del despegue, el piloto del planeador debe informar al piloto de remolque de la intención de boxear la estela. Boxear la estela debe comenzar fuera del área del patrón de tráfico y no más bajo de 1,000 pies AGL.
+
+Antes de comenzar la maniobra, el planeador debe moverse a la posición de remolque alto <<fig-07-15, posición A>> y descender desde la posición de remolque alto a través de la estela hasta la posición central de remolque bajo <<fig-07-15, posición B>> como una señal al piloto de remolque de que la maniobra comenzará. El piloto usa entradas de control coordinadas para mover el planeador hacia el lado izquierdo de la estela y mantiene esa esquina inferior del rectángulo <<fig-07-15, posición C>> momentáneamente con presión suficiente de timón y alerón.
+
+El piloto aplica suficiente presión hacia atrás en la palanca de control usando el elevador para iniciar un ascenso vertical. Durante el ascenso, el piloto usa presión de alerón y timón para mantener una distancia lateral constante de la estela. El piloto mantiene las alas cerca de nivel con los alerones. Cuando el planeador alcanza la posición de esquina superior izquierda <<fig-07-15, posición D>>, el piloto mantiene esta posición momentáneamente con presión suficiente de timón y alerón.
+
+A medida que la maniobra continúa, el piloto reduce la presión del timón y usa entradas de control de vuelo coordinadas para volar a lo largo del lado superior del rectángulo. El planeador procede a la esquina superior derecha <<fig-07-15, posición E>> usando presión de alerón y timón, según sea apropiado. El piloto mantiene esta posición momentáneamente con presión de alerón y timón.
+
+El piloto aplica suficiente presión hacia adelante en la palanca de control usando el elevador para iniciar un descenso vertical. Durante el descenso, el piloto usa presión de alerón y timón para mantener una distancia lateral constante de la estela. El piloto mantiene las alas cerca de nivel con los alerones. Cuando el planeador alcanza la posición de esquina inferior derecha <<fig-07-15, posición F>>, el piloto mantiene esta posición momentáneamente con presión suficiente de timón y alerón.
+
+A medida que la maniobra continúa, el piloto reduce la presión del timón y usa entradas de control de vuelo coordinadas para volar a lo largo del lado inferior de la caja hasta alcanzar la posición original central de remolque bajo <<fig-07-15, posición B>>. Desde la posición central de remolque bajo, el piloto maniobra el planeador a través de la estela hasta la posición central de remolque alto <<fig-07-15, posición A>>, completando la maniobra.
+
+==== Errores Comunes
+
+Los errores comunes al boxear la estela incluyen:
+
+* Realizar un rectángulo excesivamente grande alrededor de la estela o demasiado pequeño que entra en la estela. Nótese que <<fig-07-15>> tiene posiciones exageradas y no está a escala.
+* Coordinación de control incorrecta y procedimiento.
+* Cambios de posición abruptos o rápidos.
+* Permitir o desarrollar holgura unnecesaria durante cambios de posición.
+
+=== Liberación del Remolque Aéreo
+
+Cuando el remolque aéreo alcanza la posición de liberación, el piloto del planeador debe despejar toda el área de otras aeronaves. El escaneo debe incluir a la derecha, que es la dirección en la que el planeador girará después de la liberación. El escaneo también debe incluir a la izquierda, la dirección en la que gira el avión de remolque después de la liberación. Una liberación normal ocurre con la línea de remolque bajo tensión ya que los enganches tipo gancho pueden necesitar esa fuerza para hacer que el gancho se abra. Cuando esté listo para liberar, el piloto del planeador debe abrir el gancho de remolque y luego soltar la palanca de liberación, pero el piloto del planeador debe confirmar visualmente la liberación de la línea de remolque antes de comenzar un giro de 90° a la derecha. <<fig-07-16>>
+
+[[fig-07-16]]
+.Liberación del remolque aéreo
+image::07/fig-07-16.b-shows-how-this-90-deg-change-of-rumbo-achieves.png[width=600]
+
+La <<fig-07-16, parte B>> muestra cómo este cambio de rumbo de 90° logra una separación segura entre el avión de remolque y el planeador en el mínimo tiempo. Después de confirmar la liberación del planeador y ver que el planeador gira 90° a la derecha lejos del avión de remolque, el piloto de remolque gira a la izquierda, descendiendo lejos del punto de liberación.
+
+Como se muestra en la <<fig-07-16, parte C>>, una vez despejado del planeador y otras aeronaves, el piloto de remolque continúa un descenso hacia el aeropuerto para aterrizar. El piloto de remolque debe continuar observando el planeador ya que el piloto del planeador puede comenzar procedimientos de termalización y perder de vista la aeronave de remolque.
+
+==== Errores Comunes
+
+Los errores comunes en la liberación del remolque aéreo incluyen:
+
+* Falta de tensión normal en la línea de remolque o holgura en la línea de remolque.
+* Falla en despejar el área antes de la liberación.
+* Falla en confirmar visualmente ver la línea de remolque liberada cayendo antes de girar lejos del avión de remolque.
+* Falla en hacer un giro de 90° a la derecha después de la liberación.
+* Liberación cerca de otras aeronaves.
+* Piloto del planeador o piloto de remolque perdiendo de vista la aeronave del otro.
+
+Los procedimientos de liberación adecuados aseguran una separación adecuada de las aeronaves en caso de que los pilotos pierdan de vista las aeronaves del otro. En cualquier caso, el piloto de remolque debe salir del área inmediata de la liberación del planeador. Si el planeador se libera en una térmica u otra ascendencia, el planeador normalmente permanece en esa ascendencia para ganar altitud, mientras que el piloto de remolque puede usar potencia para regresar al aeropuerto. Sin embargo, tanto el piloto de remolque como el piloto del planeador deben mantener conciencia de otros planeadores cerca de áreas de ascendencia.
+
+== Procedimientos de Despegue con Lanzamiento en Tierra
+
+El lanzamiento en tierra usa un gancho de remolque en el centro de gravedad (CG) que tiene una función de liberación hacia atrás automática. Esto protege al planeador si el piloto no puede liberar la línea de remolque durante el lanzamiento. Dado que la falla de la liberación del remolque podría hacer que el planeador sea jalado hacia el suelo mientras vuela sobre el vehículo de lanzamiento o cabrestante, el piloto y la tripulación en tierra deben probar la función de liberación del remolque antes de cada vuelo. <<fig-07-17>>
+
+[[fig-07-17]]
+.Prueba del gancho de remolque
+image::07/fig-07-17.testing-the-remolque-gancho.png[width=600]
+
+Dado que la conexión de una línea de remolque de lanzamiento en tierra a un gancho de nariz tiraría el planeador hacia el suelo y sobrecargaría el estabilizador horizontal y el elevador, algunos planeadores de entrenamiento y de alto rendimiento usan un gancho de remolque ubicado cerca del CG. Un gancho de CG le da al piloto del planeador control, libre de cualquier momento descendente indebido durante un remolque en tierra. Un gancho de CG usa una ubicación ya sea adelante del tren de aterrizaje, en el pozo del tren de aterrizaje, o en un soporte que se fija por fuera en el fuselaje. Si un planeador solo tiene un gancho de CG, y el gancho de CG no tiene suficiente movimiento para liberarse completamente de una línea de remolque aéreo bajo presión, no debe ocurrir remolque aéreo.
+
+Si el gancho de CG se encuentra en el pozo del tren de aterrizaje, retraer el tren en remolque puede interferir con la línea de remolque. Para cualquier tipo de remolque, retraer el tren debe esperar hasta que el planeador alcance la altitud de remolque deseada y libere el cable de remolque. Dejar el tren bajado también permite al piloto del planeador más tiempo para evaluar las mejores opciones de aterrizaje.
+
+Un gancho de CG hace que un despegue con viento cruzado sea más difícil ya que el planeador puede weathervanear hacia el viento más fácilmente. Además, un gancho de CG hace que el planeador sea más susceptible a elevarse como cometa o ascender demasiado rápido en un despegue por remolque aéreo, especialmente con el CG cerca del límite trasero.
+
+=== Señales Previas al Lanzamiento (Torno/Automóvil)
+
+Las señales visuales previas al lanzamiento para una operación de lanzamiento en tierra permiten al piloto del planeador, al corredor de ala, al oficial de seguridad y a la tripulación de lanzamiento comunicarse sobre distancias considerables. Cuando se lanza con un automóvil, el planeador y el automóvil de lanzamiento pueden estar a 1,000 pies o más de distancia. Cuando se lanza con un cabrestante, el planeador puede comenzar el lanzamiento a 4,000 pies o más del cabrestante. Debido a las distancias involucradas, los miembros de la tripulación en tierra usan banderas de colores o paletas grandes para mejorar la visibilidad, como se muestra en la <<fig-07-18>>. Al transmitir información sobre grandes distancias, la comunicación de voz directa entre estaciones de miembros de la tripulación aumenta las señales previas al lanzamiento visuales, añade protección contra un lanzamiento prematuro, y facilita un lanzamiento abortado si surge una condición insegura.
+
+[[fig-07-18]]
+.Señales previas al lanzamiento de cabrestante y remolque aéreo
+image::07/fig-07-18.torno-and-remolque-aereo-pre-lanzamiento-senales.png[width=600]
+
+=== Señales en Vuelo
+
+Dado que los lanzamientos en tierra ocurren rápidamente una vez que comienza el remolque, las señales en vuelo del piloto del planeador al personal de tierra solo informan al operador del cabrestante o al conductor del vehículo terrestre que aumente o disminuya la velocidad. <<fig-07-19>>
+
+[[fig-07-19]]
+.Señales en vuelo para lanzamiento en tierra
+image::07/fig-07-19.en-vuelo-senales-for-ground-lanzamiento.png[width=600]
+
+La relación entre la actitud de cabeceo y la velocidad del aire para un planeador atado durante un remolque en tierra presenta una experiencia de vuelo única. Siempre que el mecanismo de remolque tenga suficiente potencia para satisfacer las demandas de energía del lanzamiento, una mayor desviación de la fuerza de remolque de horizontal a vertical resulta en una aceleración a una velocidad más alta del planeador si el piloto cabecea hacia arriba. Durante el lanzamiento, tirar hacia atrás de la palanca tiende a aumentar la velocidad del aire, y empujar hacia adelante tiende a reducir la velocidad del aire.
+
+==== Velocidades de Remolque en Tierra
+
+Las velocidades de remolque en tierra apropiadas aseguran un lanzamiento seguro. <<fig-07-20>> compara varios perfiles de despegue que resultan cuando las velocidades de remolque varían por encima o por debajo de la velocidad correcta.
+
+[[fig-07-20]]
+.Velocidades de remolque en tierra
+image::07/fig-07-20.ground-lanzamiento-remolque-speeds.png[width=600]
+
+Cada planeador certificado para operaciones de lanzamiento en tierra tiene una velocidad máxima de remolque en tierra indicada en una placa. Esta velocidad generalmente aplica tanto a lanzamientos con automóvil como con cabrestante. El piloto del planeador debe mantenerse en o por debajo de esta velocidad durante el remolque en tierra para prevenir daño estructural al planeador.
+
+==== Lanzamiento con Automóvil
+
+Antes del primer lanzamiento, el piloto y el conductor del vehículo deben determinar las velocidades de remolque terrestre apropiadas del vehículo considerando la velocidad del viento en superficie, el gradiente de viento esperado para el ascenso, y el aumento de velocidad del planeador durante el lanzamiento. El piloto y el conductor deben acordar una velocidad máxima de remolque terrestre del vehículo como un factor de seguridad.
+
+Si existe una condición de viento cruzado, la tripulación debe posicionar el planeador ligeramente a sotavento de la dirección de despegue y angulado hacia el viento para ayudar a eliminar problemas de control del planeador durante la porción inicial del remolque. Debido a la lenta aceleración del planeador durante un lanzamiento en tierra con automóvil, el tendido de la línea de remolque debe permitir tiempo para que el planeador obtenga suficiente velocidad mientras aún está en viento de frente. <<fig-07-21>>
+
+[[fig-07-21]]
+.Procedimientos de lanzamiento en tierra
+image::07/fig-07-21.ground-lanzamiento-procedimientos.png[width=600]
+
+El cálculo de velocidad de remolque funciona de la siguiente manera:
+
+. Restar los vientos de superficie de la velocidad máxima de remolque en tierra indicada en la placa para el planeador.
+. Restar una adicional de cinco millas por hora (mph) para el aumento de velocidad del aire durante el ascenso.
+. Restar el aumento estimado de gradiente de viento encontrado durante el ascenso.
+. Restar un factor de seguridad de 5 mph.
+
+* Como ejemplo para un planeador con una velocidad máxima de remolque en tierra indicada en placa de 75 mph y con las siguientes condiciones:
+
+[cols="2,1"]
+|===
+|Vientos de superficie 10 mph |–10 mph
+|Aumento de velocidad del aire durante ascenso 5 mph |–5 mph
+|Gradiente de viento estimado de ascenso 5 mph |–5 mph
+|Factor de seguridad de 5 mph |–5 mph
+|===
+
+* La velocidad de remolque calculada con automóvil resulta en………………..50 mph
+
+==== Lanzamiento con Torno
+
+Durante los lanzamientos con cabrestante, el operador del cabrestante aplica potencia completa suave y rápidamente hasta que el planeador alcanza un ángulo de 30° sobre el horizonte. En este punto, el operador comienza a reducir la potencia, alcanzando aproximadamente 20% de potencia cuando el planeador alcanza un punto a unos 60° sobre el horizonte. Cuando el planeador alcanza el punto de 70° sobre el horizonte, el operador reduce la potencia a ralentí. <<fig-07-22>> El operador del cabrestante monitorea el planeador continuamente durante el ascenso por cualquier señal para aumentar o disminuir la potencia, lo que resultaría en un cambio en la velocidad del planeador.
+
+[[fig-07-22]]
+.Procedimientos de cabrestante
+image::07/fig-07-22.torno-procedimientos.png[width=600]
+
+=== Despegue con Viento Cruzado y Ascenso
+
+Los siguientes son las principales diferencias entre los procedimientos de despegue con viento cruzado y ascenso y los procedimientos normales de despegue y ascenso:
+
+* Durante la carrera de despegue, el planeador tiende a weathervanear hacia el viento.
+* Después del despegue, el planeador deriva hacia el lado sotavento de la pista.
+* Los vientos cruzados fuertes crean una mayor tendencia para que el planeador derive hacia sotavento.
+* Si hay espacio disponible en el área de despegue, la línea de remolque o cable debe tenderse de manera que la carrera de despegue inicial sea ligeramente hacia el viento para reducir el componente de viento cruzado del planeador. <<fig-07-23>>
+
+[[fig-07-23]]
+.Ángulo de corrección de viento para procedimientos de cabrestante
+image::07/fig-07-23.viento-correction-angle-for-torno-procedimientos.png[width=600]
+
+Después del despegue, el piloto del planeador debe establecer un ángulo de corrección de viento y volar hacia el lado barlovento de la pista como se muestra en la <<fig-07-24>>. Después de la liberación, la línea de remolque tiende a derivar de nuevo hacia la línea central de la pista de lanzamiento. Esto ayuda a mantener la línea de remolque lejos de enredar o dañar cables, postes, cercas, aeronaves y otros obstáculos a los lados de la pista.
+
+[[fig-07-24]]
+.Corrección de deriva con viento cruzado en lanzamiento en tierra
+image::07/fig-07-24.ground-lanzamiento-viento-cruzado-drift-correction.png[width=600]
+
+==== Lanzamiento Normal Contra el Viento
+
+Antes del lanzamiento, el piloto del planeador, la tripulación en tierra y el operador del equipo de lanzamiento deben revisar las señales y procedimientos de lanzamiento. Después de completar las listas de verificación para el planeador y el equipo de lanzamiento en tierra, el piloto del planeador debe señalar al miembro de la tripulación en tierra para enganchar la línea de remolque al planeador. Para la verificación del mecanismo de liberación, el miembro de la tripulación en tierra aplica tensión a la línea de remolque y señala al piloto del planeador para activar la liberación. El miembro de la tripulación en tierra verifica que la liberación funcione correctamente y señala al piloto del planeador. Después de reconectar la línea de remolque, el miembro de la tripulación en tierra toma una posición en el extremo del ala del ala baja. Cuando el piloto del planeador señala "listo para despegue", el miembro de la tripulación en tierra despeja tanto las áreas de despegue como de aterrizaje. Después de que el miembro de la tripulación en tierra asegura un patrón de tráfico despejado, el miembro de la tripulación en tierra luego señala al operador del equipo de lanzamiento para "tomar la holgura" en la línea de remolque. Con la holgura removida de la línea de remolque, el miembro de la tripulación en tierra nuevamente verifica que el piloto del planeador esté listo para despegue. Luego, el miembro de la tripulación en tierra levanta las alas a una posición nivelada, hace una verificación final del patrón de tráfico y señala al operador del equipo de lanzamiento para comenzar el despegue.
+
+El miembro de la tripulación en tierra nunca debe conectar un planeador a una línea de remolque sin el piloto a bordo y listo para volar. Si el piloto sale del planeador por cualquier razón, el piloto o el miembro de la tripulación en tierra deben desconectar la línea de remolque. Los pilotos de planeadores deben esperar un despegue en cualquier momento que la línea de remolque conecte un planeador a la fuente del remolque. Si el lanzamiento comienza antes de que el piloto dé la señal de lanzamiento, el piloto del planeador debe tirar rápidamente de la palanca de liberación de la línea de remolque.
+
+La longitud, elasticidad y masa de la línea de remolque usada para un lanzamiento en tierra tienen varios efectos. Primero, una línea de remolque tensa a menudo hace que el planeador se mueva hacia adelante. Por esta razón, la línea de remolque debe mostrar una pequeña cantidad de holgura antes de comenzar el lanzamiento. A medida que el lanzamiento comienza y por unos segundos, el piloto del planeador debe mantener la palanca hacia adelante para evitar elevarse como cometa. Durante el lanzamiento, el piloto del planeador debe seguir la línea central de la pista y monitorear la velocidad del aire. <<fig-07-25, posición A>>
+
+[[fig-07-25]]
+.Perfil de despegue con lanzamiento en tierra
+image::07/fig-07-25.ground-lanzamiento-despegue-profile.png[width=600]
+
+Cuando el planeador acelera y alcanza la velocidad de despegue, el piloto del planeador suaviza el despegue del planeador. El intervalo de tiempo desde el arranque parado hasta el despegue puede ser tan corto como 3 a 5 segundos. Después del despegue inicial, el piloto debe suavemente levantar la nariz a la actitud de cabeceo adecuada, observando un aumento en la velocidad del aire. Si el piloto levanta la nariz demasiado pronto o demasiado pronunciado, la actitud de cabeceo podría volverse excesiva mientras está a baja altitud. Si la línea de remolque se rompe o el mecanismo de lanzamiento pierde potencia, el piloto puede encontrar difícil o imposible la recuperación desde tal actitud de cabeceo alta. Por el contrario, si la nariz sube demasiado lentamente, el planeador puede exceder la velocidad máxima de remolque en tierra. Además, un ascenso poco profundo puede resultar en que el planeador no alcance la altitud de liberación planificada. Si esto ocurre, el piloto debe tirar de la liberación y aterrizar directamente hacia adelante, evitando cualquier obstáculo o equipo.
+
+A medida que el lanzamiento progresa, el piloto debe suavizar la nariz gradualmente <<fig-07-25, posición B>> mientras monitorea la velocidad del aire. La actitud de cabeceo óptima para el ascenso ocurre <<fig-07-25, posición C>> con el planeador aproximadamente a 200 pies AGL. El piloto debe monitorear la velocidad del aire durante esta fase del ascenso para asegurar una velocidad del aire suficiente para proporcionar un margen seguro por encima de la velocidad de pérdida pero por debajo de la velocidad máxima de lanzamiento en tierra. Si la línea de remolque se rompe, o si el mecanismo de lanzamiento pierde potencia en o por encima de esta altitud, el piloto debe tener suficiente altitud para liberar la línea de remolque, bajar la nariz de la actitud de ascenso a una actitud de aproximación, y aterrizar directamente hacia adelante.
+
+A medida que el planeador se acerca a su altitud máxima <<fig-07-25, posición D>>, el piloto debe comenzar a nivelar por encima del cabrestante de lanzamiento o vehículo de remolque y reducir la tasa de ascenso. En esta fase final del lanzamiento en tierra, la línea de remolque tira hacia abajo del planeador. El piloto debe bajar suavemente la nariz del planeador para reducir la tensión en la línea de remolque y luego tirar de la palanca de liberación dos o tres veces para asegurar la liberación de la línea de remolque. El piloto debe sentir la liberación de la línea de remolque mientras sale del planeador y entrar en un giro para confirmar visualmente la caída de la línea de remolque. Una línea de remolque rota con una porción aún unida al planeador puede explicar ver solo una porción de la línea de remolque caer al suelo.
+
+Si tirar de la palanca de liberación falla en liberar la línea de remolque, el mecanismo de liberación hacia atrás del gancho de remolque debería liberar automáticamente la línea de remolque a medida que el planeador alcanza y pasa el vehículo de lanzamiento o cabrestante.
+
+==== Errores Comunes
+
+Los errores comunes en el lanzamiento en tierra incluyen:
+
+* Configuración incorrecta del planeador para despegue.
+* Posicionamiento inicial incorrecto de los controles de vuelo.
+* Uso incorrecto de las señales de lanzamiento visuales.
+* Procedimiento de viento cruzado incorrecto.
+* Perfil de ascenso incorrecto.
+* Acción correctiva defectuosa para ajuste de velocidad del aire y cabeceo.
+* Exceder la velocidad máxima de lanzamiento.
+* Procedimiento de liberación de línea de remolque incorrecto.
+
+== Procedimientos de Auto-Lanzamiento
+
+=== Preparación y Arranque del Motor
+
+Un planeador de auto-lanzamiento <<fig-07-26>> tiene más sistemas que un planeador no motorizado, y los fabricantes suministran una lista de verificación de inspección previa al vuelo más extensa. Los sistemas adicionales pueden incluir el sistema de combustible, sistema eléctrico, motor, hélice, sistema de refrigeración, y mecanismos que extienden o retraen el motor o sistema de propulsión. Siempre que el motor esté funcionando, el piloto debe considerar el nivel de ruido y la necesidad de protección auditiva.
+
+[[fig-07-26]]
+.Tipos de planeadores de auto-lanzamiento
+image::07/fig-07-26.types-of-autolanzable-planeadores.png[width=600]
+
+Después de pre-volar un planeador de auto-lanzamiento y despejar el área, el piloto arranca el motor de acuerdo con las instrucciones del fabricante. Los elementos típicos en una lista de verificación de arranque de motor de planeador de auto-lanzamiento incluyen control de mezcla de combustible, selección de tanque de combustible, interruptor de bomba de combustible, cebar el motor, ajuste de paso de hélice, ajuste de acelerador, ajuste de interruptor de magnetos o encendido, y activación del arrancador eléctrico. Después de arrancar y pasar por una lista de verificación post-arranque y si el motor y los sistemas de propulsión aparecen dentro de los límites normales, el piloto puede comenzar operaciones de taxi.
+
+==== Errores Comunes
+
+Los errores comunes en la preparación y arranque del motor incluyen:
+
+* Falla en usar o uso incorrecto de la lista de verificación.
+* Procedimientos de arranque incorrectos o inseguros.
+* RPM excesivamente altas después del arranque.
+* Falla en asegurar el despeje adecuado de la hélice.
+
+Los diseños de planeadores de auto-lanzamiento usan diferentes sistemas de tren de aterrizaje. Algunos diseños usan configuraciones de tren de aterrizaje de triciclo o de rueda de cola comúnmente encontradas en aviones. Otros tipos de planeadores de auto-lanzamiento descansan sobre una rueda de tren de aterrizaje principal en el centro del fuselaje y usan ruedas estabilizadoras o patines en las alas para evitar que las puntas de ala contacten el suelo.
+
+Debido a la larga envergadura y la baja altura de punta de ala del suelo de los planeadores, el piloto de planeador de auto-lanzamiento debe considerar el diseño del aeropuerto y la configuración de la pista. Algunas calles de rodaje y rampas de aeropuerto pueden no acomodar la larga envergadura del planeador o limitar la maniobrabilidad. Además, el piloto debe considerar la capacidad de viento cruzado del planeador durante operaciones de taxi. El piloto debe manipular los controles de vuelo para evitar que cualquier viento cruzado levante un ala o haga que la cola se eleve. Una regla general con un viento de cuarto de frente es posicionar los controles para ascender hacia el viento, mientras que un viento de cuarta de cola requiere posicionar los controles para descender lejos del viento. El rodaje en terreno blando requiere potencia adicional. Los planeadores de auto-lanzamiento con ruedas estabilizadoras en las puntas de ala pueden perder control direccional si una rueda de punta de ala se atasca, y los caminadores de alas pueden sostener las alas niveladas durante operaciones de taxi a baja velocidad en terreno blando.
+
+==== Errores Comunes
+
+Los errores comunes en el rodaje de un planeador de auto-lanzamiento incluyen:
+
+* Uso incorrecto de frenos.
+* Falla en cumplir con marcas, señales y autorizaciones del aeropuerto.
+* Rodaje demasiado rápido para las condiciones.
+* Posicionamiento incorrecto de controles para condiciones de viento.
+* Falla en considerar la envergadura y espacio requerido para maniobrar durante el rodaje.
+
+=== Chequeo Previo al Despegue
+
+El fabricante proporciona una lista de verificación antes del despegue. Como se muestra en la <<fig-07-27>>, la complejidad de muchos planeadores de auto-lanzamiento hace que una lista de verificación de despegue escrita sea un elemento de seguridad esencial. Los elementos previos al despegue en un planeador de auto-lanzamiento pueden incluir verificar la cantidad y presión de combustible, temperatura y presión de aceite, y otros sistemas de la aeronave según aplique, conducir una prueba de motor, y ajustar el acelerador/rpm, paso de hélice y flaps de capó. El piloto también debe asegurar que los cinturones de seguridad y arneses de hombro estén asegurados, puertas y ventanas cerradas y bloqueadas, cabinas cerradas y bloqueadas, aerofrenos cerrados y bloqueados, altímetro ajustado, radio de comunicación ajustado a la frecuencia adecuada para asesoría de tráfico, e instrumentos de vuelo ajustados para despegue.
+
+[[fig-07-27]]
+.Paneles de instrumentos de planeador de auto-lanzamiento
+image::07/fig-07-27.autolanzable-planeador-instrumento-panels.png[width=600]
+
+==== Errores Comunes
+
+Los errores comunes en el chequeo previo al despegue incluyen:
+
+* Posicionamiento incorrecto del planeador de auto-lanzamiento para la prueba de motor.
+* Falla en usar o uso incorrecto de la lista de verificación.
+* Verificación incorrecta de los controles de vuelo.
+* Falla en revisar procedimientos de emergencia de despegue.
+* Procedimientos de radio y comunicaciones incorrectos.
+
+=== Despegue Normal
+
+Después de completar la lista de verificación previa al despegue, el piloto debe verificar el tráfico y prepararse para el despegue. El piloto debe hacer una verificación final de tráfico conflictivo, luego rodar hacia la pista activa y alinear el planeador con la línea central. Si opera desde un aeropuerto con una torre de control operativa, el piloto debe solicitar y recibir una autorización de control de tráfico aéreo (ATC) antes de rodar y antes de usar cualquier pista para despegue.
+
+El piloto debe aplicar acelerador completo suavemente, comenzar la carrera de despegue mientras sigue la línea central de la pista, volar el planeador de auto-lanzamiento fuera de la pista a la velocidad de despegue recomendada, y permitir que el planeador acelere en efecto suelo (IGE) hasta alcanzar la velocidad de ascenso apropiada. Si la pista tiene un obstáculo adelante, el piloto debe ascender a la velocidad de ascenso de mejor ángulo (VX) hasta que el obstáculo esté despejado. Si no hay obstáculo presente, el piloto debe usar ya sea la velocidad de ascenso de mejor régimen (VY) o la velocidad para mejor refrigeración del motor durante el ascenso. El piloto debe monitorear el motor y los sistemas de instrumentos durante el ascenso. Si el planeador de auto-lanzamiento tiene una limitación de tiempo en operación de acelerador completo, el piloto debe ajustar el acelerador según sea necesario durante el ascenso.
+
+=== PIOs en Planeadores de Auto-Lanzamiento
+
+Los cambios de potencia afectan la actitud de cabeceo del planeador en algunos planeadores de auto-lanzamiento equipados con un motor sobre el CG. Los cambios de potencia también pueden causar variaciones en la efectividad del elevador. <<fig-07-28>> En la mayoría de los planeadores de auto-lanzamiento, el efecto se vuelve más notable cuando se vuela en o cerca de la velocidad mínima controllable (VMCA). Por esta razón, los pilotos de planeadores de auto-lanzamiento deben evitar vuelo lento cuando vuelan a baja altitud bajo potencia.
+
+[[fig-07-28]]
+.Relaciones de actitud de cabeceo y configuración de potencia para planeador de auto-lanzamiento con góndola de motor
+image::07/fig-07-28.cabeceo-actitud-power-setting-relationships-for.png[width=600]
+
+La probabilidad de PIOs alrededor del eje lateral de los planeadores de auto-lanzamiento aumenta durante la carrera de despegue o aterrizaje con potencia debido a los cambios de potencia. El GFM/POH puede contener información describiendo cómo tratar estos efectos. En general, la buena técnica de piloto implica mover el control de acelerador suavemente, gradualmente, y en coordinación con la entrada de control de cabeceo.
+
+=== Despegue con Viento Cruzado
+
+La larga envergadura y la baja altura de punta de ala del planeador de auto-lanzamiento típico lo hacen vulnerable a golpear una punta de ala en señales de pista o luces de pista. En un planeador con una sola rueda principal y sin corredor de ala, la carrera de despegue debe comenzar con el ala barlovento en el suelo con los controles de alerón y timón ajustados para la situación de viento actual. Por ejemplo, con un viento cruzado desde la derecha, el ala derecha debe estar abajo, la palanca de control debe sostenerse a la derecha, y el timón debe sostenerse a la izquierda. La entrada de alerón mantiene el viento cruzado de levantar el ala barlovento, y el timón hacia sotavento minimiza la tendencia del planeador de auto-lanzamiento a weathervanear en un viento cruzado. A medida que la velocidad del aire aumenta, la efectividad del control mejora, y el piloto puede disminuir gradualmente el ajuste de control de viento cruzado mientras mantiene el ala barlovento ligeramente baja. El planeador de auto-lanzamiento debe despegar a la velocidad de despegue apropiada y acelerar a la velocidad de ascenso. Durante el ascenso, el piloto debe establecer un ángulo de corrección de viento y nivelar las alas para que el planeador de auto-lanzamiento siga la línea central extendida de la pista de despegue. <<fig-07-29>>
+
+[[fig-07-29]]
+.Planeadores de auto-lanzamiento—despegue con viento cruzado
+image::07/fig-07-29.autolanzable-gliders-crosswind-despegue.png[width=600]
+
+==== Errores Comunes
+
+Los errores comunes en el despegue con viento cruzado incluyen:
+
+* Posicionamiento inicial incorrecto de los controles de vuelo.
+* Aplicación de potencia incorrecta.
+* Remoción inapropiada de la mano del acelerador.
+* Control direccional deficiente.
+* Uso incorrecto de los controles de vuelo.
+* Actitud de cabeceo incorrecta durante el despegue.
+* Falla en establecer y mantener la actitud de ascenso y velocidad del aire apropiadas.
+* Mantener el resbalón de despegue en lugar de transicionar al crabeo después del despegue.
+
+=== Procedimientos de Ascenso y Apagado del Motor
+
+El GFM o POH proporciona información útil sobre ajustes de potencia recomendados y velocidades objetivo para mejor ángulo de ascenso, mejor régimen de ascenso, ascenso de mejor rendimiento de refrigeración, y rendimiento de crucero mientras está en vuelo con potencia. Los planeadores motorizados pueden tener límites adicionales que incluyen velocidad máxima permitida con motor extendido y velocidad máxima a la cual extender o retraer el motor. Muchos planeadores de auto-lanzamiento tienen una limitación de tiempo en operación de acelerador completo para prevenir sobrecalentamiento y desgaste prematuro del motor.
+
+El motor puede calentarse considerablemente durante el despegue y ascenso, y la mala gestión del sistema de refrigeración puede llevar a temperaturas peligrosamente altas en poco tiempo. Si el planeador de auto-lanzamiento tiene flaps de capó para refrigeración, el piloto debe ajustar los flaps de capó para operaciones de alta potencia. En algunos planeadores de auto-lanzamiento, operar a potencia completa con flaps de capó cerrados puede resultar en sobrecalentamiento y daño al motor en tan poco como 2 minutos. Para minimizar las posibilidades de daño al motor o incendio, el piloto debe monitorear las temperaturas del motor durante operaciones de alta potencia y seguir las limitaciones de operación del motor descritas en el GFM/POH. Si estas medidas no reducen las temperaturas altas y dado que el sobrecalentamiento extendido podría causar un incendio en vuelo, el curso de acción más seguro puede incluir apagar el motor y hacer un aterrizaje precautorio. Un incendio en vuelo presenta una amenaza mucho mayor que un aterrizaje de emergencia.
+
+Las limitaciones de manejo para un auto-lanzamiento dado pueden incluir velocidad mínima controllable con potencia encendida, velocidad mínima controllable con potencia apagada, y otras limitaciones descritas en el GFM/POH. Los planeadores de auto-lanzamiento vienen en muchas configuraciones. Aquellos con un motor retráctil montado en la parte superior y/o hélice tienen una línea de empuje por encima del eje longitudinal del planeador. Cambios significativos de potencia pueden causar cambios sustanciales de actitud de cabeceo. Por ejemplo, el ajuste de potencia completo en estos planeadores de auto-lanzamiento introduce un momento de cabeceo hacia abajo.
+
+Para contrarrestar este momento de cabeceo, el piloto normalmente mantiene la palanca de control hacia atrás y usa compensación. Si el piloto reduce rápidamente de potencia completa a potencia de ralentí mientras mantiene una fuerza significativa de palanca hacia arriba, el planeador tiende a cabecear hacia arriba con la reducción de potencia. Este momento de cabeceo de nariz podría inducir una pérdida. El manejo suave y coordinado de la potencia y los controles de vuelo proporciona el procedimiento más seguro bajo estas condiciones.
+
+Durante el ascenso, el piloto debe mantener una actitud de cabeceo que resulte en ascender a la velocidad del aire deseada, mientras ajusta la compensación del elevador según sea necesario. Los pilotos deben manejar los ascensos en planeadores de auto-lanzamiento usando entradas de control suaves y ajustes de acelerador suaves y graduales.
+
+Cuando se asciende bajo potencia, la mayoría de los planeadores de auto-lanzamiento exhiben una tendencia a girar debido al factor P. El factor P resulta de la distribución desigual del empuje causada por la diferencia entre el ángulo de ataque (AOA) de la pala de hélice descendente y la pala de hélice ascendente. El piloto usa el timón para contrarrestar el factor P durante ascensos con potencia. <<fig-07-30>>
+
+[[fig-07-30]]
+.Factor P
+image::07/fig-07-30.p-factor.png[width=600]
+
+El piloto debe escanear el tráfico de otras aeronaves antes de hacer cualquier giro. El control coordinado de alerón y timón, así como giros hechos con un ángulo de alabeo poco profundo, resultan en un vuelo más eficiente y una tasa de ascenso más rápida.
+
+Los procedimientos detallados de apagado del motor se describen en el GFM/POH. El fabricante proporciona procedimientos de enfriamiento del motor para reducir las temperaturas del sistema del motor antes del apagado del motor. Bajar la nariz para aumentar la velocidad del aire proporciona un flujo más rápido de aire de refrigeración al sistema de refrigeración del motor, y varios minutos de acelerador reducido y flujo de refrigeración aumentado pueden permitir que el motor alcance una temperatura apropiada para el apagado.
+
+Cuando se prepara para apagar el motor, el piloto debe reducir la potencia lentamente para reducir o eliminar el enfriamiento por choque. Si ocurre el enfriamiento por choque, las partes externas se enfrían más rápido y se contraen más que los componentes interiores resultando en atascamiento y rozamiento de partes móviles como anillos de pistón y válvulas mientras el motor continúa operando.
+
+Si el motor se retrae, tiempo adicional después del apagado del motor puede reducir la temperatura del motor a límites aceptables antes de retraer y guardar el motor en el fuselaje. Consulte el GFM/POH para detalles.
+
+Los planeadores de auto-lanzamiento con motor retráctil se vuelven aerodinámicamente más eficientes después de guardar el motor. La alineación de las palas de la hélice puede necesitar ajuste para prevenir interferencia con las puertas del compartimiento del motor.
+
+Cuando la instalación del motor/hélice se encuentra detrás de la cabeza del piloto, los planeadores pueden tener un espejo que permite al piloto realizar una verificación visual de alineación de la hélice antes de guardar el compartimiento del motor/hélice. El GFM/POH contiene instrucciones detalladas para guardar el motor y la hélice para un planeador particular. Si ocurre un mal funcionamiento durante el apagado y guardado del motor, el piloto puede no poder guardar o extender el motor para reinicio. En este caso, el rendimiento de planeo se reducirá hasta en un 50%. Vea el GFM/POH para información específica. En anticipación de esta eventualidad, el piloto debe tener un área de aterrizaje dentro de la distancia de planeo sin potencia.
+
+Algunos planeadores de auto-lanzamiento usan una instalación de motor/hélice montada en la nariz que se asemeja a un avión monomotor. En estos planeadores de auto-lanzamiento, el procedimiento de apagado generalmente consiste en operar el motor por un corto tiempo a potencia reducida para enfriar el motor a temperatura de apagado. Después del apagado, el piloto debe cerrar los flaps de capó (si están instalados) para reducir la resistencia y aumentar la eficiencia de planeo. El fabricante puede recomendar un intervalo de tiempo entre el apagado del motor y el cierre de los flaps de capó para prevenir la acumulación de temperaturas excesivas en el compartimiento confinado del motor. Estas temperaturas pueden no ser dañinas para el motor mismo, pero pueden degradar estructuras alrededor del motor, tales como soportes de motor compuestos o componentes eléctricos instalados. El calor excesivo del motor también puede resultar en vaporización de combustible que impide un reinicio posterior.
+
+Algunas instalaciones tienen un sistema de puesta en bandera de la hélice que reduce la resistencia de la hélice durante el vuelo sin potencia. Si el piloto puede controlar el paso de las palas de la hélice mientras está en vuelo o después del apagado, el piloto debe ajustar la hélice como se describe en el GFM/POH. Para cualquier reinicio de motor en vuelo, el piloto debe seguir los procedimientos del fabricante.
+
+==== Errores Comunes
+
+Los errores comunes durante procedimientos de ascenso y apagado incluyen:
+
+* Falla en seguir el procedimiento recomendado por el fabricante para apagado del motor, puesta en bandera y guardado (si aplica).
+* Falla en mantener control positivo de la aeronave mientras se realizan procedimientos de apagado del motor.
+* Falla en seguir procedimientos apropiados de extensión y reinicio del motor.
+
+== Patrones de Tráfico del Aeródromo de Planeadores y Operaciones
+
+Los aeródromos de planeadores y operadores de aeropuertos dentro de los Estados Unidos deben cumplir con los procedimientos recomendados por la Administración Federal de Aviación (FAA) establecidos en Circulares Asesoras (AC), el Manual de Información Aeronáutica (AIM) y los reglamentos actuales de la FAA. Estas publicaciones sirven como buenas referencias para ayudar a asegurar operaciones seguras de planeadores.
+
+Los gerentes de aeropuertos y operadores de planeadores generalmente establecen patrones de tráfico para su operación para acomodar todas las actividades que tienen lugar. Los pilotos que planean operar en un aeródromo de planeadores o aeropuerto deben obtener una sesión informativa completa o verificación antes de conducir vuelos en esa instalación. La superficie de aterrizaje sirve como la referencia primaria para comenzar y volar cada aproximación al área de aterrizaje. Los pilotos comúnmente usan un punto inicial (IP) que a la altitud recomendada proporcionará suficiente distancia de planeo para llegar al campo de aterrizaje con un margen de seguridad adecuado. La secuencia de una aproximación normal corre desde sobre el IP hasta el tramo de viento en cola, tramo de base, aproximación final, flare, toque, rodaje y parada. El IP puede estar ubicado sobre el centro del aeródromo/aeropuerto o en una ubicación remota cerca del patrón de tráfico. Una vez pasado el IP, los pilotos normalmente manejan su energía para compensar el viento, tráfico, terreno y obstáculos. Mientras que un patrón de tráfico rectangular es preferido, los pilotos pueden necesitar modificar su patrón de tráfico ya que volar un patrón que resulte en un aterrizaje según lo previsto tiene precedencia sobre una estructura de patrón rectangular.
+
+// TODO: Añadir figura de patrón de tráfico cuando esté disponible
+// [[fig-07-31]]
+// .Patrón de tráfico
+// image::07/fig-07-31.traffic-pattern.png[width=600]
+
+El piloto debe entender la lógica para determinar un IP. Cuando se aproxima a un área de aterrizaje desconocida, un piloto puede no tener un IP conocido. En esta situación, el piloto debe usar la superficie de aterrizaje como la referencia primaria y establecer un patrón de tráfico que proporcione un margen de seguridad equivalente. Los pilotos deben desarrollar la colocación, altitud y distancias adecuadas basadas en el viento, tráfico, terreno, obstáculos y rendimiento del planeador. Además de los factores ambientales, el piloto debe planificar una aproximación y aterrizaje con otro tráfico participante en el patrón y conocer las reglas de derecho de paso.
+
+Mientras que los pilotos de planeadores pueden compensar por vientos y modificar el patrón de tráfico para retener un ángulo de aproximación seguro, el piloto normalmente planea volar sobre el IP, donde se conoce, a una altitud de 800 a 1,000 pies AGL o según lo recomendado por los procedimientos operativos locales. Una vez sobre el IP, el piloto vuela a lo largo del tramo de viento en cola del patrón de aterrizaje planificado. Durante este tiempo, el piloto debe buscar otras aeronaves y escuchar la radio, si está instalada, para otras aeronaves en las cercanías del aeródromo/aeropuerto. Los pilotos de planeadores deben planear hacer cualquier llamada de radio temprano en el patrón y luego concentrarse en la tarea de aterrizaje.
+
+Los pilotos deben completar la lista de verificación de aterrizaje antes del tramo de viento en cola. Un mnemónico popular de lista de verificación de aterrizaje usa el acrónimo FUSTALL.
+
+* **F**laps—ajustados (si aplica)
+* **U**ndercarriage—bajado y bloqueado (si aplica)
+* **S**peed—velocidad de aproximación normal establecida (según lo recomendado por el GFM/POH)
+* **T**rim—ajustado (si aplica)
+* **A**ir brakes (spoilers/dive brakes)—verificados para correcta operación
+* **L**anding area—buscar viento, otras aeronaves y personal
+* **L**and the glider—aterrizar el planeador
+
+=== Aproximación y Aterrizaje Normal
+
+La planificación para una aproximación comienza a cierta distancia de la zona de aterrizaje. Antes de la entrada al IP y tramo de viento en cola, el piloto debe considerar el ángulo de aproximación, distancia del área de aterrizaje, espaciado para acomodar otras aeronaves, y velocidad de aproximación deseada. Los pilotos normalmente usan la velocidad de aproximación recomendada en el GFM/POH, pero pueden usar 1.5 VSO en ausencia de una velocidad de aproximación recomendada. El piloto debe usar spoilers/aerofrenos según sea necesario para disipar exceso de altitud mientras mantiene la velocidad de aproximación deseada. Durante la entrada al patrón de tráfico, los pilotos deben manejar la compensación y hacer giros coordinados limitados a no más de 45° de alabeo, y el piloto no debe conducir un giro de 360° una vez establecido en el tramo de viento en cola.
+
+==== Tramo de Viento en Cola
+
+Cuando se aproxima al IP, el piloto debe maniobrar el planeador para entrar en el tramo de viento en cola. La distancia lateral de un tramo de viento en cola al área de aterrizaje debe ser tal que el piloto del planeador pueda mirar hacia abajo al centro de la línea de aterrizaje en un ángulo de 30 a 45 grados. Esta imagen visual equivale a una distancia lateral al área de aterrizaje de 800 a 1,200 pies, lo que permite al planeador volar dentro de cualquier patrón de tráfico de avión y da una mejor vista del área de aterrizaje. La distancia exacta depende de los vientos, otras condiciones meteorológicas, el tipo de planeador y la topografía del sitio. En un tramo típico de viento en cola, el planeador debe descender para llegar a la altura del punto de toque entre 500 y 600 pies AGL. El piloto puede usar los spoilers/aerofrenos para llegar a esta altitud. El piloto también debe monitorear la posición del planeador con referencia al área de toque. Si el viento empuja el planeador lejos o hacia el área de toque, el piloto debe establecer un ángulo de corrección de viento, detener la deriva, y planear acortar o alargar el viento en cola según sea necesario. En el tramo de viento en cola, la velocidad sobre el suelo aumenta con cualquier viento en cola y acorta el tiempo transcurrido para alcanzar el punto en el cual girar a base.
+
+==== Tramo de Base
+
+El tramo de base normalmente comienza con el punto de toque no más de 45° sobre el hombro del piloto mirando hacia atrás al área de toque si está bajo una condición de viento nulo. Sin embargo, los pilotos deben ajustar la longitud del viento en cola basada en la relación de planeo del planeador volado. Cada piloto de planeador debe evaluar las condiciones de aterrizaje, configurar el planeador para aterrizaje bajo esas condiciones, y girar a base mientras mantiene el punto de toque previsto dentro del fácil alcance de planeo. Realizar un resbalón o extender dispositivos de resistencia puede disipar exceso de altitud, pero nada en un planeador no motorizado compensará altitud insuficiente.
+
+Una vez establecido en el tramo de base, el piloto debe escanear y detectar cualquier aeronave en aproximación final larga. Si usa radio, el piloto del planeador puede transmitir posición para giro a final. El piloto debe ajustar el giro para corregir la deriva por viento encontrada en el tramo de base y salir en un rumbo que se alinee con el área de aterrizaje. El piloto también debe ajustar los spoilers/aerofrenos y/o resbalón según sea necesario para posicionar el planeador en el ángulo de aproximación deseado. Los pilotos nuevos deben aprender a escanear apropiadamente por otra aeronave operando en el patrón de tráfico. Los pilotos también deben revisar la revisión actual de la Circular Asesora de la FAA (AC) 90-48, Pilots' Role in Collision Avoidance.
+
+==== Aproximación Final
+
+El giro hacia la aproximación final no debe exceder un ángulo de inclinación de 45° y el piloto debe usar un ángulo de aproximación apropiado para iniciar el descenso final. El piloto normalmente hace un giro coordinado de base a final para alinearse con la línea central del área de toque. El piloto debe ajustar los spoilers/aerofrenos, según sea necesario, para volar el ángulo de aproximación deseado hacia un punto específico en el suelo y establecer una aproximación estabilizada a la velocidad de aproximación recomendada.
+
+==== Aproximación Estabilizada
+
+Una aproximación estabilizada requiere que el piloto juzgue ciertas pistas visuales y luego mantenga una velocidad de descenso final constante, ángulo de aproximación y configuración. Los pilotos de planeadores deben planificar un viento en cola y tramo de base que les permita girar de base a final en posición para continuar en una aproximación estabilizada. La aproximación final con spoilers/aerofrenos extendidos aproximadamente medio abiertos (no necesariamente medio recorrido de la palanca de control de spoiler/aerofreno) crea una aproximación ideal para la mayoría de los planeadores. El piloto puede dedicar atención significativa hacia pistas visuales externas para afinar la aproximación. El piloto no debe mirar fijamente a un solo lugar, sino escanear de un punto a otro, como desde el punto de apuntamiento hasta el horizonte, a cualquier objeto a lo largo de la superficie de aterrizaje, a un área bien corta de la superficie de aterrizaje, y de vuelta al punto de apuntamiento. Esto hace más fácil percibir cualquier desviación de la trayectoria de planeo deseada y determinar si el planeador está procediendo directamente hacia el punto de apuntamiento. El piloto también debe mirar periódicamente el indicador de velocidad del aire y corregir cualquier desviación de velocidad del aire.
+
+Un planeador descendiendo en aproximación final estabilizada viaja en una línea recta hacia un punto en el suelo adelante, comúnmente llamado el punto de apuntamiento. Si el planeador mantiene una trayectoria de planeo constante sin flare para aterrizaje, golpeará el suelo en el punto de apuntamiento.
+
+Para el piloto, el punto de apuntamiento parece estar estacionario. No parece moverse bajo la nariz de la aeronave y no parece moverse hacia adelante lejos de la aeronave. Esta característica identifica el punto de apuntamiento—no se mueve. Sin embargo, los objetos delante y más allá del punto de apuntamiento sí parecen moverse a medida que se cierra la distancia, ¡y parecen moverse en direcciones opuestas! Para una trayectoria de planeo de ángulo constante, la distancia entre el horizonte y el punto de apuntamiento permanece constante. Si descendiendo a un ángulo constante y la distancia entre el punto de apuntamiento percibido y el horizonte parece aumentar (punto de apuntamiento moviéndose hacia abajo lejos del horizonte), entonces el verdadero punto de apuntamiento está más abajo en la pista. Si la distancia entre el punto de apuntamiento percibido y el horizonte disminuye, significando que el punto de apuntamiento se mueve hacia arriba hacia el horizonte, el verdadero punto de apuntamiento está más cerca de lo percibido.
+
+Cuando el planeador está establecido en aproximación final, la superficie de aterrizaje normalmente aparece como un rectángulo alargado. Cuando se ve desde el aire durante la aproximación, el fenómeno conocido como perspectiva hace que la superficie de aterrizaje asuma la forma de un trapecio con el extremo lejano pareciendo más estrecho que el extremo de aproximación y las líneas de borde convergiendo hacia adelante. A medida que un planeador continúa por la trayectoria de planeo a un ángulo constante (estabilizada), la imagen que ve el piloto mantiene la misma forma, pero con dimensiones proporcionalmente mayores. En otras palabras, durante una aproximación estabilizada, la forma percibida de la superficie de aterrizaje no debe cambiar. <<fig-07-32>>
+
+[[fig-07-32]]
+.Forma de la pista durante aproximación estabilizada
+image::07/fig-07-32.pista-shape-during-stabilized-aproximacion.png[width=600]
+
+Si la aproximación se vuelve poco profunda, la superficie de aterrizaje parece acortarse y volverse más ancha. Por el contrario, si la aproximación se empiniza, la superficie de aterrizaje parece volverse más larga y estrecha. <<fig-07-33>>
+
+[[fig-07-33]]
+.Cambio en la forma de la pista si la aproximación se vuelve estrecha o empinada
+image::07/fig-07-33.change-in-pista-shape-if-aproximacion-becomes.png[width=600]
+
+Durante la instrucción y práctica, un piloto de planeador adquiere la habilidad para usar pistas visuales para discernir el verdadero punto de apuntamiento desde cualquier distancia en aproximación final. De esto, el piloto determina si la trayectoria de planeo actual resultará en un punto corto o largo. Nótese que dado que el piloto reduce la tasa de descenso durante el flare, el toque real ocurre más abajo en el campo. Considerando el flotamiento durante el redondeo, un piloto habilidoso puede predecir el punto de toque con cierta exactitud.
+
+El redondeo, toque y rodaje de aterrizaje son mucho más fáciles de lograr cuando están precedidos por una aproximación final estabilizada, lo que reduce la posibilidad de un incidente de aterrizaje. Por lo tanto, el piloto debe detectar y corregir desviaciones de la trayectoria de planeo deseada temprano para que la magnitud de las correcciones sea pequeña. El piloto debe hacer ajustes apropiados y suaves en los spoilers/aerofrenos para asegurar el control adecuado de la trayectoria de planeo y debe evitar bombear los spoilers/aerofrenos de completamente abiertos a completamente cerrados. Si se desarrolla exceso de velocidad de un picado repentino al final de la aproximación, el planeador puede flotar una distancia considerable que podría impedir tocar en el área de aterrizaje deseada.
+
+==== Redondeo y Flare
+
+Cuando el planeador se aproxima a aproximadamente 5 pies sobre el suelo en un descenso normal, el piloto comienza una transición lenta y suave desde una actitud de aproximación normal a una actitud de aterrizaje, redondeando gradualmente la trayectoria de vuelo a una que es paralela y unas pocas pulgadas sobre la pista. El piloto aplica gradualmente presión hacia atrás en el elevador para aumentar lentamente la actitud de cabeceo y el ángulo de ataque, lo que aumenta a una tasa que permite que el planeador continúe asentándose lentamente a medida que disminuye la velocidad hacia adelante. Este es un proceso continuo hasta que el planeador toca el suelo.
+
+Cuando el ángulo de ataque se aumenta, la sustentación aumenta momentáneamente y disminuye gradualmente la tasa de descenso y la velocidad del aire. Durante el redondeo, la velocidad del aire se disminuye hasta la velocidad de toque mientras la sustentación se controla para que el planeador se asiente suavemente sobre la superficie de aterrizaje. El redondeo se ejecuta a una tasa tal que la actitud de aterrizaje adecuada y la velocidad de toque adecuada se logren simultáneamente justo cuando las ruedas contactan la superficie de aterrizaje.
+
+La tasa a la cual el piloto ejecuta el redondeo depende de la altura del planeador sobre el suelo, la tasa de descenso y la actitud de cabeceo. Un redondeo comenzado excesivamente alto necesita ser ejecutado más lentamente que uno comenzado desde una altura más baja. Cuando el planeador parece estar descendiendo muy lentamente, el aumento en la actitud de cabeceo debe hacerse a una tasa correspondientemente lenta.
+
+El toque es el asentamiento suave del planeador sobre la superficie de aterrizaje. Durante el redondeo, la velocidad del aire decae tal que el planeador toca en el tren principal. Los dispositivos de resistencia en un planeador como spoilers o aerofrenos también pueden usarse para controlar el punto de toque si es necesario. A medida que el planeador se asienta, se alcanza la actitud de aterrizaje adecuada según sea necesario. El toque debe ocurrir con el eje longitudinal del planeador paralelo a la dirección en la cual el planeador se mueve a lo largo de la pista. El fallo en lograr esto impone cargas laterales severas en el tren de aterrizaje. Para evitar estos esfuerzos laterales, el piloto no debe permitir que el planeador toque mientras está girado hacia el viento o derivando. Después del toque, el despliegue completo de dispositivos de resistencia y el uso de frenos de rueda aumentarán la desaceleración en el rodaje de aterrizaje mientras se mantiene el control direccional.
+
+Los pilotos deben evitar estrellar el planeador contra el suelo usando poco o ningún flare. Este tipo de aterrizaje pone cargas excesivas en el tren de aterrizaje y las alas. Forzar el planeador al suelo a velocidades excesivas puede introducir oscilaciones inducidas por el piloto, tales como cabeceos. Un buen aterrizaje de planeador en la mayoría de los planeadores con una rueda principal y rueda de cola (o patín) ocurre en la rueda principal con la rueda de cola apenas tocando ligeramente o la rueda de cola apenas ligeramente fuera de la superficie. La rueda principal puede soportar el impacto de los aterrizajes, pero la rueda de cola puede no hacerlo. Los pilotos deben seguir siempre las recomendaciones del GFM/POH del fabricante.
+
+==== Rodaje Después del Aterrizaje
+
+El proceso de aterrizaje nunca debe considerarse completo hasta que el planeador se haya llevado a una parada completa. Pueden ocurrir accidentes debido a que los pilotos abandonan su vigilancia y fallan en mantener control positivo después de poner el planeador en el suelo. La pérdida de control direccional puede llevar a un giro ajustado descontrolado exacerbado en el suelo, o un giro en tierra. La combinación de fuerza centrífuga actuando sobre el centro de gravedad (CG) y la fricción del suelo de la rueda principal resistiéndola durante el giro en tierra puede hacer que el planeador se incline o se ladille lo suficiente para que la punta del ala exterior contacte el suelo. El control direccional apropiado necesita establecerse temprano después del toque. El timón sirve el mismo propósito en el suelo que en el aire—controla la guiñada del planeador. La efectividad del timón depende del flujo de aire, lo que depende de la velocidad del planeador.
+
+Las largas y bajas puntas de ala del planeador son susceptibles al daño de señalización de pista e iluminación de pista. Cuando se aterriza en una pista o franja de aterrizaje, el rodaje debe continuar recto a lo largo de la línea central del área de toque, y el piloto debe usar la palanca hacia atrás completa en el elevador mientras mantiene las alas del planeador niveladas con el control de alerón. Los pilotos normalmente aseguran que un ala no contacte el suelo hasta que el planeador alcance una baja velocidad o se detenga. A medida que la autoridad de control decae durante el rodaje en tierra, el piloto debe aplicar frenos para evitar salirse de la pista o área de aterrizaje. Sin embargo, si un obstáculo se convierte en una preocupación (posible en un aterrizaje fuera de aeropuerto o aterrizaje fuera), un giro coordinado en el suelo puede evitar el obstáculo. Girar fuera de la pista solo debe hacerse cuando el piloto tenga el planeador bajo control.
+
+Los aterrizajes en vientos altos con ráfagas o condiciones turbulentas ocurren usando una velocidad de aproximación más alta para mejorar la controlabilidad, proporcionar un margen seguro por encima de la velocidad de pérdida, y permitir mejor penetración en el viento de frente en aproximación final. Como regla general, los pilotos añaden la mitad del factor de ráfaga reportado (la diferencia entre el viento sostenido y las ráfagas reportadas) a la velocidad de aproximación normal recomendada.
+
+==== Oscilaciones de Cabeceo Inducidas por el Piloto Durante el Aterrizaje
+
+El sobrecontrol del elevador durante el flare de aterrizaje puede hacer que el planeador se eleve bien por encima de la superficie de aterrizaje incluso mientras la velocidad del aire disminuye hacia la velocidad de pérdida. Si el piloto empuja la palanca hacia adelante después de elevarse, el planeador descenderá rápidamente hacia el suelo. Si el piloto tira la palanca de control hacia atrás para arrestar el descenso, el planeador puede elevarse nuevamente o experimentar un aterrizaje duro o de nariz primero dependiendo de la velocidad del aire. Las ráfagas de viento y la turbulencia aumentan la probabilidad de este tipo de PIO.
+
+Para prevenir los PIOs durante el flare después de elevarse, el piloto debe estabilizar el planeador a una altitud de 3 a 4 pies y comenzar el flare de nuevo. Si el elevarse ocurre a una velocidad del aire baja que lleva el planeador más alto que una altitud de flare normal, el piloto puede reducir la extensión de los spoilers/aerofrenos para moderar la tasa de descenso.
+
+Los spoilers/aerofrenos proporcionan resistencia significativa y sustentación reducida cuando están completamente desplegados. Una extensión repentina mientras aterriza resulta en una alta tasa de descenso y posible contacto duro con la pista. Esto puede llevar a un rebote en el aire y una serie de PIOs. Si una ráfaga de viento o retracción repentina de los spoilers/aerofrenos hace que el planeador se eleve, el piloto debe ajustar los spoilers/aerofrenos suavemente para restablecer un flare apropiado.
+
+=== Resbalón Frontal
+
+Un resbalón frontal permite al piloto empinizar el camino de aproximación sin aumentar la velocidad. Mientras que los dispositivos de resistencia han reducido la necesidad de resbalones frontales, los pilotos deben saber cómo usarlos para aterrizajes cortos/en campo o aproximaciones sobre obstáculos.
+
+El resbalón frontal retiene la dirección de movimiento del planeador aunque la nariz del planeador apunte lejos de la dirección de viaje. Para un planeador en vuelo recto, el piloto baja el ala del lado de barlovento usando los alerones. Simultáneamente, el piloto guiña la nariz del planeador aplicando timón opuesto para apuntar el eje longitudinal del planeador a un ángulo de su trayectoria de vuelo original. La cantidad correcta de alabeo y guiñada mantiene la trayectoria original en tierra. El piloto también debe levantar la nariz si es necesario, para evitar que la velocidad del aire aumente.
+
+Los pilotos deben permitir un margen adicional de altitud para seguridad como parte de una aproximación. Si ocurre una llegada con exceso de altitud cuando se acerca al límite del campo seleccionado, el piloto puede disipar el exceso de altitud usando un resbalón frontal.
+
+El uso de resbalones tiene limitaciones definidas. Algunos pilotos pueden intentar perder altitud por resbalones erráticos en lugar de por maniobras suaves, ejercer buen juicio, y usar solo un resbalón ligero o moderado. En aterrizajes fuera de campo, resbalones erráticos o violentos pueden llevar a exceso de velocidad que podría resultar en un aterrizaje largo o sobrepasar todo el campo.
+
+Se distingue un resbalón lateral, del resbalón frontal, porque ocurre con el eje longitudinal del planeador mantenido paralelo a la trayectoria de vuelo original. Mientras mantiene la nariz alineada usando control de timón, el piloto baja el ala en el lado barlovento del planeador y ajusta la dirección de la trayectoria de vuelo variando el ángulo de alabeo. <<fig-07-34>>
+
+[[fig-07-34]]
+.Resbalón frontal y resbalón lateral
+image::07/fig-07-34.forward-slip-and-sideslip.png[width=600]
+
+==== Errores Comunes
+
+Los errores comunes al realizar un resbalón incluyen:
+
+* Control incorrecto de la trayectoria de planeo.
+* Uso incorrecto de resbalones.
+* Control incorrecto de la velocidad del aire.
+* Corrección incorrecta para viento cruzado.
+* Procedimiento incorrecto para toque/aterrizaje.
+* Control direccional deficiente durante/después del aterrizaje.
+* Uso incorrecto de spoilers, aerofrenos o frenos de picado.
+
+=== Aterrizaje con Viento Cruzado
+
+Los aterrizajes con viento cruzado dependen de un crabeo para corregir los efectos del viento en la aproximación final. Un piloto realiza un crabeo girando el planeador a un rumbo suficientemente hacia el viento cruzado para volar una trayectoria recta a lo largo de la trayectoria de aproximación final deseada. Un planeador en crabeo sigue la línea central extendida del área de aterrizaje en vuelo coordinado. <<fig-07-35>>
+
+[[fig-07-35]]
+.Uso del método de crabeo para seguir la línea central extendida del área de aterrizaje (A). Control de la deriva lateral ajustando el planeador hacia el viento antes del aterrizaje (B)
+image::07/fig-07-35.using-the-crab-method-to-track-the-extended.png[width=600]
+
+Los pilotos deben transicionar de un crabeo a un resbalón lateral en final corto o antes de comenzar el redondeo y flare. Cuando el piloto transiciona a un resbalón lateral, el piloto mantiene el planeador alineado con la pista en vuelo descoordinado usando timón y alerón opuestos. Para efectividad, el piloto alinea la nariz con la pista usando primero el timón. Luego, el piloto baja el ala en el lado barlovento según sea necesario para oponerse a la deriva que se desarrolla por la exposición al componente de viento cruzado. Aunque un resbalón aumenta la tasa de descenso del planeador, el piloto puede posicionar los spoilers/aerofrenos para compensar esta tasa de descenso adicional.
+
+==== Errores Comunes
+
+Los errores comunes durante la aproximación y aterrizaje incluyen:
+
+* Falla en completar la lista de verificación de aterrizaje de manera oportuna.
+* Corrección de deriva por viento inadecuada en el tramo de base.
+* Un giro de pasada, corta, demasiado empinado, o demasiado poco profundo hacia la aproximación final.
+* Mala coordinación durante el giro de base a aproximación final.
+* Control incorrecto de la trayectoria de planeo.
+* Uso incorrecto de flaps, spoilers/aerofrenos.
+* Control incorrecto de la velocidad del aire.
+* Aproximación no estabilizada.
+* Corrección incorrecta para viento cruzado.
+* Procedimiento incorrecto para toque/aterrizaje.
+* Control direccional deficiente durante/después del aterrizaje.
+* Uso incorrecto de frenos de rueda.
+
+=== Aterrizaje con Viento en Cola
+
+Los aterrizajes con viento en cola presentan peligros especiales y los pilotos deben evitar este tipo de aterrizaje si es posible. Sin embargo, factores como el diseño del aeródromo/aeropuerto, pendiente de pista, u obstáculos o terreno alto en un extremo de la pista pueden dictar procedimientos de despegue y aterrizaje con viento en cola. Las emergencias o una falla de lanzamiento y retorno a baja altitud también pueden resultar en un aterrizaje con viento en cola. En aproximaciones con viento en cola, los pilotos deben planear un ángulo de aproximación menos empinado y pueden usar los spoilers/aerofrenos o un resbalón frontal, según sea necesario, para lograr la trayectoria de planeo deseada o descender más rápidamente después de pasar sobre un obstáculo. El piloto debe usar una velocidad de aproximación normal durante un aterrizaje con viento en cola y entender que el aumento en la velocidad sobre el suelo aumenta el área de aproximación y la longitud de pista necesaria para el aterrizaje.
+
+La distancia aumentada para aterrizaje debido a la velocidad más alta puede determinarse dividiendo la velocidad real de toque entre la velocidad normal de toque y elevando el resultado al cuadrado. Por ejemplo, si el viento en cola es 10 nudos y la velocidad normal de toque es 40 nudos, la velocidad real de toque es 50 nudos. (50/40)^2 = 1.56 y la distancia de aterrizaje aumenta 56 por ciento sobre la distancia normal de aterrizaje.
+
+Después del toque, el piloto debe usar el freno de rueda y todos los dispositivos de resistencia disponibles para reducir la velocidad sobre el suelo y detenerse dentro de la distancia disponible. Aterrizar con viento en cola significa una pérdida de efectividad de control a una velocidad sobre el suelo más alta y requiere más acción de frenado.
+
+==== Errores Comunes
+
+Los errores comunes durante el aterrizaje con viento en cola incluyen:
+
+* Control incorrecto de la trayectoria de planeo.
+* Uso incorrecto de resbalones.
+* Control incorrecto de la velocidad del aire.
+* Corrección incorrecta para el viento.
+* Procedimiento incorrecto para toque/aterrizaje.
+* Control direccional deficiente durante/después del aterrizaje.
+* Uso incorrecto de frenos de rueda.
+
+=== Aterrizaje de un Planeador de Auto-Lanzamiento
+
+Si se planea un aterrizaje bajo potencia, el piloto debe realizar la lista de verificación de reinicio de motor, permitir tiempo suficiente para que el motor se caliente, y asegurar que todos los sistemas operen apropiadamente. El piloto de un planeador de auto-lanzamiento debe tener un área de aterrizaje alterna disponible para mitigar el riesgo asociado con el rendimiento disminuido y mayor resistencia si el motor falla en arrancar y luego falla en retraer.
+
+El piloto debe volar el patrón de tráfico y aterrizar contra el viento y con un ángulo de aproximación que evite todos los obstáculos. Las dimensiones del área de aterrizaje deben permitir el toque y rodaje dentro de las limitaciones de rendimiento del planeador de auto-lanzamiento. El piloto también debe tomar en consideración cualquier condición de viento cruzado y la superficie de aterrizaje. Después del toque, el piloto debe mantener control direccional, frenar el planeador de auto-lanzamiento, y despejar el área de aterrizaje. El piloto debe completar la lista de verificación después del aterrizaje cuando esté detenido y despejado del área de aterrizaje.
+
+==== Errores Comunes
+
+Los errores comunes exclusivos a los planeadores de auto-lanzamiento durante el aterrizaje incluyen:
+
+* Intentar reinicio de motor con tiempo o altitud insuficiente.
+* Manejo inadecuado del reinicio de motor.
+* No tener en cuenta la relación de planeo disminuida con el pilón del motor extendido.
+* No tener un campo adecuado disponible en caso de que el motor no arranque.
+* Aterrizar con carga lateral debido a paralaje en planeadores motorizados con asientos lado a lado.
+* Falla en usar la lista de verificación apropiada.
+
+=== Oscilaciones de Planeadores con Rueda de Nariz Durante Lanzamientos y Aterrizajes
+
+Algunos planeadores presentan neumáticos en tres ruedas—una rueda principal, una rueda de cola y una rueda de nariz. La gran rueda principal actúa como un punto de apoyo e impide que tanto la rueda de nariz como la rueda de cola contacten el suelo al mismo tiempo. Con el planeador en movimiento y si la rueda de nariz neumática permanece en contacto con el suelo, cualquier bache comprime el neumático de la rueda de nariz. Cuando el neumático de la rueda de nariz rebota después de golpear un bache a una velocidad de suelo rápida, puede ocurrir un cabeceo hacia arriba que pone la rueda de cola en contacto con la pista, y también puede comprimirse y rebotar.
+
+Con suficiente sustentación, puede resultar un cabeceo si la rueda de nariz y la rueda de cola golpean alternativamente la pista, se comprimen y rebotan. Debido a que este tipo de cabeceo puede dañar el fuselaje del planeador, el piloto debe usar control del elevador para levantar la rueda de nariz del suelo tan pronto como sea práctico durante la carrera de despegue para que solo la rueda principal del planeador contacte el suelo. Durante el aterrizaje, el piloto debe mantener el planeador en el aire durante el flare, permitir que la rueda principal y la rueda de cola toquen simultáneamente, y luego mantener la rueda de nariz fuera del suelo durante el rodaje.
+
+=== Oscilaciones de Planeadores con Rueda de Cola/Patín de Cola Durante Lanzamientos y Aterrizajes
+
+Muchos planeadores tienen una rueda de cola. Cuando están cargados y listos para volar, estos planeadores tienen tanto la rueda principal como una rueda de cola/patín de cola en contacto con el suelo, y la ubicación del centro de gravedad permanece detrás de la(s) rueda(s) principal(es). Mientras cualquier empuje hacia arriba en el tren de aterrizaje principal tiende a cabecear la nariz del planeador hacia arriba, el contacto con el suelo de la rueda de cola o patín de cola limita el cambio en la actitud de cabeceo.
+
+Un bache vigoroso de la rueda principal en la superficie de la pista durante la carrera de despegue puede empujar el planeador al aire momentáneamente. A velocidades del aire bajas y con control mínimo del elevador, el sobrecontrol del elevador por parte del piloto después de un rebote o lanzamiento inesperado puede resultar en PIOs. <<fig-07-36>>
+
+[[fig-07-36]]
+.Rebote del neumático
+image::07/fig-07-36.pneumatic-tire-rebound.png[width=600]
+
+Durante el aterrizaje, el contacto de la rueda principal con el suelo antes de la rueda de cola o patín de cola resulta en compresión y rebote del neumático de la rueda principal, lo que puede levantar la nariz del planeador, aumentar el ángulo de ataque, y causar la reanudación del vuelo. El sobrecontrol del elevador por parte del piloto puede entonces llevar a PIOs.
+
+== Después del Aterrizaje y Aseguramiento
+
+Después del aterrizaje y la parada, el piloto o tripulación mueve el planeador fuera de todas las pistas. Si se estaciona el planeador por un intervalo corto entre vuelos, un lugar de estacionamiento apropiado no debe interferir con otros usuarios del aeródromo/aeropuerto o crear un peligro. Los pilotos deben cerrar las cabinas de los planeadores, que se dañan fácilmente si no se aseguran. Debido a que los planeadores pueden sufrir daño por viento, el planeador debe asegurarse si se deja desatendido. Proteger el planeador del viento puede involucrar asegurar una punta de ala con un peso o amarre. El manual del fabricante debe tener los métodos recomendados para asegurar el planeador.
+
+Cuando se termina de volar por el día, el piloto o tripulación debe mover el planeador al área de amarre y asegurarlo de acuerdo con la recomendación en el GFM/POH. Los anclajes de amarre deben ser fuertes y seguros. Cualquier bloqueo de control externo debe ser grande, bien marcado, y brillantemente pintado. Las cubiertas del tubo de pitot deben usar materiales de colores brillantes para alta visibilidad. Cualquier cubierta de cabina debe tener una superficie interior suave que no pueda rayar o arañar la cabina.
+
+Si se almacena el planeador en un hangar, las personas que mueven el planeador deben ejercer cuidado y mantener conciencia de objetos u otras aeronaves en el hangar. Cuando se estaciona en un hangar, la tripulación normalmente calza la rueda principal y la rueda de cola. Soportes de alas debajo de cada punta de ala mantienen el planeador en una posición de alas niveladas. Si se almacena con un ala alta, se debe colocar un peso en el ala bajada para mantenerla abajo.
+
+Si se desarma el planeador para almacenamiento en un remolque, las personas remolcan el planeador al área del remolque y normalmente alinean el fuselaje con el eje largo del remolque. El piloto o tripulación debe seguir la lista de verificación de desmontaje en el GFM/POH y guardar los componentes del planeador de manera segura en el remolque. El almacenamiento incluye la recolección y guardado de todas las herramientas, cierre de puertas y escotillas del remolque, y aseguramiento del remolque contra viento y clima.
+
+== Maniobras de Rendimiento
+
+=== Planeos Rectos
+
+El piloto de planeador mantiene un rumbo y velocidad del aire constantes durante un planeo recto y usa un punto prominente en el suelo delante del planeador como referencia de rumbo. Durante un planeo recto, cada punta de ala debe aparecer a una distancia igual en relación con el horizonte. Los planeos rectos deben estar coordinados como se indica por una lanita centrada o bola de resbalón/derrape. Con las alas niveladas, el piloto establece una actitud de cabeceo en relación con un punto distante en o debajo del horizonte de frente. El piloto puede mantener una actitud de cabeceo constante y una velocidad del aire constante con poca o ninguna presión de control usando el control de compensación del elevador.
+
+El piloto de planeador debe escuchar cambios en el ruido del flujo de aire. Cualquier cambio en la velocidad del aire o coordinación causa un cambio en el ruido del viento. Mientras que las ráfagas causan que el sonido y la velocidad del aire cambien momentáneamente, el piloto puede ignorar el sonido de las ráfagas y mantener el planeador a una actitud de cabeceo constante para mantener el control de velocidad del aire.
+
+El piloto de planeador debe aprender a volar a través de un amplio rango de velocidades del aire, desde la velocidad mínima controllable hasta la velocidad máxima permitida. Los pilotos de planeadores también deben notar la diferencia en la presión de control con los cambios de velocidad del aire. Esto proporciona al piloto una comprensión completa de la sensación de los controles del planeador. Si el equipo del planeador incluye spoilers/frenos de picado y/o flaps, el piloto de planeador debe familiarizarse con los cambios que ocurren en la actitud de cabeceo y velocidad del aire cuando se usan estos controles.
+
+==== Errores Comunes
+
+Los errores comunes durante planeos rectos incluyen:
+
+* Actitud de cabeceo y control de velocidad del aire áspero o errático.
+* Aplicaciones de control ásperas, descoordinadas o inapropiadas.
+* Falla en usar compensación o uso incorrecto de compensación.
+* Uso incorrecto de controles cuando se usan spoilers, frenos de picado y/o flaps.
+* Vuelo descoordinado prolongado—guiñada o bola no centrada.
+
+=== Giros
+
+Girar involucra los tres controles de vuelo: alerones, timón y elevador. Para propósitos de esta discusión, los giros se dividen en las siguientes tres clases como se muestra en la <<fig-07-37>>.
+
+[[fig-07-37]]
+.Giros poco profundos, medios y pronunciados
+image::07/fig-07-37.shallow-medium-and-steep-turns.png[width=600]
+
+* **Giros poco profundos** (menos de aproximadamente 20° de alabeo) incluyen aquellos en los que la estabilidad lateral inherente del planeador nivelan las alas a menos que el piloto mantenga alguna presión de alerón para mantener el alabeo.
+* **Giros medios** resultan de aproximadamente 20° a 45° de alabeo. La estabilidad lateral resulta en poca o ninguna presión de control de alerón para mantener el ángulo de alabeo.
+* **Giros pronunciados** resultan de un grado de alabeo de 45° o más. Durante un giro pronunciado, la tendencia de sobre-alabeo de un planeador supera la estabilidad lateral, y el alabeo aumenta sin aplicación de alerón opuesto.
+
+La mayoría de los planeadores de entrenamiento tienen una lanita, típicamente un pedazo de hilo pegado a la cabina. Los pilotos se refieren al extremo pegado como la cabeza y al extremo libre como la cola. Durante el vuelo, comparar la cabeza y la cola de una lanita identifica vuelo coordinado, resbalones y derrapes. Durante vuelo coordinado, la lanita fluye directamente hacia atrás en el parabrisas (perpendicular al eje longitudinal) <<fig-07-38>>. Durante un giro resbalado, la cabeza de la lanita está hacia el interior del giro cuando se compara con la cola. <<fig-07-39>> Durante un giro derrapado, la cabeza de la lanita está hacia el exterior del giro cuando se compara con la cola. <<fig-07-40>>.
+
+[[fig-07-38]]
+.Giro coordinado
+image::07/fig-07-38.coordinated-giro.png[width=600]
+
+[[fig-07-39]]
+.Giro resbalado
+image::07/fig-07-39.slipping-giro.png[width=600]
+
+[[fig-07-40]]
+.Giro derrapado
+image::07/fig-07-40.skidding-giro.png[width=600]
+
+==== Coordinación de Giro
+
+En un giro resbalado el planeador gira a una tasa menor para el alabeo usado debido a la guiñada hacia el exterior de la trayectoria de vuelo de giro. El piloto restablece un giro coordinado disminuyendo el alabeo (alerones), aumentando la guiñada en la dirección del giro (timón), o una combinación de las dos. <<fig-07-39>>
+
+En un giro derrapado el planeador gira a una tasa mayor para el alabeo usado debido a la guiñada hacia el interior de la trayectoria de vuelo de giro. La corrección de un giro derrapado involucra una disminución de la guiñada (timón), un aumento de alabeo (alerón), o una combinación de las dos. <<fig-07-40>>
+
+La bola en el indicador de resbalón/derrape también indica vuelo coordinado, resbalones y derrapes de manera similar a la cabeza de la lanita. Cuando se usa este instrumento para coordinación, el piloto puede aplicar presión de timón en el mismo lado que la bola (pisar la bola). La presión del cuerpo del piloto contra los lados, fondo y respaldo del asiento responde de la misma manera que la bola, y muchos pilotos pueden sentir la fuerza que empuja hacia un lado u otro en lugar de directamente hacia abajo en el asiento. Los pilotos pueden corregir condiciones descoordinadas usando presiones de timón y alerón apropiadas simultáneamente o individualmente para coordinar el planeador.
+
+Antes de comenzar cualquier giro, el piloto debe despejar el espacio aéreo en la dirección del giro. Cuando se aplican alerones para alabeo del planeador, la deflexión hacia abajo del alerón en el ala ascendente genera mayor resistencia mientras que el alerón levantado en el ala descendente genera menos resistencia. Esta diferencia en resistencia hace que el planeador guiñe hacia el ala ascendente o lejos de la dirección de giro prevista. Cuando se aplica presión a los alerones para comenzar un giro y para contrarrestar esta guiñada adversa, el piloto también debe aplicar presión de timón en la dirección del giro. Si se usa exceso de presión de timón, la nariz parece guiñar antes de que el piloto establezca el alabeo. Si se usa presión de timón insuficiente, la nariz se mueve inicialmente en la dirección equivocada a medida que el piloto comienza el giro. Si se usa la cantidad correcta de presión de timón, la nariz comienza a moverse a lo largo del horizonte, aumentando su tasa de viaje proporcionalmente a medida que el alabeo aumenta.
+
+Después de establecer un giro de alabeo medio, el piloto puede relajar la presión aplicada al control de alerón. El planeador tiende a permanecer en el alabeo seleccionado sin tendencia adicional a guiñar sin deflexión de alerón. Como resultado, el piloto también puede relajar la presión aplicada a los pedales de timón, y el timón se alinea a sí mismo con la dirección de la corriente de aire. Si el piloto mantiene presión constante de timón después de establecer el giro, el planeador derrapa hacia el exterior del giro. Si el piloto hace un esfuerzo consciente por centrar el timón en lugar de dejarlo alinearse a sí mismo con el giro, el piloto puede aplicar inadvertidamente algo de presión de timón opuesto. Esto fuerza al planeador a resbalar hacia el interior del giro. La lanita o la bola en el indicador de resbalón/derrape se mueven como se describió arriba.
+
+A medida que el ángulo de alabeo aumenta de un alabeo poco profundo a uno medio, la velocidad del aire del ala en el exterior del giro aumenta en relación con el ala interior. La sustentación adicional desarrollada en el ala exterior balancea la estabilidad lateral del planeador. Por lo tanto, el piloto no usa presión de alerón para mantener un alabeo medio. Si el alabeo aumenta de medio a pronunciado, el radio de giro disminuye aún más. La mayor sustentación del ala exterior hará que el alabeo se empinice, y el piloto debe usar alerón opuesto para mantener el alabeo constante. Debido a que el ala exterior desarrolla más sustentación, también tiene más resistencia inducida. Esto causa un derrape durante giros pronunciados que el piloto corrige con presión de timón.
+
+Para establecer el ángulo de alabeo deseado, el piloto debe usar puntos de referencia visuales en el planeador, la superficie de la tierra, y el horizonte natural. El piloto principiante puede inclinarse lejos o hacia el giro pero debe permanecer alineado con el asiento. Cualquier desviación previene el uso apropiado de referencias visuales. La aplicación grande de presión de alerón puede producir tasas de rolido rápidas y permitir poco tiempo para correcciones antes de alcanzar el alabeo deseado. Las tasas de rolido más lentas (pequeño desplazamiento de control) proporcionan más tiempo para hacer correcciones de cabeceo y alabeo necesarias.
+
+Mientras se establece el ángulo de alabeo deseado y durante el giro, el piloto debe usar presión del elevador para mantener la velocidad del aire deseada. A lo largo del giro, el piloto debe verificar cruzadamente el indicador de velocidad del aire para verificar la velocidad apropiada. La verificación cruzada y el escaneo de instrumentos deben incluir referencias visuales externas. Si el planeador gana o pierde velocidad del aire, el piloto debe ajustar la actitud de cabeceo en relación con el horizonte. Durante todos los giros, el piloto usa control de alerón, timón y elevador para corregir variaciones menores de cabeceo y alabeo.
+
+La salida de un giro involucra la aplicación de controles de vuelo coordinados en la dirección opuesta. La aplicación de alerón y timón ocurre en la dirección de la salida de giro o hacia el ala alta. A medida que el ángulo de alabeo disminuye, el piloto usa presión del elevador, según sea necesario, para mantener la velocidad del aire.
+
+Dado que el planeador continúa girando mientras está alabeado, la salida de giro debe comenzar antes de alcanzar el rumbo deseado. La cantidad de anticipación para salir en el rumbo deseado depende del grado de alabeo usado en el giro. Normalmente, los pilotos usan la mitad del ángulo de alabeo. Por ejemplo, si el alabeo es 30°, el piloto anticipa la salida de giro por 15°. A medida que las alas se vuelven niveladas, el piloto puede relajar suavemente las presiones de control, de modo que los controles se neutralicen a medida que el planeador regresa a vuelo recto. A medida que ocurre la salida de giro, las referencias visuales externas proporcionan indicaciones de que las alas se han nivelado, y el giro se ha detenido.
+
+==== Errores Comunes
+
+Los errores comunes durante un giro incluyen:
+
+* Falla en despejar el giro.
+* Movimiento de la nariz antes de que comience el alabeo—el timón se está aplicando demasiado pronto.
+* Alabeo significativo antes de que se mueva la nariz, o movimiento de la nariz en la dirección opuesta—el timón se está aplicando demasiado tarde.
+* Movimiento de la nariz hacia arriba o hacia abajo al entrar en un giro—se está aplicando elevador excesivo o insuficiente.
+* Uso áspero o abrupto de controles durante la entrada y salida del giro.
+* Falla en establecer y mantener el ángulo de alabeo deseado.
+* Pasarse/quedarse corto del rumbo deseado.
+
+=== Giros Pronunciados
+
+En vuelo de termalización, giros de radio pequeño pueden mantener el planeador en o cerca del núcleo de una corriente ascendente de térmica. Para mantener el radio de giro pequeño, el piloto puede establecer un alabeo pronunciado mientras mantiene una velocidad del aire apropiada, como la velocidad de mínimo descenso o mejor planeo. El piloto también debe entender que a medida que el ángulo de alabeo aumenta, la velocidad de pérdida aumenta.
+
+Un giro pronunciado resulta en un cambio de rumbo rápido, y el piloto debe despejar el área para otro tráfico. Mientras está alabeado pronunciadamente, el timón puede actuar como un elevador. Un poco de timón superior ayuda a mantener la actitud de nariz arriba. Si el piloto no añade suficiente presión hacia atrás o timón superior para mantener la velocidad del aire deseada a medida que el ángulo de alabeo se empinice, el planeador puede entrar en un picado en espiral. En resumen, durante un giro pronunciado coordinado, el piloto usa presión hacia atrás en el elevador para control de velocidad del aire, presión de alerón contra el ala levantada para control de alabeo, y presión de timón superior para mantener la actitud de cabeceo.
+
+==== Errores Comunes
+
+Los errores comunes durante giros pronunciados incluyen:
+
+* Falla en despejar el giro.
+* Uso descoordinado de controles.
+* Pérdida de orientación.
+* Falla en mantener la velocidad del aire dentro de la tolerancia.
+* División inapropiada de atención dentro y fuera del planeador.
+* Pérdida, barrena o picado en espiral involuntario.
+* Desviación excesiva del rumbo deseado durante la salida de giro.
+
+=== Vuelo Lento
+
+La maniobra durante vuelo lento demuestra las características de vuelo y el grado de controlabilidad de un planeador a velocidades reducidas. Los pilotos deben desarrollar conciencia de las características de vuelo de cualquier planeador que vuelen para reconocer y evitar pérdidas que pueden ocurrir inadvertidamente durante vuelo a baja velocidad del aire usado en despegues, ascensos, termalización, y aproximaciones de aterrizaje.
+
+La maniobra durante vuelo lento desarrolla el sentido de sensación y la habilidad del piloto para usar los controles, y para mejorar la competencia. Los pilotos deben usar referencias visuales externas para mantener la actitud de cabeceo deseada así como escanear periódicamente el indicador de velocidad del aire.
+
+La maniobra comienza ya sea desde la velocidad de mejor planeo o la velocidad de mínimo descenso a una altitud segura. El piloto suave y gradualmente aumenta la actitud de cabeceo. Mientras la velocidad del aire del planeador disminuye, la posición de la nariz en relación con el horizonte subirá a medida que el ángulo de ataque aumenta. Dado que la sustentación disminuye con el cuadrado de la velocidad del aire, el aumento en el ángulo de ataque para mantener la sustentación constante se vuelve más pronunciado a medida que la velocidad del aire decae. A medida que la velocidad continúa disminuyendo y aproximándose a la velocidad a la cual cualquier aumento adicional en el ángulo de ataque o factor de carga resultaría en una pérdida, el planeador alcanza el borde de su envolvente de vuelo a una velocidad mínima controllable. En aire suave y sin girar, la velocidad mínima controllable es más baja que en aire turbulento. Si hay turbulencia, el piloto debe volar con un margen de velocidad suficiente por encima de la velocidad mínima controllable para evitar una pérdida. Durante vuelo lento o durante vuelo a velocidad mínima controllable, el piloto debe usar continuamente el horizonte para mantener la actitud de cabeceo deseada y mirar el indicador de velocidad del aire para mantener la velocidad objetivo. Compensar el planeador, según sea necesario, compensa los cambios en la presión de control. La efectividad disminuida de los controles de vuelo durante vuelo lento no acelerado debe familiarizar al piloto con las características y sensación de vuelo cerca de la velocidad de pérdida de 1G.
+
+Después de establecer una velocidad lenta en vuelo recto, los giros demuestran adicionalmente las características del planeador a esa velocidad seleccionada. Durante giros, el piloto debe disminuir la actitud de cabeceo según sea necesario para mantener la velocidad del aire. De lo contrario, a medida que el alabeo se empinice, el aumento en el factor de carga puede resultar en una pérdida. Una pérdida también puede ocurrir en un giro debido a movimientos de control abruptos o ásperos o turbulencia, que aumentan el factor de carga. Levantar abruptamente los flaps durante vuelo a velocidad mínima controllable también resulta en pérdida repentina de sustentación y puede causar una pérdida. La velocidad real a la cual ocurre una pérdida también depende de condiciones como el peso bruto y la ubicación del CG.
+
+Los pilotos también deben practicar vuelo lento con el planeador en diferentes configuraciones tales como con spoilers/frenos de picado, flaps, y tren de aterrizaje extendido y retraído. Esto proporciona comprensión adicional de los cambios en la actitud de cabeceo causados por el aumento en resistencia en diferentes configuraciones.
+
+==== Errores Comunes
+
+Los errores comunes durante maniobras de vuelo lento incluyen:
+
+* Falla en despejar el área.
+* Falla en establecer o mantener la velocidad del aire deseada.
+* Uso incorrecto de compensación.
+* Uso áspero o descoordinado de controles.
+* Desviación excesiva del rumbo deseado durante la salida de giro.
+* Falla en reconocer indicaciones de una pérdida.
+
+=== Reconocimiento y Recuperación de Pérdidas
+
+Una pérdida puede ocurrir a cualquier velocidad del aire o actitud. En un planeador motorizado, una pérdida también puede ocurrir a cualquier ajuste de potencia. Las pérdidas intencionales familiarizan al piloto con las condiciones que producen pérdidas, ayudan en reconocer una pérdida aproximándose, y desarrollan las habilidades necesarias para prevenir o recuperar de una pérdida. El piloto debe aprender las características de pérdida y los procedimientos de recuperación del planeador que está volando.
+
+Los accidentes por pérdida usualmente resultan de una pérdida inadvertida a baja altitud en la cual una recuperación no se logró antes del contacto con la superficie. Cuanto más tiempo toma reconocer la pérdida aproximándose, más completa se vuelve la pérdida, y mayor es la pérdida de altitud esperada. Para mitigar el riesgo involucrando pérdida de altitud durante la recuperación, los pilotos deben practicar pérdidas a una altitud que permita recuperación dentro de la distancia de planeo de un área de aterrizaje y no más bajo de 1,500 pies AGL.
+
+Muchos planeadores no tienen un dispositivo de advertencia de pérdida eléctrico o mecánico. Los pilotos deben reconocer una pérdida aproximándose por vista, sonido y sensación. Las siguientes señales deben advertir al piloto de una pérdida aproximándose.
+
+1. **Visión**—visualizando el viento relativo y el ángulo de ataque. Movimiento de la lanita (si está equipado) desde el vuelo normal.
+2. **Oído**—un cambio en el sonido debido a pérdida de velocidad del aire.
+3. **Sensación**—A medida que comienza una pérdida, el piloto comienza a sentir vibraciones del fuselaje o vibración aerodinámica.
+   * A. La cinestesia, o el sentir cambios en la dirección o velocidad del movimiento, si está apropiadamente desarrollada, advierte de una disminución en la velocidad o el comienzo de un asentamiento, o amasamiento, del planeador.
+   * B. A medida que la velocidad disminuye, la resistencia a la presión en los controles se vuelve progresivamente menos. Los alerones, elevador y timón tienen significativamente menos autoridad y requieren más movimiento para controlar el planeador. Bajo condiciones de baja velocidad de pérdida, el retraso entre movimientos de control y la respuesta del planeador se vuelve más pronunciado.
+
+Los pilotos siempre deben hacer giros de despeje antes de realizar pérdidas. Durante la práctica de pérdidas intencionales, el objetivo principal no es aprender cómo perder un planeador, sino más bien aprender cómo reconocer una pérdida aproximándose y tomar acción correctiva oportuna. Las acciones de recuperación involucran una recuperación coordinada.
+
+Primero, a la indicación de una pérdida, el piloto debe inmediatamente bajar la actitud de cabeceo y el ángulo de ataque liberando la presión hacia atrás del elevador o moviendo el control del elevador hacia adelante. Esto baja la nariz y retorna el ala a un ángulo de ataque efectivo. La cantidad de presión o movimiento de control del elevador a usar depende del diseño del planeador, la severidad de la pérdida, y la proximidad al suelo. En algunos planeadores, un movimiento moderado del control del elevador—quizás ligeramente hacia adelante de neutral—es suficiente, mientras que otros pueden requerir un empuje forzado a la posición completamente hacia adelante. Sin embargo, una carga negativa excesiva en las alas causada por movimiento excesivo hacia adelante del elevador puede impedir, más que acelerar, la recuperación de la pérdida. El objetivo es reducir el ángulo de ataque suficientemente para permitir que el ala recupere sustentación. <<fig-07-41>>
+
+[[fig-07-41]]
+.Recuperación de pérdida
+image::07/fig-07-41.perdida-recovery.png[width=600]
+
+Cuando se practican pérdidas en un planeador motorizado, el piloto debe experimentar la pérdida y recuperación con y sin el motor funcionando. En una pérdida con potencia disponible, el piloto debe aplicar suave y oportunamente potencia máxima permitida durante la recuperación de la pérdida mientras baja la actitud de cabeceo para aumentar la velocidad del planeador de auto-lanzamiento y ayudar en reducir el ángulo de ataque. La potencia aplicada reduce la pérdida de altitud. La potencia máxima permitida aplicada en el instante de una pérdida no causa usualmente exceso de velocidad de un motor equipado con hélice de paso fijo, debido a la pesada carga de aire impuesta en la hélice a bajas velocidades del aire. Sin embargo, el piloto puede reducir la potencia a medida que aumenta la velocidad del aire para que la velocidad del aire o rpm no se vuelvan excesivas.
+
+La introducción a las pérdidas debe consistir de aproximaciones a pérdidas con recuperación iniciada en el primer bamboleo del fuselaje o cuando el piloto reconoce pérdida parcial de control. Usando este método, los pilotos se familiarizan con las indicaciones iniciales de una pérdida aproximándose sin perder completamente el planeador. Ya sea en un planeador sin motor o motorizado, la recuperación de pérdida ocurre reduciendo el ángulo de ataque, nivelando las alas con entradas de control coordinadas, y regresando a vuelo recto. Siempre que se practiquen pérdidas mientras se gira, el piloto debe mantener un ángulo de alabeo constante hasta que ocurra la pérdida.
+
+Las pérdidas en la mayoría de los planeadores se mueven progresivamente hacia afuera desde las raíces de las alas (donde el ala se une al fuselaje) hacia las puntas de ala. Esto ocurre porque las alas tienen un ángulo de incidencia menor en las puntas que en las raíces de las alas. Cuando un exceso del ángulo de ataque crítico resulta en una pérdida, la parte exterior del ala puede retener alguna efectividad aerodinámica. Durante la recuperación de una pérdida, el retorno de sustentación comienza en las puntas y progresa hacia las raíces, dando así autoridad a los alerones para nivelar las alas.
+
+Usar los alerones requiere delicadeza para evitar una condición de pérdida agravada. Por ejemplo, si el ala derecha cae durante la pérdida y el piloto usa control de alerón excesivo hacia la izquierda para levantar el ala, el alerón que se deflexiona hacia abajo en el ala derecha cambiaría la curvatura de esa porción del ala. El ángulo de ataque aumentado podría hacer que el ala se pierda en la punta. El aumento en resistencia creado por el alto ángulo de ataque en ese ala podría hacer que el avión guiñe en esa dirección. Esta guiñada adversa podría resultar en una barrena a menos que el piloto mantenga control direccional con timón o reduzca la deflexión de alerón.
+
+Incluso con la aplicación de presión excesiva de alerón, una barrena no ocurre si el piloto mantiene control direccional (guiñada) usando aplicación oportuna de presión de timón coordinada. Por lo tanto, el piloto debe usar el timón apropiadamente durante tanto la entrada como la recuperación de una pérdida. El timón en la recuperación de pérdida contrarresta cualquier tendencia del planeador a guiñar. Un piloto usando técnica correcta de recuperación de pérdida disminuye la actitud de cabeceo aplicando presión hacia adelante en el elevador para reducir el ángulo de ataque y simultáneamente mantiene control direccional con uso coordinado de alerón y timón.
+
+Las pérdidas avanzadas incluyen pérdidas secundarias, aceleradas y con controles cruzados. Estas pérdidas expanden la conciencia de pérdida/barrena de un piloto.
+
+==== Pérdidas Secundarias
+
+Una pérdida secundaria ocurre durante una recuperación de una pérdida precedente. Puede ocurrir cuando el piloto intenta completar una recuperación de pérdida con entrada de control abrupta o antes de que el planeador haya recuperado suficiente velocidad de vuelo, lo que resulta en una pérdida repetida. Cuando ocurre esta pérdida, el piloto debe liberar la presión hacia atrás del elevador como en una recuperación normal de pérdida.
+
+==== Pérdidas Aceleradas
+
+Las pérdidas aceleradas reales ocurren más frecuentemente durante giros en el patrón de tráfico cerca del suelo mientras se maniobra el planeador para la aproximación. Un piloto de planeador debe reconocer señales de una pérdida acelerada inminente y tomar acción oportuna para prevenir una condición completamente perdida para evitar pérdida de altitud o una barrena.
+
+Realizar pérdidas aceleradas intencionales puede mostrar al piloto cómo ocurren estas pérdidas, mejorar el reconocimiento del piloto de condiciones que pueden causar una pérdida, y reforzar la acción de recuperación oportuna y apropiada. Durante entrenamiento a una altitud segura, los pilotos deben aprender cómo recuperarse a la primera indicación de una pérdida o inmediatamente después de que ocurre la pérdida.
+
+Un planeador a un peso dado consistentemente se pierde a la misma velocidad del aire indicada en vuelo recto no acelerado de 1G. Sin embargo, el planeador se pierde a una velocidad del aire indicada más alta cuando el piloto impone una carga de maniobra como en un giro pronunciado o pull-up. Estas maniobras dependen de un ángulo de ataque aumentado para generar la sustentación usada para cambiar la trayectoria del planeador. Si la demanda de sustentación adicional excede el ángulo de ataque crítico, ocurre una pérdida acelerada y podría sorprender a un piloto. Dependiendo de la configuración del ala y calidad de coordinación, un ala puede perderse antes que el otro ala. Si las alas tienen una ligera o pronunciada flecha, un ala puede desarrollar rápidamente más sustentación que la otra, y una barrena podría ocurrir antes de que el piloto pueda reaccionar. Por esta razón, los pilotos deben evitar girar demasiado apretadamente en el patrón de tráfico para prevenir exceder el ángulo de ataque crítico y cualquier pérdida acelerada resultante a baja altitud.
+
+Los pilotos no deben realizar pérdidas de maniobra acelerada en ningún planeador si el GFM/POH prohíbe esta maniobra. Si está permitido, el entrenamiento para esta maniobra ocurre con un alabeo de aproximadamente 45° y nunca a una velocidad mayor que la velocidad recomendada por el fabricante para la maniobra o la velocidad de maniobra de diseño especificada para el planeador. A la velocidad de maniobra de diseño, el planeador se perderá antes de que la aplicación de control aerodinámico completo pueda exceder el factor de carga límite del planeador. La pérdida descarga las alas, corta la aceleración, y previene daño estructural.
+
+Un planeador resbalándose hacia el interior del giro en el momento en que ocurre la pérdida tiende a rodar rápidamente hacia el exterior del giro a medida que la nariz cabecea hacia abajo y el ala exterior se pierde primero. Un planeador derrapándose hacia el exterior del giro tiende a rodar hacia el interior del giro porque el ala interior se pierde primero. Durante una pérdida en un giro coordinado, la nariz del planeador cabecea lejos del piloto justo como lo hace en pérdida con alas niveladas ya que ambas alas se pierden simultáneamente. La configuración de las alas tiene una fuerte influencia en exactamente cómo un planeador reacciona a diferentes flujos de aire. Un piloto debe volar el planeador específico en estas situaciones a una altitud segura para determinar cómo reaccionará el planeador. Este entrenamiento debe condicionar al piloto para evitar una pérdida acelerada que podría resultar en un accidente.
+
+Como con cualquier pérdida deliberada, el área debe estar despejada de otras aeronaves. Desde vuelo recto a velocidad de maniobra o menos, el piloto debe rodar el planeador en un giro pronunciado de alabeo (máximo 45°) y gradualmente aplicar presión hacia atrás del elevador. Después de establecer el alabeo, el piloto suave y constantemente aumenta la presión hacia atrás del elevador. La fuerza centrífuga aparente resultante empuja el cuerpo del piloto hacia abajo en el asiento, aumenta la carga alar, y disminuye la velocidad del aire. El piloto debe firmemente aumentar la presión hacia atrás del elevador hasta que ocurra una pérdida definida.
+
+Cuando el planeador se pierde, la recuperación involucra la liberación oportuna de la presión hacia atrás del elevador. En un giro descoordinado, un ala puede tender a caer repentinamente, causando que el planeador ruede en esa dirección. Si esto ocurre, el piloto debe bajar la nariz y usar presión de control coordinada para retornar el planeador a alas niveladas, vuelo recto.
+
+Una pérdida acelerada podría ocurrir cualquier vez que el piloto aplica presión excesiva hacia atrás del elevador o aumenta el ángulo de ataque demasiado rápidamente. Aunque demostrada desde un giro pronunciado, la maniobra permite al piloto experimentar características de pérdida acelerada y desarrollar la habilidad de recuperar instintivamente al inicio de una pérdida a cualquier otra velocidad de pérdida no normal o actitud de vuelo.
+
+==== Pérdidas con Controles Cruzados
+
+Una demostración de maniobra de pérdida con controles cruzados muestra el efecto de la técnica de control incorrecta y enfatiza la importancia de presiones de control coordinadas siempre que se hacen giros. Este tipo de pérdida ocurre con los controles cruzados—presión de alerón aplicada en una dirección y presión de timón en la dirección opuesta mientras se excede el ángulo de ataque crítico. <<fig-07-42>>
+
+[[fig-07-42]]
+.Demostración de aproximación con controles cruzados a una pérdida a altitud
+image::07/fig-07-42.demonstrating-a-crossed-control-aproximacion-to-a.png[width=600]
+
+Esta pérdida ocurre más comúnmente durante un giro de base a final mal planificado y ejecutado cuando se pasa la línea central de la pista durante el giro. Normalmente, el piloto debería corregir aumentando la tasa de giro usando alerón y timón coordinados. A la relativamente baja altitud de un giro de base a final, pilotos mal entrenados a veces temen empinizar el alabeo para aumentar la tasa de giro y usan incorrectamente presión excesiva de timón para guiñar el avión.
+
+La adición de presión de timón en el interior del giro hace que la velocidad del ala exterior aumente, creando mayor sustentación en ese ala. Para mantener ese ala de levantarse y mantener un ángulo de alabeo constante, el piloto aplica presión de alerón opuesta. La presión de timón adicional en el interior del giro también hace que la nariz baje en relación con el horizonte. Consecuentemente, el piloto añade presión adicional hacia atrás del elevador para mantener una actitud de cabeceo constante. El giro resultante usa timón aplicado en una dirección, alerón en la dirección opuesta, y presión excesiva hacia atrás del elevador—una condición pronunciada de controles cruzados. El alerón hacia abajo en el interior del giro ayuda a arrastrar ese ala hacia atrás, frenándola y disminuyendo su sustentación. Esto causa adicionalmente que el planeador ruede. El rollo puede ser tan rápido que es posible que el alabeo sea vertical o pasado vertical antes de que el piloto pueda detener y revertirlo.
+
+La demostración de la maniobra debe ocurrir a una altitud segura debido a la posible actitud extrema de nariz abajo y pérdida de altitud que pueden resultar. Antes de demostrar esta pérdida, el piloto debe despejar el área para otro tráfico aéreo. A medida que el piloto establece la actitud de planeo y velocidad del aire, el planeador debe recompensarse. Con el planeo establecido, el piloto rueda el planeador en un giro de alabeo medio para simular un giro de final que pasaría la línea central de la pista. Durante el giro, el piloto aplica presión excesiva de timón en la dirección del giro mientras mantiene alabeo constante con presión de alerón opuesta. Al mismo tiempo, presión aumentada hacia atrás del elevador mantiene la nariz de bajar.
+
+Todas estas presiones de control aumentan hasta que el planeador se pierde. Cuando ocurre la pérdida, liberar las presiones de control y simultáneamente disminuir el ángulo de ataque inicia la recuperación. En una pérdida con controles cruzados, el planeador a menudo se pierde con poca advertencia. La nariz puede cabecear hacia abajo, el ala interior puede caer repentinamente, y el planeador puede continuar rodando a una posición invertida. Esto es usualmente el comienzo de una barrena.
+
+El piloto debe recuperarse antes de que el planeador entre en una actitud anormal (espiral vertical o barrena) regresando a vuelo recto, alas niveladas usando entradas de control coordinadas. El piloto debe reconocer la pérdida inminente y tomar acción inmediata para prevenir una condición completamente perdida. Este tipo de pérdida durante una aproximación real a un aterrizaje probablemente resultaría en contacto con el suelo antes de la recuperación.
+
+==== Errores Comunes
+
+Los errores comunes durante pérdidas avanzadas incluyen:
+
+* Control de cabeceo y alabeo incorrecto durante pérdidas rectas y de giro.
+* Procedimientos de control ásperos o descoordinados.
+* Falla en reconocer las primeras indicaciones de una pérdida.
+* Recuperación prematura cuando se demuestra una pérdida completa.
+* Procedimientos de reconocimiento y recuperación deficientes.
+* Pérdida de altitud excesiva, velocidad del aire excesiva, o encontrar una pérdida secundaria durante la recuperación.
+
+== Resumen del Capítulo
+
+Independientemente del método de lanzamiento, los pilotos y personal de tierra deben tener la habilidad de comunicarse efectivamente. Esto no solo incluye conocer las señales apropiadas, sino también saber cuándo usarlas. La sesión informativa de todo el personal antes del despegue mejora la seguridad de una operación de planeador. Los despegues normalmente ocurren con la asistencia de un corredor de ala; sin embargo, el capítulo también discute técnicas de despegue sin asistencia que los pilotos experimentados pueden usar. El capítulo discute varias maniobras incluyendo planeos nivelados, giros, giros pronunciados, procedimientos de liberación, evitación y recuperación de línea floja, y boxear la estela. Un piloto puede discernir la coordinación de giro usando una lanita o inclinómetro, y el capítulo da consejo práctico respecto al uso de estos instrumentos cuando se ajusta de un resbalón o derrape. Los pilotos deben entender los procedimientos de patrón de tráfico para cada campo que usen. Una altitud mínima para el punto inicial (IP) del patrón de tráfico debe permitir que el piloto de planeador maniobre al campo de aterrizaje y haga un aterrizaje exitoso en una variedad de condiciones incluyendo normal, viento cruzado, y viento en cola. Un piloto debe saber cómo hacer una aproximación final estable a un punto de apuntamiento, usar dispositivos de resistencia y resbalones para controlar el ángulo de descenso, y aterrizar en viento cruzado sin carga lateral. Los pilotos deben reconocer varias pérdidas y saber cómo evitar condiciones que podrían resultar en cualquier pérdida involuntaria. El vuelo a velocidad mínima controllable y el entrenamiento de pérdidas a una altitud segura construyen conciencia del piloto y resistencia a condiciones de operación inseguras.

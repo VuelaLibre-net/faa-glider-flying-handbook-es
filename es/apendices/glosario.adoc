@@ -1,0 +1,397 @@
+[[glosario]]
+= Glosario
+:sectnums!:
+
+Este glosario contiene los términos aeronáuticos más importantes utilizados en este manual, con sus equivalentes en inglés y definiciones ampliadas.
+
+== Términos Aeronáuticos
+
+[discrete]
+=== A
+
+Acelerómetro (G-meter)::
+  Instrumento que mide las fuerzas de aceleración (cargas G) experimentadas por la aeronave. Es vital para no exceder los límites estructurales en maniobras o turbulencia.
+
+Aerofreno (Airbrake/Spoiler)::
+  Superficie de control que aumenta la resistencia aerodinámica para controlar la velocidad y el ángulo de descenso. En planeadores, es el control principal de la trayectoria de planeo durante la aproximación.
+
+Alargamiento (Aspect Ratio)::
+  Relación entre la envergadura y la cuerda media del ala. Un alargamiento elevado (alas largas y estrechas) es característico de los planeadores eficientes, ya que reduce la resistencia inducida.
+
+Alerón (Aileron)::
+  Superficie de control móvil situada en el borde de salida del ala, cerca de las puntas. Controla el alabeo (movimiento de rotación sobre el eje longitudinal).
+
+Altímetro (Altimeter)::
+  Instrumento que indica la altitud mediante la medición de la presión atmosférica. Debe ajustarse según la presión local (QNH) o estándar (QNE).
+
+Anemómetro (Airspeed Indicator)::
+  Instrumento del sistema pitot-estática que mide la diferencia entre la presión pitot y la presión estática, mostrando la velocidad indicada (IAS) del planeador. La esfera suele estar codificada por colores para indicar rangos de operación segura.
+
+Altitud absoluta (Absolute altitude)::
+  Distancia vertical de la aeronave sobre el terreno (AGL).
+
+Altitud de densidad (Density altitude)::
+  Altitud de presión corregida por temperatura no estándar. Es el factor más crítico para determinar el rendimiento del planeador (carrera de despegue, tasa de ascenso) en días calurosos o aeródromos altos.
+
+Altitud de presión (Pressure altitude)::
+  Altitud indicada cuando el altímetro se ajusta a la presión estándar (29.92 inHg o 1013.2 hPa).
+
+Altitud indicada (Indicated altitude)::
+  Altitud leída directamente del altímetro según la presión ajustada en la ventanilla de Kollsman.
+
+Altitud verdadera (True altitude)::
+  Distancia vertical real de la aeronave sobre el nivel medio del mar (MSL), corregida por temperatura.
+
+Ángulo de ataque (Angle of Attack - AoA)::
+  Ángulo formado entre la línea de cuerda del ala y el viento relativo. Superar el ángulo de ataque crítico provoca la pérdida de sustentación (pérdida).
+
+Ascendencia (Lift)::
+  Movimiento vertical del aire hacia arriba que el planeador utiliza para ganar altitud. Puede ser térmica, de ladera o de onda.
+
+Ascendencia de ladera (Ridge lift)::
+  Sustentación creada cuando el viento horizontal es desviado hacia arriba por un obstáculo orográfico (montaña o colina).
+
+Aproximación (Approach)::
+  Fase del vuelo desde el tramo base hasta el aterrizaje, donde el planeador se configura para la llegada a la pista.
+
+[discrete]
+=== B
+
+Barrena (Spin)::
+  Condición de vuelo autorrotativa que resulta de una pérdida asimétrica y mantenida. El planeador desciende en una trayectoria helicoidal pronunciada mientras gira sobre su eje vertical.
+
+Base de nubes (Cloud base)::
+  Altura a la que se forma la base de las nubes convectivas (cúmulos). Marca el límite superior práctico para el vuelo en térmicas visual.
+
+Brújula magnética (Magnetic compass)::
+  Instrumento autónomo que indica la dirección magnética. Está sujeto a errores de viraje y aceleración.
+
+[discrete]
+=== C
+
+Caballito (Ground loop)::
+  Rotación violenta e incontrolada del planeador sobre el suelo durante el aterrizaje o despegue, generalmente causada por tocar con una punta de ala o perder el control direccional.
+
+Cable de remolque (Tow rope)::
+  Cuerda, generalmente de polipropileno o nylon, utilizada para conectar el planeador al avión remolcador. Su longitud típica oscila entre 45 y 60 metros.
+
+Caja de la estela (Boxing the wake)::
+  Maniobra de entrenamiento avanzada en remolque aéreo donde el planeador se mueve controladamente alrededor de la estela del avión remolcador para explorar los límites de posición.
+
+Calle de nubes (Cloud street)::
+  Alineación de nubes cúmulo en filas paralelas al viento, que indica una banda continua de ascendencia térmica. Permite volar largas distancias sin girar ("delfinear").
+
+Carlinga (Canopy)::
+  Cubierta transparente que protege la cabina del piloto, proporcionando visibilidad y aerodinámica.
+
+Centro de gravedad (CG)::
+  Punto teórico donde se concentra toda la masa del planeador. Su posición es crítica para la estabilidad y el control. Debe mantenerse dentro de los límites especificados mediante la gestión del peso del piloto y lastres.
+
+Circuito de tráfico (Traffic pattern)::
+  Trayectoria rectangular estándar alrededor de la pista para aproximación y aterrizaje. Consta de tramo de viento en cola, tramo base y final.
+
+Cizalladura (Wind shear)::
+  Cambio brusco en la dirección y/o velocidad del viento en una distancia corta. Muy peligrosa cerca del suelo durante la aproximación.
+
+Compensador (Trim)::
+  Dispositivo que permite aliviar las fuerzas en los mandos para mantener una velocidad o actitud de vuelo deseada sin esfuerzo continuo del piloto.
+
+Convergencia (Convergence)::
+  Zona donde chocan dos masas de aire (ej. brisa marina y viento del interior), forzando al aire a subir y creando una línea de ascendencia.
+
+Cúmulo (Cumulus)::
+  Nube de desarrollo vertical, con base plana y aspecto algodonoso, que indica actividad convectiva y posibles térmicas activas debajo.
+
+Cuerda (Chord)::
+  Línea recta imaginaria que une el borde de ataque con el borde de salida de un perfil alar.
+
+[discrete]
+=== D
+
+Derrape (Skid)::
+  Vuelo descoordinado donde la cola del planeador se desplaza hacia el exterior del viraje (bola hacia el exterior). Causado por exceso de timón de dirección.
+
+Descendencia (Sink)::
+  Corriente de aire descendente que causa una pérdida de altitud mayor a la tasa de descenso propia del planeador.
+
+Desorientación espacial (Spatial disorientation)::
+  Incapacidad del piloto para determinar correctamente su posición, actitud o movimiento en relación con la superficie de la Tierra, generalmente debida a la falta de referencias visuales.
+
+Despegue (Takeoff)::
+  Fase inicial del vuelo donde el planeador abandona el suelo y alcanza la velocidad de sustentación.
+
+Diedro (Dihedral)::
+  Ángulo ascendente de las alas respecto a la horizontal visto de frente. Proporciona estabilidad lateral (tendencia a nivelar las alas).
+
+Efecto suelo (Ground effect)::
+  Reducción de la resistencia inducida y aumento de la sustentación cuando el planeador vuela muy cerca del suelo (a menos de una envergadura de altura).
+
+[discrete]
+=== E
+
+Empenaje (Empennage)::
+  Conjunto de la cola del planeador, que incluye el estabilizador horizontal, timón de profundidad, estabilizador vertical y timón de dirección.
+
+Empuje (Thrust)::
+  Fuerza de propulsión generada por el motor en motoveleros. En planeadores sin motor, el empuje proviene del remolque o del torno.
+
+Eslabón fusible (Weak link)::
+  Elemento de seguridad calibrado en el cable de remolque diseñado para romperse antes de que una carga excesiva dañe la estructura del planeador o del avión remolcador.
+
+Espiral (Spiral dive)::
+  Descenso en viraje pronunciado y rápido con aumento progresivo de velocidad y carga G. A diferencia de la barrena, el ala no está en pérdida.
+
+Estabilidad (Stability)::
+  Tendencia de la aeronave a volver a su condición de vuelo original después de ser perturbada. Puede ser estática o dinámica.
+
+[discrete]
+=== F
+
+Factor de carga (Load factor)::
+  Relación entre la carga que soportan las alas y el peso real de la aeronave. Se mide en Gs. En un viraje de 60°, el factor de carga es 2G.
+
+Fineza (Glide ratio / L/D)::
+  Relación entre la distancia horizontal recorrida y la altura perdida en aire calmo. Un planeador con fineza 40:1 avanza 40 km por cada 1 km de altura perdida.
+
+Flameo (Flutter)::
+  Oscilación aeroelástica inestable y autoexcitada de una superficie de control que puede destruir la estructura en segundos si se excede la velocidad límite.
+
+FLARM::
+  Sistema electrónico de alerta de tráfico y colisión diseñado específicamente para planeadores y aeronaves ligeras.
+
+Flap::
+  Superficie móvil en el borde de salida del ala que modifica su curvatura. Los flaps positivos aumentan la sustentación (para termicar o aterrizar); los negativos reducen la resistencia a alta velocidad.
+
+Final (Final approach)::
+  Tramo del circuito de tráfico alineado con la pista de aterrizaje, donde el planeador realiza la aproximación definitiva.
+
+Fuselaje (Fuselage)::
+  Cuerpo central del planeador que aloja la cabina y conecta las alas con la cola.
+
+[discrete]
+=== G
+
+Gancho de suelta (Release)::
+  Mecanismo que permite al piloto soltar el cable de remolque. Los planeadores suelen tener ganchos de morro (para remolque aéreo) y de CG (para torno).
+
+Gradiente de viento (Wind gradient)::
+  Cambio en la velocidad del viento con la altura. Cerca del suelo, la fricción reduce el viento, lo que puede causar una pérdida de velocidad repentina durante la aproximación final.
+
+Gradiente térmico (Lapse rate)::
+  Tasa a la que la temperatura del aire disminuye con la altitud. Determina la estabilidad atmosférica y la calidad de las térmicas.
+
+Guiñada (Yaw)::
+  Movimiento de rotación del planeador alrededor de su eje vertical, controlado por el timón de dirección.
+
+Guiñada adversa (Adverse yaw)::
+  Tendencia del morro a apuntar en dirección opuesta al viraje debido a la mayor resistencia del alerón que baja (ala que sube). Se corrige con el timón de dirección.
+
+[discrete]
+=== H
+
+Hilo de lana (Yaw string)::
+  Hebra de lana pegada en el exterior de la carlinga que actúa como el instrumento más sensible para indicar la coordinación del vuelo (resbale o derrape).
+
+Hipoxia (Hypoxia)::
+  Estado de deficiencia de oxígeno en el cuerpo, peligroso a grandes altitudes, que deteriora el juicio y la capacidad física.
+
+[discrete]
+=== I
+
+Inversión térmica (Inversion)::
+  Capa atmosférica donde la temperatura aumenta con la altitud en lugar de disminuir. Actúa como una tapa que detiene el desarrollo vertical de las térmicas.
+
+Lanzamiento con torno (Winch launch)::
+  Método de lanzamiento terrestre que utiliza un motor potente y un cable largo para lanzar el planeador con una trayectoria de ascenso pronunciada.
+
+[discrete]
+=== L
+
+Lastre de agua (Water ballast)::
+  Agua cargada en los tanques de las alas para aumentar la carga alar y la velocidad de penetración en días fuertes. Se descarga antes de aterrizar.
+
+Línea floja (Slack line)::
+  Pérdida de tensión en el cable de remolque, que puede crear bucles peligrosos. Se corrige mediante maniobras suaves o uso de aerofrenos.
+
+[discrete]
+=== M
+
+MacCready, Anillo::
+  Dispositivo o función del computador de vuelo que indica la velocidad óptima de vuelo entre térmicas basándose en la tasa de ascenso esperada.
+
+Motovelero (Motor glider)::
+  Planeador equipado con un motor (fijo o retráctil) que le permite despegar por sus propios medios o mantener el vuelo (sustainer).
+
+[discrete]
+=== O
+
+Onda de montaña (Mountain wave)::
+  Sistema de corrientes de aire estacionarias a sotavento de una cadena montañosa, generado por vientos fuertes. Permite alcanzar altitudes muy elevadas con gran suavidad.
+
+[discrete]
+=== P
+
+Pérdida (Stall)::
+  Condición aerodinámica donde el ala excede su ángulo de ataque crítico y el flujo de aire se separa, provocando una pérdida brusca de sustentación.
+
+Peso y centrado (Weight and Balance)::
+  Cálculo para asegurar que el peso total y la distribución de la carga (CG) están dentro de los límites aprobados para el vuelo.
+
+Planeador (Glider)::
+  Término genérico para una aeronave sin motor más pesada que el aire. En contextos deportivos, se usa indistintamente con "velero".
+
+Polar de velocidades (Polar curve)::
+  Gráfico que muestra la tasa de descenso del planeador a diferentes velocidades. Es fundamental para calcular el rendimiento y la velocidad óptima de vuelo.
+
+[discrete]
+=== R
+
+Redondeo (Flare)::
+  Maniobra final del aterrizaje donde se levanta el morro para reducir la velocidad de descenso y tocar tierra suavemente con la mínima velocidad posible.
+
+Remolque aéreo (Aerotow)::
+  Método de lanzamiento donde un avión remolcador tracciona al planeador hasta la altitud y lugar deseados.
+
+Resbale (Slip)::
+  Maniobra en la que el planeador vuela con el morro desviado hacia el exterior del viraje o trayectoria (bola hacia el interior). Útil para perder altura rápidamente sin ganar velocidad (resbale frontal) o para corregir deriva en aterrizajes con viento cruzado.
+
+Resistencia (Drag)::
+  Fuerza aerodinámica que se opone al movimiento del planeador a través del aire. Suma de resistencia parásita e inducida.
+
+Resistencia inducida (Induced drag)::
+  Componente de la resistencia generada inevitablemente como subproducto de la creación de sustentación. Es mayor a bajas velocidades.
+
+Resistencia a la rotura (Breaking strength)::
+  Fuerza máxima que puede soportar un cable o eslabón fusible antes de romperse.
+
+Rotura de cable (Rope break)::
+  Emergencia crítica durante el lanzamiento que requiere una reacción inmediata: bajar el morro para mantener velocidad y aterrizar adelante o virar si hay altura suficiente.
+
+[discrete]
+=== S
+
+Suelta trasera (Back release)::
+  Mecanismo de seguridad en el gancho de remolque de CG que libera automáticamente el cable si el ángulo del cable hacia atrás excede un cierto límite.
+
+Sustentación (Lift)::
+  Ver Ascendencia (contexto meteorológico) o Fuerza de Sustentación (contexto aerodinámico, fuerza perpendicular al viento relativo que contrarresta el peso).
+
+[discrete]
+=== T
+
+Temperatura de disparo (Trigger temperature)::
+  Temperatura superficial necesaria para que una parcela de aire se vuelva inestable y comience a ascender como una térmica.
+
+Térmica (Thermal)::
+  Columna de aire caliente ascendente.
+
+Térmica de palanca (Stick thermal)::
+  Falsa indicación de ascenso en un variómetro no compensado causada por una maniobra de ascenso (tirar de la palanca) que convierte velocidad en altura.
+
+Timón de dirección (Rudder)::
+  Superficie vertical móvil en la cola que controla la guiñada. Esencial para coordinar virajes y contrarrestar la guiñada adversa.
+
+Timón de profundidad (Elevator)::
+  Superficie horizontal móvil en la cola que controla el cabeceo y, por tanto, el ángulo de ataque y la velocidad.
+
+Toma de contacto (Touchdown)::
+  Momento en que el planeador toca el suelo durante el aterrizaje, idealmente en el punto previsto con la mínima velocidad vertical.
+
+Torno (Winch)::
+  Mecanismo de lanzamiento terrestre que utiliza un motor potente y un cable largo para lanzar el planeador con una trayectoria de ascenso pronunciada.
+
+Tramo base (Base leg)::
+  Tramo del circuito de tráfico perpendicular a la pista, entre el tramo de viento en cola y la final.
+
+Tramo de viento en cola (Downwind leg)::
+  Tramo del circuito de tráfico paralelo a la pista, volando en dirección opuesta al aterrizaje.
+
+Travesía (Cross-country)::
+  Vuelo que se aleja de la distancia de planeo local del aeródromo de partida, requiriendo navegación y toma de decisiones meteorológicas.
+
+[discrete]
+=== V
+
+Variómetro (Variometer)::
+  Instrumento ultrasensible que indica la velocidad vertical (ascenso o descenso) del planeador. Es el instrumento principal para aprovechar la energía atmosférica.
+
+Variómetro de Energía Total (TE Variometer)::
+  Variómetro compensado que elimina las indicaciones falsas de ascenso/descenso causadas por los cambios de velocidad del piloto ("térmicas de palanca"), mostrando solo el movimiento real de la masa de aire.
+
+Variómetro Netto (Netto Variometer)::
+  Variómetro que indica el movimiento vertical de la masa de aire, eliminando la tasa de descenso propia del planeador a la velocidad actual.
+
+Velero (Sailplane)::
+  Planeador diseñado específicamente para el vuelo a vela de alto rendimiento, capaz de ganar altura y volar distancias.
+
+Velocidad de maniobra (V~A~)::
+  Velocidad máxima a la que se pueden aplicar deflexiones completas de los mandos sin riesgo de daño estructural.
+
+Velocidad de mejor planeo (Best glide speed - Vbg)::
+  Velocidad a la que el planeador alcanza la mayor distancia por unidad de altura (mejor fineza).
+
+Velocidad de mínimo descenso (Minimum sink speed)::
+  Velocidad a la que el planeador pierde altura más lentamente. Se usa para termicar.
+
+Velocidad de nunca exceder (V~NE~)::
+  Velocidad máxima absoluta permitida para el planeador en aire calmo.
+
+Velocidad de operación del tren de aterrizaje (V~LO~)::
+  Velocidad máxima para extender o retraer el tren de aterrizaje en planeadores equipados con tren retráctil.
+
+Velocidad sobre el suelo (Groundspeed)::
+  Velocidad real del planeador con respecto al terreno, afectada por el viento de cara o de cola.
+
+VFE (Maximum flap extended speed)::
+  Velocidad máxima permitida con flaps extendidos. Exceder esta velocidad puede causar daños estructurales.
+
+Viento cruzado (Crosswind)::
+  Viento que tiene un componente perpendicular a la trayectoria de vuelo o pista, requiriendo técnicas especiales de despegue y aterrizaje.
+
+Viento de cara (Headwind)::
+  Viento que sopla en dirección opuesta al movimiento de la aeronave, reduciendo la velocidad sobre el suelo y mejorando el rendimiento de despegue.
+
+Viento de cola (Tailwind)::
+  Viento que sopla en la misma dirección que el movimiento de la aeronave, aumentando la velocidad sobre el suelo y alargando la carrera de despegue.
+
+Viento relativo (Relative wind)::
+  Flujo de aire producido por el movimiento del planeador. Su dirección es opuesta a la trayectoria de vuelo.
+
+VS (Stall speed)::
+  Velocidad mínima de vuelo en configuración específica. Por debajo de esta velocidad, el ala entra en pérdida y deja de generar sustentación suficiente.
+
+V~MCA~ (Minimum control airspeed) (solo motoveleros)::
+  Velocidad mínima de control en aire. Por debajo de esta velocidad, el motovelero puede no ser capaz de mantener el control direccional tras el fallo de un motor.
+
+V~X~ (Best angle of climb speed)::
+  Velocidad de mejor ángulo de ascenso. Permite alcanzar la mayor altitud posible en una distancia horizontal dada. Útil para superar obstáculos tras el despegue.
+
+V~Y~ (Best rate of climb speed)::
+  Velocidad de mejor tasa de ascenso. Permite ganar la mayor altitud posible en un tiempo dado. Útil para ascender rápidamente hasta la altitud de crucero.
+
+== Tabla de Conversión de Unidades Comunes
+
+[cols="1,1,1", options="header"]
+|===
+| Magnitud | Unidad Estándar (Vuelo a Vela) | Conversión Aproximada
+
+| Altitud
+| Pies (ft)
+| 1.000 ft ≈ 300 m
+
+| Distancia
+| Kilómetros (km) o Millas Náuticas (NM)
+| 1 NM ≈ 1,85 km
+
+| Velocidad Vertical
+| Nudos (kts) o Metros/segundo (m/s)
+| 1 m/s ≈ 2 kts ≈ 200 ft/min
+
+| Velocidad
+| Kilómetros/hora (km/h) o Nudos (kts)
+| 100 km/h ≈ 54 kts
+
+| Presión
+| Hectopascales (hPa) / Milibares (mb)
+| 1 inHg ≈ 33,86 hPa
+|===

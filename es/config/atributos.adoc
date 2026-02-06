@@ -1,0 +1,64 @@
+// Atributos globales del documento
+// Manual de Vuelo sin Motor - Traducción al español
+
+// === METADATOS ===
+:project-name: Manual de Vuelo sin Motor
+:project-version: 0.1.0
+:original-title: FAA Glider Flying Handbook (FAA-H-8083-13B)
+:original-author: Federal Aviation Administration
+:translator: VuelaLibre.net
+:lang: es
+:encoding: utf-8
+
+// === CONFIGURACIÓN DEL DOCUMENTO ===
+:doctype: book
+:toc: left
+:toclevels: 2
+:sectnums:
+:sectnumlevels: 4
+:partnums:
+:chapter-refsig: Capítulo
+:chapter-signifier: Capítulo
+:appendix-caption: Apéndice
+:caution-caption: Precaución
+:important-caption: Importante
+:note-caption: Nota
+:tip-caption: Consejo
+:warning-caption: Advertencia
+:example-caption: Ejemplo
+:figure-caption: Figura
+:table-caption: Tabla
+:toc-title: Índice de Contenidos
+:preface-title: Prefacio
+:last-update-label: Última actualización
+
+// === ICONOS ===
+:icons: font
+:icon-set: fas
+
+// === IMÁGENES ===
+:imagesdir: ../imagenes
+:figure-caption: Figura
+
+// === RUTAS ===
+:sourcedir: ../capitulos
+:includedir: ../
+
+// === NUMERACIÓN ===
+:sectnums:
+:xrefstyle: short
+
+// === SELECCIÓN DE REGIÓN ===
+// Define la variante terminológica regional
+// Opciones disponibles:
+//   - es: España (AESA/EASA) - por defecto
+//   - ar: Argentina
+//   - mx: México
+//   - (otras regiones pueden añadirse en regiones/)
+
+ifndef::region[]
+:region: es
+endif::[]
+
+// Incluir terminología regional específica
+include::regiones/{region}.adoc[]

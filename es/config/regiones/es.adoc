@@ -1,0 +1,162 @@
+// Terminología aeronáutica - España (AESA/EASA)
+// Región por defecto para el manual
+
+// Aeronaves
+:term-glider: planeador
+:term-sailplane: velero
+:term-motorglider: motovelero
+:term-towplane: avión remolcador
+
+// Componentes
+:term-aileron: alerón
+:term-elevator: timón de profundidad
+:term-rudder: timón de dirección
+:term-flap: flap
+:term-spoiler: aerofreno
+:term-airbrake: aerofreno
+:term-divebrake: aerofreno
+:term-trim: compensador
+:term-canopy: cabina
+:term-fuselage: fuselaje
+:term-wing: ala
+:term-tailplane: estabilizador horizontal
+:term-fin: estabilizador vertical
+
+// Vuelo
+:term-stall: pérdida
+:term-spin: barrena
+:term-spiral: espiral
+:term-slip: resbale
+:term-skid: derrape
+:term-thermal: térmica
+:term-lift: ascendencia
+:term-lift-force: sustentación
+:term-sink: descendencia
+:term-ridge-lift: ascendencia de ladera
+:term-wave-lift: onda de montaña
+:term-convergence: convergencia
+:term-weight: peso
+:term-drag: resistencia
+:term-thrust: empuje
+:term-aoa: ángulo de ataque
+:term-relative-wind: viento relativo
+:term-chord-line: línea de cuerda
+:term-glide-ratio: fineza
+:term-aspect-ratio: alargamiento
+:term-washout: torsión alar
+:term-dihedral: diedro
+:term-flutter: flameo
+:term-pio: PIO (oscilación inducida por el piloto)
+
+// Instrumentos
+:term-altimeter: altímetro
+:term-airspeed: anemómetro
+:term-pressure-altitude: altitud de presión
+:term-density-altitude: altitud de densidad
+:term-true-altitude: altitud verdadera
+:term-absolute-altitude: altitud absoluta
+:term-indicated-altitude: altitud indicada
+:term-msl: nivel medio del mar (MSL)
+:term-agl: sobre el nivel del terreno (AGL)
+:term-kollsman: ventanilla de Kollsman
+:term-variometer: variómetro
+:term-pitot-static: sistema pitot-estática
+:term-ias: velocidad indicada (IAS)
+:term-cas: velocidad calibrada (CAS)
+:term-tas: velocidad verdadera (TAS)
+:term-oat: temperatura exterior (OAT)
+:term-yaw-string: lanita
+:term-inclinometer: inclinómetro
+:term-uncompensated-variometer: variómetro no compensado
+:term-total-energy: energía total
+:term-maccready-ring: anillo MacCready
+:term-stick-thermal: térmica de palanca
+:term-netto: variómetro Netto
+:term-flight-computer: computador de vuelo
+:term-turnpoint: punto de viraje
+:term-waypoint: punto de recorrido (waypoint)
+:term-g-meter: acelerómetro (G-meter)
+:term-flarm: FLARM
+:term-wind-gradient: gradiente de viento
+:term-headwind: viento de cara
+:term-tailwind: viento de cola
+:term-crosswind: viento cruzado
+:term-groundspeed: velocidad sobre el suelo (GS)
+:term-track: derrota
+:term-wind-shear: cizalladura
+:term-water-ballast: lastre de agua
+:term-polar-curve: curva polar
+:term-ld-ratio: relación L/D
+:term-min-sink-speed: velocidad de mínimo descenso
+:term-cac: lista de verificación de montaje crítico (CAC)
+:term-pcc: comprobación de mandos positiva (PCC)
+:term-wing-stand: caballete de ala
+:term-wing-dolly: carrito de ala
+:term-tail-dolly: carrito de cola
+:term-gust-lock: bloqueo de mandos
+:term-canopy-cover: funda de cabina
+:term-safety-link: fusible
+:term-breaking-strength: resistencia a la rotura
+:term-schweizer-hook: gancho tipo Schweizer
+:term-tost-hook: gancho Tost
+:term-ground-loop: caballito (ground loop)
+:term-cartwheel: voltereta
+:term-tow-pilot: piloto del remolcador
+:term-boxing-wake: caja de la estela
+:term-slack-line: línea floja
+:term-high-tow: remolque alto
+:term-low-tow: remolque bajo
+:term-p-factor: factor P
+:term-propwash: estela de la hélice
+// (VMCA y VX son términos aeronáuticos universales, se escriben como V~MCA~ y V~X~)
+:term-initial-point: punto inicial (IP)
+:term-aiming-point: punto de referencia (aiming point)
+:term-stabilized-approach: aproximación estabilizada
+:term-round-out: nivelada (round out)
+:term-coordinated-flight: vuelo coordinado
+:term-shallow-turn: viraje suave
+:term-medium-turn: viraje medio
+:term-steep-turn: viraje escarpado
+:term-adverse-yaw: guiñada adversa
+:term-incipient-spin: barrena incipiente
+:term-developed-spin: barrena desarrollada
+:term-off-field-landing: aterrizaje fuera de campo
+:term-gap-seal: cinta de sellado
+:term-drogue-chute: paracaídas de frenado
+:term-shock-cooling: choque térmico
+:term-magnetic-compass: brújula magnética
+:term-turn-coordinator: coordinador de viraje
+
+// Velocidades (VA, VFE, VS son términos aeronáuticos universales, se escriben como V~A~, V~FE~, V~S~)
+:term-best-glide: velocidad de mejor planeo
+:term-min-sink: velocidad de mínimo descenso
+
+// Operaciones
+:term-preflight: inspección prevuelo
+:term-takeoff: despegue
+:term-landing: aterrizaje
+:term-approach: aproximación
+:term-pattern: circuito de tráfico
+:term-downwind: tramo de viento en cola
+:term-base: tramo base
+:term-final: final
+:term-flare: redondeo (flare)
+:term-touchdown: toma de contacto
+:term-rollout: carrera de aterrizaje
+
+// Remolque
+:term-aerotow: remolque aéreo
+:term-winch-launch: lanzamiento con torno
+:term-auto-tow: remolque con automóvil
+:term-tow-rope: cable de remolque
+:term-weak-link: eslabón fusible
+:term-release: gancho de suelta
+
+// Meteorología
+:term-cumulus: cúmulo
+:term-cu: Cu
+:term-cloud-base: base de nubes
+:term-cloud-street: calle de nubes
+:term-inversion: inversión térmica
+:term-lapse-rate: gradiente térmico
+:term-trigger-temperature: temperatura de disparo

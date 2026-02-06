@@ -1,0 +1,235 @@
+# Tema PDF Moderno para Manual de Vuelo sin Motor
+# Formato A4 - Colores aviación
+# Generado para asciidoctor-pdf
+
+extends: default
+
+# === LOCALIZACIÓN ===
+chapter_label: Capítulo
+part_label: Parte
+appendix_label: Apéndice
+section_label: Sección
+example_caption: Ejemplo
+figure_caption: Figura
+table_caption: Tabla
+listing_caption: Listado
+note_caption: Nota
+tip_caption: Consejo
+important_caption: Importante
+warning_caption: Advertencia
+caution_caption: Precaución
+toc_title: Índice de Contenidos
+preface_title: Prefacio
+untitled_label: Sin título
+version_label: Versión
+last_update_label: Última actualización
+
+# === BASE ===
+base:
+  font_color: #1F2937
+  font_family: Noto Serif
+  font_size: 10.5
+  line_height_length: 15
+  line_height: $base_line_height_length / $base_font_size
+
+# === ENLACES ===
+link:
+  font_color: #2563EB
+
+# === TÍTULOS ===
+heading:
+  font_color: #1E3A5F
+  font_style: bold
+  h1:
+    font_size: 28
+    margin_top: 0
+    margin_bottom: 20
+  h2:
+    font_size: 22
+    margin_top: 25
+    margin_bottom: 12
+  h3:
+    font_size: 16
+    margin_top: 18
+    margin_bottom: 8
+  h4:
+    font_size: 13
+    margin_top: 14
+    margin_bottom: 6
+  line_height: 1.2
+
+# === TÍTULO DEL DOCUMENTO ===
+title_page:
+  align: center
+  title:
+    font_color: #1E3A5F
+    font_size: 36
+    font_style: bold
+    top: 35%
+    line_height: 1.1
+  subtitle:
+    font_color: #4B5563
+    font_size: 18
+    font_style: normal
+    margin_top: 15
+  authors:
+    font_color: #6B7280
+    font_size: 14
+    margin_top: 30
+  revision:
+    font_color: #9CA3AF
+    font_size: 11
+    margin_top: 10
+
+# === PORTADA DE CAPÍTULO ===
+chapter:
+  break_before: always
+
+# === TABLA DE CONTENIDOS ===
+toc:
+  font_size: 10
+  line_height: 1.6
+  indent: 15
+  h1_font_style: bold
+  h2_font_style: normal
+  h3_font_style: italic
+  dot_leader:
+    content: ". "
+    font_color: #D1D5DB
+
+# === ADMONITIONS (AVISOS) ===
+admonition:
+  column_rule_color: #E5E7EB
+  column_rule_width: 0.5
+  padding: [8, 12, 8, 12]
+  label:
+    font_style: bold
+    font_size: 10
+  background_color:
+    note: #EFF6FF
+    tip: #ECFDF5
+    warning: #FFFBEB
+    caution: #FFF7ED
+    important: #FEF2F2
+  border_color:
+    note: #3B82F6
+    tip: #10B981
+    warning: #F59E0B
+    caution: #EA580C
+    important: #EF4444
+  border_width: 3
+
+# === CÓDIGO ===
+code:
+  font_family: M+ 1mn
+  font_size: 9
+  font_color: #1F2937
+  background_color: #F3F4F6
+  border_color: #E5E7EB
+  border_radius: 3
+  border_width: 0.5
+  padding: [8, 10, 8, 10]
+
+codespan:
+  font_family: $code_font_family
+  font_size: $code_font_size
+  font_color: #BE185D
+  background_color: #FDF2F8
+
+# === TABLAS ===
+table:
+  font_size: 9.5
+  border_color: #D1D5DB
+  border_width: 0.5
+  head:
+    font_style: bold
+    font_color: #FFFFFF
+    background_color: #1E3A5F
+    border_bottom_width: 1.5
+  body:
+    stripe_background_color: #F9FAFB
+  cell:
+    padding: [6, 8, 6, 8]
+
+# === IMÁGENES ===
+image:
+  align: center
+  caption:
+    font_size: 9
+    font_style: italic
+    font_color: #6B7280
+    align: center
+    margin_top: 8
+
+# === FIGURAS ===
+caption:
+  font_size: 9
+  font_style: italic
+  font_color: #6B7280
+  align: center
+
+# === LISTAS ===
+list:
+  indent: 15
+  item_spacing: 5
+  marker:
+    font_color: #1E3A5F
+
+# === CITAS ===
+quote:
+  font_size: 10
+  font_color: #4B5563
+  font_style: italic
+  border_color: #1E3A5F
+  border_width: 3
+  padding: [5, 12, 5, 15]
+  background_color: #F8FAFC
+  cite:
+    font_size: 9
+    font_color: #6B7280
+
+# === SIDEBAR ===
+sidebar:
+  font_size: 10
+  background_color: #F0F9FF
+  border_color: #0EA5E9
+  border_width: 1
+  border_radius: 3
+  padding: [10, 12, 10, 12]
+  title:
+    font_style: bold
+    font_color: #0369A1
+
+# === HEADER ===
+header:
+  height: 15mm
+  font_size: 9
+  font_color: #9CA3AF
+  border_color: #E5E7EB
+  border_width: 0.5
+  recto:
+    right:
+      content: '{chapter-title}'
+  verso:
+    left:
+      content: '{document-title}'
+
+# === FOOTER ===
+footer:
+  height: 15mm
+  font_size: 9
+  font_color: #6B7280
+  border_color: #E5E7EB
+  border_width: 0.5
+  recto:
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'
+
+# === NOTAS AL PIE ===
+footnotes:
+  font_size: 8
+  font_color: #6B7280
+  item_spacing: 4
