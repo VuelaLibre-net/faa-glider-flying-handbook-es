@@ -385,6 +385,7 @@ Antes de marcar una tarea como completada:
    - ✓ `== Programa FAA WINGS` (nombres propios)
    - ✗ `== Despegue Normal`
    - ✗ `== La Atmósfera`
+8. **AUTORIZACIÓN REQUERIDA:** **NUNCA** hacer commit, push ni PR sin autorización expresa del usuario. **PROHIBIDO** tocar la rama `main`.
 
 ---
 
