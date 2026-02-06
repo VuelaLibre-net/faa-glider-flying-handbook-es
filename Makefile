@@ -50,7 +50,7 @@ ASCIIDOCTOR_OPTS := -a data-uri -a allow-uri-read
 
 # === TARGETS ===
 
-.PHONY: all pdf html epub clean help setup check install validate watch
+.PHONY: all pdf html epub clean mrproper help setup check install validate watch
 
 ## Genera todos los formatos (PDF, HTML, EPUB)
 all: pdf html epub
@@ -138,16 +138,25 @@ $(BUILD_DIR)/epub/$(BOOK_NAME).epub: $(MAIN_DOC) $(SRC_FILES)
 		$(ASCIIDOCTOR_OPTS) \
 		-a toc \
 		-a toclevels=2 \
+		-a source-highlighter=none \
 		-o $@ \
 		$<
 	@echo "✅ EPUB generado: $@"
 
 
-## Limpia los archivos generados
+## Limpia los artefactos de build
 clean:
 	@echo "🧹 Limpiando archivos generados..."
 	@rm -rf $(BUILD_DIR)
 	@echo "✅ Limpieza completada"
+
+## Limpia todo: artefactos de build + backups de imágenes + webp temporales
+mrproper: clean
+	@echo "🧹 Limpiando backups de imágenes..."
+	@find $(SRC_DIR)/imagenes -type f \( -name '*.bak' -o -name '*.bak[0-9]*' -o -name '*~' -o -name '*.backup' -o -name '*.backup[0-9]*' -o -name '*.tmp' \) -exec rm -v {} + 2>/dev/null || true
+	@echo "🧹 Limpiando imágenes WebP temporales..."
+	@find $(SRC_DIR)/imagenes -type f -name '*.webp' -exec rm -v {} + 2>/dev/null || true
+	@echo "✅ Limpieza completa (mrproper)"
 
 ## Verifica que las herramientas necesarias están instaladas
 check:
@@ -234,7 +243,8 @@ help:
 	
 	@echo ""
 	@echo "Targets de mantenimiento:"
-	@echo "  clean        Limpia los archivos generados"
+	@echo "  clean        Limpia los artefactos de build"
+	@echo "  mrproper     Limpia todo (build + backups de imágenes)"
 	@echo "  check        Verifica las herramientas instaladas"
 	@echo "  install      Instala dependencias (bundle install)"
 	@echo "  setup        Configura entorno completo (RVM + gemas)"
@@ -251,7 +261,8 @@ help:
 	@echo "  make setup   # Primera vez: configura todo"
 	@echo "  make pdf     # Solo genera el PDF"
 	@echo "  make all     # Genera PDF, HTML y EPUB"
-	@echo "  make clean   # Elimina archivos generados"
+	@echo "  make clean    # Elimina archivos de build"
+	@echo "  make mrproper # Elimina build + backups de imágenes"
 	@echo ""
 	@echo "Requisitos:"
 	@echo "  - Ruby 3.3.5 (via RVM)"
