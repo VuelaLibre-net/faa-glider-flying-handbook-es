@@ -70,7 +70,7 @@ image::02/fig-02-06.additional-empenaje-componentes.png[width=600]
 .Un trim anti-servo
 image::02/fig-02-07.an-anti-servo-tab.png[width=600]
 
-Los diseños de planeadores con cola convencional incorporan el estabilizador horizontal montado en la parte inferior de la aleta vertical. Los planeadores de cola en T tienen el estabilizador horizontal montado en la parte superior de la aleta vertical formando una forma de "T". Las colas en V tienen dos superficies de cola montadas para formar una "V" que combina los movimientos del elevador y el timón.
+Los diseños de planeadores con cola convencional incorporan el estabilizador horizontal montado en la parte inferior de la aleta vertical. Los planeadores de cola en T tienen el estabilizador horizontal montado en la parte superior de la aleta vertical formando una forma de «T». Las colas en V tienen dos superficies de cola montadas para formar una «V» que combina los movimientos del elevador y el timón.
 
 == Dispositivos de gancho de remolque
 

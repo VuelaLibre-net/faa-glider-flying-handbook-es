@@ -19,7 +19,7 @@
 
 ### ¿Qué es FAA-GFH?
 
-FAA-GFH es un proyecto de traducción comunitaria del **FAA Glider Flying Handbook** (FAA-H-8083-13B) al español. El objetivo es proporcionar material educativo de calidad para pilotos de planeador de habla hispana, adaptado a los estándares de AESA (Agencia Estatal de Seguridad Aérea) y EASA (European Union Aviation Safety Agency).
+FAA-GFH es un proyecto de traducción comunitaria del **FAA Glider Flying Handbook** (FAA-H-8083-13B) al español. El objetivo es proporcionar material educativo de calidad para pilotos de planeador de habla hispana.
 
 ### ¿Por qué contribuir?
 
@@ -95,7 +95,31 @@ Corrige errores tipográficos, gramaticales, o técnicos.
 - Problemas de build
 - Errores en glosario
 
-### 5. Documentación
+### 5. Imágenes y Figuras
+
+**Dificultad:** Media | **Tiempo:** Variable
+
+Ayuda a traducir, adaptar o crear las figuras del manual.
+
+**Tipos de tareas:**
+- Traducir texto en imágenes (diagramas, instrumentos)
+- Adaptar figuras del manual original FAA
+- Crear diagramas nuevos si es necesario
+- Optimizar imágenes existentes
+
+**Herramientas disponibles:**
+```bash
+make setup-images     # Configura el entorno Python necesario para asistencia con imágenes
+make images           # Abre el gestor de imágenes (GUI)
+```
+
+**Requisitos técnicos:**
+- Formato PNG para PDF y epub (compresión muy optimizada)
+- Formato WebP para web (si aplica)
+- Resolución mínima: 150 DPI para impresión
+- Directorio: `es/imagenes/NN/` (NN = número de capítulo)
+
+### 6. Documentación
 
 **Dificultad:** Baja | **Tiempo:** Variable
 
@@ -109,13 +133,17 @@ Mejora la documentación del proyecto.
 
 ---
 
-## Primeros Pasos
+## Primeros pasos
+
+Para contribuir basta con que abras un `issue` en https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es/issues describiendo tu propuesta. La estudiaremos a la mayor brevedad.
 
 ### 1. Configura tu Entorno
 
+Si quieres generar los documentos por tí mismo puedes hacer lo siguiente:
+
 ```bash
 # Clona el repositorio
-git clone https://github.com/vuelalibre/faa-gfh.git
+git clone https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es.git
 cd faa-gfh
 
 # Configura Ruby con RVM
@@ -141,7 +169,7 @@ ls es/capitulos/        # Capítulos
 ls es/config/           # Configuración y glosario
 
 # Revisa el glosario de términos
-cat es/config/glosario-terminos.adoc
+cat es/apendices/glosario.adoc
 ```
 
 ### 3. Elige una Tarea
@@ -171,30 +199,30 @@ git checkout -b fix/descripcion-del-error
 
 ## Guía de Traducción
 
-### Principios Fundamentales
+### Principios fundamentales
 
 #### Precisión Técnica
 
 La traducción debe ser técnicamente precisa. Los términos técnicos tienen significados específicos en aviación.
 
 **✓ CORRECTO:**
-- "pérdida" (stall)
-- "circuito de tráfico" (traffic pattern)
-- "aerofreno" (airbrake/spoiler)
+- «pérdida» (stall)
+- «circuito de tráfico» (traffic pattern)
+- «aerofreno» (airbrake/spoiler)
 
 **✗ INCORRECTO:**
-- "entrada en pérdida" (stall) - usar solo "pérdida"
-- "patrón de tráfico" (traffic pattern) - usar "circuito de tráfico"
+- «entrada en pérdida» (stall) - usar solo «pérdida»
+- «patrón de tráfico» (traffic pattern) - usar «circuito de tráfico»
 
 #### Claridad
 
 El español debe ser claro y comprensible. Evita traducciones literales que resulten confusas.
 
 **✓ CORRECTO:**
-- "La velocidad de pérdida aumenta con el peso."
+- «La velocidad de pérdida aumenta con el peso.»
 
 **✗ INCORRECTO:**
-- "La velocidad a la cual ocurre la pérdida aumenta con el peso." (demasiado literal)
+- «La velocidad a la cual ocurre la pérdida aumenta con el peso.» (demasiado literal)
 
 #### Consistencia
 
@@ -202,12 +230,40 @@ Usa los mismos términos a lo largo de todo el documento. Consulta el glosario.
 
 ### Uso del Glosario
 
-El glosario es tu mejor amigo. Está en `es/config/glosario-terminos.adoc`.
+El glosario es tu mejor amigo. Está en `es/apendices/glosario.adoc`.
 
 **Cómo usar:**
 1. Busca el término inglés en el glosario
 2. Usa el término español indicado
 3. Mantén consistencia en todo el capítulo
+
+### Sistema de Atributos para Términos Técnicos
+
+El proyecto utiliza atributos AsciiDoc para garantizar consistencia terminológica y permitir variantes regionales automáticas:
+
+```asciidoc
+La {term-thermal} permite ganar altitud...     % Resultado: «La térmica permite...»
+El {term-stall} ocurre cuando...              % Resultado: «El pérdida ocurre...»
+```
+
+**Beneficios:**
+- Consistencia automática en todo el documento
+- Soporte para variantes regionales (España, Argentina, México)
+- Cambios centralizados desde `es/config/regiones/`
+
+**Atributos disponibles:**
+- `{term-glider}` → planeador
+- `{term-sailplane}` → velero
+- `{term-stall}` → pérdida
+- `{term-spin}` → barrena
+- `{term-thermal}` → térmica
+- `{term-airbrake}` → aerofreno
+- `{term-lift}` → ascendencia
+- `{term-lift-force}` → sustentación
+- `{term-aerotow}` → remolque
+- `{term-winch-launch}` → lanzamiento con torno
+
+Consulta el archivo `es/config/regiones/es.adoc` para la lista completa.
 
 **Términos comunes:**
 
@@ -215,8 +271,8 @@ El glosario es tu mejor amigo. Está en `es/config/glosario-terminos.adoc`.
 |--------|---------|-------|
 | Glider | planeador | Término genérico |
 | Sailplane | velero | Planeador de altas prestaciones |
-| Stall | pérdida | NO "entrada en pérdida" |
-| Spin | барра | (usar "barrizaje" en español) |
+| Stall | pérdida | NO «entrada en pérdida» |
+| Spin | barrena | (giro en barrena)
 | Thermal | térmica | Sustantivo femenino |
 | Lift | ascendencia | |
 | Sink | descendencia | |
@@ -244,11 +300,33 @@ make validate
 
 Este script verifica:
 
-1. **Términos inconsistentes:** Busca usos incorrectos como "entrada en pérdida" (debe ser solo "pérdida")
+1. **Términos inconsistentes:** Busca usos incorrectos como «entrada en pérdida» (debe ser solo «pérdida»)
 2. **Uso de atributos:** Verifica que los términos técnicos usen los atributos definidos (`{term-xxx}`)
 3. **Comillas:** Detecta comillas rectas (recomendadas tipográficas)
 
-#### Corregir Problemas Detectados
+### Variantes regionales
+
+El manual soporta variantes terminológicas para diferentes regiones hispanohablantes:
+
+| Región | Archivo | Uso típico |
+|--------|---------|------------|
+| `es` | `es/config/regiones/es.adoc` | España - por defecto |
+| `ar` | `es/config/regiones/ar.adoc` | Argentina |
+| `mx` | `es/config/regiones/mx.adoc` | México |
+
+**Generar PDF con variante regional:**
+```bash
+make pdf REGION=ar    # PDF con terminología argentina
+make pdf-ar           # Atajo equivalente
+make pdf-mx           # PDF con terminología mexicana
+```
+
+**Añadir nueva región:**
+1. Crea `es/config/regiones/XX.adoc` (donde XX = código de país)
+2. Define los atributos de términos que difieran del español estándar
+3. Usa el archivo existente como plantilla
+
+#### Corregir problemas detectados
 
 Si el script encuentra inconsistencias, corrígelas antes de hacer commit:
 
@@ -300,7 +378,7 @@ Precaución importante.
 
 [IMPORTANT]
 ====
-Información regulatoria importante (ej. diferencias AESA/FAA).
+Información importante del manual original.
 ====
 
 [NOTE]
@@ -314,18 +392,7 @@ Consejo práctico.
 ====
 ```
 
-**Ejemplo de nota AESA:**
-
-```asciidoc
-[IMPORTANT]
-====
-*Para España y Europa:* Los requisitos específicos están regulados por AESA y EASA.
-Consulte la normativa vigente (Reglamento UE 1178/2011) para conocer los requisitos
-exactos aplicables en su país.
-====
-```
-
-#### Referencias Cruzadas
+#### Referencias cruzadas
 
 ```asciidoc
 <<cap02,Capítulo 2>>                    % Referencia a otro capítulo
@@ -470,6 +537,14 @@ Tipos:
 - `style`: Formato (no cambio de código)
 - `chore`: Tareas de mantenimiento
 
+### Reglas de Oro para Contribuidores
+
+1. **Validar Antes de Confirmar:** Ejecuta `make validate` y `make pdf` antes de hacer PR
+2. **No Inventar Términos:** Si un término no está en el glosario, consulta antes de traducir
+3. **No Eliminar Anclas:** Nunca elimines etiquetas `[[...]]` existentes
+4. **Mantener "Flap" en Inglés:** El término técnico «flap» no se traduce
+5. **Preservar PNGs Originales:** Nunca borres las imágenes fuente originales
+
 ---
 
 ## Proceso de Pull Request
@@ -521,7 +596,7 @@ make pdf
 - [ ] El build genera correctamente
 - [ ] No hay erratas u errores ortográficos
 
-## Notas Adicionales
+## Notas adicionales
 [Información adicional relevante]
 
 ## Screenshots (si aplica)
@@ -565,20 +640,18 @@ make pdf
 | Recurso | Descripción |
 |---------|-------------|
 | FAA Glider Flying Handbook | Manual original en inglés |
-| AESA | Agencia Estatal de Seguridad Aérea |
-| EASA | European Union Aviation Safety Agency |
-| Reglamento UE 1178/2011 | Reglamento de licencias de piloto |
+| FAA | Federal Aviation Administration (autoridad aeronáutica de EE.UU.) |
 
 ### Glosario
 
 | Glosario | Ubicación | Descripción |
 |----------|-----------|-------------|
-| Glosario EN↔ES | `es/config/glosario-terminos.adoc` | Términos normalizados |
+| Glosario EN↔ES | `es/apendices/glosario.adoc` | Términos normalizados |
 | Atributos | `es/config/atributos.adoc` | Variables de AsciiDoc |
 
 ---
 
-## Preguntas Frecuentes
+## Preguntas frecuentes
 
 ### ¿Puedo traducir aunque no sea piloto?
 
@@ -590,21 +663,17 @@ make pdf
 
 ### ¿Qué pasa si no conozco un término técnico?
 
-1. Consulta el glosario (`es/config/glosario-terminos.adoc`)
+1. Consulta el glosario (`es/apendices/glosario.adoc`)
 2. Busca en el original inglés para entender el contexto
-3. Consulta la documentación de AESA/EASA
+3. Consulta manuales de aviación en español o documentación de tu autoridad aeronáutica local
 4. Pregunta en GitHub Discussions
 
-### ¿Cómo manejo diferencias entre FAA y AESA?
+### ¿Cómo manejo términos técnicos específicos?
 
-Usa admonitions `[IMPORTANT]` para indicar diferencias regulatorias:
-
-```asciidoc
-[IMPORTANT]
-====
-*Para España:* [Explicación de la diferencia]
-====
-```
+Si encuentras un término técnico que no está en el glosario:
+1. Consulta el contexto en el manual original FAA
+2. Busca equivalencias en terminología aeronáutica estándar en español
+3. Propón el término en un issue para discusión
 
 ### ¿Puedo trabajar en varios capítulos a la vez?
 
@@ -659,12 +728,12 @@ Gracias por tu interés en contribuir al proyecto FAA-GFH. Tu trabajo ayuda a pi
 ## Contacto
 
 - **Email:** soporte@vuelalibre.net
-- **GitHub:** https://github.com/vuelalibre/faa-gfh
-- **Issues:** https://github.com/vuelalibre/faa-gfh/issues
-- **Discussions:** https://github.com/vuelalibre/faa-gfh/discussions
+- **GitHub:** https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es
+- **Issues:** https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es/issues
+- **Discussions:** https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es/discussions
 
 ---
 
 **Última actualización:** 2026-01-31
-**Versión:** 0.5.0-alpha
+**Versión:** 0.1.1
 **Licencia:** CC BY-SA 4.0

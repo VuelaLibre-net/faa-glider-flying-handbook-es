@@ -12,7 +12,7 @@ Este proyecto contiene dos licencias diferentes que se aplican a diferentes part
 
 La obra original en inglés, publicada por la Administración Federal de Aviación de Estados Unidos, se encuentra en el **dominio público** según el Título 17 del Código de los Estados Unidos, Sección 105 (17 U.S.C. § 105):
 
-> "Los trabajos creados por empleados del gobierno federal de Estados Unidos en el ejercicio de sus funciones oficiales no están sujetos a derechos de autor."
+> «Los trabajos creados por empleados del gobierno federal de Estados Unidos en el ejercicio de sus funciones oficiales no están sujetos a derechos de autor.»
 
 **Enlace al documento original:**  
 https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/glider_handbook
@@ -60,7 +60,7 @@ Las imágenes, diagramas y figuras incluidas en esta traducción provienen de do
 
 2. **Imágenes adicionales:** Cualquier imagen nueva creada específicamente para esta traducción está bajo la misma licencia CC BY-SA 4.0 que el texto traducido.
 
-### Marcas Registradas
+### Marcas registradas
 
 Los nombres de productos, marcas comerciales y logotipos mencionados en este manual son propiedad de sus respectivos dueños. Su mención no implica respaldo ni patrocinio.
 
@@ -68,7 +68,7 @@ Los nombres de productos, marcas comerciales y logotipos mencionados en este man
 
 ## 4. Exención de Responsabilidad
 
-**IMPORTANTE:** Esta traducción se proporciona "tal cual", sin garantías de ningún tipo, expresas o implícitas. Los traductores, editores y colaboradores:
+**IMPORTANTE:** Esta traducción se proporciona «tal cual», sin garantías de ningún tipo, expresas o implícitas. Los traductores, editores y colaboradores:
 
 - NO asumen responsabilidad por errores u omisiones en la traducción
 - NO garantizan la exactitud, integridad o actualidad del contenido
@@ -100,7 +100,7 @@ Para consultas sobre licencias, permisos o colaboraciones:
 
 - **Web:** https://vuelalibre.net
 - **Email:** soporte@vuelalibre.net
-- **Repositorio:** https://github.com/VuelaLibre-net/faa-gfh-castellano
+- **Repositorio:** https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es
 
 ---
 

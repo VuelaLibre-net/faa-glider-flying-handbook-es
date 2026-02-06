@@ -1,5 +1,5 @@
 [[cap12]]
-= Remolque Aéreo
+= Remolque aéreo
 
 [abstract]
 --
@@ -75,7 +75,7 @@ Usando los datos de despegue computados o el punto de despegue real para las con
 .Un punto de aborto físico en la pista debe determinarse e informarse al piloto del planeador antes de comenzar los procedimientos de remolque
 image::12/fig-12-04.a-physical-abort-point-on-the-pista-should-be.png[width=600]
 
-14 CFR parte 91, sección 91.309 (a)(5) establece, "El piloto de la aeronave de remolque y el planeador han acordado un curso general de acción, incluyendo señales de despegue y liberación, velocidades de aire, y procedimientos de emergencia para cada piloto." Si existe alguna duda sobre el cumplimiento de esta regla a través de informes o procedimientos operativos estándar publicados y acordados, el piloto de remolque y el piloto del planeador deben asegurarse de aclarar todos los aspectos del remolque inminente.
+14 CFR parte 91, sección 91.309 (a)(5) establece, «El piloto de la aeronave de remolque y el planeador han acordado un curso general de acción, incluyendo señales de despegue y liberación, velocidades de aire, y procedimientos de emergencia para cada piloto.» Si existe alguna duda sobre el cumplimiento de esta regla a través de informes o procedimientos operativos estándar publicados y acordados, el piloto de remolque y el piloto del planeador deben asegurarse de aclarar todos los aspectos del remolque inminente.
 
 == En el Aeropuerto
 
@@ -87,7 +87,7 @@ En la mayoría de los casos, los pilotos de remolque usan las Señales Estándar
 
 == Despegue y Ascenso
 
-Cuando esté listo para el despegue y si aplica, el piloto de remolque debe transmitir el comienzo de un lanzamiento de planeador. Por ejemplo, "Tráfico Tallahasee, N12345 despegando Pista 33, planeador en remolque, Tallahasee." 14 CFR parte 91, sección 91.309(a) (4) establece, "Antes de conducir cualquier operación de remolque dentro de los límites laterales de las áreas de superficie del espacio aéreo Clase B, Clase C, Clase D, o espacio aéreo Clase E designado para un aeropuerto, o antes de hacer cada vuelo de remolque dentro de tal espacio aéreo controlado si es requerido por ATC, el piloto al mando notifica a la torre de control. Si no existe una torre de control o no está en operación, el piloto al mando debe notificar a la estación de servicio de vuelo de la FAA sirviendo a ese espacio aéreo controlado antes de conducir cualquier operación de remolque en ese espacio aéreo;"
+Cuando esté listo para el despegue y si aplica, el piloto de remolque debe transmitir el comienzo de un lanzamiento de planeador. Por ejemplo, «Tráfico Tallahasee, N12345 despegando Pista 33, planeador en remolque, Tallahasee.» 14 CFR parte 91, sección 91.309(a) (4) establece, «Antes de conducir cualquier operación de remolque dentro de los límites laterales de las áreas de superficie del espacio aéreo Clase B, Clase C, Clase D, o espacio aéreo Clase E designado para un aeropuerto, o antes de hacer cada vuelo de remolque dentro de tal espacio aéreo controlado si es requerido por ATC, el piloto al mando notifica a la torre de control. Si no existe una torre de control o no está en operación, el piloto al mando debe notificar a la estación de servicio de vuelo de la FAA sirviendo a ese espacio aéreo controlado antes de conducir cualquier operación de remolque en ese espacio aéreo;»
 
 En el despegue, el piloto de remolque avanza el acelerador suave y rápidamente en un movimiento. <<fig-12-05>> Si el avión de remolque acelera y luego frena, el planeador podría pasar sobre la línea de remolque y enganchar la línea en el tren de aterrizaje. El piloto del planeador podría no tener capacidad de liberación si eso ocurre.
 
@@ -116,9 +116,9 @@ image::12/fig-12-06.sample-planeador-maximum-remolque-aereo-speeds.png[width=600
 
 La velocidad de remolque resulta de considerar varias variables. El piloto de remolque determina la velocidad mínima de remolque después de considerar la velocidad mínima para enfriamiento adecuado del motor y la velocidad de pérdida del avión de remolque, vuela a una velocidad más lenta que la velocidad máxima de remolque aéreo del planeador, y conduce el remolque aéreo a la velocidad segura más lenta suficiente para que el planeador permanezca bajo control. Al remolcar un modelo de planeador por primera vez, el piloto de remolque debe obtener un informe del piloto del planeador para asegurar el cumplimiento con las velocidades mínimas, máximas y óptimas de remolque. Un piloto de remolque experimentado puede determinar si la velocidad es suficiente para el planeador observando el perfil del ala del planeador en los espejos del avión de remolque. Un piloto de remolque viendo una porción más grande que lo normal de la parte inferior del ala del planeador para una posición de remolque dada puede indicar un ángulo de ataque alto del planeador y la necesidad de un ligero aumento en la velocidad de remolque.
 
-Debido al potencial de emergencias a baja altitud, el ascenso inicial debe permanecer dentro de la distancia de planeo del aeropuerto. El remolque no debe ascender en una dirección que impida que el planeador regrese al patrón de tráfico con el componente de viento de frente existente. Si el piloto de remolque permite que la trayectoria de salida se desvíe con un viento cruzado, reduce el radio de un giro de regreso a la pista en el evento de una emergencia a baja altitud.
+Debido al potencial de emergencias a baja altitud, el ascenso inicial debe permanecer dentro de la distancia de planeo del aeropuerto. El remolque no debe ascender en una dirección que impida que el planeador regrese al circuito de tráfico con el componente de viento de frente existente. Si el piloto de remolque permite que la trayectoria de salida se desvíe con un viento cruzado, reduce el radio de un giro de regreso a la pista en el evento de una emergencia a baja altitud.
 
-Un piloto de planeador considerado comunica la intención de realizar cualquier maniobra detrás del avión de remolque. Sin embargo, el piloto de remolque debe permanecer alerta por cualquier maniobra no anunciada. Los pilotos de planeadores a menudo practican maniobras como "Boxear la Estela," explicado e ilustrado en el Capítulo 7 de este manual, Lanzamiento, Maniobras de Vuelo, Aterrizaje y Procedimientos de Recuperación. Una vez detectada esta maniobra, que normalmente comienza con el planeador descendiendo verticalmente desde la posición de remolque alto a la posición de remolque bajo, el piloto de remolque debe mantener un rumbo constante y una actitud de alas niveladas. Después de que termina la maniobra de "Boxear la Estela" y el planeador regresa a una posición de remolque alto estabilizada, el piloto de remolque puede maniobrar según sea necesario.
+Un piloto de planeador considerado comunica la intención de realizar cualquier maniobra detrás del avión de remolque. Sin embargo, el piloto de remolque debe permanecer alerta por cualquier maniobra no anunciada. Los pilotos de planeadores a menudo practican maniobras como «Boxear la Estela», explicado e ilustrado en el Capítulo 7 de este manual, Lanzamiento, Maniobras de Vuelo, Aterrizaje y Procedimientos de Recuperación. Una vez detectada esta maniobra, que normalmente comienza con el planeador descendiendo verticalmente desde la posición de remolque alto a la posición de remolque bajo, el piloto de remolque debe mantener un rumbo constante y una actitud de alas niveladas. Después de que termina la maniobra de «Boxear la Estela» y el planeador regresa a una posición de remolque alto estabilizada, el piloto de remolque puede maniobrar según sea necesario.
 
 Durante el remolque, un instructor de planeadores puede demostrar y enseñar procedimientos de recuperación de línea floja. Esta maniobra normalmente involucra un ascenso a un lado del avión de remolque seguido de un pequeño picado para crear holgura en la línea de remolque. El instructor luego pedirá al estudiante que tome los controles y quite la holgura de la línea de remolque sin romper la cuerda. El piloto de remolque no debe confundir esta maniobra con una liberación. El Capítulo 8 de este manual, Procedimientos Anormales y de Emergencia, contiene más información respecto a procedimientos de línea floja.
 
@@ -174,7 +174,7 @@ La regulación no prohibe aterrizar con la línea de remolque adjunta; sin embar
 
 Si se libera la línea de remolque antes del aterrizaje, el piloto normalmente deja caer la línea de remolque cerca del área de lanzamiento de planeadores durante una aproximación corta a la pista. El área de caída de la línea de remolque debe tener dimensiones definidas. El personal de tierra debe recibir un informe del área de caída antes de que tenga lugar la operación y mantenerse alejado del área de caída durante las operaciones de remolque. Si se ve a un individuo en el área de caída, el piloto de remolque debe hacer una pasada sin dejar caer la línea de remolque.
 
-== Remolque Aéreo de Travesía
+== Remolque aéreo de travesía
 
 Un remolque aéreo de travesía seguro y exitoso requiere planificación. El piloto de remolque debe planificar para el máximo consumo de combustible para el avión de remolque usado. El piloto debe estudiar la ruta de vuelo en cartas seccionales, planear para cualquier desviación potencial y cumplir con cualquier requisito de espacio aéreo.
 
@@ -206,7 +206,7 @@ El siguiente plan aplica en el evento de que el avión de remolque tenga una fal
 * El planeador usualmente despega antes que el avión de remolque, y el piloto de remolque debe dar al planeador tanto espacio como sea posible para aterrizar y frenar hasta detenerse en la pista restante.
 * El piloto de remolque debe conocer las características de frenado del planeador. Algunos modelos tienen frenos muy efectivos y otros no.
 
-==== El Planeador se Libera durante el Despegue con Operación Normal del Avión de Remolque
+==== El planeador se libera durante el despegue con operación normal del avión de remolque
 
 El piloto del avión de remolque debe continuar el despegue para eliminar el riesgo de colisión con el planeador.
 
@@ -214,7 +214,7 @@ El piloto del avión de remolque debe continuar el despegue para eliminar el rie
 
 Debido a las obstrucciones del aeropuerto cerca del aeropuerto, pueden existir opciones limitadas para un aterrizaje fuera de campo del avión de remolque. El piloto de cualquiera o ambas aeronaves normalmente liberará para proporcionar opciones de aterrizaje para ambas aeronaves. El piloto de remolque podría hacer giros ligeros o aterrizar recto adelante. Dado que el avión de remolque requiere considerablemente más altitud para regresar al campo en el evento de una falla de potencia, el piloto de remolque debe tener un plan específico en mente que incluya áreas de aterrizaje pre-seleccionadas para cada pista. Los pilotos de remolque deben discutir estas opciones durante informes de pilotos o reuniones de seguridad.
 
-==== El Planeador Asciende Excesivamente Alto durante el Despegue
+==== El planeador asciende excesivamente alto durante el despegue
 
 Un planeador ascendiendo excesivamente alto durante el despegue levantará la cola del avión de remolque. Si esto sucede, la aplicación de elevador completo hacia arriba en el avión de remolque puede no prevenir un accidente. El piloto de remolque debe tirar de la manija de liberación inmediatamente para recuperar el control del avión de remolque. Cualquier vez que el planeador tire la nariz del avión de remolque a una actitud de cabeceo peligrosamente alta o baja, el piloto de remolque debe tirar de la liberación. Una posición de planeador excesivamente alta podría atascar el mecanismo de liberación del enganche de remolque Schweizer.
 
@@ -240,9 +240,9 @@ Aunque no está bien definido en la literatura de planeo como se discutió en el
 
 ==== Problema del Planeador
 
-El piloto de remolque podría notar que el planeador tiene un problema aún no conocido por el piloto del planeador. El ejemplo más común involucra el despliegue involuntario de los spoilers del planeador a medida que el planeador acelera en el despegue. El piloto de remolque puede informar al piloto del planeador vía radio o señal visual. El piloto de remolque mece o abanica el timón cuando alcanza una altitud segura como la señal visual para "Problema del Planeador."
+El piloto de remolque podría notar que el planeador tiene un problema aún no conocido por el piloto del planeador. El ejemplo más común involucra el despliegue involuntario de los spoilers del planeador a medida que el planeador acelera en el despegue. El piloto de remolque puede informar al piloto del planeador vía radio o señal visual. El piloto de remolque mece o abanica el timón cuando alcanza una altitud segura como la señal visual para «Problema del Planeador».
 
-==== Liberación Inmediata
+==== Liberación inmediata
 
 El piloto de remolque mece las alas del avión de remolque para indicar que el piloto del planeador debe liberarse inmediatamente. Esto podría ocurrir durante una emergencia crítica del avión de remolque como falla de motor o incendio. <<fig-12-11>>
 

@@ -32,7 +32,7 @@ Antes de aplicar cualquier procedimiento:
 
 ## Sobre el Proyecto
 
-Este proyecto tiene como objetivo proporcionar una traducción de calidad del manual de la FAA para vuelo en planeador, adaptando la terminología a los estándares aeronáuticos utilizados en España (AESA/EASA).
+Este proyecto tiene como objetivo proporcionar una traducción de calidad del manual de la FAA para vuelo en planeador, adaptando la terminología aeronáutica al español estándar utilizado en la aviación general.
 
 ## Estado del Proyecto
 
@@ -68,7 +68,7 @@ faa-gfh/
 │   ├── config/                      # Configuración
 │   │   ├── atributos.adoc           # Variables globales y selector regional
 │   │   └── regiones/                # Variantes terminológicas por región
-│   │       ├── es.adoc              # España (AESA/EASA) - default
+│   │       ├── es.adoc              # España - default
 │   │       └── ar.adoc              # Argentina
 │   ├── capitulos/                   # Capítulos traducidos (01-13)
 │   └── apendices/                   # Apéndices
@@ -139,7 +139,7 @@ Los archivos generados se encuentran en:
 - `build/html/manual-vuelo-planeador.html`
 - `build/epub/manual-vuelo-planeador.epub`
 
-### Variantes Regionales
+### Variantes regionales
 
 El manual soporta adaptaciones terminológicas para diferentes regiones de habla hispana:
 
@@ -180,7 +180,7 @@ make images
 - 🔄 **Reemplazo inteligente**: Selecciona imagen destino y fuente, comprime y reemplaza
 - 📋 **Portapapeles multiplataforma**: Copiar/pegar imágenes desde/hacia el gestor
 - 🌍 **Traducción automática nativa**: Integración con Google Gemini para traducir texto en imágenes del inglés al español
-- 🖼️ **Editor integrado**: Etiquetado tipo "badges" en imágenes
+- 🖼️ **Editor integrado**: Etiquetado tipo «badges» en imágenes
 
 **Configuración de traducción automática:**
 ```bash
@@ -239,10 +239,10 @@ Las contribuciones son bienvenidas. Consulta [CONTRIBUTING.md](CONTRIBUTING.md) 
 
 ## Licencia
 
-### Obra Original
+### Obra original
 La obra original (FAA Glider Flying Handbook) es un documento del gobierno federal de Estados Unidos y se encuentra en el **dominio público** según 17 U.S.C. § 105.
 
-### Esta Traducción
+### Esta traducción
 Esta traducción se distribuye bajo licencia [**Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)**](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
 
 Usted es libre de:
@@ -261,7 +261,7 @@ Algunas imágenes o diagramas del original pueden pertenecer a terceros (fabrica
 
 ---
 
-⚠️ *Este manual es una herramienta de estudio. Para la operación de aeronaves en España, consulte siempre la normativa vigente de AESA y EASA. El uso de esta traducción es bajo su propio riesgo.*
+⚠️ *Este manual es una traducción del documento oficial de la FAA. Para operación de aeronaves, consulte siempre la normativa vigente de su autoridad aeronáutica local y el manual oficial de su aeronave.*
 
 <div align="center">
   <p>Construido con ❤️ y térmicas para la comunidad de <b>Vuelo a Vela</b>.</p>

@@ -24,7 +24,7 @@ Tres fuerzas actúan sobre un planeador sin motor mientras está en vuelo: suste
 
 Newton's laws and Bernoulli's principle explain lift from different perspectives. Newton's third law describes the overall interaction between atmosphere and wing, while Bernoulli's principle looks at the effect of air changing speed as it moves past the wing. Together, these models provide a valid explanation of lift.
 
-== Tercera Ley de Newton
+== Tercera ley de Newton
 
 Según la Tercera Ley de Newton del Movimiento, para cada acción hay una reacción igual y opuesta. Cuando el aire se desvía hacia abajo debido a la interacción con el ala, el ala experimenta una reacción hacia arriba (de sustentación).
 
@@ -174,7 +174,7 @@ Al usar el componente horizontal de sustentación para girar el planeador, ocurr
 
 === Factor de carga
 
-Cualquier fuerza aplicada a un planeador para desviar su vuelo de una línea recta produce un esfuerzo en su estructura; el factor de carga describe esta fuerza. El factor de carga es la relación de la carga total de aire actuando sobre el planeador al peso del planeador. El factor de carga puede ser positivo o negativo y depende de la trayectoria de vuelo actual. Las unidades de factor de carga a menudo usan "G," una fuerza gravitacional equivalente. Un factor de carga de uno, o 1 G, representa condiciones en las cuales la sustentación es igual al peso. Un planeador en vuelo con un factor de carga de uno no significa necesariamente que el planeador está en vuelo recto y nivelado, sino más bien que la sustentación total es igual a la de vuelo recto y nivelado no acelerado.
+Cualquier fuerza aplicada a un planeador para desviar su vuelo de una línea recta produce un esfuerzo en su estructura; el factor de carga describe esta fuerza. El factor de carga es la relación de la carga total de aire actuando sobre el planeador al peso del planeador. El factor de carga puede ser positivo o negativo y depende de la trayectoria de vuelo actual. Las unidades de factor de carga a menudo usan «G», una fuerza gravitacional equivalente. Un factor de carga de uno, o 1 G, representa condiciones en las cuales la sustentación es igual al peso. Un planeador en vuelo con un factor de carga de uno no significa necesariamente que el planeador está en vuelo recto y nivelado, sino más bien que la sustentación total es igual a la de vuelo recto y nivelado no acelerado.
 
 Cuando se somete a un planeador a Gs añadidos en una recuperación de picado, cualquiera en el planeador siente una sensación de presionar en el asiento con una fuerza igual al número de Gs multiplicado por el peso de la persona. Además, las extremidades de la persona requieren fuerza muscular añadida para resistir la fuerza descendente. Los Gs añadidos pueden afectar el flujo de sangre al cerebro, afectar la capacidad cognitiva y causar desorientación.
 

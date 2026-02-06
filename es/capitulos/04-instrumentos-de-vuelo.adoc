@@ -262,7 +262,7 @@ La computadora de vuelo acoplada a GPS puede proporcionar la siguiente informaci
 
 == Brújula magnética
 
-La mayoría de los planeadores no están bajo regulación para aeronaves motorizadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para "aeronaves civiles". Por esta razón, algunos planeadores no tienen brújula a menos que se requiera según las Hojas de Datos de Certificado de Tipo (TCDS) de la aeronave.
+La mayoría de los planeadores no están bajo regulación para aeronaves motorizadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para «aeronaves civiles». Por esta razón, algunos planeadores no tienen brújula a menos que se requiera según las Hojas de Datos de Certificado de Tipo (TCDS) de la aeronave.
 
 === Indicadores de deslizamiento/derrape
 
@@ -272,7 +272,7 @@ Una pieza de hilo montada en la corriente de aire libre y fácilmente visible pa
 .Indicaciones de condición de giro a la izquierda de una cinta de guiñada e inclinómetro
 image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=600]
 
-Un inclinómetro también proporciona indicación de deslizamiento/derrape. El inclinómetro responde a fuerza centrífuga y gravedad. El inclinómetro consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el planeador vuela de manera coordinada, la bola permanece centrada en el fondo del tubo de vidrio. La frase, "pisar la bola" explica cómo un piloto debería responder para restaurar vuelo coordinado.
+Un inclinómetro también proporciona indicación de deslizamiento/derrape. El inclinómetro responde a fuerza centrífuga y gravedad. El inclinómetro consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el planeador vuela de manera coordinada, la bola permanece centrada en el fondo del tubo de vidrio. La frase, «pisar la bola» explica cómo un piloto debería responder para restaurar vuelo coordinado.
 
 == Instrumentos giroscópicos
 
@@ -286,7 +286,7 @@ image::04/fig-04-29.the-g-meter.png[width=600]
 
 === Sistema de evitación de colisiones FLARM
 
-Una colisión en el aire presenta un riesgo para todos los pilotos, y los pilotos de planeadores tienen escenarios adicionales de colisión en el aire a considerar cuando están en térmicas, volando calles de nubes o corriendo laderas. Los sistemas FLARM (el nombre inspirado en "alarma de vuelo") pueden advertir a los pilotos de colisiones inminentes con otros planeadores equipados con FLARM y dar la ubicación de planeadores cercanos no amenazantes equipados con FLARM. <<fig-04-30>>
+Una colisión en el aire presenta un riesgo para todos los pilotos, y los pilotos de planeadores tienen escenarios adicionales de colisión en el aire a considerar cuando están en térmicas, volando calles de nubes o corriendo laderas. Los sistemas FLARM (el nombre inspirado en «alarma de vuelo») pueden advertir a los pilotos de colisiones inminentes con otros planeadores equipados con FLARM y dar la ubicación de planeadores cercanos no amenazantes equipados con FLARM. <<fig-04-30>>
 
 [[fig-04-30]]
 .Unidad FLARM en la parte superior del panel de instrumentos

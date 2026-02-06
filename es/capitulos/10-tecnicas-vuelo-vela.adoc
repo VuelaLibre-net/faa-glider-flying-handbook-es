@@ -36,9 +36,9 @@ La sustentación cerca de una base de nube a menudo aumenta dramáticamente en u
 
 A medida que cualquier térmica asciende desde la superficie y alcanza el nivel de condensación por convección (CCL), comienza a formarse una nube. Al principio, solo se forman unos pocos mechones. Los mechones iniciales de Cu en un cielo que de otro modo sería azul (sin nubes) indican dónde una térmica activa ha comenzado a construir una nube que crecerá hasta una forma familiar de coliflor. Al cruzar un agujero azul (una región de cualquier tamaño desde unas pocas millas hasta varias docenas de millas de cielo libre de nubes en un cielo que de otro modo estaría lleno de Cu), llegar a un mechón inicial de Cu puede proporcionar sustentación desde la térmica debajo. En algunos días y dependiendo de la humedad en el aire, estos mechones no experimentan desarrollo adicional y proporcionan la única indicación de térmicas.
 
-La falta de Cu no significa necesariamente falta de térmicas. Si el aire en altura está lo suficientemente frío y la temperatura de la superficie se calienta suficientemente, las térmicas se forman incluso sin suficiente humedad para la formación de cúmulos. Estas térmicas secas o "térmicas azules" pueden ser tan fuertes como sus contrapartes con cúmulo. Los pilotos de planeadores a veces encuentran estas térmicas por casualidad mientras planean. Sin embargo, pueden existir otros indicadores y pueden hacer que la búsqueda de térmicas sea menos aleatoria.
+La falta de Cu no significa necesariamente falta de térmicas. Si el aire en altura está lo suficientemente frío y la temperatura de la superficie se calienta suficientemente, las térmicas se forman incluso sin suficiente humedad para la formación de cúmulos. Estas térmicas secas o «térmicas azules» pueden ser tan fuertes como sus contrapartes con cúmulo. Los pilotos de planeadores a veces encuentran estas térmicas por casualidad mientras planean. Sin embargo, pueden existir otros indicadores y pueden hacer que la búsqueda de térmicas sea menos aleatoria.
 
-== Otros Indicadores de Térmicas
+== Otros indicadores de térmicas
 
 Otro planeador circulando puede indicar la presencia de una térmica. Las aves circulando también pueden indicar actividad térmica. Las térmicas tienden a transportar varios aerosoles, como polvo, hacia arriba con ellas. Cuando una térmica alcanza una inversión, perturba el aire estable por encima, se extiende horizontalmente y deposita algunos de los aerosoles en ese nivel. Dependiendo del ángulo del sol (y del tipo de gafas de sol del piloto), las cúpulas de neblina pueden indicar térmicas secas. Si el aire contiene suficiente humedad, las cúpulas de neblina a menudo se forman justo antes de los primeros mechones de Cu.
 
@@ -78,7 +78,7 @@ El aire fresco y estable también puede desplazarse con el viento. Los pilotos d
 .Agujero azul en un campo de cúmulos a sotavento de un lago
 image::10/fig-10-06.blue-hole-in-a-campo-of-cumulo-viento-en-cola-of.png[width=600]
 
-== La Imagen Completa
+== La imagen completa
 
 Con un cielo lleno de Cu y si planeando en la parte superior de la sustentación más fuerte, el piloto debería enfocarse en las Cu y hacer elecciones basadas en las mejores nubes. A altitudes más bajas, los pilotos de planeadores pueden encontrar difícil asociar térmicas con nubes arriba. Si eso sucede, el piloto debería usar las Cu para encontrar áreas que parecen generalmente activas y luego enfocarse más en indicadores basados en el suelo, como remolinos de polvo, una ladera con sol sobre ella o un ave circulando. Cuando se está abajo, el piloto puede aceptar ascensos débiles. A menudo la térmica cicla de nuevo y recompensa la paciencia.
 
@@ -86,7 +86,7 @@ Al buscar sustentación usando la mejor velocidad para volar, la velocidad de L/
 
 == Entrando en una Térmica
 
-Curiosamente, el descenso aumentado a menudo indica una térmica cercana. A continuación, el piloto siente una fuerza G positiva sutil u obvia, dependiendo de la fuerza de la térmica. La indicación "de asiento" de sustentación ocurre más rápido que lo que muestra cualquier variómetro, que se retrasa ligeramente. El piloto debería reducir la velocidad a entre L/D y mínimo descenso y notar la tendencia de la aguja del variómetro (debería ser una subida) o el variómetro de audio pasando del zumbido a pitidos más rápidos. En el momento correcto en la sustentación anticipada y en un escenario perfecto, el piloto entra en un giro coordinado en el ángulo de alabeo y velocidad correctos para centrarse dentro de la térmica.
+Curiosamente, el descenso aumentado a menudo indica una térmica cercana. A continuación, el piloto siente una fuerza G positiva sutil u obvia, dependiendo de la fuerza de la térmica. La indicación «de asiento» de sustentación ocurre más rápido que lo que muestra cualquier variómetro, que se retrasa ligeramente. El piloto debería reducir la velocidad a entre L/D y mínimo descenso y notar la tendencia de la aguja del variómetro (debería ser una subida) o el variómetro de audio pasando del zumbido a pitidos más rápidos. En el momento correcto en la sustentación anticipada y en un escenario perfecto, el piloto entra en un giro coordinado en el ángulo de alabeo y velocidad correctos para centrarse dentro de la térmica.
 
 Antes de continuar, ¿qué paso vital se omitió en el escenario anterior? ¡DESPEJAR VISUALMENTE EL ESPACIO AÉREO ANTES DE GIRAR! Los pilotos a veces olvidan ese paso primario básico antes de cualquier giro ya que el variómetro atrae mucha atención visual del piloto al entrar en sustentación. El vuelo a baja altitud y un planeador sin variómetro de audio aumentan la probabilidad de esta omisión.
 
@@ -158,7 +158,7 @@ Diferentes tipos de planeadores en la misma térmica pueden tener diferentes vel
 
 Al salir de una térmica, los métodos apropiados pueden preservar alguna altitud. El piloto debería aumentar la velocidad según sea necesario para penetrar cualquier descenso a menudo encontrado en el borde de la térmica y salir de la térmica de una manera que no dificulte o ponga en peligro a otros planeadores. Mientras circula, el piloto escanea los 360° completos del cielo. Esto permite que el piloto verifique continuamente otros tráficos en las cercanías y decida a dónde ir para el siguiente ascenso. Los pilotos experimentados a menudo deciden a dónde ir siguiente mientras todavía están en sustentación.
 
-== Gestionando Expectativas
+== Gestionando expectativas
 
 Los pilotos de planeadores deberían adaptarse rápidamente a lo que sea que el aire tenga para ofrecer en el momento. Mientras que las técnicas de planeo de térmicas se vuelven naturales con la práctica, los pilotos deberían esperar aterrizar temprano si no pueden encontrar sustentación suficiente como parte de la experiencia normal de vuelo.
 
@@ -312,9 +312,9 @@ Casi todos los vuelos de planeadores de gran altitud usan ondas de sotavento de 
 .Nubes de rotor y de gorro con lenticulares arriba
 image::10/fig-10-29.rotor-and-cap-nubes-with-lenticulars-above.png[width=600]
 
-=== Preparación Pre-vuelo
+=== Preparación pre-vuelo
 
-Áreas especiales dentro de los Estados Unidos continentales permiten operaciones de planeadores en el espacio aéreo Clase A por encima de 18,000 pies MSL bajo reglas de vuelo visual (VFR). El Control de Tráfico Aéreo (ATC) puede abrir una "ventana de onda" a una altitud específica en horarios específicos. Cada ventana de onda tiene su propio conjunto de procedimientos acordados por el ATC a través de una Carta de Acuerdo. Los pilotos de planeadores deberían entender las disposiciones especiales en la carta de acuerdo antes de volar dentro de una ventana de onda.
+Áreas especiales dentro de los Estados Unidos continentales permiten operaciones de planeadores en el espacio aéreo Clase A por encima de 18,000 pies MSL bajo reglas de vuelo visual (VFR). El Control de Tráfico Aéreo (ATC) puede abrir una «ventana de onda» a una altitud específica en horarios específicos. Cada ventana de onda tiene su propio conjunto de procedimientos acordados por el ATC a través de una Carta de Acuerdo. Los pilotos de planeadores deberían entender las disposiciones especiales en la carta de acuerdo antes de volar dentro de una ventana de onda.
 
 Un vuelo por encima de 18,000 pies MSL requiere preparación extensiva pre-vuelo. Los pilotos que planean vuelos de onda a altitudes más bajas pueden reducir la lista de elementos de preparación en consecuencia.
 
@@ -347,7 +347,7 @@ A veces, una capa inestable más baja que la cima de montaña tiene una tapa de 
 
 Dependiendo de la topografía cerca del sitio de planeo, puede ser posible transitar desde la sustentación de ladera hacia una onda de sotavento creada por topografía de barlovento donde existen múltiples crestas. En este caso, el piloto asciende lo más alto posible en la sustentación de ladera, luego penetra a barlovento hacia la onda de sotavento. Con las ondas de sotavento en fase con la topografía, el piloto a menudo puede ascender desde la sustentación de ladera a la sustentación de onda sin el rotor. A veces, el piloto de planeador puede no darse cuenta de que se ha encontrado la onda hasta encontrar sustentación aumentando constantemente a medida que el planeador asciende. Ascender en sustentación de ladera y luego girar a favor del viento para encontrar posibles ondas de sotavento producidas a sotavento de la cresta generalmente no debería ocurrir. Incluso con viento a favor, el descenso de sotavento puede poner el planeador en el suelo antes del contacto con la onda.
 
-Otra posibilidad involucra un remolque al lado positivo del rotor y un ascenso usando el rotor para alcanzar la onda. La técnica se basa en encontrar la parte ascendente del rotor. Dado que la sustentación del rotor usualmente permanece estacionaria sobre el suelo, esto puede involucrar volar un "ocho" en la sustentación del rotor para evitar volar a favor del viento. El piloto también puede volar varios círculos con una pata recta ocasional o volar recto contra el viento por varios segundos hasta que la sustentación disminuya seguido de circular para reposicionarse dentro de la sustentación. Cuál opción funciona mejor depende del tamaño de la sustentación y la fuerza del viento. Dado que el rotor puede contener regiones de sustentación y descenso cambiantes y turbulentos rápidamente, permanecer en él así como el simple control de velocidad y alabeo puede resultar difícil. Los pilotos inexperimentados deberían evitar usar un remolque al lado positivo de un rotor para alcanzar la onda.
+Otra posibilidad involucra un remolque al lado positivo del rotor y un ascenso usando el rotor para alcanzar la onda. La técnica se basa en encontrar la parte ascendente del rotor. Dado que la sustentación del rotor usualmente permanece estacionaria sobre el suelo, esto puede involucrar volar un «ocho» en la sustentación del rotor para evitar volar a favor del viento. El piloto también puede volar varios círculos con una pata recta ocasional o volar recto contra el viento por varios segundos hasta que la sustentación disminuya seguido de circular para reposicionarse dentro de la sustentación. Cuál opción funciona mejor depende del tamaño de la sustentación y la fuerza del viento. Dado que el rotor puede contener regiones de sustentación y descenso cambiantes y turbulentos rápidamente, permanecer en él así como el simple control de velocidad y alabeo puede resultar difícil. Los pilotos inexperimentados deberían evitar usar un remolque al lado positivo de un rotor para alcanzar la onda.
 
 El remolque hacia la onda ocurre remolcando por delante del rotor o a través del rotor. El completo evitar el rotor remolcando alrededor de él generalmente aumentará el tiempo en remolque, pero la turbulencia reducida aumenta la disposición del piloto de remolque para realizar futuros remolques de onda. <<fig-10-31>> Si el sitio de lanzamiento se encuentra cerca de un extremo de la cresta o cordillera de montañas productora de onda, un remolque alrededor del rotor y luego directamente hacia la sustentación de onda se vuelve más factible.
 
@@ -434,7 +434,7 @@ La mejor técnica de planeo para este tipo de sustentación depende de la natura
 
 La sustentación de zona de convergencia a veces puede volverse turbulenta, especialmente si el aire se mezcla de diferentes fuentes, como a lo largo de un frente de brisa marina. La aspereza general podría indicar una línea de convergencia. Cuando térmicas estrechas, ásperas y fuertes existen dentro de la línea de convergencia, el piloto puede trabajar estas áreas como cualquier otra térmica difícil usando ángulos de alabeo más pronunciados y más velocidad para maniobrabilidad.
 
-== Fuentes Combinadas de Corrientes Ascendentes
+== Fuentes combinadas de corrientes ascendentes
 
 Las fuentes de sustentación se categorizan en cuatro tipos: térmica, ladera, onda y convergencia. A menudo, existe más de un tipo de sustentación al mismo tiempo, como térmicas con sustentación de ladera, térmicas que conducen a una onda existente, zonas de convergencia que mejoran térmicas, ondas térmicas, y sustentación de onda y ladera. En terreno montañoso, los cuatro tipos de sustentación pueden existir en un solo día. El piloto de planeador necesita permanecer mentalmente ágil para tomar ventaja de varios tipos y ubicaciones de aire ascendente durante el vuelo.
 
