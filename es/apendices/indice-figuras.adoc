@@ -5,162 +5,302 @@ Este apéndice lista todas las figuras del manual organizadas por capítulo.
 
 == Capítulo 1: Planeadores y veleros
 
-* <<fig-01-01,Figura 01-01>>: Planeador DG Flugzeugbau GmbH serie 800B en vuelo
-* <<fig-01-02,Figura 01-02>>: Otto Lilienthal («el Rey del Planeador») en vuelo, década de 1890
-* <<fig-01-03,Figura 01-03>>: Lanzamiento del planeador Wright 1902 (17 de octubre de 1902)
-* <<fig-01-04,Figura 01-04>>: Motovelero autolanzable ASH 26 E con la hélice extendida
+* <<fig-01-01,Figura 01-01>>: Un planeador DG Flugzeugbau GmbH serie 800B
+* <<fig-01-02,Figura 01-02>>: Otto Lilienthal (el Rey del Planeador) en vuelo a mediados de la década de 1890
+* <<fig-01-03,Figura 01-03>>: Orville Wright (izquierda) y Dan Tate (derecha) lanzaron el planeador Wright 1902 por la ladera este de Big Hill, Kill Devil Hills, Carolina del Norte, el 17 de octubre de 1902. Wilbur Wright estaba pilotando el planeador
+* <<fig-01-04,Figura 01-04>>: Un motovelero ASH 26 E autolanzable con la hélice extendida
 
 == Capítulo 2: Componentes y sistemas
 
-* <<fig-02-01,Figura 02-01>>: Componentes de un planeador - ToDo: traducción etiquetas
-* <<fig-02-02,Figura 02-02>>: Los alerones cambian la curvatura del ala
-* <<fig-02-03,Figura 02-03>>: Tipos de dispositivos de sustentación y resistencia
-* <<fig-02-04,Figura 02-04>>: Posiciones de los flaps
+* <<fig-02-01,Figura 02-01>>: Componentes de un planeador
+* <<fig-02-02,Figura 02-02>>: Los alerones cambian la curvatura o camber del ala y aumentan o disminuyen la sustentación
+* <<fig-02-03,Figura 02-03>>: Tipos de dispositivos de sustentación/resistencia
+* <<fig-02-04,Figura 02-04>>: Posiciones del flap
 * <<fig-02-05,Figura 02-05>>: Componentes del empenaje
 * <<fig-02-06,Figura 02-06>>: Componentes adicionales del empenaje
-* <<fig-02-07,Figura 02-07>>: Un compensador del tipo aleta anti-servo
-* <<fig-02-08,Figura 02-08>>: Ubicaciones de los ganchos de remolque
-* <<fig-02-09,Figura 02-09>>: Un Grob G109B planeador motorizado de turismo
-* <<fig-02-10,Figura 02-10>>: Planeador de alto rendimiento DG-808B en autolanzamiento
-* <<fig-02-11,Figura 02-11>>: Un Schleicher ASG-29 E con motor sustentador de gasolina extendido
+* <<fig-02-07,Figura 02-07>>: Un trim anti-servo
+* <<fig-02-08,Figura 02-08>>: Ubicaciones del gancho de remolque
+* <<fig-02-09,Figura 02-09>>: Un Grob G109B motovelero de turismo
+* <<fig-02-10,Figura 02-10>>: Un planeador DG-808B de 18 metros de alto rendimiento en autolanzamiento
+* <<fig-02-11,Figura 02-11>>: Un Schleicher ASG-29 E con el mástil del motor sustentador de gasolina extendido
 * <<fig-02-12,Figura 02-12>>: Ruedas del tren de aterrizaje en un planeador
 
 == Capítulo 3: Aerodinamica del vuelo
 
-* <<fig-03-01,Figura 03-01>>: Los tres ejes de rotación son perpendiculares entre sí y se cruzan en el CG (N. del T. AESA, en algunos exámenes, ha traducido literalmente «lateral axis» como «eje lateral», pero en la terminología aeronáutica en español se utiliza «eje transversal»)
-* <<fig-03-02,Figura 03-02>>: Componentes vectoriales de la {term-lift-force}, empuje, resistencia y peso (gravedad)
+* <<fig-03-01,Figura 03-01>>: Tres ejes de rotación, cada uno perpendicular a los otros dos y todos intersectando en el CG
+* <<fig-03-03,Figura 03-03>>: Ecuación de sustentación
 * <<fig-03-04,Figura 03-04>>: Ángulo de ataque
-* <<fig-03-05,Figura 03-05>>: Resistencia parásita frente a velocidad
-* <<fig-03-06,Figura 03-06>>: Resistencia inducida por la producción de {term-lift-force}
-* <<fig-03-07,Figura 03-07>>: Resistencia parásita, inducida y total frente a la velocidad
-* <<fig-03-08,Figura 03-08>>: Efecto suelo
-* <<fig-03-09,Figura 03-09>>: Plantas de ala de planeadores
-* <<fig-03-10,Figura 03-10>>: Relación de aspecto - Alargamiento (Aspect Ratio)
+* <<fig-03-05,Figura 03-05>>: Resistencia parásita versus velocidad
+* <<fig-03-06,Figura 03-06>>: Resistencia inducida desde la producción de sustentación
+* <<fig-03-07,Figura 03-07>>: Resistencia parásita, resistencia inducida y resistencia total versus velocidad del aire
+* <<fig-03-08,Figura 03-08>>: Las fuerzas a lo largo de la trayectoria de vuelo de un planeador sin motor y su perpendicular
+* <<fig-03-09,Figura 03-09>>: Plantas de alas de planeador
+* <<fig-03-10,Figura 03-10>>: Relación de aspecto
 * <<fig-03-11,Figura 03-11>>: Tres tipos de estabilidad dinámica
 * <<fig-03-12,Figura 03-12>>: El estabilizador horizontal compensa la tendencia natural de un planeador a cabecear hacia abajo
 * <<fig-03-13,Figura 03-13>>: Estabilidad lateral
 * <<fig-03-14,Figura 03-14>>: Ángulo de diedro
-* <<fig-03-15,Figura 03-15>>: Fuerzas en un viraje inclinado
-* <<fig-03-16,Figura 03-16>>: Factor de carga en virajes
-* <<fig-03-17,Figura 03-17>>: Aumento de la velocidad de pérdida con el alabeo
-* <<fig-03-18,Figura 03-18>>: Radio de viraje frente al ángulo de alabeo
-* <<fig-03-19,Figura 03-19>>: Resbale frontal (Forward Slip)
+* <<fig-03-15,Figura 03-15>>: Fuerzas en un giro inclinado
+* <<fig-03-16,Figura 03-16>>: Las cargas colocadas sobre un planeador mientras se mantiene una tasa constante de descenso con respecto al aire circundante aumentan a medida que aumenta el ángulo de inclinación
+* <<fig-03-17,Figura 03-17>>: Un ángulo de inclinación de 60° causa un aumento del 41 por ciento en la velocidad de pérdida del planeador
+* <<fig-03-18,Figura 03-18>>: El radio de giro de un planeador comparado con el ángulo de inclinación
+* <<fig-03-19,Figura 03-19>>: Una comparación de un deslizamiento hacia adelante con un deslizamiento lateral
 * <<fig-03-20,Figura 03-20>>: Una pérdida ocurre cuando el ángulo de ataque excede el ángulo de ataque crítico
-* <<fig-03-21,Figura 03-21>>: Coeficientes de {term-lift-force} y resistencia durante una barrena
+* <<fig-03-21,Figura 03-21>>: Los coeficientes relativos de sustentación y resistencia para cada ala durante una barrena, que generan sustentación y resistencia diferenciales e inducen balanceo y guiñada
 * <<fig-03-22,Figura 03-22>>: Tres tipos de barrenas
 
 == Capítulo 4: Instrumentos de vuelo
 
-* <<fig-04-01,Figura 04-01>>: Ubicación del tubo pitot y tomas estáticas
-* <<fig-04-02,Figura 04-02>>: Presión dentro del diafragma en función de la velocidad
-* <<fig-04-03,Figura 04-03>>: Velocímetro
-* <<fig-04-04,Figura 04-04>>: Anatomía del velocímetro
-* <<fig-04-05,Figura 04-05>>: Funcionamiento del velocímetro
-* <<fig-04-06,Figura 04-06>>: Efectos de la altitud en el velocímetro
-* <<fig-04-07,Figura 04-07>>: Tres tipos de velocidad
-* <<fig-04-08,Figura 04-08>>: Velocidades de pérdida indicadas y verdaderas a varias altitudes
-* <<fig-04-18,Figura 04-18>>: Sistema de variómetro no compensado
-* <<fig-04-19,Figura 04-19>>: Anatomía del diafragma de un variómetro
+* <<fig-04-01,Figura 04-01>>: Un tubo pitot a menudo se monta en la nariz del planeador o en la aleta vertical
+* <<fig-04-02,Figura 04-02>>: Presión dentro del diafragma en función de la velocidad del aire
+* <<fig-04-03,Figura 04-03>>: Indicador de velocidad del aire
+* <<fig-04-04,Figura 04-04>>: Anatomía del indicador de velocidad del aire
+* <<fig-04-05,Figura 04-05>>: Funcionamiento del indicador de velocidad del aire
+* <<fig-04-06,Figura 04-06>>: Efectos de la altitud en el indicador de velocidad del aire
+* <<fig-04-07,Figura 04-07>>: Tres tipos de velocidad del aire
+* <<fig-04-08,Figura 04-08>>: Velocidades de pérdida indicadas y velocidades del aire verdaderas a varias altitudes
+* <<fig-04-09,Figura 04-09>>: La IAS correspondiente a VNE disminuye con la altitud
+* <<fig-04-10,Figura 04-10>>: Ejemplos de placas de limitación de velocidad colocadas en un planeador y a la vista del piloto
+* <<fig-04-11,Figura 04-11>>: Ventilas estáticas y plomería del altímetro
+* <<fig-04-12,Figura 04-12>>: Altímetro
+* <<fig-04-13,Figura 04-13>>: Presión atmosférica y altitud
+* <<fig-04-14,Figura 04-14>>: Cómo funciona el altímetro
+* <<fig-04-15,Figura 04-15>>: Dentro del altímetro
+* <<fig-04-16,Figura 04-16>>: Tipos de altitud
+* <<fig-04-18,Figura 04-18>>: Plomería del variómetro no compensado
+* <<fig-04-19,Figura 04-19>>: Anatomía del diafragma del variómetro
 * <<fig-04-20,Figura 04-20>>: Variómetro no compensado en vuelo nivelado
 * <<fig-04-21,Figura 04-21>>: Variómetro no compensado en ascenso
 * <<fig-04-22,Figura 04-22>>: Maniobras de vuelo que muestran cambios de altitud en un variómetro no compensado
-* <<fig-04-23,Figura 04-23>>: Instalación típica con variómetro eléctrico y mecánico de respaldo
-* <<fig-04-24,Figura 04-24>>: Anillo MacCready
-* <<fig-04-25,Figura 04-25>>: Sistema de variómetro de energía total
-* <<fig-04-26,Figura 04-26>>: Ejemplo de un sistema de variómetro Netto
-* <<fig-04-27,Figura 04-27>>: Pantalla de un computador de vuelo de planeador
-* <<fig-04-28,Figura 04-28>>: Indicaciones de viraje a la izquierda de un hilo de lana y un inclinómetro
-* <<fig-04-29,Figura 04-29>>: Acelerómetro (G-meter)
+* <<fig-04-23,Figura 04-23>>: Cuando un variómetro eléctrico se monta en el planeador, la instalación de un variómetro no eléctrico puede proporcionar un respaldo
+* <<fig-04-24,Figura 04-24>>: El anillo MacCready
+* <<fig-04-25,Figura 04-25>>: Un sistema de variómetro de energía total
+* <<fig-04-26,Figura 04-26>>: Un ejemplo de sistema de variómetro Netto
+* <<fig-04-27,Figura 04-27>>: Pantalla de computadora de vuelo de planeador
+* <<fig-04-28,Figura 04-28>>: Indicaciones de condición de giro a la izquierda de una cinta de guiñada e inclinómetro
+* <<fig-04-29,Figura 04-29>>: El G-meter
 * <<fig-04-30,Figura 04-30>>: Unidad FLARM en la parte superior del panel de instrumentos
+* <<fig-04-31,Figura 04-31>>: Indicador de temperatura del aire exterior (OAT)
 
 == Capítulo 5: Performance
 
-* <<fig-05-01,Figura 05-01>>: Tabla de altitud de densidad
-* <<fig-05-02,Figura 05-02>>: Efecto del viento aparente en la distancia de despegue y ángulo de ascenso
-* <<fig-05-03,Figura 05-03>>: Un gradiente de viento puede afectar a la velocidad durante un remolque terrestre
-* <<fig-05-04,Figura 05-04>>: Efecto del viento cruzado en el planeo final
+* <<fig-05-01,Figura 05-01>>: Gráfico de altitud de densidad
+* <<fig-05-02,Figura 05-02>>: Efecto aparente del viento en la distancia de despegue y el ángulo de ascenso
+* <<fig-05-03,Figura 05-03>>: Un gradiente de viento puede afectar la velocidad del aire durante un remolque terrestre
+* <<fig-05-04,Figura 05-04>>: Efecto de viento cruzado en el planeo final
+* <<fig-05-05,Figura 05-05>>: El efecto del viento en la aproximación final y la distancia de aterrizaje
+* <<fig-05-06,Figura 05-06>>: Efecto del gradiente de velocidad del viento en un planeador
+* <<fig-05-07,Figura 05-07>>: Efecto del peso en la distancia de despegue y la tasa y ángulo de ascenso
+* <<fig-05-08,Figura 05-08>>: Efecto del peso añadido en el radio de giro en térmicas
+* <<fig-05-09,Figura 05-09>>: Efecto del peso añadido en las velocidades de rendimiento
+* <<fig-05-10,Figura 05-10>>: Placas típicas para planeadores
+* <<fig-05-11,Figura 05-11>>: Velocidad de aire de mínimo hundimiento y velocidad de máxima relación L/D
+* <<fig-05-12,Figura 05-12>>: Mejor velocidad para volar con un viento en proa de 20 nudos
+* <<fig-05-13,Figura 05-13>>: Mejor velocidad para volar en aire descendente
+* <<fig-05-14,Figura 05-14>>: Efecto del lastre de agua en la polar de rendimiento
+* <<fig-05-15,Figura 05-15>>: Polar de rendimiento con flaps a 0° y –8°
+* <<fig-05-16,Figura 05-16>>: Polar de rendimiento con configuraciones de 15 metros y 18 metros de envergadura
+* <<fig-05-17,Figura 05-17>>: Ejemplo de envolvente de vuelo de planeador
+* <<fig-05-20,Figura 05-20>>: Tapa de llenado con ventilación del tanque de lastre de agua
+* <<fig-05-21,Figura 05-21>>: Manijas de válvula de drenaje de lastre de agua
 
 == Capítulo 6: Prevuelo operaciones tierra
 
-* <<fig-06-01,Figura 06-01>>: Los caballetes y carritos de ala pueden ayudar en el montaje del planeador
+* <<fig-06-01,Figura 06-01>>: Soportes de ala y carritos de ala pueden asistir en el montaje del planeador
 * <<fig-06-02,Figura 06-02>>: Plegar las alas del planeador reduce el espacio de almacenamiento
 * <<fig-06-03,Figura 06-03>>: Componentes de un planeador almacenados y transportados en un remolque
 * <<fig-06-04,Figura 06-04>>: Protección del tubo pitot y la sonda de energía total
-* <<fig-06-05,Figura 06-05>>: Protección de la cabina
+* <<fig-06-05,Figura 06-05>>: Protección del canopy
 * <<fig-06-06,Figura 06-06>>: Posicionamiento del planeador para el vehículo de remolque
-* <<fig-06-07,Figura 06-07>>: Carrito de ala (izquierda) y carrito de cola (derecha) para el movimiento en tierra
-* <<fig-06-08,Figura 06-08>>: Inspección del cable de remolque
+* <<fig-06-07,Figura 06-07>>: Un carrito de ala (izquierda) listo para unión y un carrito de cola (derecha) siendo usado para movimiento en tierra del planeador
+* <<fig-06-08,Figura 06-08>>: Inspección de la línea de remolque
+* <<fig-06-09,Figura 06-09>>: Materiales de cuerda de remolque
+* <<fig-06-10,Figura 06-10>>: Resistencias típicas de cuerda
+* <<fig-06-11,Figura 06-11>>: Un enlace de seguridad. La espuma añadida a la línea de remolque previene la abrasión de la línea de remolque
+* <<fig-06-12,Figura 06-12>>: Requisitos de resistencia de enlace de seguridad asumiendo un enlace de 1,000 lb instalado cerca del planeador
+* <<fig-06-13,Figura 06-13>>: Gancho de remolque tipo Schweizer
+* <<fig-06-14,Figura 06-14>>: Gancho Tost
+* <<fig-06-15,Figura 06-15>>: Lista de verificación de inspección pre-vuelo de planeador
+* <<fig-06-16,Figura 06-16>>: Chequeo de control positivo de spoilers
+* <<fig-06-17,Figura 06-17>>: Listas de verificación pre-lanzamiento genéricas
 
 == Capítulo 7: Lanzamiento aterrizaje maniobras
 
 * <<fig-07-01,Figura 07-01>>: Señales previas al lanzamiento en remolque aéreo
 * <<fig-07-02,Figura 07-02>>: Señales visuales de remolque aéreo en vuelo
-* <<fig-07-03,Figura 07-03>>: Seguimiento del eje de la pista
-* <<fig-07-04,Figura 07-04>>: Corrección de viento cruzado para el despegue
-* <<fig-07-05,Figura 07-05>>: Configuración para despegue con viento cruzado no asistido
-* <<fig-07-06,Figura 07-06>>: Despegues prematuros y PIO
+* <<fig-07-03,Figura 07-03>>: Siguiendo la línea central de la pista
+* <<fig-07-04,Figura 07-04>>: Corrección de viento cruzado para despegue
+* <<fig-07-05,Figura 07-05>>: Al configurar para un despegue con viento cruzado, el planeador debe comenzar en el lado barlovento de la pista
+* <<fig-07-06,Figura 07-06>>: Despegues prematuros y PIOs
 * <<fig-07-07,Figura 07-07>>: Oscilaciones de alabeo inducidas por el piloto durante la carrera de despegue
 * <<fig-07-08,Figura 07-08>>: Oscilaciones de guiñada inducidas por el piloto durante la carrera de despegue
 * <<fig-07-09,Figura 07-09>>: Posiciones de ascenso en remolque aéreo
-* <<fig-07-10,Figura 07-10>>: Virajes de ascenso en remolque aéreo
-* <<fig-07-11,Figura 07-11>>: El alabeo del planeador es más pronunciado que el del avión remolcador, causando comba en el cable
-* <<fig-07-12,Figura 07-12>>: El alabeo del planeador es demasiado plano, causando un viraje exterior al del avión remolcador
-* <<fig-07-13,Figura 07-13>>: Efectos del aumento de la tensión del cable en la actitud de cabeceo
-* <<fig-07-14,Figura 07-14>>: Picar hacia el avión remolcador, induciendo comba en el cable
-* <<fig-07-15,Figura 07-15>>: Caja de la estela
-* <<fig-07-31,Figura 07-31>>: Circuito de tráfico
-* <<fig-07-32,Figura 07-32>>: Forma de la pista durante una aproximación estabilizada
-* <<fig-07-33,Figura 07-33>>: Cambio en la forma de la pista si la aproximación se vuelve estrecha o empinada
-* <<fig-07-37,Figura 07-37>>: Virajes suaves, medios y escarpados
-* <<fig-07-38,Figura 07-38>>: Viraje coordinado
-* <<fig-07-39,Figura 07-39>>: Viraje con resbale
-* <<fig-07-40,Figura 07-40>>: Viraje con derrape
-* <<fig-07-27,Figura 07-27>>: Paneles de instrumentos de motoveleros
-* <<fig-07-28,Figura 07-28>>: Relaciones de actitud de cabeceo y ajuste de potencia para motovelero con motor en pilón
-* <<fig-07-29,Figura 07-29>>: Despegue con viento cruzado en motovelero
+* <<fig-07-10,Figura 07-10>>: Giros de ascenso en remolque aéreo
+* <<fig-07-11,Figura 07-11>>: El alabeo del planeador es más pronunciado que el del avión de remolque, causando holgura en la línea de remolque
+* <<fig-07-12,Figura 07-12>>: Allebo del planeador demasiado suave, causando giro fuera del giro del avión de remolque
+* <<fig-07-13,Figura 07-13>>: Efectos del aumento de tensión de la línea de remolque en la actitud de cabeceo de planeadores equipados con gancho de centro de gravedad durante el remolque aéreo
+* <<fig-07-14,Figura 07-14>>: Buceando sobre el avión de remolque
+* <<fig-07-15,Figura 07-15>>: Boxear la estela
+* <<fig-07-16,Figura 07-16>>: Liberación del remolque aéreo
+* <<fig-07-17,Figura 07-17>>: Prueba del gancho de remolque
+* <<fig-07-18,Figura 07-18>>: Señales previas al lanzamiento de cabrestante y remolque aéreo
+* <<fig-07-19,Figura 07-19>>: Señales en vuelo para lanzamiento en tierra
+* <<fig-07-20,Figura 07-20>>: Velocidades de remolque en tierra
+* <<fig-07-21,Figura 07-21>>: Procedimientos de lanzamiento en tierra
+* <<fig-07-22,Figura 07-22>>: Procedimientos de cabrestante
+* <<fig-07-23,Figura 07-23>>: Ángulo de corrección de viento para procedimientos de cabrestante
+* <<fig-07-24,Figura 07-24>>: Corrección de deriva con viento cruzado en lanzamiento en tierra
+* <<fig-07-25,Figura 07-25>>: Perfil de despegue con lanzamiento en tierra
+* <<fig-07-26,Figura 07-26>>: Tipos de planeadores de auto-lanzamiento
+* <<fig-07-27,Figura 07-27>>: Paneles de instrumentos de planeador de auto-lanzamiento
+* <<fig-07-28,Figura 07-28>>: Relaciones de actitud de cabeceo y configuración de potencia para planeador de auto-lanzamiento con góndola de motor
+* <<fig-07-29,Figura 07-29>>: Planeadores de auto-lanzamiento—despegue con viento cruzado
 * <<fig-07-30,Figura 07-30>>: Factor P
-* <<fig-07-22,Figura 07-22>>: Procedimientos de torno
-* <<fig-07-23,Figura 07-23>>: Ángulo de corrección de viento para procedimientos de torno
-* <<fig-07-24,Figura 07-24>>: Corrección de deriva por viento cruzado en lanzamiento terrestre
-* <<fig-07-25,Figura 07-25>>: Perfil de despegue de lanzamiento terrestre
-* <<fig-07-26,Figura 07-26>>: Tipos de motoveleros
+* <<fig-07-32,Figura 07-32>>: Forma de la pista durante aproximación estabilizada
+* <<fig-07-33,Figura 07-33>>: Cambio en la forma de la pista si la aproximación se vuelve estrecha o empinada
+* <<fig-07-34,Figura 07-34>>: Resbalón frontal y resbalón lateral
+* <<fig-07-35,Figura 07-35>>: Uso del método de crabeo para seguir la línea central extendida del área de aterrizaje (A). Control de la deriva lateral ajustando el planeador hacia el viento antes del aterrizaje (B)
+* <<fig-07-36,Figura 07-36>>: Rebote del neumático
+* <<fig-07-37,Figura 07-37>>: Giros poco profundos, medios y pronunciados
+* <<fig-07-38,Figura 07-38>>: Giro coordinado
+* <<fig-07-39,Figura 07-39>>: Giro resbalado
+* <<fig-07-40,Figura 07-40>>: Giro derrapado
+* <<fig-07-41,Figura 07-41>>: Recuperación de pérdida
+* <<fig-07-42,Figura 07-42>>: Demostración de aproximación con controles cruzados a una pérdida a altitud
 
 == Capítulo 8: Emergencias
 
-* <<fig-08-01,Figura 08-01>>: Señales de fallo de suelta y de emergencia
-* <<fig-08-02,Figura 08-02>>: Enganche de remolque Schweizer
-* <<fig-08-03,Figura 08-03>>: Enganche de remolque Tost
-* <<fig-08-04,Figura 08-04>>: Anillas Schweizer y Tost
-* <<fig-08-05,Figura 08-05>>: Bloqueo del enganche Schweizer por tensión hacia arriba
-* <<fig-08-12,Figura 08-12>>: Aproximación de {term-off-field-landing}
+* <<fig-08-01,Figura 08-01>>: Señales del avión de remolque y el planeador debido a falla del mecanismo de liberación (paneles izquierdo y central) y señal del avión de remolque ordenando liberación del planeador (panel derecho)
+* <<fig-08-04,Figura 08-04>>: Ejemplos de anillos de remolque Schweizer y Tost
+* <<fig-08-05,Figura 08-05>>: Un enganche de remolque Schweizer bajo tensión hacia arriba
+* <<fig-08-06,Figura 08-06>>: Situaciones para rotura de línea de remolque, liberación no comandada o pérdida de potencia del avión de remolque
+* <<fig-08-07,Figura 08-07>>: El alabeo del planeador es más pronunciado que el del avión de remolque, causando holgura en la línea de remolque
+* <<fig-08-08,Figura 08-08>>: Un método de generar línea de remolque floja
+* <<fig-08-09,Figura 08-09>>: Gradiente de viento en lanzamiento en tierra
+* <<fig-08-10,Figura 08-10>>: Rotura de línea de remolque en lanzamiento en tierra
+* <<fig-08-11,Figura 08-11>>: Auto-rotación del planeador en barrena
+* <<fig-08-12,Figura 08-12>>: Aproximación de aterrizaje fuera de campo
+* <<fig-08-13,Figura 08-13>>: Disyuntores de motovela
 
 == Capítulo 9: Meteorologia vuelo vela
 
-* <<fig-09-01,Figura 09-01>>: Flujo de viento sobre terreno montañoso
-* <<fig-09-02,Figura 09-02>>: Ciclo de vida de una térmica
-* <<fig-09-03,Figura 09-03>>: Sistema de onda de montaña
+* <<fig-09-01,Figura 09-01>>: Masa atmosférica por altitud
+* <<fig-09-02,Figura 09-02>>: Composición de la atmósfera
+* <<fig-09-03,Figura 09-03>>: Temperaturas de la atmósfera estándar
+* <<fig-09-04,Figura 09-04>>: Capas de la atmósfera
+* <<fig-09-05,Figura 09-05>>: Escala de circulación—dimensiones horizontales y vidas útiles de eventos meteorológicos asociados
+* <<fig-09-06,Figura 09-06>>: Modelo de burbuja o anillo de vórtice de una térmica
+* <<fig-09-07,Figura 09-07>>: Modelo de columna o pluma de una térmica
+* <<fig-09-08,Figura 09-08>>: Sección transversal a través de una térmica. Verde más oscuro es sustentación más fuerte; rojo es descenso
+* <<fig-09-09,Figura 09-09>>: Ciclo de vida de una térmica típica con nube cúmulo
+* <<fig-09-10,Figura 09-10>>: Aire inestable (A) y estable (B)
+* <<fig-09-11,Figura 09-11>>: Flujo típico del monzón de Norteamérica
+* <<fig-09-12,Figura 09-12>>: Circulación a través de una calle de nubes
+* <<fig-09-13,Figura 09-13>>: Onda térmica de calle de nubes
+* <<fig-09-14,Figura 09-14>>: Frecuencia de tormentas eléctricas en verano
+* <<fig-09-15,Figura 09-15>>: Una nube cúmulo convirtiéndose en un cúmulo de gran desarrollo
+* <<fig-09-16,Figura 09-16>>: Zona de sustentación para vuelo de ladera
+* <<fig-09-17,Figura 09-17>>: Sustentación de ladera y remolino con pendiente casi vertical
+* <<fig-09-18,Figura 09-18>>: Flujo de aire a lo largo de diferentes crestas
+* <<fig-09-19,Figura 09-19>>: Efectos tridimensionales de vientos oblicuos y cuencas
+* <<fig-09-20,Figura 09-20>>: Nube de gorro
+* <<fig-09-21,Figura 09-21>>: Parcela desplazada verticalmente y oscilando alrededor de su nivel de equilibrio
+* <<fig-09-22,Figura 09-22>>: Sistema de onda de sotavento de montaña
+* <<fig-09-23,Figura 09-23>>: Cobertura de nubes asociada con variaciones en humedad
+* <<fig-09-24,Figura 09-24>>: Interferencia destructiva y constructiva
+* <<fig-09-25,Figura 09-25>>: Los Premios Lennie se otorgan por completar y documentar un vuelo de onda
+* <<fig-09-26,Figura 09-26>>: Frente de brisa marina
+* <<fig-09-27,Figura 09-27>>: Convergencia inducida por flujo alrededor de la topografía (visto desde arriba)
+* <<fig-09-28,Figura 09-28>>: Convergencia en la cima de montaña
+* <<fig-09-29,Figura 09-29>>: Convergencia inducida por flujo alrededor de la topografía
+* <<fig-09-30,Figura 09-30>>: Pronóstico de planeo
 
 == Capítulo 10: Tecnicas vuelo vela
 
-* <<fig-10-01,Figura 10-01>>: Técnica de centrado de térmicas
-* <<fig-10-02,Figura 10-02>>: Vuelo en la zona de sustentación de ladera
-* <<fig-10-03,Figura 10-03>>: Trayectoria de vuelo de delfín bajo una calle de nubes
+* <<fig-10-01,Figura 10-01>>: Fotografías de (A) cúmulo maduro, que puede producir buena sustentación, y (B) cúmulo en disipación
+* <<fig-10-02,Figura 10-02>>: Fotografías de (A) cúmulo de gran desarrollo, (B) cumulonimbo (Cb), y (C) virga
+* <<fig-10-03,Figura 10-03>>: Los rayos del sol se concentran en un área más pequeña en una ladera que en el terreno plano adyacente
+* <<fig-10-04,Figura 10-04>>: Fotografía de calles de nubes
+* <<fig-10-05,Figura 10-05>>: Inclinación de la térmica en cizalladura que (A) no cambia con la altura, y que (B) aumenta con la altura
+* <<fig-10-06,Figura 10-06>>: Agujero azul en un campo de cúmulos a sotavento de un lago
+* <<fig-10-07,Figura 10-07>>: Efecto del planeador al ser permitido inclinarse por su cuenta al encontrar térmicas
+* <<fig-10-08,Figura 10-08>>: La corrección de centrado de 270°
+* <<fig-10-09,Figura 10-09>>: Posible pérdida de térmica al intentar revertir las direcciones del círculo
+* <<fig-10-10,Figura 10-10>>: Centrado desplazando el giro del círculo hacia la sustentación más fuerte
+* <<fig-10-11,Figura 10-11>>: Otras correcciones de centrado
+* <<fig-10-12,Figura 10-12>>: Posicionamiento apropiado con dos planeadores a la misma altitud. Cada número corresponde a la posición de ambos planeadores en un momento dado
+* <<fig-10-13,Figura 10-13>>: Flujo de viento de cresta
+* <<fig-10-14,Figura 10-14>>: El flujo de aire generalmente sigue la forma de la colina
+* <<fig-10-15,Figura 10-15>>: Los perfiles irregulares pueden crear un peligro
+* <<fig-10-16,Figura 10-16>>: Acerquese a las crestas diagonalmente
+* <<fig-10-17,Figura 10-17>>: El descenso térmico puede voltear la aeronave hacia la montaña
+* <<fig-10-18,Figura 10-18>>: Volar con viento aumenta el radio de giro sobre el suelo, así que acérquese a la cresta en un ángulo poco profundo
+* <<fig-10-19,Figura 10-19>>: Al volar cerca de una cresta, los pilotos usan velocidad extra para más control y para pasar rápidamente a través del descenso
+* <<fig-10-20,Figura 10-20>>: Reglas de cresta
+* <<fig-10-21,Figura 10-21>>: Evite el descenso en el lado de sotavento de los espolones desviándose alrededor de ellos
+* <<fig-10-22,Figura 10-22>>: Una técnica para atrapar una térmica desde la sustentación de ladera
+* <<fig-10-23,Figura 10-23>>: Atrapar una térmica volando a barlovento lejos de la sustentación de ladera
+* <<fig-10-24,Figura 10-24>>: Analice el terreno inclinado para colectores y divisores de viento
+* <<fig-10-25,Figura 10-25>>: Espere turbulencia y descenso en el lado de sotavento de cualquier colina
+* <<fig-10-26,Figura 10-26>>: La cima es donde el aire ascendente comienza a descender
+* <<fig-10-27,Figura 10-27>>: La sombra profunda puede mejorar el descenso
+* <<fig-10-28,Figura 10-28>>: A
+* <<fig-10-29,Figura 10-29>>: Nubes de rotor y de gorro con lenticulares arriba
+* <<fig-10-31,Figura 10-31>>: Un remolque alrededor del rotor directamente hacia la onda evita la turbulencia
+* <<fig-10-32,Figura 10-32>>: Indicaciones del variómetro durante la penetración hacia la onda
+* <<fig-10-33,Figura 10-33>>: Posible liberación y separación en un remolque de onda
+* <<fig-10-34,Figura 10-34>>: Gestionando la posición de onda con velocidad
+* <<fig-10-35,Figura 10-35>>: Busque a barlovento primero para evitar descenso detrás de la cresta de la onda o el rotor
+* <<fig-10-36,Figura 10-36>>: Crucero y giros en una onda
+* <<fig-10-37,Figura 10-37>>: Técnicas para trabajar sustentación cerca de la cima de la onda en vientos débiles
+* <<fig-10-38,Figura 10-38>>: Posible trayectoria de vuelo mientras se transita desde la terciaria hacia la secundaria y luego hacia la primaria
 
 == Capítulo 11: Vuelo travesia
 
-* <<fig-11-01,Figura 11-01>>: Uso del anillo MacCready para optimizar la velocidad
-* <<fig-11-02,Figura 11-02>>: Zonas de decisión basadas en la altitud
-* <<fig-11-03,Figura 11-03>>: Perfil y cálculo de la final de planeo
+* <<fig-11-01,Figura 11-01>>: Extracto de una Carta Aeronáutica Seccional
+* <<fig-11-02,Figura 11-02>>: Muestra de Pronóstico de Planeo
+* <<fig-11-03,Figura 11-03>>: Trazador de vuelo de navegación
+* <<fig-11-04,Figura 11-04>>: Calculadora circular de planeo
+* <<fig-11-05,Figura 11-05>>: Ejemplos de cálculo de planeo para viento de frente y viento de cola
+* <<fig-11-06,Figura 11-06>>: Triángulo de travesía dibujado en la Carta Seccional de Albuquerque
+* <<fig-11-07,Figura 11-07>>: VOR TEXICO y Aeropuerto de Benger (X54)
+* <<fig-11-08,Figura 11-08>>: Circle Back y Needmore
+* <<fig-11-09,Figura 11-09>>: Ejemplos de rutas de práctica de travesía
+* <<fig-11-10,Figura 11-10>>: Ejemplo de perfil de vuelo durante una ruta de travesía
+* <<fig-11-12,Figura 11-12>>: Un Anillo MacCready ajustado para un ascenso esperado de 4 nudos en la siguiente térmica. Con un descenso actual de poco más de 2 nudos, el anillo MacCready sugiere 65 nudos como la velocidad a la siguiente térmica.
+* <<fig-11-13,Figura 11-13>>: Ejemplo de planeos logrados para diferentes ajustes de anillo MacCready
+* <<fig-11-14,Figura 11-14>>: Altura térmica y banda de altitud versus hora del día
+* <<fig-11-15,Figura 11-15>>: Ventaja de la velocidad apropiada para volar bajo una calle de nubes
+* <<fig-11-16,Figura 11-16>>: Efectos de comenzar desviaciones de curso en diferentes tiempos. Las flechas rojas muestran distancia extra de curso e indican el beneficio de desviaciones de curso tempranas.
+* <<fig-11-17,Figura 11-17>>: Efectos en la relación de planeo del motor estando extendido pero no funcionando
 
 == Capítulo 12: Remolque
 
-* <<fig-12-01,Figura 12-01>>: Señales visuales estándar en remolque
-* <<fig-12-02,Figura 12-02>>: Posiciones de remolque alto y bajo
-* <<fig-12-03,Figura 12-03>>: Perfil de un lanzamiento con torno
+* <<fig-12-01,Figura 12-01>>: Los planeadores comúnmente usan aviones de remolque para lanzarse y obtener altitud
+* <<fig-12-02,Figura 12-02>>: Gancho de remolque Schweizer (izquierda) y gancho de remolque Tost (derecha)
+* <<fig-12-03,Figura 12-03>>: Anillo de remolque Schweizer y anillo de remolque Tost
+* <<fig-12-04,Figura 12-04>>: Un punto de aborto físico en la pista debe determinarse e informarse al piloto del planeador antes de comenzar los procedimientos de remolque
+* <<fig-12-05,Figura 12-05>>: El piloto de remolque avanza el acelerador suave y rápidamente en un movimiento para que el planeador no pase sobre la línea de remolque
+* <<fig-12-06,Figura 12-06>>: Ejemplos de velocidades máximas de remolque aéreo de planeadores
+* <<fig-12-07,Figura 12-07>>: Ascenso de remolque aéreo
+* <<fig-12-08,Figura 12-08>>: Liberación de remolque aéreo
+* <<fig-12-09,Figura 12-09>>: En un remolque de travesía, el piloto de remolque y el piloto del planeador deben tener comunicación bidireccional usando radios montadas en panel o portátiles
+* <<fig-12-10,Figura 12-10>>: Falla de liberación del planeador
+* <<fig-12-11,Figura 12-11>>: El avión de remolque indica que el piloto del planeador debe liberarse inmediatamente
 
 == Capítulo 13: Factores humanos
 
-* <<fig-13-01,Figura 13-01>>: Técnicas de escaneo visual activo
-* <<fig-13-02,Figura 13-02>>: Ilusiones ópticas en la aproximación final
-* <<fig-13-03,Figura 13-03>>: El modelo de autoevaluación IMSAFE
+* <<fig-13-01,Figura 13-01>>: Disciplinas de factores humanos
+* <<fig-13-02,Figura 13-02>>: Muestra de factores que interactúan con la fatiga
+* <<fig-13-03,Figura 13-03>>: Muchos factores de rendimiento humano suben y bajan diariamente
+* <<fig-13-04,Figura 13-04>>: Síntomas comunes de hiperventilación
+* <<fig-13-05,Figura 13-05>>: Tiempo de conciencia útil
+* <<fig-13-06,Figura 13-06>>: Cámara de altitud CAMI
+* <<fig-13-07,Figura 13-07>>: Volar en neblina u otras restricciones de visibilidad aumenta la probabilidad de desorientación espacial
+* <<fig-13-08,Figura 13-08>>: Síntomas de deshidratación
+* <<fig-13-09,Figura 13-09>>: Sistema de oxígeno de flujo continuo
+* <<fig-13-10,Figura 13-10>>: Máscara de oxígeno
+* <<fig-13-11,Figura 13-11>>: Cánula nasal
+* <<fig-13-12,Figura 13-12>>: Sistema de Oxígeno de Pulso Electrónico a Demanda (EDS)
+* <<fig-13-13,Figura 13-13>>: Datos de accidentes de planeadores de la base de datos del NTSB
 
