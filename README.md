@@ -42,7 +42,7 @@ Esta versión está en fase **inicial de desarrollo**. Se ha completado la impor
 
 - ✅ 279 imágenes oficiales FAA importadas (100%)
 - ✅ Capítulos 1-2: Texto revisado y completo
-- ⏳ 0/279 imágenes con texto traducido al español (0%)
+- ✅ 16/279 imágenes con texto traducido al español (6%)
 - ⚠️ Capítulos 3-13: En revisión inicial
 - 🔍 Terminología técnica por validar con pilotos titulados
 
@@ -196,8 +196,8 @@ Más detalles en [AGENTS.md](AGENTS.md).
 
 | Capítulo | Título | Estado Traducción | Img. Importadas | Img. Revisadas | Img. Traducidas |
 |----------|--------|-------------------|-----------------|----------------|-----------------|
-| 1 | Planeadores y Veleros | ✅ Revisado | 4 | ✅ | ⏳ |
-| 2 | Componentes y Sistemas | ✅ Revisado | 12 | ✅ | ⏳ |
+| 1 | Planeadores y Veleros | ✅ Revisado | 4 | ✅ | ✅ |
+| 2 | Componentes y Sistemas | ✅ Revisado | 12 | ✅ | ✅ |
 | 3 | Aerodinámica del Vuelo | 📝 Borrador | 22 | ⏳ | ⏳ |
 | 4 | Instrumentos de Vuelo | 📝 Borrador | 31 | ⏳ | ⏳ |
 | 5 | Performance del Planeador | 📝 Borrador | 21 | ⏳ | ⏳ |
