@@ -108,9 +108,12 @@ class TranslationManager:
         # Crear cliente
         self._client = genai.Client(api_key=self._api_key)
         
-        # Determinar modelo
+        # Determinar modelo (usar el guardado o el predeterminado)
         if model is None:
-            model = GeminiModel.FLASH
+            # Cargar modelo guardado desde configuración
+            from .config import ConfigManager
+            saved_model = ConfigManager.get_default_model()
+            model = saved_model
         self._model = model
         self._model_name = model.value if isinstance(model, GeminiModel) else model
         
@@ -178,6 +181,88 @@ class TranslationManager:
             return response is not None
         except Exception:
             return False
+    
+    def check_connection_status(self) -> dict:
+        """
+        Verifica el estado de conexión con la API de Gemini.
+        
+        Returns:
+            Diccionario con información detallada del estado:
+            - status: 'ok', 'error', 'unconfigured'
+            - api_key_present: bool
+            - api_key_source: str ('env', '.env', 'parameter', 'none')
+            - api_key_preview: str (últimos 4 caracteres)
+            - endpoint: str
+            - models_available: int
+            - current_model: str
+            - model_valid: bool
+            - response_time_ms: float
+            - error_message: str (si aplica)
+        """
+        import time
+        import os
+        
+        result = {
+            'status': 'unconfigured',
+            'api_key_present': False,
+            'api_key_source': 'none',
+            'api_key_preview': None,
+            'endpoint': 'generativelanguage.googleapis.com',
+            'models_available': 0,
+            'current_model': self._model_name,
+            'model_valid': False,
+            'response_time_ms': 0,
+            'error_message': None
+        }
+        
+        # Verificar API key
+        if self._api_key and self._api_key != 'tu_api_key_aqui':
+            result['api_key_present'] = True
+            result['api_key_preview'] = f"...{self._api_key[-4:]}"
+            
+            # Determinar fuente
+            if os.environ.get('GEMINI_API_KEY'):
+                result['api_key_source'] = 'env'
+            else:
+                result['api_key_source'] = '.env'
+        else:
+            result['error_message'] = "API key no configurada"
+            return result
+        
+        # Intentar conexión
+        start_time = time.time()
+        try:
+            # Listar modelos disponibles
+            models = list(self._client.models.list())
+            result['models_available'] = len(models)
+            
+            # Verificar que el modelo actual existe
+            model_names = [m.name for m in models]
+            result['model_valid'] = any(self._model_name in name for name in model_names)
+            
+            result['response_time_ms'] = round((time.time() - start_time) * 1000, 2)
+            result['status'] = 'ok'
+            
+        except Exception as e:
+            result['response_time_ms'] = round((time.time() - start_time) * 1000, 2)
+            result['status'] = 'error'
+            result['error_message'] = str(e)
+        
+        return result
+    
+    def ping_endpoint(self) -> tuple[bool, str]:
+        """
+        Hace un ping simple al endpoint de Gemini.
+        
+        Returns:
+            Tuple (success, message)
+        """
+        try:
+            # Intentar una operación simple
+            models = list(self._client.models.list())
+            return True, f"✅ Conexión exitosa. {len(models)} modelos disponibles."
+        except Exception as e:
+            return False, f"❌ Error de conexión: {str(e)}"
     
     def translate_image(
         self,

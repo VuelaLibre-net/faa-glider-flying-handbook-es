@@ -16,6 +16,7 @@ from ..config import (
     DEFAULT_QUALITY,
     DEFAULT_CREATE_BACKUP,
     IMAGES_DIR,
+    TranslationConfig,
 )
 from ..image_processor import ImageProcessor, open_folder_in_explorer
 from ..file_manager import FileManager
@@ -28,6 +29,7 @@ from ..translation import (
 from ..clipboard_handler import get_clipboard_handler, NoImageInClipboardError
 from .image_editor import ImageEditor
 from .translation_dialog import TranslationDialog
+from .settings_dialog import SettingsDialog
 from .themes import Theme, SidebarButton, ToolbarButton, ImageThumbnail, CardFrame, ShadowThumbnail, PdfPageThumbnail, PreviewModal, PdfMappingModal
 from ..figure_detector import FigureDetector, DetectedFigure
 
@@ -310,6 +312,17 @@ class ImageManagerAppV2:
         )
         self.btn_copy.pack(side=tk.LEFT, padx=2)
 
+        # Separador
+        ttk.Separator(self.toolbar, orient=tk.VERTICAL).pack(
+            side=tk.LEFT, fill=tk.Y, padx=15
+        )
+
+        # Sección: Configuración
+        self.btn_settings = ToolbarButton(
+            self.toolbar, text="Configuración", icon="⚙️", command=self._open_settings
+        )
+        self.btn_settings.pack(side=tk.RIGHT, padx=2)
+        
         # Separador
         ttk.Separator(self.toolbar, orient=tk.VERTICAL).pack(
             side=tk.LEFT, fill=tk.Y, padx=15
@@ -1080,11 +1093,35 @@ class ImageManagerAppV2:
 
     def _on_thumbnail_right_click(self, event, img_info):
         """Maneja click derecho en un thumbnail."""
+        from PIL import Image
+        from ..image_processor import ImageType
+        
         # Crear menú contextual
         menu = tk.Menu(self.root, tearoff=0)
 
         # Variable para controlar si el menú sigue activo
         self._active_context_menu = menu
+        
+        # Detectar tipo de imagen para mostrar modo de compresión
+        try:
+            img = Image.open(img_info["path"])
+            img_type = self.image_processor.detect_image_type(img)
+            type_labels = {
+                ImageType.PHOTO: "📷 Foto",
+                ImageType.ILLUSTRATION: "📊 Diagrama",
+                ImageType.MIXED: "🔄 Mixto"
+            }
+            compression_label = type_labels.get(img_type, "🔄 Auto")
+            img.close()
+        except Exception:
+            compression_label = "🔄 Auto"
+        
+        # Mostrar modo de compresión (informativo)
+        menu.add_command(
+            label=f"📦 Modo: {compression_label}",
+            state="disabled"
+        )
+        menu.add_separator()
 
         menu.add_command(
             label="✏️ Editar",
@@ -1107,12 +1144,23 @@ class ImageManagerAppV2:
         menu.add_separator()
 
         if self.translation_manager:
+            # Traducción normal (con diálogo)
             menu.add_command(
-                label="🌍 Traducir",
+                label="🌍 Traducir con opciones...",
                 command=lambda: self._exec_and_close_menu(
                     menu, lambda: self._translate_image(img_info)
                 ),
             )
+            
+            # Traducción automática (directa)
+            if TranslationConfig.AUTO_TRANSLATE_CONTEXT:
+                menu.add_command(
+                    label="⚡ Traducir automáticamente",
+                    command=lambda: self._exec_and_close_menu(
+                        menu, lambda: self._auto_translate_image(img_info)
+                    ),
+                )
+            
             menu.add_separator()
 
         menu.add_command(
@@ -1133,9 +1181,9 @@ class ImageManagerAppV2:
         )
         menu.add_separator()
 
-        # Opción para aplicar solo redondeo
+        # Opción para optimizar (redondear + comprimir)
         menu.add_command(
-            label="🔘 Solo redondear esquinas",
+            label="🔘 Optimizar imagen (redondear+comprimir)",
             command=lambda: self._exec_and_close_menu(
                 menu, lambda: self._round_corners_only(img_info)
             ),
@@ -1527,6 +1575,10 @@ class ImageManagerAppV2:
             if chapter_dir.exists():
                 open_folder_in_explorer(chapter_dir)
 
+    def _open_settings(self):
+        """Abre el diálogo de configuración."""
+        SettingsDialog(self.root, self.translation_manager)
+
     def _on_paste(self):
         """Pega imagen desde clipboard reemplazando la imagen seleccionada."""
         if not self.selected_image:
@@ -1632,6 +1684,80 @@ class ImageManagerAppV2:
             ),
             on_success=lambda img: self._show_translation_result(img, img_info),
         )
+
+    def _auto_translate_image(self, img_info):
+        """
+        Traduce automáticamente una imagen usando el prompt configurado.
+        
+        A diferencia de _translate_image, este método:
+        - Usa el prompt editable de TranslationConfig
+        - Guarda directamente sobre el archivo original sin mostrar diálogo
+        - Usa el modelo configurado por omisión
+        """
+        if not self.translation_manager:
+            return
+        
+        # Verificar que el modelo está configurado
+        current_model = self.translation_manager.current_model
+        target_model = TranslationConfig.DEFAULT_MODEL
+        
+        # Cambiar temporalmente al modelo por omisión si es diferente
+        if current_model != target_model:
+            try:
+                self.translation_manager.change_model(target_model)
+            except Exception as e:
+                messagebox.showerror(
+                    "Error de configuración",
+                    f"No se pudo cambiar al modelo {target_model}: {e}"
+                )
+                return
+        
+        # Ejecutar traducción con el prompt personalizado
+        self._run_translation(
+            source_name=f"{img_info['name']} (auto)",
+            translate_func=lambda: self.translation_manager.translate_image(
+                img_info["path"],
+                custom_prompt=TranslationConfig.EDITABLE_PROMPT
+            ),
+            on_success=lambda img: self._on_auto_translation_complete(img, img_info),
+        )
+
+    def _on_auto_translation_complete(self, translated_img, img_info):
+        """
+        Maneja la traducción automática completada.
+        Guarda directamente sobre el archivo original.
+        """
+        try:
+            from PIL import Image
+            import shutil
+            from datetime import datetime
+            
+            target_path = Path(img_info["path"])
+            
+            # Crear backup si está habilitado
+            if DEFAULT_CREATE_BACKUP:
+                backup_path = target_path.with_suffix(target_path.suffix + ".bak")
+                shutil.copy2(target_path, backup_path)
+            
+            # Guardar la imagen traducida
+            if translated_img.mode in ('RGBA', 'LA', 'P'):
+                translated_img = translated_img.convert('RGB')
+            
+            translated_img.save(target_path, "PNG", optimize=True)
+            
+            # Actualizar la vista
+            self._refresh_chapter()
+            
+            messagebox.showinfo(
+                "Traducción completada",
+                f"Imagen traducida y guardada:\n{target_path.name}"
+            )
+            
+        except Exception as e:
+            messagebox.showerror(
+                "Error al guardar",
+                f"La traducción se completó pero no se pudo guardar:\n{e}"
+            )
 
     def _translate_from_clipboard(self):
         """Traduce imagen desde clipboard."""
