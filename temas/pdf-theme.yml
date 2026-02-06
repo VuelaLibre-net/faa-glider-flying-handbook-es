@@ -90,9 +90,13 @@ toc:
   font_size: 10
   line_height: 1.6
   indent: 15
-  h1_font_style: bold
-  h2_font_style: normal
-  h3_font_style: italic
+  # Nivel 1 (Capítulos) - mapea a h2 internamente
+  h2_font_size: 12
+  h2_font_style: bold
+  # Nivel 2 (Secciones) - mapea a h3
+  h3_font_style: normal
+  # Nivel 3 (Subsecciones) - mapea a h4
+  h4_font_style: italic
   dot_leader:
     content: ". "
     font_color: #D1D5DB

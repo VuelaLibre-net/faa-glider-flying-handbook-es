@@ -87,6 +87,7 @@ $(BUILD_DIR)/pdf/$(BOOK_NAME).pdf: $(MAIN_DOC) $(SRC_FILES) $(PDF_THEME) $(ALL_I
 		-a title-page \
 		-a toc \
 		-a toclevels=3 \
+		-a sectnumlevels=2 \
 		-a lang=es \
 		-a chapter-signifier=Capítulo \
 		-a region=$(REGION) \

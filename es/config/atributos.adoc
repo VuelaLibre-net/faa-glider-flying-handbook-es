@@ -15,7 +15,7 @@
 :toc: left
 // :toclevels: 3  -> Configurado en manual-vuelo-sin-motor.adoc (debe ir antes del include)
 :sectnums:
-:sectnumlevels: 4
+// :sectnumlevels: 4  -> Configurado en manual-vuelo-sin-motor.adoc
 :partnums:
 :chapter-refsig: Capítulo
 :chapter-signifier: Capítulo
