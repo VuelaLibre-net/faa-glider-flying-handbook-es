@@ -1,14 +1,9 @@
 [[cap02]]
 = Componentes y sistemas
 
-[abstract]
---
-Este capítulo describe los componentes básicos de un planeador, incluyendo el fuselaje, las alas, el empenaje, los dispositivos de sustentación/resistencia, y los sistemas de tren de aterrizaje y remolque.
---
-
 == Introducción
 
-Diseño del planeador
+=== Diseño del planeador
 
 Las estructuras de los planeadores incluyen un fuselaje, alas y empenaje o sección de cola. <<fig-02-01>>
 
@@ -28,11 +23,13 @@ Las alas de los planeadores incorporan varios componentes que ayudan al piloto a
 
 === Alerones
 
-Los alerones se unen al borde de salida exterior de cada ala. Cuando el piloto mueve el control del alerón a la derecha del centro, el alerón derecho se deflecta hacia arriba <<fig-02-02>> y el alerón izquierdo se deflecta hacia abajo. En vuelo y con aire fluyendo sobre las alas, estas deflexiones resultan en aumento de sustentación en el ala izquierda y disminución de sustentación en el ala derecha. El aumento de sustentación en el ala izquierda y la disminución de sustentación en el ala derecha aplican una fuerza para inclinar el planeador hacia la derecha. Mover el control del alerón a la izquierda del centro deflecta el alerón derecho hacia abajo y el alerón izquierdo hacia arriba. Esto aplica una fuerza para inclinar el planeador hacia la izquierda.
-
+[float-group]
+--
 [[fig-02-02]]
 .Los alerones cambian la curvatura o camber del ala y aumentan o disminuyen la sustentación
-image::02/fig-02-02.the-alerones-change-the-camber-or-curvature-of.png[width=600]
+image::02/fig-02-02.the-alerones-change-the-camber-or-curvature-of.png[width=300,float="right"]
+Los alerones se unen al borde de salida exterior de cada ala. Cuando el piloto mueve el control del alerón a la derecha del centro, el alerón derecho se deflecta hacia arriba <<fig-02-02>> y el alerón izquierdo se deflecta hacia abajo. En vuelo y con aire fluyendo sobre las alas, estas deflexiones resultan en aumento de sustentación en el ala izquierda y disminución de sustentación en el ala derecha. El aumento de sustentación en el ala izquierda y la disminución de sustentación en el ala derecha aplican una fuerza para inclinar el planeador hacia la derecha. Mover el control del alerón a la izquierda del centro deflecta el alerón derecho hacia abajo y el alerón izquierdo hacia arriba. Esto aplica una fuerza para inclinar el planeador hacia la izquierda.
+--
 
 == Dispositivos de sustentación/resistencia
 
@@ -46,32 +43,35 @@ Algunos planeadores tienen flaps instalados en el borde de salida de cada ala en
 
 [[fig-02-04]]
 .Posiciones del flap
-image::02/fig-02-04.flap-positions.png[width=600]
+image::02/fig-02-04.flap-positions.png[width=300]
 
 == Empenaje
 
+
 El empenaje incluye toda la sección de cola, que consiste en las superficies fijas, como el estabilizador horizontal y la aleta vertical, y superficies móviles, como el elevador o estabilador, el timón de dirección, y cualquier trim tab. Las dos superficies fijas actúan como las plumas en una flecha para estabilizar el planeador y ayudar a mantener una trayectoria recta a través del aire. <<fig-02-05>>
+
+[float-group]
+--
+[[fig-02-05]]
+.Componentes del empenaje
+image::02/fig-02-05.empenaje-componentes.png[width=300,float="right"]
 
 El timón de dirección se une a la parte trasera de la aleta vertical, y el piloto deflecta el timón usando los pedales. El timón controla la guiñada y la coordinación de giros durante el vuelo.
 
 Durante el vuelo recto y nivelado, la deflexión por parte del piloto del elevador aplica una fuerza para mover la nariz del planeador hacia arriba y hacia abajo con respecto al horizonte. Levantar la nariz resulta en menor velocidad mientras que bajarla aumenta la velocidad. En lugar de un estabilizador horizontal y elevador, algunos planeadores usan un estabilador, donde toda la superficie horizontal de cola pivota hacia arriba y hacia abajo en un punto de bisagra central. Los pilotos se refieren al movimiento del elevador o estabilador como el control de la actitud de cabeceo del planeador.
 
-Cuando el piloto deflecta los controles de cabeceo desde la posición neutral, el flujo de aire empuja contra los controles. Esta fuerza opuesta proporciona retroalimentación al piloto pero también aumenta la carga de trabajo del piloto. El piloto puede aliviar la presión del control del elevador usando el trim del elevador. Un sistema de trim común consiste en una pequeña pestaña ajustable controlada por el piloto en el borde de salida del elevador. <<fig-02-06>> Los trim tabs vienen en diseños servo y anti-servo. <<fig-02-07>> Un trim servo alivia la presión. El piloto puede ajustar un trim anti-servo, usualmente instalado en estabiladores, para aliviar la presión, pero también se autoajusta para aumentar la presión opuesta cuando el piloto aumenta el desplazamiento del estabilizador.
-
-[[fig-02-05]]
-.Componentes del empenaje
-image::02/fig-02-05.empenaje-componentes.png[width=600]
-
 [[fig-02-06]]
 .Componentes adicionales del empenaje
-image::02/fig-02-06.additional-empenaje-componentes.png[width=600]
+image::02/fig-02-06.additional-empenaje-componentes.png[width=300,float="right"]
+Cuando el piloto deflecta los controles de cabeceo desde la posición neutral, el flujo de aire empuja contra los controles. Esta fuerza opuesta proporciona retroalimentación al piloto pero también aumenta la carga de trabajo del piloto. El piloto puede aliviar la presión del control del elevador usando el trim del elevador. Un sistema de trim común consiste en una pequeña pestaña ajustable controlada por el piloto en el borde de salida del elevador. <<fig-02-06>> Los trim tabs vienen en diseños servo y anti-servo. <<fig-02-07>> Un trim servo alivia la presión. El piloto puede ajustar un trim anti-servo, usualmente instalado en estabiladores, para aliviar la presión, pero también se autoajusta para aumentar la presión opuesta cuando el piloto aumenta el desplazamiento del estabilizador.
 
+[float-group]
 [[fig-02-07]]
 .Un trim anti-servo
-image::02/fig-02-07.an-anti-servo-tab.png[width=600]
+image::02/fig-02-07.an-anti-servo-tab.png[width=300,float="right"]
 
 Los diseños de planeadores con cola convencional incorporan el estabilizador horizontal montado en la parte inferior de la aleta vertical. Los planeadores de cola en T tienen el estabilizador horizontal montado en la parte superior de la aleta vertical formando una forma de «T». Las colas en V tienen dos superficies de cola montadas para formar una «V» que combina los movimientos del elevador y el timón.
-
+--
 == Dispositivos de gancho de remolque
 
 Los planeadores que se lanzan usando remolque tienen un gancho de remolque aprobado. Para un remolque aéreo, la tripulación normalmente conecta el cable de remolque a un gancho ubicado en la nariz o justo debajo de la nariz del planeador. Para un remolque usando un torno o vehículo terrestre, la tripulación une el cable de remolque a un gancho posicionado debajo del centro de gravedad (CG) del planeador, el punto donde el planeador se equilibraría en tierra si se levantara desde arriba o debajo de esa posición. <<fig-02-08>> Ambos diseños de gancho permiten el desacoplamiento rápido de la cuerda o cable cuando el piloto del planeador tira de la manija de liberación. Un lanzamiento por remolque aéreo de un planeador usando un gancho específico solo puede ocurrir si el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto aprueba el procedimiento.

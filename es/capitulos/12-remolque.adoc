@@ -1,18 +1,13 @@
 [[cap12]]
 = Remolque aéreo
 
-[abstract]
---
-Los pilotos de planeadores en los Estados Unidos comúnmente se lanzan usando un remolque aéreo. Este capítulo proporciona información desde la perspectiva del piloto de remolque.
---
-
 == Introducción
 
 Los pilotos de planeadores en los Estados Unidos comúnmente se lanzan usando un remolque aéreo. <<fig-12-01>> Un remolque aéreo toma tiempo pero puede ofrecer flexibilidad respecto a energía, ubicación y altitud. El Capítulo 7: Lanzamiento, Maniobras de Vuelo, Aterrizajes y Procedimientos de Recuperación presenta información desde la perspectiva del piloto de planeador. Este capítulo proporciona gran parte de la misma información pero desde la perspectiva del piloto de remolque.
 
 [[fig-12-01]]
 .Los planeadores comúnmente usan aviones de remolque para lanzarse y obtener altitud
-image::12/fig-12-01.planeadores-commonly-use-remolque-planes-to.png[width=600]
+image::12/fig-12-01.planeadores-commonly-use-remolque-planes-to.png[width=300]
 
 Mientras todos los pilotos siguen el Título 14 del Código de Regulaciones Federales (14 CFR) parte 61, Certificación: Pilotos, Instructores de Vuelo e Instructores de Tierra, y 14 CFR Parte 91, Reglas Generales de Operación y Vuelo, las siguientes secciones muestran algunos de los requisitos de interés para pilotos de remolque:
 
@@ -27,7 +22,7 @@ El equipo del avión de remolque en los Estados Unidos típicamente usa uno de d
 
 [[fig-12-02]]
 .Gancho de remolque Schweizer (izquierda) y gancho de remolque Tost (derecha)
-image::12/fig-12-02.schweizer-remolque-gancho-left-and-a-tost.png[width=600]
+image::12/fig-12-02.schweizer-remolque-gancho-left-and-a-tost.png[width=300]
 
 === Gancho de Remolque Schweizer
 
@@ -57,7 +52,7 @@ La inspección del anillo de remolque comienza con una verificación de desgaste
 
 [[fig-12-03]]
 .Anillo de remolque Schweizer y anillo de remolque Tost
-image::12/fig-12-03.schweizer-remolque-anillo-and-a-tost-remolque.png[width=600]
+image::12/fig-12-03.schweizer-remolque-anillo-and-a-tost-remolque.png[width=300]
 
 El piloto de remolque solo debe adjuntar un anillo de línea de remolque compatible al enganche de remolque. Mientras que un anillo de remolque Schweizer no cabrá en un enganche de remolque Tost, el piloto de remolque podría adjuntar erróneamente un anillo de remolque Tost a un enganche de remolque Schweizer. Si eso sucede, el anillo Tost podría no liberarse cuando el piloto de remolque acciona el mecanismo de liberación.
 
@@ -73,7 +68,7 @@ Usando los datos de despegue computados o el punto de despegue real para las con
 
 [[fig-12-04]]
 .Un punto de aborto físico en la pista debe determinarse e informarse al piloto del planeador antes de comenzar los procedimientos de remolque
-image::12/fig-12-04.a-physical-abort-point-on-the-pista-should-be.png[width=600]
+image::12/fig-12-04.a-physical-abort-point-on-the-pista-should-be.png[width=300]
 
 14 CFR parte 91, sección 91.309 (a)(5) establece, «El piloto de la aeronave de remolque y el planeador han acordado un curso general de acción, incluyendo señales de despegue y liberación, velocidades de aire, y procedimientos de emergencia para cada piloto.» Si existe alguna duda sobre el cumplimiento de esta regla a través de informes o procedimientos operativos estándar publicados y acordados, el piloto de remolque y el piloto del planeador deben asegurarse de aclarar todos los aspectos del remolque inminente.
 
@@ -93,7 +88,7 @@ En el despegue, el piloto de remolque avanza el acelerador suave y rápidamente 
 
 [[fig-12-05]]
 .El piloto de remolque avanza el acelerador suave y rápidamente en un movimiento para que el planeador no pase sobre la línea de remolque
-image::12/fig-12-05.the-remolque-piloto-advances-the-throttle.png[width=600]
+image::12/fig-12-05.the-remolque-piloto-advances-the-throttle.png[width=300]
 
 El piloto de remolque acelera a la velocidad de despegue teniendo en cuenta lo que ocurrirá durante la transición fuera del efecto de suelo. El avión de remolque saliendo del efecto de suelo:
 
@@ -112,7 +107,7 @@ El piloto de remolque asciende a potencia completa a menos que el POH requiera l
 
 [[fig-12-06]]
 .Ejemplos de velocidades máximas de remolque aéreo de planeadores
-image::12/fig-12-06.sample-planeador-maximum-remolque-aereo-speeds.png[width=600]
+image::12/fig-12-06.sample-planeador-maximum-remolque-aereo-speeds.png[width=300]
 
 La velocidad de remolque resulta de considerar varias variables. El piloto de remolque determina la velocidad mínima de remolque después de considerar la velocidad mínima para enfriamiento adecuado del motor y la velocidad de pérdida del avión de remolque, vuela a una velocidad más lenta que la velocidad máxima de remolque aéreo del planeador, y conduce el remolque aéreo a la velocidad segura más lenta suficiente para que el planeador permanezca bajo control. Al remolcar un modelo de planeador por primera vez, el piloto de remolque debe obtener un informe del piloto del planeador para asegurar el cumplimiento con las velocidades mínimas, máximas y óptimas de remolque. Un piloto de remolque experimentado puede determinar si la velocidad es suficiente para el planeador observando el perfil del ala del planeador en los espejos del avión de remolque. Un piloto de remolque viendo una porción más grande que lo normal de la parte inferior del ala del planeador para una posición de remolque dada puede indicar un ángulo de ataque alto del planeador y la necesidad de un ligero aumento en la velocidad de remolque.
 
@@ -130,7 +125,7 @@ Las operaciones de remolque de planeadores normalmente usan la posición de remo
 
 [[fig-12-07]]
 .Ascenso de remolque aéreo
-image::12/fig-12-07.remolque-aereo-climb-out.png[width=600]
+image::12/fig-12-07.remolque-aereo-climb-out.png[width=300]
 
 === Giros en Remolque
 
@@ -150,7 +145,7 @@ Los procedimientos estándar de liberación de planeadores incluyen <<fig-12-08>
 
 [[fig-12-08]]
 .Liberación de remolque aéreo
-image::12/fig-12-08.remolque-aereo-soltado.png[width=600]
+image::12/fig-12-08.remolque-aereo-soltado.png[width=300]
 
 Si el piloto del planeador se libera con holgura en la línea de remolque, el piloto de remolque podría no detectar la liberación. El piloto de remolque solo debe comenzar un giro a la izquierda e iniciar un descenso después de observar y confirmar la liberación de la línea de remolque. Si existe alguna duda respecto al estado de liberación, el piloto de remolque debe continuar el remolque y confirmar la liberación vía radio o visualmente.
 
@@ -182,7 +177,7 @@ Un remolque aéreo de travesía seguro y exitoso requiere planificación. El pil
 
 [[fig-12-09]]
 .En un remolque de travesía, el piloto de remolque y el piloto del planeador deben tener comunicación bidireccional usando radios montadas en panel o portátiles
-image::12/fig-12-09.on-a-travesia-remolque-the-remolque-piloto-and.png[width=600]
+image::12/fig-12-09.on-a-travesia-remolque-the-remolque-piloto-and.png[width=300]
 
 Dado que una rotura de línea de remolque puede ocurrir sin aviso, el piloto de remolque debe planificar la ruta sobre terreno adecuado para un aterrizaje de planeador. El piloto de remolque debe considerar la preparación física y mental de ambos pilotos para realizar el vuelo. En un vuelo particularmente largo, los pilotos pueden planificar paradas de descanso a lo largo del camino. Ambos pilotos deben mantenerse hidratados y tener un sistema de alivio, si es necesario. El uso apropiado del trim del avión ayuda a mantener el vuelo dentro de la velocidad máxima de remolque del planeador y ayuda a reducir la fatiga del piloto.
 
@@ -226,7 +221,7 @@ Si el piloto del planeador no puede liberarse, el piloto del planeador debe info
 
 [[fig-12-10]]
 .Falla de liberación del planeador
-image::12/fig-12-10.planeador-soltado-fallo.png[width=600]
+image::12/fig-12-10.planeador-soltado-fallo.png[width=300]
 
 ==== Ni el Avión de Remolque ni el Planeador Pueden Liberarse
 
@@ -248,7 +243,7 @@ El piloto de remolque mece las alas del avión de remolque para indicar que el p
 
 [[fig-12-11]]
 .El avión de remolque indica que el piloto del planeador debe liberarse inmediatamente
-image::12/fig-12-11.the-towplane-indicates-the-planeador-piloto.png[width=600]
+image::12/fig-12-11.the-towplane-indicates-the-planeador-piloto.png[width=300]
 
 == Resumen del Capítulo
 

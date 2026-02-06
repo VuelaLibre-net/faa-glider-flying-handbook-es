@@ -1,18 +1,13 @@
 [[cap13]]
 = Factores humanos
 
-[abstract]
---
-El estudio de los factores humanos involucra diferentes disciplinas. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, problemas fisiológicos relacionados con la seguridad del planeo, manejo por parte del piloto de un planeador y sus sistemas, y la toma de decisiones aeronáuticas como un proceso que puede mitigar el riesgo de vuelo de planeador y prevenir muchos tipos comunes de accidentes.
---
-
 == Introducción
 
 El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-01>> Cuando se refieren a factores humanos, los ingenieros a veces se refieren a las 3Ds: diseño, desarrollo y despliegue de sistemas que mejoran la interfaz sistema/humano. El estudio de los factores humanos también involucra entender y prevenir errores humanos que los ingenieros no pueden prevenir usando las 3Ds. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, problemas fisiológicos relacionados con la seguridad del planeo, manejo por parte del piloto de un planeador y sus sistemas, y la toma de decisiones aeronáuticas como un proceso que puede mitigar el riesgo de vuelo de planeador y prevenir muchos tipos comunes de accidentes. Para más información sobre factores humanos y riesgo, vea el Manual de Gestión de Riesgos (FAA-H-8083-2) o el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25).
 
 [[fig-13-01]]
 .Disciplinas de factores humanos
-image::13/fig-13-01.human-factor-disciplines.png[width=600]
+image::13/fig-13-01.human-factor-disciplines.png[width=300]
 
 == Reconociendo actitudes peligrosas
 
@@ -64,13 +59,13 @@ La fatiga involucra una reducción o deterioro en cualquiera de los siguientes: 
 
 [[fig-13-02]]
 .Muestra de factores que interactúan con la fatiga
-image::13/fig-13-02.sampling-of-factors-that-interact-with-fatiga.png[width=600]
+image::13/fig-13-02.sampling-of-factors-that-interact-with-fatiga.png[width=300]
 
 El estado mental y físico de una persona naturalmente cicla a través de varios niveles de rendimiento cada día. Variables como temperatura corporal, presión arterial, frecuencia cardíaca, química sanguínea, estado de alerta y atención suben y bajan en un patrón diario conocido como ritmo circadiano. <<fig-13-03>> La capacidad de una persona para trabajar y descansar sube y baja durante este ciclo. La actividad contraria al ritmo circadiano de una persona puede causar dificultades sutiles y fatiga. Una persona afectada podría no reconocer esta situación. Dado que otra persona podría alertar a un piloto sobre los signos de fatiga, volar un planeador solo cuando se está fatigado crea una situación particularmente peligrosa. Por ejemplo, un piloto de planeador fatigado podría no ver y evitar activamente otro tráfico. Los pilotos deben evitar volar cuando no han tenido una noche completa de descanso, después de trabajar horas excesivas, o después de un día especialmente agotador o estresante.
 
 [[fig-13-03]]
 .Muchos factores de rendimiento humano suben y bajan diariamente
-image::13/fig-13-03.many-human-performance-factors-rise-and-fall-daily.png[width=600]
+image::13/fig-13-03.many-human-performance-factors-rise-and-fall-daily.png[width=300]
 
 El mejor remedio para la fatiga involucra dormir lo suficiente de manera regular. Los pilotos deben rastrear sus horas y calidad de sueño para la conciencia de fatiga. Las contramedidas a la fatiga como la cafeína pueden funcionar por una duración corta, pero muchas contramedidas pueden empeorar la fatiga a largo plazo. Los pilotos deben ejercer precaución si usan medicación para combatir la fatiga ya que una persona fatigada puede tener problemas para obtener el descanso necesario después de usar medicación. Un piloto experimentando problemas de fatiga continuos o fatiga crónica debe dejar de volar un planeador, consultar a un médico y resolver el problema antes de volar de nuevo.
 
@@ -84,7 +79,7 @@ La hiperventilación puede ocurrir como resultado de estrés emocional, miedo o 
 
 [[fig-13-04]]
 .Síntomas comunes de hiperventilación
-image::13/fig-13-04.common-symptoms-of-hyperventilation.png[width=600]
+image::13/fig-13-04.common-symptoms-of-hyperventilation.png[width=300]
 
 === Hipoxia
 
@@ -126,13 +121,13 @@ El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno dispon
 
 [[fig-13-05]]
 .Tiempo de conciencia útil
-image::13/fig-13-05.time-of-useful-consciousness.png[width=600]
+image::13/fig-13-05.time-of-useful-consciousness.png[width=300]
 
 Dado que los individuos experimentan la hipoxia de manera diferente, experimentar los efectos de la hipoxia en una cámara de altitud <<fig-13-06>> puede mejorar el reconocimiento de un individuo de sus propios síntomas. La Administración Federal de Aviación (FAA) proporciona esta oportunidad a través de entrenamiento en fisiología de aviación, que ocurre en el Instituto Médico Aeroespacial Civil (CAMI) de la FAA en Oklahoma City, Oklahoma, y en muchas instalaciones militares a través de los Estados Unidos. Para información sobre el curso de entrenamiento fisiológico de un día de la FAA con demostraciones de cámara de altitud y vértigo, visite el sitio web de la FAA.
 
 [[fig-13-06]]
 .Cámara de altitud CAMI
-image::13/fig-13-06.cami-altitud-chamber.png[width=600]
+image::13/fig-13-06.cami-altitud-chamber.png[width=300]
 
 === Malestar del Oído Interno
 
@@ -154,7 +149,7 @@ La mayoría de los planeadores usados para entrenamiento primario tienen instrum
 
 [[fig-13-07]]
 .Volar en neblina u otras restricciones de visibilidad aumenta la probabilidad de desorientación espacial
-image::13/fig-13-07.flying-in-haze-or-other-restrictions-to.png[width=600]
+image::13/fig-13-07.flying-in-haze-or-other-restrictions-to.png[width=300]
 
 El vuelo en un planeador propulsado puede ocurrir de noche o en condiciones instrumentales siempre que el planeador cumpla con los requisitos de 14 CFR parte 91, sección 91.205, y el piloto cumpla con los requisitos aplicables de 14 CFR parte 61, sección 61.57. Los pilotos tienen menos pistas visuales disponibles para juzgar la actitud de vuelo de noche o en condiciones instrumentales. Ambos regímenes presentan potencial adicional para ilusiones, errores de navegación, colisiones y pérdida de control. Además, cualquier emergencia de noche se vuelve mucho más difícil de manejar. Los pilotos de planeadores que vuelan en estas condiciones normalmente tienen calificaciones en otras categorías de aeronaves que incluyen entrenamiento y pruebas para condiciones de noche o instrumentales. Un piloto de planeador sin entrenamiento adicional, certificación, recencia y competencia debe evitar operaciones de noche o instrumentales.
 
@@ -164,7 +159,7 @@ Los pilotos de planeadores a menudo vuelan por largos períodos de tiempo en tem
 
 [[fig-13-08]]
 .Síntomas de deshidratación
-image::13/fig-13-08.symptoms-of-dehydration.png[width=600]
+image::13/fig-13-08.symptoms-of-dehydration.png[width=300]
 
 Los pilotos deben llevar agua en cada vuelo para prevenir la deshidratación. Algunos pilotos de planeadores usan un sombrero con ala para sombra y para mantener la cabeza fresca. Los pilotos deben asegurar que el ala del sombrero no interfiera con la capacidad de escanear otros planeadores y tráfico aéreo.
 
@@ -208,15 +203,15 @@ El sistema de flujo continuo usa un tanque de almacenamiento de alta presión y 
 
 [[fig-13-09]]
 .Sistema de oxígeno de flujo continuo
-image::13/fig-13-09.continuous-flow-oxigeno-sistema.png[width=600]
+image::13/fig-13-09.continuous-flow-oxigeno-sistema.png[width=300]
 
 [[fig-13-10]]
 .Máscara de oxígeno
-image::13/fig-13-10.oxigeno-mask.png[width=600]
+image::13/fig-13-10.oxigeno-mask.png[width=300]
 
 [[fig-13-11]]
 .Cánula nasal
-image::13/fig-13-11.nasal-cannula.png[width=600]
+image::13/fig-13-11.nasal-cannula.png[width=300]
 
 ===== Sistema de Oxígeno de Pulso Electrónico a Demanda (EDS)
 
@@ -224,7 +219,7 @@ El EDS entrega pulsos de oxígeno compensados por altitud solo cuando el piloto 
 
 [[fig-13-12]]
 .Sistema de Oxígeno de Pulso Electrónico a Demanda (EDS)
-image::13/fig-13-12.electronic-pulse-demand-oxigeno-sistema-eds.png[width=600]
+image::13/fig-13-12.electronic-pulse-demand-oxigeno-sistema-eds.png[width=300]
 
 El piloto puede ajustar un EDS a diferentes modos y retrasos. Por ejemplo, puede responder con oxígeno a altitudes donde se necesita y conservar oxígeno a altitudes más bajas. También puede ajustarse a modo nocturno o modo ahora donde responde desde el nivel del mar y arriba. El EDS limita su respuesta a una tasa respiratoria máxima de unos 20 respiros por minuto, virtualmente eliminando cualquier hiperventilación. El piloto lo enciende y no necesita leer escalas ni ajustar ninguna perilla al subir o descender. Estos dispositivos no necesitan ajuste de altímetro local ya que responden directamente a la altitud de presión, justo como lo hace el cuerpo.
 
@@ -270,7 +265,7 @@ Un individuo usando la base de datos de accidentes del NTSB puede usar su herram
 
 [[fig-13-13]]
 .Datos de accidentes de planeadores de la base de datos del NTSB
-image::13/fig-13-13.planeador-accidente-data-from-the-ntsb-database.png[width=600]
+image::13/fig-13-13.planeador-accidente-data-from-the-ntsb-database.png[width=300]
 
 == Resumen del Capítulo
 

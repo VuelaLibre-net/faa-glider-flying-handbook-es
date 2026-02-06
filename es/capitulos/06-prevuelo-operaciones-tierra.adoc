@@ -1,11 +1,6 @@
 [[cap06]]
 = Pre-vuelo y operaciones en tierra
 
-[abstract]
---
-Este capítulo presenta prácticas de seguridad recomendadas para el montaje, almacenamiento, amarre, aseguramiento y manejo en tierra de un planeador.
---
-
 == Introducción
 
 La operación segura de un planeador depende del montaje cuidadoso y el pre-vuelo. Las técnicas de montaje apropiadas, seguidas por una inspección cercana del planeador usando listas de verificación contenidas en el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto (GFM/POH), proporcionan esa seguridad. Los pilotos deberían conducir los procedimientos de lanzamiento sistemática y consistentemente para cada vuelo usando métodos apropiados y trabajo en equipo. Los estudiantes y pilotos no familiarizados con el montaje de planeadores deberían buscar instrucción de un instructor de vuelo de planeador.
@@ -25,7 +20,7 @@ Las herramientas y accesorios apropiados apoyan el montaje del planeador. <<fig-
 
 [[fig-06-01]]
 .Soportes de ala y carritos de ala pueden asistir en el montaje del planeador
-image::06/fig-06-01.ala-stands-and-ala-dollies-may-assist-assembling.png[width=600]
+image::06/fig-06-01.ala-stands-and-ala-dollies-may-assist-assembling.png[width=300]
 
 Dependiendo del tipo de planeador, el montaje puede involucrar dos o más personas. Después del montaje, una inspección minuciosa de todos los puntos de unión asegura la instalación y seguridad apropiadas de pernos y pasadores.
 
@@ -33,7 +28,7 @@ En muchos planeadores, las alas se desprenden rutinariamente del fuselaje para a
 
 [[fig-06-02]]
 .Plegar las alas del planeador reduce el espacio de almacenamiento
-image::06/fig-06-02.folding-the-alas-of-the-planeador-reduces-storage.png[width=600]
+image::06/fig-06-02.folding-the-alas-of-the-planeador-reduces-storage.png[width=300]
 
 Una vez que un planeador ha sido completamente montado y antes del vuelo, el piloto inspecciona todas las áreas críticas para asegurar la finalización de todas las uniones de controles de vuelo. Muchos fabricantes proporcionan una lista de verificación de montaje crítico (CAC) para usar después del montaje. Un chequeo de control positivo (PCC) proporciona un medio adicional de verificación que debería ocurrir incluso si el personal apropiado completa un CAC. El piloto debería referirse a una lista de verificación escrita proporcionada por el fabricante o una fuente comercial que reproduzca con precisión las listas de verificación de planeadores.
 
@@ -41,7 +36,7 @@ El transporte, almacenamiento o recuperación del planeador usa remolques especi
 
 [[fig-06-03]]
 .Componentes de un planeador almacenados y transportados en un remolque
-image::06/fig-06-03.componentes-of-a-planeador-stored-and-transported.png[width=600]
+image::06/fig-06-03.componentes-of-a-planeador-stored-and-transported.png[width=300]
 
 Al remolcar un remolque, aplican las precauciones estándar de remolque de vehículos motorizados y la experiencia.
 
@@ -53,13 +48,13 @@ Si se esperan vientos fuertes, los pilotos pueden atar los spoilers abiertos con
 
 [[fig-06-04]]
 .Protección del tubo pitot y la sonda de energía total
-image::06/fig-06-04.protecting-the-pitot-tube-and-total-energy-probe.png[width=600]
+image::06/fig-06-04.protecting-the-pitot-tube-and-total-energy-probe.png[width=300]
 
 Las cubiertas de canopy de planeadores proporcionan protección adicional contra daños mientras protegen el interior de la cabina de vuelo de los rayos ultravioleta (UV). <<fig-06-05>>
 
 [[fig-06-05]]
 .Protección del canopy
-image::06/fig-06-05.protecting-the-canopy.png[width=600]
+image::06/fig-06-05.protecting-the-canopy.png[width=300]
 
 == Lastre de agua
 
@@ -75,7 +70,7 @@ Al empezar a mover el vehículo de remolque, el conductor debería tomar lentame
 
 [[fig-06-06]]
 .Posicionamiento del planeador para el vehículo de remolque
-image::06/fig-06-06.positioning-the-planeador-for-the-remolque-vehicle.png[width=600]
+image::06/fig-06-06.positioning-the-planeador-for-the-remolque-vehicle.png[width=300]
 
 Los vientos fuertes y ráfagas pueden dañar el planeador durante el manejo en tierra. Durante el movimiento en tierra con vientos altos, dos o más miembros de la tripulación normalmente sostienen las puntas de ala y un piloto se sienta a los controles para desplegar spoilers y sostener los controles apropiadamente.
 
@@ -83,7 +78,7 @@ Otro método de remolque usa equipo de remolque especialmente diseñado como una
 
 [[fig-06-07]]
 .Un carrito de ala (izquierda) listo para unión y un carrito de cola (derecha) siendo usado para movimiento en tierra del planeador
-image::06/fig-06-07.a-ala-dolly-left-ready-for-attachment-and-a-cola.png[width=600]
+image::06/fig-06-07.a-ala-dolly-left-ready-for-attachment-and-a-cola.png[width=300]
 
 == Inspección del equipo de lanzamiento
 
@@ -91,41 +86,41 @@ Mientras un piloto de planeador puede inspeccionar la cuerda de remolque, 14 CFR
 
 [[fig-06-08]]
 .Inspección de la línea de remolque
-image::06/fig-06-08.inspecting-the-remolque-linea.png[width=600]
+image::06/fig-06-08.inspecting-the-remolque-linea.png[width=300]
 
 Las cuerdas de remolque y cables están hechos de materiales como nylon, fibra de índice escalonado de poliéster rojo, POLYPRO trenzado hueco, Dacron, acero y polietileno. <<fig-06-09>>
 
 [[fig-06-09]]
 .Materiales de cuerda de remolque
-image::06/fig-06-09.remolque-cable-materials.png[width=600]
+image::06/fig-06-09.remolque-cable-materials.png[width=300]
 
 <<fig-06-10>> muestra la resistencia de algunas cuerdas típicamente usadas. El fabricante de la cuerda puede proporcionar especificaciones exactas.
 
 [[fig-06-10]]
 .Resistencias típicas de cuerda
-image::06/fig-06-10.typical-cable-strengths.png[width=600]
+image::06/fig-06-10.typical-cable-strengths.png[width=300]
 
 14 CFR parte 91, sección 91.309(a)(3), requiere resistencia de línea de remolque dentro de un rango de 80 a 200 por ciento del peso máximo certificado del planeador. Sin embargo, la línea de remolque puede tener una resistencia a la ruptura más del doble del peso máximo certificado de operación del planeador si se usan enlaces de seguridad como se especifica en 14 CFR parte 91, sección 91.309(a)(3). Nótese que un modelo específico de planeador puede tener una limitación más estricta en la resistencia máxima de línea de remolque. El POH listaría esta limitación.
 
-Si se usa una línea de remolque con una resistencia a la ruptura más del doble del peso máximo certificado de operación del planeador, 14 CFR parte 91, sección 91.309(a)(3) requiere la instalación de dos enlaces de seguridad/débiles, cualquiera de los cuales puede romperse antes de que la tensión excesiva en la línea de remolque cause daño estructural ya sea al planeador o al avión de remolque. El enlace débil cerca del punto de unión del planeador <<fig-06-11>> requiere el mismo rango de resistencia a la ruptura que la cuerda de remolque, 80 a 200 por ciento del peso máximo certificado de operación del planeador. El enlace débil instalado cerca del punto de unión del avión de remolque debe tener una resistencia a la ruptura mayor, pero no más de 25 por ciento mayor, que la del enlace débil en el extremo del planeador de la línea de remolque y no más del doble del peso máximo certificado de operación del planeador. Ver figura 6-12 para un análisis de ejemplo de resistencia de enlace débil.
+Si se usa una línea de remolque con una resistencia a la ruptura más del doble del peso máximo certificado de operación del planeador, 14 CFR parte 91, sección 91.309(a)(3) requiere la instalación de dos enlaces de seguridad/débiles, cualquiera de los cuales puede romperse antes de que la tensión excesiva en la línea de remolque cause daño estructural ya sea al planeador o al avión de remolque. El enlace débil cerca del punto de unión del planeador <<fig-06-11>> requiere el mismo rango de resistencia a la ruptura que la cuerda de remolque, 80 a 200 por ciento del peso máximo certificado de operación del planeador. El enlace débil instalado cerca del punto de unión del avión de remolque debe tener una resistencia a la ruptura mayor, pero no más de 25 por ciento mayor, que la del enlace débil en el extremo del planeador de la línea de remolque y no más del doble del peso máximo certificado de operación del planeador. Ver <<fig-06-12>> para un análisis de ejemplo de resistencia de enlace débil.
 
 [[fig-06-11]]
 .Un enlace de seguridad. La espuma añadida a la línea de remolque previene la abrasión de la línea de remolque
-image::06/fig-06-11.a-seguridad-link-the-foam-added-to-the-remolque.png[width=600]
+image::06/fig-06-11.a-seguridad-link-the-foam-added-to-the-remolque.png[width=300]
 
 [[fig-06-12]]
 .Requisitos de resistencia de enlace de seguridad asumiendo un enlace de 1,000 lb instalado cerca del planeador
-image::06/fig-06-12.seguridad-link-strength-requirements-assuming-a.png[width=600]
+image::06/fig-06-12.seguridad-link-strength-requirements-assuming-a.png[width=300]
 
 Los dos tipos más comunes de gancho de remolque son un diseño por encima de la parte superior, como un gancho Schweizer, o un estilo de agarre, como un gancho Tost. Los pilotos deberían inspeccionar y verificar que cualquier gancho de remolque esté libre de daño y opere libremente. <<fig-06-13>> y <<fig-06-14>>
 
 [[fig-06-13]]
 .Gancho de remolque tipo Schweizer
-image::06/fig-06-13.schweizer-type-remolque-gancho.png[width=600]
+image::06/fig-06-13.schweizer-type-remolque-gancho.png[width=300]
 
 [[fig-06-14]]
 .Gancho Tost
-image::06/fig-06-14.tost-gancho.png[width=600]
+image::06/fig-06-14.tost-gancho.png[width=300]
 
 == Inspección pre-vuelo del planeador
 
@@ -133,7 +128,7 @@ Los pilotos deberían conducir una inspección minuciosa del planeador antes del
 
 [[fig-06-15]]
 .Lista de verificación de inspección pre-vuelo de planeador
-image::06/fig-06-15.a-planeador-pre-vuelo-inspeccion-lista.png[width=600]
+image::06/fig-06-15.a-planeador-pre-vuelo-inspeccion-lista.png[width=300]
 
 == Lista de verificación pre-lanzamiento
 
@@ -141,13 +136,13 @@ El piloto debería conducir un chequeo de control positivo con la ayuda de un mi
 
 [[fig-06-16]]
 .Chequeo de control positivo de spoilers
-image::06/fig-06-16.positive-control-check-of-aerofrenos.png[width=600]
+image::06/fig-06-16.positive-control-check-of-aerofrenos.png[width=300]
 
 Si el GFM/POH no proporciona una lista de verificación pre-lanzamiento específica, entonces algunas buenas listas de verificación genéricas son CB SWIFT CBE y ABBCCCDDE, que se explican en <<fig-06-17>>. Los pilotos deberían seguir cada paso cuidadosamente independientemente de la lista de verificación usada.
 
 [[fig-06-17]]
 .Listas de verificación pre-lanzamiento genéricas
-image::06/fig-06-17.generic-pre-lanzamiento-checklists.png[width=600]
+image::06/fig-06-17.generic-pre-lanzamiento-checklists.png[width=300]
 
 == Cuidado del planeador
 

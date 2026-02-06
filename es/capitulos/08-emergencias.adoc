@@ -1,11 +1,6 @@
 [[cap08]]
 = Procedimientos anormales y de emergencia
 
-[abstract]
---
-Este capítulo presenta una variedad de escenarios anormales y de emergencia que los pilotos de planeadores deben conocer y para los cuales deben estar preparados.
---
-
 == Introducción
 
 Los pilotos de planeadores entrenan para procedimientos anormales y de emergencia en caso de problemas de control, fallas de instrumentos o malfunciones de equipos. Además, dado que los aterrizajes forzosos pueden ocurrir debido a ascensos inadecuados en un vuelo de travesía, los pilotos de planeadores deben entender cómo usar equipo de emergencia y equipo de supervivencia como una necesidad práctica.
@@ -36,7 +31,7 @@ Las fallas mecánicas del equipo incluyen fallas del gancho de remolque, fallas 
 
 [[fig-08-01]]
 .Señales del avión de remolque y el planeador debido a falla del mecanismo de liberación (paneles izquierdo y central) y señal del avión de remolque ordenando liberación del planeador (panel derecho)
-image::08/fig-08-01.towplane-and-planeador-senales-due-to-soltado.png[width=600]
+image::08/fig-08-01.towplane-and-planeador-senales-due-to-soltado.png[width=300]
 
 La falla del mecanismo de liberación puede ocurrir ya sea en el avión de remolque o en el sistema de gancho de remolque del planeador. Si falla el mecanismo de liberación del planeador, el piloto del planeador debe notificar al piloto de remolque ya sea por radio o señal de remolque como se muestra en el panel izquierdo de la <<fig-08-01>>, y el planeador debe mantener la posición de remolque alto. El piloto de remolque debe remolcar el planeador sobre el aeródromo o aeropuerto y liberar el planeador desde el avión de remolque. La línea de remolque debe caer hacia atrás y debajo del planeador. El diseño de algunos mecanismos de gancho de remolque permite que la línea se libere del planeador por su propio peso. Después de la liberación por el avión de remolque y dado que algunos ganchos de planeador no liberan hacia atrás, el piloto del planeador debe tirar de la liberación para aumentar la probabilidad de que la línea de remolque se libere del planeador. En el raro evento de que el piloto de remolque también no pueda liberar, el piloto de remolque guiñará el avión repetidamente como se muestra en el panel central de la <<fig-08-01>>.
 
@@ -44,11 +39,11 @@ Los aviones de remolque a menudo usan una variante del enganche de remolque Schw
 
 [[fig-08-04]]
 .Ejemplos de anillos de remolque Schweizer y Tost
-image::08/fig-08-04.examples-of-schweizer-and-tost-remolque-rings.png[width=600]
+image::08/fig-08-04.examples-of-schweizer-and-tost-remolque-rings.png[width=300]
 
 [[fig-08-05]]
 .Un enganche de remolque Schweizer bajo tensión hacia arriba
-image::08/fig-08-05.a-schweizer-remolque-enganche-under-upward-tension.png[width=600]
+image::08/fig-08-05.a-schweizer-remolque-enganche-under-upward-tension.png[width=300]
 
 La falla del mecanismo de liberación tanto en el avión de remolque como en el planeador ocurre muy raramente. Si ocurre, las comunicaciones por radio o señales de remolque entre el piloto del planeador y el piloto de remolque deben confirmar la situación. Una opción tiene al planeador y avión de remolque aterrizando sin liberarse uno del otro. Una vez que comienza un descenso al aeródromo o aeropuerto en este escenario, el piloto del planeador debe moverse y mantener la posición de remolque bajo y usar spoilers/frenos de picado para evitar alcanzar al avión de remolque. El piloto de remolque debe planear una aproximación poco profunda que evite obstáculos y permita que el planeador toque primero. El avión de remolque podría experimentar un aterrizaje duro si el piloto del planeador usa el freno de rueda excesivamente y frena el avión de remolque por debajo de su velocidad de vuelo. El piloto del planeador debe usar los spoilers o frenos de picado para permanecer en la pista y usar el freno de rueda solo según sea necesario para evitar alcanzar al avión de remolque.
 
@@ -62,7 +57,7 @@ Si ocurre una falla de remolque o liberación deliberada antes del despegue del 
 
 [[fig-08-06]]
 .Situaciones para rotura de línea de remolque, liberación no comandada o pérdida de potencia del avión de remolque
-image::08/fig-08-06.situations-for-remolque-linea-break-uncommanded.png[width=600]
+image::08/fig-08-06.situations-for-remolque-linea-break-uncommanded.png[width=300]
 
 ==== Falla de Remolque después del Despegue—Planeador Incapaz de Regresar al Aeropuerto
 
@@ -103,11 +98,11 @@ La línea floja es una reducción de la tensión en la línea de remolque. Si la
 
 [[fig-08-07]]
 .El alabeo del planeador es más pronunciado que el del avión de remolque, causando holgura en la línea de remolque
-image::08/fig-08-07.planeador-inclinacion-steeper-than-that-of.png[width=600]
+image::08/fig-08-07.planeador-inclinacion-steeper-than-that-of.png[width=300]
 
 [[fig-08-08]]
 .Un método de generar línea de remolque floja
-image::08/fig-08-08.one-method-of-generating-remolque-linea-slack.png[width=600]
+image::08/fig-08-08.one-method-of-generating-remolque-linea-slack.png[width=300]
 
 Cuando el avión de remolque precede al planeador en una corriente ascendente, el piloto del planeador percibe el avión de remolque como ascendiendo más rápido y más alto que el planeador. Luego, a medida que el planeador entra en la corriente ascendente, asciende más alto y más rápido que el avión de remolque. Como resultado, el piloto del planeador cabecea el planeador hacia abajo para recuperar la altitud de remolque adecuada, gana velocidad del aire más rápidamente que el avión de remolque, y crea una línea de remolque floja.
 
@@ -133,7 +128,7 @@ El gradiente de viento (un aumento repentino en la velocidad del viento con la a
 
 [[fig-08-09]]
 .Gradiente de viento en lanzamiento en tierra
-image::08/fig-08-09.ground-lanzamiento-viento-gradiente.png[width=600]
+image::08/fig-08-09.ground-lanzamiento-viento-gradiente.png[width=300]
 
 === Procedimientos de Emergencia
 
@@ -141,7 +136,7 @@ Una rotura de la línea de remolque puede causar una emergencia durante un lanza
 
 [[fig-08-10]]
 .Rotura de línea de remolque en lanzamiento en tierra
-image::08/fig-08-10.ground-lanzamiento-remolque-linea-break.png[width=600]
+image::08/fig-08-10.ground-lanzamiento-remolque-linea-break.png[width=300]
 
 Si falla el mecanismo de liberación del remolque del planeador, el piloto debe volar a velocidades no menores que la velocidad de aire de mejor relación sustentación/resistencia (L/D). El piloto debe volar sobre y luego pasar el equipo de lanzamiento en tierra. Este método permite que se active la liberación hacia atrás del gancho de remolque del planeador o que falle el eslabón débil de la línea de remolque. El equipo de lanzamiento en tierra también usa un mecanismo de liberación de emergencia en el evento de que falle la liberación del remolque del planeador. Los tornos deben tener una guillotina para cortar la línea de remolque, si es necesario. Si se usa un vehículo motorizado para un lanzamiento en tierra, también debe tener alguna forma de mecanismo de liberación de respaldo.
 
@@ -171,7 +166,7 @@ Durante una barrena, el planeador sigue una trayectoria de corcho en espiral hac
 
 [[fig-08-11]]
 .Auto-rotación del planeador en barrena
-image::08/fig-08-11.autorotation-of-spinning-planeador.png[width=600]
+image::08/fig-08-11.autorotation-of-spinning-planeador.png[width=300]
 
 Muchos planeadores necesitan esfuerzo considerable para entrar en una barrena y requieren buen juicio y técnica para entrar intencionalmente en una barrena. Sin embargo, estos mismos planeadores pueden entrar en una barrena accidentalmente si el piloto maneja mal los controles en giros, pérdidas y vuelo a velocidades mínimas controlables. Este hecho explica por qué los pilotos deben practicar pérdidas y desarrollar la habilidad para reconocerlas y recuperarse de ellas.
 
@@ -274,7 +269,7 @@ Este procedimiento de aproximación proporciona la oportunidad de ver el área d
 
 [[fig-08-12]]
 .Aproximación de aterrizaje fuera de campo
-image::08/fig-08-12.campo-alterno-aterrizaje-aproximacion.png[width=600]
+image::08/fig-08-12.campo-alterno-aterrizaje-aproximacion.png[width=300]
 
 Esta aproximación de aterrizaje fuera de campo ofrece una buena vista del área de aterrizaje desde todos los lados.
 
@@ -403,7 +398,7 @@ Las motoveletas tienen los mismos requisitos que los planeadores para equipos de
 
 [[fig-08-13]]
 .Disyuntores de motovela
-image::08/fig-08-13.autolanzable-planeador-circuit-breakers.png[width=600]
+image::08/fig-08-13.autolanzable-planeador-circuit-breakers.png[width=300]
 
 === Falla del Motor
 

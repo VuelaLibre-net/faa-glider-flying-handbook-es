@@ -1,11 +1,6 @@
 [[cap05]]
 = Rendimiento del planeador
 
-[abstract]
---
-Este capítulo trata los factores que afectan el rendimiento del planeador, incluyendo altitud de densidad, viento, peso, y el uso de lastre de agua. También cubre polares de planeo y limitaciones de operación.
---
-
 == Introducción
 
 El rendimiento del planeador depende del diseño, el clima, el viento y otros fenómenos atmosféricos. Mientras que el diseño del planeador afecta el rendimiento en gran medida, el diseño permanece fijo y conocido por el piloto. Otros factores cambian y afectan el lanzamiento, crucero y aterrizaje.
@@ -22,7 +17,7 @@ Un gráfico proporciona una forma de determinar la altitud de densidad. <<fig-05
 
 [[fig-05-01]]
 .Gráfico de altitud de densidad
-image::05/fig-05-01.densidad-altitud-grafico.png[width=600]
+image::05/fig-05-01.densidad-altitud-grafico.png[width=300]
 
 Muchos gráficos de rendimiento usan entradas de altitud de presión y temperatura sin requerir que el piloto calcule la altitud de densidad. Sin embargo, si el piloto quiere saber la altitud de densidad, un gráfico de altitud de densidad o una computadora de vuelo pueden proporcionar esa información.
 
@@ -44,13 +39,13 @@ El viento también afecta el rendimiento del planeador. El viento en proa durant
 
 [[fig-05-02]]
 .Efecto aparente del viento en la distancia de despegue y el ángulo de ascenso
-image::05/fig-05-02.apparent-viento-effect-on-despegue-distance-and.png[width=600]
+image::05/fig-05-02.apparent-viento-effect-on-despegue-distance-and.png[width=300]
 
 Debido a la disminución de la fricción del suelo entre el viento y el suelo, la velocidad del viento a menudo aumenta con la altitud. Este «gradiente de viento» durante un lanzamiento terrestre podría resultar en un exceso de la velocidad máxima de lanzamiento. <<fig-05-03>>
 
 [[fig-05-03]]
 .Un gradiente de viento puede afectar la velocidad del aire durante un remolque terrestre
-image::05/fig-05-03.a-viento-gradiente-may-affect-velocidad-aire.png[width=600]
+image::05/fig-05-03.a-viento-gradiente-may-affect-velocidad-aire.png[width=300]
 
 Durante el vuelo de crucero, los vientos en proa reducen la velocidad sobre el suelo del planeador. Un planeador volando a 60 nudos de velocidad del aire verdadera contra un viento en proa de 25 nudos tiene una velocidad sobre el suelo de solo 35 nudos. Los vientos en cola aumentan la velocidad sobre el suelo del planeador. Un planeador volando a 60 nudos de velocidad del aire verdadera con un viento en cola de 25 nudos tiene una velocidad sobre el suelo de 85 nudos.
 
@@ -60,13 +55,13 @@ Cuando se vuela recto y nivelado y siguiendo una trayectoria terrestre seleccion
 
 [[fig-05-04]]
 .Efecto de viento cruzado en el planeo final
-image::05/fig-05-04.viento-cruzado-effect-on-final-planeo.png[width=600]
+image::05/fig-05-04.viento-cruzado-effect-on-final-planeo.png[width=300]
 
 Un viento en proa durante una aproximación resulta en una mayor pérdida de altitud por distancia recorrida. El planeador desciende a una tasa constante, pero una velocidad sobre el suelo más baja aumenta el ángulo de aproximación observado. Los pilotos usan varias técnicas para asegurar toques seguros en diferentes condiciones de viento. Por ejemplo, si se aterriza con un viento en proa fuerte, el piloto de planeador debería planificar un tramo de base más cercano a la zona de aterrizaje para permitir la aproximación más pronunciada. Otra técnica usa la extensión retardada de spoilers o frenos de picado con una velocidad del aire más rápida para contrarrestar el componente de viento en proa. En el caso de un viento en cola y un ángulo de aproximación aparentemente menor, el piloto de planeador puede usar más extensión de spoiler o freno de picado, deslizamiento, o usar una combinación de ambos si está permitido por el GFM. En cualquier caso, el piloto generalmente apunta a un punto más allá del umbral de la pista para proporcionar un factor de seguridad que cuente los efectos del gradiente de viento u otros factores que pueden causar que la aproximación sea más corta de lo esperado. <<fig-05-05>>
 
 [[fig-05-05]]
 .El efecto del viento en la aproximación final y la distancia de aterrizaje
-image::05/fig-05-05.the-effect-of-viento-on-final-aproximacion-and.png[width=600]
+image::05/fig-05-05.the-effect-of-viento-on-final-aproximacion-and.png[width=300]
 
 Al aproximar para aterrizar durante condiciones ventosas y con ráfagas, un piloto normalmente añade la mitad de la diferencia entre el viento constante y las ráfagas a la velocidad de aproximación para mitigar cualquier variación en la velocidad del aire. En lugar de mantener el planeador fuera del suelo para un aterrizaje de baja energía cinética durante estas condiciones, el piloto puede aterrizar un poco más rápido de lo normal. Al tocar tierra, extender los frenos de aire evita que el planeador se eleve de una ráfaga durante la carrera de aterrizaje.
 
@@ -78,7 +73,7 @@ Un fuerte gradiente de cortante de viento puede afectar un planeador durante un 
 
 [[fig-05-06]]
 .Efecto del gradiente de velocidad del viento en un planeador
-image::05/fig-05-06.effect-of-viento-velocity-gradiente-on-a.png[width=600]
+image::05/fig-05-06.effect-of-viento-velocity-gradiente-on-a.png[width=300]
 
 == Peso
 
@@ -86,7 +81,7 @@ El peso de un planeador afecta la aceleración durante el lanzamiento. Un planea
 
 [[fig-05-07]]
 .Efecto del peso en la distancia de despegue y la tasa y ángulo de ascenso
-image::05/fig-05-07.effect-of-peso-on-despegue-distance-and-climb-out.png[width=600]
+image::05/fig-05-07.effect-of-peso-on-despegue-distance-and-climb-out.png[width=300]
 
 La velocidad de pérdida aumenta con la raíz cuadrada de cualquier carga en el planeador. Por ejemplo, si el peso o el factor de carga en el planeador se duplica, la velocidad de pérdida aumenta por la raíz cuadrada de 2 o 1.41. Si un planeador de 540 libras tiene una velocidad de pérdida de 40 nudos y el piloto añade 300 libras de lastre de agua aumentando el peso total a 840 libras, la velocidad de pérdida aumenta a aproximadamente 50 nudos (40 x √(840/540)).
 
@@ -94,15 +89,15 @@ La velocidad que resulta en la menor pérdida de altitud sobre el tiempo, la vel
 
 [[fig-05-08]]
 .Efecto del peso añadido en el radio de giro en térmicas
-image::05/fig-05-08.effect-of-added-peso-on-thermaling-giro-radius.png[width=600]
+image::05/fig-05-08.effect-of-added-peso-on-thermaling-giro-radius.png[width=300]
 
 Aumentar el peso de operación de un planeador dado no solo aumenta la velocidad de pérdida y la velocidad de mínimo hundimiento, también aumenta la velocidad de aire de mejor relación L/D <<fig-05-09>>. Aunque un planeador más pesado se hunde más rápido, plane la misma distancia horizontal (a una velocidad más alta) que un planeador más ligero con la misma relación de planeo y altitud inicial.
 
 [[fig-05-09]]
 .Efecto del peso añadido en las velocidades de rendimiento
-image::05/fig-05-09.above-shows-that-increasing-peso-from-800-to-1200.png[width=600]
+image::05/fig-05-09.above-shows-that-increasing-peso-from-800-to-1200.png[width=300]
 
-La Figura 5-9 anterior muestra que aumentar el peso de 800 a 1,200 libras aumenta la velocidad de aire de mejor relación L/D de 60 a 73 nudos. Un planeador con más peso puede volar más rápido mientras mantiene la misma relación de sustentación/resistencia (relación de planeo). La ventaja del peso más pesado se hace aparente durante vuelo más rápido entre térmicas en aire descendente. En sustentación fuerte el planeador pesado puede ascender razonablemente bien, y la ventaja durante la porción de crucero del vuelo puede superar la desventaja durante los ascensos.
+La <<fig-05-09>> muestra que aumentar el peso de 800 a 1,200 libras aumenta la velocidad de aire de mejor relación L/D de 60 a 73 nudos. Un planeador con más peso puede volar más rápido mientras mantiene la misma relación de sustentación/resistencia (relación de planeo). La ventaja del peso más pesado se hace aparente durante vuelo más rápido entre térmicas en aire descendente. En sustentación fuerte el planeador pesado puede ascender razonablemente bien, y la ventaja durante la porción de crucero del vuelo puede superar la desventaja durante los ascensos.
 
 Para volar más rápido con eficiencia, algunos planeadores tienen tanques de agua que permiten al piloto añadir peso como lastre. El piloto normalmente expulsa el lastre de agua antes de entrar en el circuito de tráfico o antes si las condiciones necesitan una tasa de ascenso más alta. Reducir el peso del planeador antes del aterrizaje permite al piloto hacer una aproximación normal, aterrizaje normal, y reduce la carga en el tren de aterrizaje.
 
@@ -123,7 +118,7 @@ La cantidad de información que las placas transmiten al piloto aumenta a medida
 
 [[fig-05-10]]
 .Placas típicas para planeadores
-image::05/fig-05-10.typical-placards-for-planeadores.png[width=600]
+image::05/fig-05-10.typical-placards-for-planeadores.png[width=300]
 
 === Información de rendimiento
 
@@ -141,7 +136,7 @@ El pico de la curva azul de tasa de hundimiento determina la tasa de mínimo hun
 
 [[fig-05-11]]
 .Velocidad de aire de mínimo hundimiento y velocidad de máxima relación L/D
-image::05/fig-05-11.minimum-sink-velocidad-aire-and-maximum-l-d.png[width=600]
+image::05/fig-05-11.minimum-sink-velocidad-aire-and-maximum-l-d.png[width=300]
 
 Para determinar la mejor velocidad para volar para distancia sobre el suelo con viento en proa, el piloto puede desplazar el origen hacia la derecha a lo largo del eje horizontal por la velocidad del viento en proa y trazar una nueva línea tangente a la polar. Para vientos en cola, el piloto desplaza el origen hacia la izquierda de la marca cero en el eje horizontal.
 
@@ -149,33 +144,33 @@ Para determinar la mejor velocidad para volar para distancia sobre el suelo con 
 
 [[fig-05-12]]
 .Mejor velocidad para volar con un viento en proa de 20 nudos
-image::05/fig-05-12.best-velocidad-to-fly-in-a-20-knot-viento-en-proa.png[width=600]
+image::05/fig-05-12.best-velocidad-to-fly-in-a-20-knot-viento-en-proa.png[width=300]
 
 La velocidad para volar en viento en cola se encuentra entre el mínimo hundimiento y la mejor relación L/D, pero nunca menor que la velocidad de mínimo hundimiento.
 
-El aire hundido a menudo existe entre térmicas y volar más rápido que la mejor relación L/D puede resultar en menos tiempo en aire descendente y un aumento en eficiencia. El piloto puede determinar cuánto más rápido volar usando la polar del planeador, como se ilustra en la Figura 5-13 para una masa de aire hundida a 3 nudos entre térmicas. En este caso, el piloto dibuja una línea tangente a la polar que comienza 3 nudos sobre el origen para leer la mejor velocidad para volar, 60 nudos en este caso.
+El aire hundido a menudo existe entre térmicas y volar más rápido que la mejor relación L/D puede resultar en menos tiempo en aire descendente y un aumento en eficiencia. El piloto puede determinar cuánto más rápido volar usando la polar del planeador, como se ilustra en la <<fig-05-13>> para una masa de aire hundida a 3 nudos entre térmicas. En este caso, el piloto dibuja una línea tangente a la polar que comienza 3 nudos sobre el origen para leer la mejor velocidad para volar, 60 nudos en este caso.
 
 [[fig-05-13]]
 .Mejor velocidad para volar en aire descendente
-image::05/fig-05-13.best-velocidad-to-fly-in-sinking-air.png[width=600]
+image::05/fig-05-13.best-velocidad-to-fly-in-sinking-air.png[width=300]
 
-Si el planeador tiene lastre de agua, flaps de ala o extensiones de punta de ala, la polar representa las características de rendimiento del planeador en esas configuraciones. <<fig-05-14, Figura 5-15, y Figura 5-16>> Comparar la polar con y sin lastre muestra que el mínimo hundimiento aumenta y ocurre a una velocidad más alta después de añadir peso. Como resultado, trabajar térmicas débiles se vuelve más desafiante con lastre. Además, el lastre reduce la tasa de hundimiento a velocidades más altas. <<fig-05-14>> La mejor relación de planeo permanece la misma, pero ocurre a una velocidad más alta.
+Si el planeador tiene lastre de agua, flaps de ala o extensiones de punta de ala, la polar representa las características de rendimiento del planeador en esas configuraciones. <<fig-05-14>>, <<fig-05-15>> y <<fig-05-16>> Comparar la polar con y sin lastre muestra que el mínimo hundimiento aumenta y ocurre a una velocidad más alta después de añadir peso. Como resultado, trabajar térmicas débiles se vuelve más desafiante con lastre. Además, el lastre reduce la tasa de hundimiento a velocidades más altas. <<fig-05-14>> La mejor relación de planeo permanece la misma, pero ocurre a una velocidad más alta.
 
 [[fig-05-14]]
 .Efecto del lastre de agua en la polar de rendimiento
-image::05/fig-05-14.effect-of-water-lastre-on-performance-polar.png[width=600]
+image::05/fig-05-14.effect-of-water-lastre-on-performance-polar.png[width=300]
 
 Los flaps con un ajuste negativo en lugar de un ajuste de 0 grados durante el crucero también reducen la tasa de hundimiento a velocidades más altas, como se muestra en la polar. <<fig-05-15>> Por lo tanto, cuando se crucera a o por encima de 70 nudos, configurar los flaps a -8° proporcionaría una ventaja.
 
 [[fig-05-15]]
 .Polar de rendimiento con flaps a 0° y –8°
-image::05/fig-05-15.performance-polar-with-flaps-at-0-deg-and-8-deg.png[width=600]
+image::05/fig-05-15.performance-polar-with-flaps-at-0-deg-and-8-deg.png[width=300]
 
-Las extensiones de punta de ala también alteran los datos de la polar, como se muestra en la Figura 5-16. La ilustración muestra que los 3 metros adicionales de envergadura crean una ventaja a todas las velocidades. En algunos planeadores, el rendimiento a baja velocidad mejora con las extensiones de punta, mientras que el rendimiento a alta velocidad disminuye ligeramente.
+Las extensiones de punta de ala también alteran los datos de la polar, como se muestra en la <<fig-05-16>>. La ilustración muestra que los 3 metros adicionales de envergadura crean una ventaja a todas las velocidades. En algunos planeadores, el rendimiento a baja velocidad mejora con las extensiones de punta, mientras que el rendimiento a alta velocidad disminuye ligeramente.
 
 [[fig-05-16]]
 .Polar de rendimiento con configuraciones de 15 metros y 18 metros de envergadura
-image::05/fig-05-16.performance-polar-with-15-meter-and-18-meter.png[width=600]
+image::05/fig-05-16.performance-polar-with-15-meter-and-18-meter.png[width=300]
 
 === Limitaciones
 
@@ -183,7 +178,7 @@ Independientemente de la complejidad del planeador, los diseñadores y fabricant
 
 [[fig-05-17]]
 .Ejemplo de envolvente de vuelo de planeador
-image::05/fig-05-17.sample-planeador-vuelo-envelope.png[width=600]
+image::05/fig-05-17.sample-planeador-vuelo-envelope.png[width=300]
 
 Las líneas amarillas curvas representan la sustentación máxima que el planeador puede generar a diferentes velocidades del aire como Gs.
 
@@ -217,13 +212,13 @@ Los fabricantes comúnmente instalan tanques de agua en los paneles principales 
 
 [[fig-05-20]]
 .Tapa de llenado con ventilación del tanque de lastre de agua
-image::05/fig-05-20.water-lastre-tank-vented-filler-cap.png[width=600]
+image::05/fig-05-20.water-lastre-tank-vented-filler-cap.png[width=300]
 
 Las válvulas de drenaje se ajustan a la parte inferior de cada tanque, y el piloto controla las válvulas desde dentro del planeador. <<fig-05-21>> El piloto puede drenar completamente o parcialmente los tanques con el planeador en tierra para reducir el peso antes del lanzamiento. El piloto también puede manipular las válvulas para drenar los tanques de lastre parcialmente o completamente en vuelo, un proceso llamado expulsar lastre, que normalmente ocurre antes del aterrizaje.
 
 [[fig-05-21]]
 .Manijas de válvula de drenaje de lastre de agua
-image::05/fig-05-21.water-lastre-drain-valve-handles.png[width=600]
+image::05/fig-05-21.water-lastre-drain-valve-handles.png[width=300]
 
 Los pilotos deberían revisar las válvulas de drenaje para operación correcta antes del vuelo. El lastre de agua debería drenarse de cada tanque de ala a la misma tasa. El drenaje desigual conduce a una condición de pesadez de ala que hace el manejo en vuelo, así como los aterrizajes, más difíciles.
 

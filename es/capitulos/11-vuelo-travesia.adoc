@@ -1,11 +1,6 @@
 [[cap11]]
 = Vuelo de Travesía
 
-[abstract]
---
-El vuelo de travesía ocurre cuando el piloto vuela el planeador más allá de la distancia de planeo desde el sitio de planeo local. Este capítulo cubre la preparación, planificación y técnicas para vuelos de travesía.
---
-
 == Introducción
 
 Un vuelo de travesía ocurre cuando el piloto vuela el planeador más allá de la distancia de planeo desde el sitio de planeo local. El vuelo de travesía requiere más preparación y toma de decisiones que un vuelo local. El piloto debe determinar si el planeador, el equipo y el piloto pueden mantenerse de manera segura dadas las condiciones ambientales conocidas y esperadas a lo largo de la ruta de vuelo.
@@ -28,7 +23,7 @@ Los pilotos de planeadores pueden usar una Carta Aeronáutica Seccional electró
 
 [[fig-11-01]]
 .Extracto de una Carta Aeronáutica Seccional
-image::11/fig-11-01.excerpt-from-a-sectional-aeronautical-grafico.png[width=600]
+image::11/fig-11-01.excerpt-from-a-sectional-aeronautical-grafico.png[width=300]
 
 Los pilotos deben dedicar una cantidad significativa de tiempo a estudiar cartas seccionales en tierra. Esto incluye volar algunos vuelos de travesía «virtuales» en varias direcciones desde el sitio de planeo local. Además de estudiar el terreno (colinas, montañas, lagos grandes) que puede afectar el planeo a lo largo de la ruta, el piloto debe estudiar las diversas líneas y símbolos y responder las siguientes preguntas:
 
@@ -47,7 +42,7 @@ El piloto debe contactar a un informante o fuente derivada del NWS para un pron�
 
 [[fig-11-02]]
 .Muestra de Pronóstico de Planeo
-image::11/fig-11-02.sample-vuelo-vela-forecast.png[width=600]
+image::11/fig-11-02.sample-vuelo-vela-forecast.png[width=300]
 
 En el ejemplo de pronóstico de planeo mostrado arriba, la línea para Altura del Índice Térmico -3 representa la diferencia entre la temperatura ambiental y la temperatura a un nivel particular determinada siguiendo la adiabática seca a través de la temperatura máxima pronosticada hasta ese nivel. Un valor negativo de magnitud creciente indica sustentación térmica más fuerte. Un valor de -3 o menor generalmente indica actividad térmica favorable para planeo de travesía. Los pilotos de planeo deben consultar con la WFO del NWS en su área de planeo para más información sobre el pronóstico de planeo.
 
@@ -78,19 +73,19 @@ El planeo de travesía requiere algún medio de medir distancias a la siguiente 
 
 [[fig-11-03]]
 .Trazador de vuelo de navegación
-image::11/fig-11-03.navigational-plotter.png[width=600]
+image::11/fig-11-03.navigational-plotter.png[width=300]
 
 Los cálculos de planeo tienen en cuenta los vientos de frente o de cola, así como las velocidades para volar a través de varias tasas de descenso como se discutió en el capítulo 5, Rendimiento del Planeador. Las herramientas varían ampliamente en su nivel de sofisticación, pero todas consideran la polar de rendimiento para el planeador. La ayuda de planeo más simple derivada de la polar consiste en una tabla mostrando altitudes requeridas para distancia versus viento. Otra opción consiste en una calculadora de planeo circular como se muestra en la <<fig-11-04>>. Los ajustes en la <<fig-11-04>> indican que un planeo de 18 millas en un viento de frente estimado de 10 nudos toma 3,600 pies. Nótese que esto solo da la altitud requerida para hacer el planeo. Los planeadores de alto rendimiento a menudo tienen computadoras de planeo/navegación que calculan automáticamente la relación de planeo (L/D).
 
 [[fig-11-04]]
 .Calculadora circular de planeo
-image::11/fig-11-04.circular-planeador-calculator.png[width=600]
+image::11/fig-11-04.circular-planeador-calculator.png[width=300]
 
 Otro método permite a un piloto calcular la relación de planeo efectiva utilizando una fórmula estándar. La relación de planeo, con respecto al aire (GRA) o L/D, permanece constante a una velocidad dada. Por ejemplo, el piloto podría conocer la relación de planeo, y sustentación sobre resistencia (L/D) siendo 30 a 1 (expresado como 30:1) para una velocidad de 50 nudos en un planeador específico. A 50 nudos de velocidad del aire con un L/D de 30:1, un viento de cola de 10 nudos resulta en una relación de planeo efectiva de 36:1. <<fig-11-05>>
 
 [[fig-11-05]]
 .Ejemplos de cálculo de planeo para viento de frente y viento de cola
-image::11/fig-11-05.planeo-calculation-examples-for-a-viento-en-proa.png[width=600]
+image::11/fig-11-05.planeo-calculation-examples-for-a-viento-en-proa.png[width=300]
 
 Además de una calculadora de planeo, una computadora de vuelo o anillo MacCready en el variómetro le da al piloto la velocidad apropiada para volar para diferentes tasas de descenso. Datos como velocidad y dirección del viento pueden introducirse manual o automáticamente dependiendo de la edad y capacidad de la computadora de vuelo. Volar la velocidad correcta con precisión en aire descendente puede extender considerablemente el planeo logrado.
 
@@ -108,7 +103,7 @@ Para fines de entrenamiento, un piloto podría planificar una ruta triangular co
 
 [[fig-11-06]]
 .Triángulo de travesía dibujado en la Carta Seccional de Albuquerque
-image::11/fig-11-06.travesia-triangle-drawn-on-the-albuquerque.png[width=600]
+image::11/fig-11-06.travesia-triangle-drawn-on-the-albuquerque.png[width=300]
 
 El pronóstico muestra la base esperada de los cúmulos a 11,000 MSL, y los vientos en altura indican 320° a 10 nudos a 9,000 MSL y 330° a 20 nudos a 12,000 MSL durante el vuelo. El piloto debe tomar nota de los vientos en altura para referencia durante el vuelo. Por ejemplo, la primera pata tiene casi un viento cruzado directo desde la izquierda; la segunda pata tiene un componente de viento cruzado más débil desde la derecha; la última pata tiene casi un viento de frente directo. Por esta razón, el piloto de planeador puede decidir volar el curso en la dirección opuesta. Sin embargo, en este ejemplo, el piloto acepta un viento de frente en la última pata.
 
@@ -120,13 +115,13 @@ El piloto puede localizar el primer punto de giro fácilmente debido a buenos pu
 
 [[fig-11-07]]
 .VOR TEXICO y Aeropuerto de Benger (X54)
-image::11/fig-11-07.texico-vor-and-benger-aerodromo-x54.png[width=600]
+image::11/fig-11-07.texico-vor-and-benger-aerodromo-x54.png[width=300]
 
 A continuación, el curso entra en el Área de Operaciones Militares Bronco 1 (MOA). Las dimensiones del MOA aparecen en la carta seccional, y el piloto debe determinar los tiempos activos de este espacio aéreo. Al acercarse al segundo punto de giro, el piloto podría confundir los pueblos de Circle Back y Needmore. <<fig-11-08>> La posición relativa de una obstrucción de 466 pies sobre el nivel del terreno (AGL) y una carretera que se dirige hacia el norte fuera de Needmore proporcionan pistas para la identificación. Los puntos de referencia en la tercera pata <<fig-11-08>> incluyen líneas de transmisión eléctrica, Lago Salt (posiblemente seco), el pequeño pueblo de Arch y una carretera principal que viene hacia el sur desde Portales.
 
 [[fig-11-08]]
 .Circle Back y Needmore
-image::11/fig-11-08.circle-back-and-needmore.png[width=600]
+image::11/fig-11-08.circle-back-and-needmore.png[width=300]
 
 El vuelo puede comenzar después de una verificación final del tiempo, un pre-vuelo exhaustivo del planeador y después de guardar todo el equipo apropiado. Una vez en el aire y en rumbo, el piloto puede intentar verificar los vientos en altura mientras usa pilotaje para permanecer lo más cerca posible de la línea de curso según permitan las condiciones de planeo. Si se hacen desviaciones de curso, el piloto debe permanecer consciente de la ubicación de la línea de curso al siguiente punto de giro. Por ejemplo, una Cu directamente adelante puede indicar sustentación, pero una a 30° fuera de curso indica posiblemente aún más sustentación. El piloto elige si proceder hacia la sustentación mayor aceptando una distancia más larga para volar, o aceptar sustentación menor con una desviación menor fuera de curso.
 
@@ -148,7 +143,7 @@ Antes de aventurarse más allá de la distancia de planeo del aeropuerto de orig
 
 [[fig-11-09]]
 .Ejemplos de rutas de práctica de travesía
-image::11/fig-11-09.examples-of-practice-travesia-courses.png[width=600]
+image::11/fig-11-09.examples-of-practice-travesia-courses.png[width=300]
 
 Algunas computadoras de vuelo calculan automáticamente los vientos en altura mientras que otros sistemas GPS estiman los vientos calculando la deriva después de varios giros térmicos. Al volar con GPS, el piloto puede determinar un componente de viento de frente de TAS por simple resta de la velocidad sobre el suelo mientras se mantiene un rumbo particular. Determinar los vientos en altura sin ninguno de los sistemas puede resultar difícil. Una primera estimación viene de los pronósticos de vientos en altura. Una vez en el aire, el piloto puede estimar la velocidad del viento a nivel de nube desde la trayectoria de las sombras de los cúmulos sobre el suelo. Sin embargo, los vientos a niveles más bajos pueden diferir de los a nivel de nube. En días sin nubes, el piloto puede estimar el viento notando la deriva mientras se termaliza. Si se pierde más altitud en planeos de lo esperado, el piloto debe aumentar la estimación de viento de frente.
 
@@ -156,7 +151,7 @@ Una técnica común de planificación de vuelo involucra dibujar círculos de ra
 
 [[fig-11-10]]
 .Ejemplo de perfil de vuelo durante una ruta de travesía
-image::11/fig-11-10.example-of-a-vuelo-profile-during-a-travesia.png[width=600]
+image::11/fig-11-10.example-of-a-vuelo-profile-during-a-travesia.png[width=300]
 
 La calculadora de planeo o computadora considera la tasa de descenso del planeador en aire tranquilo, que el piloto puede ajustar por vientos de frente y de cola. Sin embargo, cualquier corriente vertical (descenso) puede afectar drásticamente estos cálculos y distorsionar los resultados. Las áreas de buena sustentación térmica existen con áreas de fuerte descenso, y un piloto de planeador debe leer el cielo para encontrar la sustentación y evitar o pasar a través del descenso lo más rápido posible. Un piloto competente de planeador entiende las curvas polares del planeador y los efectos de diferentes condiciones de sustentación, descenso y vientos.
 
@@ -193,7 +188,7 @@ Teóricamente, el piloto puede lograr la velocidad promedio más alta en un vuel
 
 [[fig-11-12]]
 .Un Anillo MacCready ajustado para un ascenso esperado de 4 nudos en la siguiente térmica. Con un descenso actual de poco más de 2 nudos, el anillo MacCready sugiere 65 nudos como la velocidad a la siguiente térmica.
-image::11/fig-11-12.a-maccready-anillo-set-for-an-expected-4-knot.png[width=600]
+image::11/fig-11-12.a-maccready-anillo-set-for-an-expected-4-knot.png[width=300]
 
 La teoría del anillo MacCready asume que la siguiente térmica tiene al menos la misma fuerza que la ajustada en el anillo, y el planeador puede alcanzar la siguiente térmica con altitud suficiente. El piloto debe juzgar si las condiciones actuales apoyan la adherencia a los números. Los factores que pueden requerir desviación de la teoría del anillo MacCready incluyen terreno (altura extra necesaria para pasar una cresta), distancia al siguiente sitio de aterrizaje adecuado, o condiciones de planeo deteriorándose adelante. Si la siguiente térmica parece estar fuera de alcance antes de caer debajo de la banda de altitud, el piloto debe ascender más alto, planear más lentamente, o ambos.
 
@@ -201,7 +196,7 @@ Para ilustrar el uso de la teoría de velocidad para volar, asuma que hay cuatro
 
 [[fig-11-13]]
 .Ejemplo de planeos logrados para diferentes ajustes de anillo MacCready
-image::11/fig-11-13.example-of-glides-achieved-for-different.png[width=600]
+image::11/fig-11-13.example-of-glides-achieved-for-different.png[width=300]
 
 * El Piloto 1 ajusta el anillo a 6 nudos para el ascenso fuerte anticipado bajo el cúmulo grande, pero el enfoque agresivo tiene el planeador en el suelo antes de llegar a la nube.
 * El Piloto 2 ajusta el anillo para 2 nudos y asciende bajo cada nube hasta reajustar el anillo a 6 nudos después de ascender bajo el tercer cúmulo débil, de acuerdo con la teoría estricta de velocidad para volar.
@@ -216,7 +211,7 @@ La banda de altitud cambia durante el día. En un día típico de planeo, la alt
 
 [[fig-11-14]]
 .Altura térmica y banda de altitud versus hora del día
-image::11/fig-11-14.termica-height-and-height-band-versus-time-of-day.png[width=600]
+image::11/fig-11-14.termica-height-and-height-band-versus-time-of-day.png[width=300]
 
 Otra manera de aumentar la velocidad de travesía involucra una técnica conocida como «vuelo de delfín», que cubre distancias sorprendentes con poco o ningún giro o circulación. La idea involucra picar para acelerar mientras está en descenso y frenar y ascender en sustentación mientras se mantiene una línea de curso recta. Esta técnica utiliza térmicas espaciadas estrechamente, como ocurre a lo largo de una calle de nubes. La velocidad para volar entre áreas de sustentación depende del ajuste MacCready apropiado.
 
@@ -224,7 +219,7 @@ Como ejemplo, asuma que dos planeadores comienzan en el mismo punto y vuelan baj
 
 [[fig-11-15]]
 .Ventaja de la velocidad apropiada para volar bajo una calle de nubes
-image::11/fig-11-15.advantage-of-proper-velocidad-to-fly-under-a-nube.png[width=600]
+image::11/fig-11-15.advantage-of-proper-velocidad-to-fly-under-a-nube.png[width=300]
 
 En un vuelo real de travesía, el piloto puede usar una combinación de vuelo de delfín y ascenso y planeo clásico. En el ejemplo anterior los pilotos decidieron no detenerse y circular en las térmicas débiles espaciadas estrechamente, pero podrían detenerse y circular si encuentran áreas de sustentación fuerte.
 
@@ -236,7 +231,7 @@ Los pilotos podrían considerar la desviación en un vuelo de travesía de plane
 
 [[fig-11-16]]
 .Efectos de comenzar desviaciones de curso en diferentes tiempos. Las flechas rojas muestran distancia extra de curso e indican el beneficio de desviaciones de curso tempranas.
-image::11/fig-11-16.effects-of-starting-course-deviations-at.png[width=600]
+image::11/fig-11-16.effects-of-starting-course-deviations-at.png[width=300]
 
 El piloto podría usar desviaciones de 45° o incluso 90° para evitar condiciones pobres adelante. Áreas a evitar podrían incluir un área grande sin nubes o un área sombreada donde los cúmulos se han extendido en nubes estratificadas. El desarrollo de nubes puede sombrear la tierra, disminuir el calentamiento de la superficie y disminuir la sustentación. Un piloto podría desviarse más de 90° para regresar a térmicas activas después de aventurarse en aire estable.
 
@@ -258,7 +253,7 @@ La confianza excesiva en el motor puede llevar a los pilotos a planear sobre ter
 
 [[fig-11-17]]
 .Efectos en la relación de planeo del motor estando extendido pero no funcionando
-image::11/fig-11-17.effects-on-the-planeo-relacion-of-the-motor-being.png[width=600]
+image::11/fig-11-17.effects-on-the-planeo-relacion-of-the-motor-being.png[width=300]
 
 El procedimiento de arranque del motor en un planeador de auto-lanzamiento aumenta la altitud de decisión crítica para comprometerse con un aterrizaje fuera de campo. El tiempo necesario para arrancar el motor y la resistencia extra durante el proceso de arranque puede añadir de 200 a 500 pies de altitud perdida para extender y arrancar el motor. Mientras que un planeador puro puede comprometerse con el aterrizaje a 1,000 pies AGL, el piloto de un planeador de auto-lanzamiento probablemente opta por 1,500 pies AGL, dependiendo del planeador y las opciones de aterrizaje si el motor no arranca. En este sentido, el planeador de auto-lanzamiento se vuelve más restrictivo durante el vuelo de travesía.
 

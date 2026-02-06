@@ -1,11 +1,6 @@
 [[cap04]]
 = Instrumentos de vuelo
 
-[abstract]
---
-Este capítulo describe los instrumentos básicos del planeador y los sistemas. Los pilotos que vuelan planeadores con instrumentos electrónicos avanzados deben consultar la documentación del fabricante para una descripción completa de la operación.
---
-
 == Introducción
 
 Los instrumentos de vuelo proporcionan información sobre la dirección, altitud, velocidad del aire y rendimiento del planeador. Los instrumentos pueden consistir en un conjunto básico típicamente encontrado en aeronaves de entrenamiento o un conjunto más avanzado en un planeador de alto rendimiento usado para vuelos de travesía o competición. Consulte el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25) para descripciones detalladas de diferentes instrumentos.
@@ -25,13 +20,13 @@ La presión de impacto o de aire de presión del movimiento hacia adelante del p
 
 [[fig-04-01]]
 .Un tubo pitot a menudo se monta en la nariz del planeador o en la aleta vertical
-image::04/fig-04-01.a-pitot-tube-often-mounts-in-the-gliders-nose-or.png[width=600]
+image::04/fig-04-01.a-pitot-tube-often-mounts-in-the-gliders-nose-or.png[width=300]
 
 A medida que aumenta la velocidad del aire, la presión se acumula en el tubo pitot y en el diafragma expansible conectado. La presión aumenta en el tubo pitot y diafragma hasta que alcanza un estado de equilibrio que impide cualquier aumento adicional de presión. Por el contrario, la presión en el sistema disminuye a medida que disminuye la velocidad del aire ya que el aire también puede salir del sistema. <<fig-04-02>>
 
 [[fig-04-02]]
 .Presión dentro del diafragma en función de la velocidad del aire
-image::04/fig-04-02.presion-inside-the-diaphragm-as-a-function-of.png[width=600]
+image::04/fig-04-02.presion-inside-the-diaphragm-as-a-function-of.png[width=300]
 
 La presión estática (presión del aire en reposo) proviene del movimiento de aire dentro y fuera de los puertos estáticos y tuberías. Los planeadores que usan fuentes estáticas montadas al ras a menudo tienen dos ventilas, una en cada lado del fuselaje. Esto compensa la variación de presión estática debido a cambios en la actitud del planeador y turbulencia del aire.
 
@@ -39,21 +34,21 @@ Los pilotos revisan las aberturas tanto del tubo pitot como del puerto estático
 
 == Indicador de velocidad del aire
 
-El indicador de velocidad del aire mide la diferencia entre la presión pitot y la presión estática, y muestra esta diferencia como la velocidad del aire indicada (IAS) del planeador. <<fig-04-03>> Los arcos codificados por color representan rangos de velocidad del aire para diferentes fases de vuelo. Los límites superior e inferior de los arcos corresponden a velocidades definidas. La Figura 4-4 muestra la estructura interna de un indicador de velocidad del aire.
+El indicador de velocidad del aire mide la diferencia entre la presión pitot y la presión estática, y muestra esta diferencia como la velocidad del aire indicada (IAS) del planeador. <<fig-04-03>> Los arcos codificados por color representan rangos de velocidad del aire para diferentes fases de vuelo. Los límites superior e inferior de los arcos corresponden a velocidades definidas. La <<fig-04-04>> muestra la estructura interna de un indicador de velocidad del aire.
 
 [[fig-04-03]]
 .Indicador de velocidad del aire
-image::04/fig-04-03.velocidad-aire-indicador.png[width=600]
+image::04/fig-04-03.velocidad-aire-indicador.png[width=300]
 
 [[fig-04-04]]
 .Anatomía del indicador de velocidad del aire
-image::04/fig-04-04.anatomy-of-the-velocidad-aire-indicador.png[width=600]
+image::04/fig-04-04.anatomy-of-the-velocidad-aire-indicador.png[width=300]
 
-Como se muestra en la Figura 4-4 anterior, el indicador de velocidad del aire contiene un diafragma que se expande o contrae en respuesta a la diferencia entre presión pitot y estática. Este movimiento del diafragma impulsa la aguja (puntero de velocidad del aire) en la cara del instrumento. Cuando la presión pitot iguala la presión estática, el indicador lee cero. A medida que la presión pitot se vuelve progresivamente mayor que la presión estática, la aguja se mueve y apunta a la velocidad del aire correspondiente. <<fig-04-05>>
+Como se muestra en la <<fig-04-04>>, el indicador de velocidad del aire contiene un diafragma que se expande o contrae en respuesta a la diferencia entre presión pitot y estática. Este movimiento del diafragma impulsa la aguja (puntero de velocidad del aire) en la cara del instrumento. Cuando la presión pitot iguala la presión estática, el indicador lee cero. A medida que la presión pitot se vuelve progresivamente mayor que la presión estática, la aguja se mueve y apunta a la velocidad del aire correspondiente. <<fig-04-05>>
 
 [[fig-04-05]]
 .Funcionamiento del indicador de velocidad del aire
-image::04/fig-04-05.velocidad-aire-indicador-operation.png[width=600]
+image::04/fig-04-05.velocidad-aire-indicador-operation.png[width=300]
 
 == Efectos de la altitud en el indicador de velocidad del aire
 
@@ -61,7 +56,7 @@ El indicador de velocidad del aire muestra presión dinámica (presión pitot me
 
 [[fig-04-06]]
 .Efectos de la altitud en el indicador de velocidad del aire
-image::04/fig-04-06.effects-of-altitud-on-the-velocidad-aire-indicador.png[width=600]
+image::04/fig-04-06.effects-of-altitud-on-the-velocidad-aire-indicador.png[width=300]
 
 == Tipos de velocidad del aire
 
@@ -69,7 +64,7 @@ Los pilotos trabajan con varios números de velocidad del aire incluyendo veloci
 
 [[fig-04-07]]
 .Tres tipos de velocidad del aire
-image::04/fig-04-07.three-types-of-velocidad-aire.png[width=600]
+image::04/fig-04-07.three-types-of-velocidad-aire.png[width=300]
 
 === Velocidad del aire indicada (IAS)
 
@@ -77,7 +72,7 @@ El piloto lee la IAS directamente del indicador de velocidad del aire, sin corre
 
 [[fig-04-08]]
 .Velocidades de pérdida indicadas y velocidades del aire verdaderas a varias altitudes
-image::04/fig-04-08.indicated-perdida-airspeeds-and-true-airspeeds-at.png[width=600]
+image::04/fig-04-08.indicated-perdida-airspeeds-and-true-airspeeds-at.png[width=300]
 
 === Velocidad del aire calibrada (CAS)
 
@@ -105,11 +100,11 @@ Una descripción de las marcas estándar en un indicador de velocidad del aire s
 
 === Efecto de la altitud en VNE
 
-La velocidad de nunca exceder (VNE) disminuye con el aumento de la altitud debido a la posibilidad de flutter a velocidades del aire verdaderas más altas. A altas altitudes mantener una velocidad en o debajo de la línea roja puede exceder la VNE real. Dado que la disminución en VNE varía por modelo, el manual de vuelo puede incluir una tabla, como la mostrada en la Figura 4-9, que documenta la disminución en VNE con la altitud. A velocidades del aire verdaderas altas durante un descenso rápido, la estructura del planeador podría flutter repentinamente y desintegrarse. Los fabricantes de planeadores prueban el flutter y el cumplimiento de las velocidades VNE publicadas en el manual de vuelo para la marca y modelo específicos debería prevenirlo.
+La velocidad de nunca exceder (VNE) disminuye con el aumento de la altitud debido a la posibilidad de flutter a velocidades del aire verdaderas más altas. A altas altitudes mantener una velocidad en o debajo de la línea roja puede exceder la VNE real. Dado que la disminución en VNE varía por modelo, el manual de vuelo puede incluir una tabla, como la mostrada en la <<fig-04-09>>, que documenta la disminución en VNE con la altitud. A velocidades del aire verdaderas altas durante un descenso rápido, la estructura del planeador podría flutter repentinamente y desintegrarse. Los fabricantes de planeadores prueban el flutter y el cumplimiento de las velocidades VNE publicadas en el manual de vuelo para la marca y modelo específicos debería prevenirlo.
 
 [[fig-04-09]]
 .La IAS correspondiente a VNE disminuye con la altitud
-image::04/fig-04-09.ias-corresponding-to-vne-decreases-with-altitud.png[width=600]
+image::04/fig-04-09.ias-corresponding-to-vne-decreases-with-altitud.png[width=300]
 
 === Otras limitaciones de velocidad del aire
 
@@ -123,7 +118,7 @@ Las placas en la vista del piloto pueden mostrar otras limitaciones importantes 
 
 [[fig-04-10]]
 .Ejemplos de placas de limitación de velocidad colocadas en un planeador y a la vista del piloto
-image::04/fig-04-10.sample-velocidad-limitation-placards-placed-in-a.png[width=600]
+image::04/fig-04-10.sample-velocidad-limitation-placards-placed-in-a.png[width=300]
 
 == Altímetro
 
@@ -131,31 +126,31 @@ El altímetro mide la presión de aire estático del aire circundante. La tuber�
 
 [[fig-04-11]]
 .Ventilas estáticas y plomería del altímetro
-image::04/fig-04-11.static-vents-and-altimetro-plumbing.png[width=600]
+image::04/fig-04-11.static-vents-and-altimetro-plumbing.png[width=300]
 
 Si se usa el ajuste altimétrico local (la presión local corregida al nivel del mar), el altímetro indica la altura actual del planeador sobre el nivel medio del mar (MSL). <<fig-04-12>> Restando la elevación del terreno de la altitud MSL actual se obtiene la altura sobre el terreno.
 
 [[fig-04-12]]
 .Altímetro
-image::04/fig-04-12.the-thinnest-hand-with-an-end-shaped-like-a.png[width=600]
+image::04/fig-04-12.the-thinnest-hand-with-an-end-shaped-like-a.png[width=300]
 
 El peso de una columna de aire sobre una ubicación dada crea presión atmosférica. A nivel del mar, una columna de aire superpuesta ejerce una fuerza equivalente a 14.7 libras por pulgada cuadrada, 1013.2 mb, o 29.92 pulgadas de mercurio bajo condiciones estándar. A una altitud más alta, la columna de aire superpuesta más corta pesa menos y ejerce menos presión. Por lo tanto, la presión atmosférica disminuye con la altitud. A 18,000 pies, la presión atmosférica cae a aproximadamente la mitad de la del nivel del mar. <<fig-04-13>>
 
 [[fig-04-13]]
 .Presión atmosférica y altitud
-image::04/fig-04-13.atmosferica-presion-and-altitud.png[width=600]
+image::04/fig-04-13.atmosferica-presion-and-altitud.png[width=300]
 
 === Principios de operación
 
-El altímetro funciona como un barómetro aneroide que mide la presión atmosférica a la elevación actual excepto que el altímetro indica presión en pies. El altímetro indica cambios en altitud durante un ascenso o descenso a medida que cambia la presión atmosférica. La Figura 4-14 y la Figura 4-15 ilustran cómo funciona el altímetro. Algunos altímetros tienen un puntero mientras que otros tienen más.
+El altímetro funciona como un barómetro aneroide que mide la presión atmosférica a la elevación actual excepto que el altímetro indica presión en pies. El altímetro indica cambios en altitud durante un ascenso o descenso a medida que cambia la presión atmosférica. La <<fig-04-14>> y la <<fig-04-15>> ilustran cómo funciona el altímetro. Algunos altímetros tienen un puntero mientras que otros tienen más.
 
 [[fig-04-14]]
 .Cómo funciona el altímetro
-image::04/fig-04-14.how-the-altimetro-functions.png[width=600]
+image::04/fig-04-14.how-the-altimetro-functions.png[width=300]
 
 [[fig-04-15]]
 .Dentro del altímetro
-image::04/fig-04-15.inside-the-altimetro.png[width=600]
+image::04/fig-04-15.inside-the-altimetro.png[width=300]
 
 === Tipos de altitud
 
@@ -163,7 +158,7 @@ La altitud corresponde a una distancia vertical sobre algún punto o nivel usado
 
 [[fig-04-16]]
 .Tipos de altitud
-image::04/fig-04-16.types-of-altitud.png[width=600]
+image::04/fig-04-16.types-of-altitud.png[width=300]
 
 Los pilotos de planeadores deberían entender las siguientes altitudes:
 
@@ -179,27 +174,27 @@ Los instrumentos variómetro miden el ascenso o descenso vertical de la masa de 
 
 [[fig-04-18]]
 .Plomería del variómetro no compensado
-image::04/fig-04-18.uncompensated-variometro-plumbing.png[width=600]
+image::04/fig-04-18.uncompensated-variometro-plumbing.png[width=300]
 
 [[fig-04-19]]
 .Anatomía del diafragma del variómetro
-image::04/fig-04-19.a-variometro-diaphragm-anatomy.png[width=600]
+image::04/fig-04-19.a-variometro-diaphragm-anatomy.png[width=300]
 
 Las diferencias de presión entre el aire dentro del sistema variómetro/cámara de referencia y el aire fuera del sistema tienden a igualarse a medida que el aire fluye desde áreas de alta presión a áreas de baja presión. Cuando la presión dentro de la cámara de referencia excede la presión fuera, el aire fluye fuera de la cámara de referencia a través del variómetro mecánico al ambiente exterior, y el variómetro indica un ascenso. Cuando la presión de aire fuera de la cámara de referencia excede la presión dentro, el aire fluye a través del variómetro y hacia la cámara de referencia hasta que la presión se iguala. En este caso, la aguja del variómetro indica condiciones que fuerzan al planeador a perder altura. Las Figuras 4-20 y 4-21 ilustran cómo funciona el variómetro en vuelo nivelado y mientras el planeador asciende.
 
 [[fig-04-20]]
 .Variómetro no compensado en vuelo nivelado
-image::04/fig-04-20.uncompensated-variometro-in-level-vuelo.png[width=600]
+image::04/fig-04-20.uncompensated-variometro-in-level-vuelo.png[width=300]
 
 [[fig-04-21]]
 .Variómetro no compensado en ascenso
-image::04/fig-04-21.uncompensated-variometro-in-a-ascenso.png[width=600]
+image::04/fig-04-21.uncompensated-variometro-in-a-ascenso.png[width=300]
 
-Además, la Figura 4-22 ilustra ciertas maniobras de vuelo que causan que el variómetro muestre cambios en altitud.
+Además, la <<fig-04-22>> ilustra ciertas maniobras de vuelo que causan que el variómetro muestre cambios en altitud.
 
 [[fig-04-22]]
 .Maniobras de vuelo que muestran cambios de altitud en un variómetro no compensado
-image::04/fig-04-22.vuelo-maneuvers-that-pantalla-altitud-changes-on.png[width=600]
+image::04/fig-04-22.vuelo-maneuvers-that-pantalla-altitud-changes-on.png[width=300]
 
 Los variómetros eléctricos ofrecen varias ventajas sobre la variedad no eléctrica. Estas ventajas incluyen tasas de respuesta más rápidas y señales audibles separadas para ascenso y descenso.
 
@@ -209,13 +204,13 @@ Muchos variómetros eléctricos proporcionan tonos audibles, o pitidos, que indi
 
 [[fig-04-23]]
 .Cuando un variómetro eléctrico se monta en el planeador, la instalación de un variómetro no eléctrico puede proporcionar un respaldo
-image::04/fig-04-23.when-an-electric-variometro-is-mounted-to-the.png[width=600]
+image::04/fig-04-23.when-an-electric-variometro-is-mounted-to-the.png[width=300]
 
 En el pasado, algunos variómetros tenían una escala de velocidad de borde giratoria llamada anillo MacCready. Esta escala indica la velocidad óptima de aire para volar cuando se viaja entre térmicas para máximo rendimiento de travesía. Durante el planeo entre térmicas, el piloto ajusta la flecha índice a la tasa de ascenso esperada en la siguiente térmica. En el anillo de velocidad, la aguja del variómetro apunta a la velocidad óptima para volar entre térmicas. <<fig-04-24>>
 
 [[fig-04-24]]
 .El anillo MacCready
-image::04/fig-04-24.the-maccready-anillo.png[width=600]
+image::04/fig-04-24.the-maccready-anillo.png[width=300]
 
 Los ascensos y descensos inducidos por el piloto resultan en cambios en la velocidad del aire y afectan un variómetro no compensado causando cambios en la altitud de presión. En aire en calma, cuando el piloto inicia un picado, el variómetro indica un descenso. Cuando el piloto del planeador recupera del picado e inicia un ascenso rápido, el variómetro indica un ascenso. Un planeador con un variómetro no compensado da una indicación precisa de aire ascendente y descendente solo si el piloto mantiene una velocidad del aire constante.
 
@@ -227,7 +222,7 @@ Un tipo popular de sistema de energía total consiste en un pequeño venturi, un
 
 [[fig-04-25]]
 .Un sistema de variómetro de energía total
-image::04/fig-04-25.a-total-energy-variometro-sistema.png[width=600]
+image::04/fig-04-25.a-total-energy-variometro-sistema.png[width=300]
 
 Otro tipo de diseño de sistema de energía total usa un compensador de tipo diafragma colocado en línea desde el tubo pitot a la línea que viene de la cámara de referencia (termo o matraz de capacidad).
 
@@ -235,7 +230,7 @@ Un variómetro Netto indica el movimiento vertical de la masa de aire, independi
 
 [[fig-04-26]]
 .Un ejemplo de sistema de variómetro Netto
-image::04/fig-04-26.an-example-of-a-netto-variometro-sistema.png[width=600]
+image::04/fig-04-26.an-example-of-a-netto-variometro-sistema.png[width=300]
 
 Los variómetros Netto computarizados (electrónicos) emplean un método diferente para remover la tasa de hundimiento del planeador. En este tipo de sistema, sensores tanto para presión pitot como presión estática proporcionan información de velocidad del aire a la computadora. La computadora almacena la tasa de hundimiento conocida del planeador a cada velocidad del aire.
 
@@ -247,7 +242,7 @@ Los componentes primarios de la mayoría de los sistemas de computadora de vuelo
 
 [[fig-04-27]]
 .Pantalla de computadora de vuelo de planeador
-image::04/fig-04-27.planeador-vuelo-computer-pantalla.png[width=600]
+image::04/fig-04-27.planeador-vuelo-computer-pantalla.png[width=300]
 
 La computadora de vuelo acoplada a GPS puede proporcionar la siguiente información:
 
@@ -270,7 +265,7 @@ Una pieza de hilo montada en la corriente de aire libre y fácilmente visible pa
 
 [[fig-04-28]]
 .Indicaciones de condición de giro a la izquierda de una cinta de guiñada e inclinómetro
-image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=600]
+image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=300]
 
 Un inclinómetro también proporciona indicación de deslizamiento/derrape. El inclinómetro responde a fuerza centrífuga y gravedad. El inclinómetro consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el planeador vuela de manera coordinada, la bola permanece centrada en el fondo del tubo de vidrio. La frase, «pisar la bola» explica cómo un piloto debería responder para restaurar vuelo coordinado.
 
@@ -282,7 +277,7 @@ Un G-meter montado en el panel registra fuerzas G positivas de ascensos y giros,
 
 [[fig-04-29]]
 .El G-meter
-image::04/fig-04-29.the-g-meter.png[width=600]
+image::04/fig-04-29.the-g-meter.png[width=300]
 
 === Sistema de evitación de colisiones FLARM
 
@@ -290,7 +285,7 @@ Una colisión en el aire presenta un riesgo para todos los pilotos, y los piloto
 
 [[fig-04-30]]
 .Unidad FLARM en la parte superior del panel de instrumentos
-image::04/fig-04-30.flarm-unit-on-superior-of-the-instrumento-panel.png[width=600]
+image::04/fig-04-30.flarm-unit-on-superior-of-the-instrumento-panel.png[width=300]
 
 FLARM obtiene su posición de un sistema de posicionamiento global interno (GPS) y un sensor barométrico y luego transmite estos datos con datos pronosticados sobre la trayectoria de vuelo 3D futura. Su receptor recibe señales de otros dispositivos FLARM típicamente dentro de 3-5 kilómetros y procesa la información recibida.
 
@@ -300,7 +295,7 @@ El indicador de temperatura del aire exterior (OAT) se monta con el elemento sen
 
 [[fig-04-31]]
 .Indicador de temperatura del aire exterior (OAT)
-image::04/fig-04-31.outside-air-temperatura-oat-gauge.png[width=600]
+image::04/fig-04-31.outside-air-temperatura-oat-gauge.png[width=300]
 
 Cuando se vuela un planeador cargado con lastre de agua, el conocimiento de la altura del nivel de congelación puede afectar la seguridad del vuelo. La operación extendida de un planeador cargado con lastre de agua en temperaturas bajo cero puede resultar en válvulas de drenaje congeladas, tanques de lastre rupturados y daño estructural al planeador.
 

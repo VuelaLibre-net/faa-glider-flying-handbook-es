@@ -1,11 +1,6 @@
 [[cap01]]
 = Planeadores y veleros
 
-[abstract]
---
-Este capítulo presenta una introducción al mundo del vuelo sin motor, describiendo qué es un planeador, los diferentes tipos existentes, y los requisitos para obtener la habilitación de piloto de planeador.
---
-
 == Introducción
 
 Un planeador moderno, como el que se muestra a continuación <<fig-01-01>>, puede volar a gran altura y realizar largos vuelos de travesía con un piloto experimentado al mando.

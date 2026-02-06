@@ -1,11 +1,6 @@
 [[cap10]]
 = Técnicas de Vuelo a Vela
 
-[abstract]
---
-Este capítulo cubre las técnicas básicas de planeo que ayudan a encontrar y mantenerse dentro de la parte más fuerte de cualquier corriente ascendente.
---
-
 == Introducción
 
 Muchos pilotos de planeadores disfrutan buscando sustentación para ganar altitud. Mantenerse en el aire a menudo implica encontrar y mantenerse dentro de la parte más fuerte de cualquier corriente ascendente. Este capítulo cubre algunas técnicas básicas de planeo que ayudan con esa tarea.
@@ -22,7 +17,7 @@ Al localizar térmicas, los pilotos de planeadores buscan indicadores de sustent
 
 [[fig-10-01]]
 .Fotografías de (A) cúmulo maduro, que puede producir buena sustentación, y (B) cúmulo en disipación
-image::10/fig-10-01.photographs-of-a-mature-cumulo-which-can-produce.png[width=600]
+image::10/fig-10-01.photographs-of-a-mature-cumulo-which-can-produce.png[width=300]
 
 La vida útil de las Cu a menudo varía durante un día dado ya que las Cu que se desarrollan temprano en el día pueden cambiar a nubes bien formadas y de mayor duración. Una Cu prometedora en la distancia también puede comenzar a disiparse, y los pilotos de planeadores se refieren a tales Cu como de ciclo rápido, lo que significa que la Cu se forma, madura y disipa en poco tiempo.
 
@@ -30,7 +25,7 @@ A veces las Cu cubren gran parte del cielo, lo que hace difícil ver las cimas d
 
 [[fig-10-02]]
 .Fotografías de (A) cúmulo de gran desarrollo, (B) cumulonimbo (Cb), y (C) virga
-image::10/fig-10-02.photographs-of-a-towering-cumulo-b-cumulonimbo-cb.png[width=600]
+image::10/fig-10-02.photographs-of-a-towering-cumulo-b-cumulonimbo-cb.png[width=300]
 
 La sustentación cerca de una base de nube a menudo aumenta dramáticamente en una región cóncava debajo de una nube que de otro modo sería plana creada por aire especialmente cálido. Al intentar dejar la sustentación fuerte en el área cóncava debajo de la nube, los pilotos de planeadores pueden encontrarse ascendiendo rápidamente con nubes por todas partes. El cumplimiento por parte de un planeador de la distancia mínima debajo de una nube según se indica en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.155, normalmente previene una ascensión accidental hacia una nube. Además, mantener la separación mínima da a un piloto de planeador la oportunidad de evitar una aeronave operando bajo reglas de vuelo por instrumentos dentro, cerca o emergiendo de una nube.
 
@@ -48,7 +43,7 @@ En días sin indicadores en el aire para marcar térmicas, los pilotos pueden bu
 
 [[fig-10-03]]
 .Los rayos del sol se concentran en un área más pequeña en una ladera que en el terreno plano adyacente
-image::10/fig-10-03.rayos-sol-concentrados-area-menor-ladera.png[width=600]
+image::10/fig-10-03.rayos-sol-concentrados-area-menor-ladera.png[width=300]
 
 Existen otros marcadores sutiles en el suelo. Un campo abierto rodeado de sombra usualmente resulta en un espacio donde el aire se calienta repentinamente. Un pueblo rodeado de campos verdes resulta en un aumento de temperatura ya que las superficies del pueblo absorben más calor que la tierra de cultivo circundante. Del mismo modo, un campo amarillento cosechado se calienta más que un campo húmedo adyacente con vegetación verde. Las áreas húmedas tienden a usar la radiación del sol para evaporar la humedad en lugar de calentar el suelo. Un campo con un afloramiento rocoso podría producir mejores térmicas ya que las rocas no pueden retener humedad. Los afloramientos rocosos a lo largo de una pendiente nevada se calientan mucho más eficientemente que los campos de nieve circundantes. Mientras que buscar características más pequeñas funciona a altitudes más bajas, los pilotos pueden usar su conocimiento del calentamiento del suelo cuando están a mayores altitudes evitando áreas como un valle con muchos lagos.
 
@@ -58,7 +53,7 @@ El viento influye en la estructura y ubicación de las térmicas. La cizalladura
 
 [[fig-10-04]]
 .Fotografía de calles de nubes
-image::10/fig-10-04.photograph-of-nube-streets.png[width=600]
+image::10/fig-10-04.photograph-of-nube-streets.png[width=300]
 
 Si se sospecha la presencia de ondas asociadas con una térmica por encima de la nube, el piloto puede ascender en la térmica cerca de una base de nube y luego dirigirse hacia el lado de barlovento de la Cu. A menudo, solo existe sustentación débil en aire suave a barlovento de la nube. Una vez por encima de la base de la nube y a barlovento de la Cu, el piloto debería encontrar tasas de ascenso de unos pocos cientos de pies por minuto en la onda térmica. El planeador puede ascender volando de un lado a otro a barlovento de una Cu individual, o volando a lo largo de calles de nubes si existen. Cuando las ondas térmicas existen sin nubes, el piloto debería ascender hasta la parte superior de la térmica y penetrar a barlovento en busca de sustentación suave y débil. Sin pistas visuales, las ondas térmicas resultan difíciles de trabajar. A veces el piloto tropieza con una onda térmica por casualidad.
 
@@ -66,7 +61,7 @@ En condiciones de viento ligero, los pilotos deberían usar un patrón de búsqu
 
 [[fig-10-05]]
 .Inclinación de la térmica en cizalladura que (A) no cambia con la altura, y que (B) aumenta con la altura
-image::10/fig-10-05.termica-tilt-in-cizalladura-that-a-does-not.png[width=600]
+image::10/fig-10-05.termica-tilt-in-cizalladura-that-a-does-not.png[width=300]
 
 Los pilotos pueden encontrar dónde aparecen las térmicas en relación con las nubes en un día dado y usar esos encuentros para determinar cómo buscar ese día. Si se acerca a las Cu desde el lado de sotavento, puede ocurrir fuerte descenso cerca de la nube. Desde esa posición, el piloto debería dirigirse hacia la parte más oscura y mejor definida de la base de la nube, luego continuar directamente contra el viento. Dependiendo de la distancia debajo de la base de la nube, el piloto debería encontrar la sustentación formando la nube aproximadamente en el momento en que el planeador pasa a barlovento de la nube. Si se acerca a la nube desde una dirección de viento cruzado (por ejemplo, dirigiéndose hacia el norte con vientos del oeste), el piloto también puede estimar la ubicación de la térmica de encuentros previos ese día. Si solo se encuentra descenso reducido, la sustentación puede existir cerca, y una pata corta a barlovento o a sotavento puede localizar la térmica.
 
@@ -76,7 +71,7 @@ El aire fresco y estable también puede desplazarse con el viento. Los pilotos d
 
 [[fig-10-06]]
 .Agujero azul en un campo de cúmulos a sotavento de un lago
-image::10/fig-10-06.blue-hole-in-a-campo-of-cumulo-viento-en-cola-of.png[width=600]
+image::10/fig-10-06.blue-hole-in-a-campo-of-cumulo-viento-en-cola-of.png[width=300]
 
 == La imagen completa
 
@@ -94,7 +89,7 @@ Para ayudar a decidir hacia qué lado girar, el piloto determina qué ala parece
 
 [[fig-10-07]]
 .Efecto del planeador al ser permitido inclinarse por su cuenta al encontrar térmicas
-image::10/fig-10-07.effect-of-planeador-being-allowed-to-inclinacion.png[width=600]
+image::10/fig-10-07.effect-of-planeador-being-allowed-to-inclinacion.png[width=300]
 
 A medida que un planeador encuentra sustentación en un lado, el ala en la sustentación más fuerte comenzará a levantarse, y algunos planeadores tenderán a resbalar lateralmente como lo indica la cinta de guiñada. El piloto de planeador debería aplicar presión de alerón para bajar el ala que asciende no solo para nivelar las alas, sino para alabeonar más para comenzar el giro hacia las columnas de aire ascendente.
 
@@ -116,17 +111,17 @@ A menudo al entrar en una térmica, el planeador experimenta sustentación por p
 
 [[fig-10-08]]
 .La corrección de centrado de 270°
-image::10/fig-10-08.the-270-deg-centering-correction.png[width=600]
+image::10/fig-10-08.the-270-deg-centering-correction.png[width=300]
 
 [[fig-10-09]]
 .Posible pérdida de térmica al intentar revertir las direcciones del círculo
-image::10/fig-10-09.possible-loss-of-termica-while-trying-to-reverse.png[width=600]
+image::10/fig-10-09.possible-loss-of-termica-while-trying-to-reverse.png[width=300]
 
 Si existe sustentación más fuerte en un lado de la térmica, el piloto puede usar una de varias técnicas de centrado. Un método involucra notar la posición actual con la mejor sustentación: por ejemplo, hacia el Noreste o hacia alguna característica en el suelo que el piloto pueda ver debajo del ala alta cuando está en el punto actual de mejor sustentación. <<fig-10-10>> En el siguiente giro, el piloto puede ajustar el círculo ya sea enderezando o suavizando el giro hacia la sustentación más fuerte. El piloto debería anticipar el giro y comenzar a salir del giro aproximadamente 30° antes del rumbo hacia la parte más fuerte. Esto permite volver a girar hacia la parte más fuerte de la térmica en lugar de volar a través de ella y girar lejos del centro térmico. Cuánto tiempo un planeador permanece en un alabeo poco profundo o recto depende del tamaño de la térmica. Dado que las ráfagas dentro de la térmica pueden causar variaciones del indicador de velocidad del aire, el piloto debería prestar atención a la actitud de nariz.
 
 [[fig-10-10]]
 .Centrado desplazando el giro del círculo hacia la sustentación más fuerte
-image::10/fig-10-10.centering-by-shifting-the-circle-giro-toward.png[width=600]
+image::10/fig-10-10.centering-by-shifting-the-circle-giro-toward.png[width=300]
 
 Un piloto puede usar otras técnicas como se muestra en las tres escenas de la <<fig-10-11>> y como se describe a continuación. El piloto debería:
 
@@ -138,7 +133,7 @@ Un piloto puede usar otras técnicas como se muestra en las tres escenas de la <
 
 [[fig-10-11]]
 .Otras correcciones de centrado
-image::10/fig-10-11.other-centering-corrections.png[width=600]
+image::10/fig-10-11.other-centering-corrections.png[width=300]
 
 Los nuevos pilotos de planeadores deberían desarrollar proficiencia en centrado usando primero uno de los métodos anteriores, y luego experimentar con otros métodos. Como nota adicional, las térmicas a menudo se desvían marcadamente del modelo conceptual de gradientes concéntricos con la sustentación aumentando hacia el centro. Por ejemplo, a veces se siente como si existieran dos (o más) centros térmicos cercanos, lo que puede hacer el centrado difícil. Los pilotos de planeadores deberían ajustar continuamente y re-centrar para mantener la mejor tasa de ascenso.
 
@@ -150,7 +145,7 @@ La evitación de colisiones toma prioridad sobre la eficiencia aerodinámica cua
 
 [[fig-10-12]]
 .Posicionamiento apropiado con dos planeadores a la misma altitud. Cada número corresponde a la posición de ambos planeadores en un momento dado
-image::10/fig-10-12.proper-positioning-with-two-planeadores-at-the.png[width=600]
+image::10/fig-10-12.proper-positioning-with-two-planeadores-at-the.png[width=300]
 
 Diferentes tipos de planeadores en la misma térmica pueden tener diferentes velocidades de mínimo descenso, lo que hace más difícil para cada planeador permanecer directamente frente al otro. Cada piloto debería permanecer en contacto visual con el otro planeador. La comunicación por radio puede ayudar a evitar una colisión, pero demasiada conversación obstruye la frecuencia y puede impedir la transmisión del mensaje de otro piloto. Los pilotos no deberían volar directamente arriba o debajo de otro planeador en una térmica ya que las diferencias en rendimiento, o incluso cambios menores en velocidad, pueden llevar a cambios de altitud inesperados. Si un piloto pierde de vista a otro planeador en una térmica y no puede verificar la posición del otro planeador mediante una llamada de radio, el piloto debería dejar la térmica. Después de 10 o 20 segundos, el piloto puede regresar para unirse de nuevo a la térmica en una mejor posición para ver el otro tráfico. Las prácticas inseguras de planeo de térmicas hacen una colisión aérea más probable, lo que podría resultar en fatalidades.
 
@@ -170,19 +165,19 @@ Los vientos de superficie de 15–20 nudos perpendiculares a la cresta optimizan
 
 [[fig-10-13]]
 .Flujo de viento de cresta
-image::10/fig-10-13.ladera-viento-flow.png[width=600]
+image::10/fig-10-13.ladera-viento-flow.png[width=300]
 
 El flujo de aire sigue la forma de la colina o cresta. El piloto puede imaginar un flujo de agua alrededor de la cresta en lugar de aire. Sin embargo, el aire puede comprimirse y puede desarrollar variaciones locales y remolinos. <<fig-10-14>>
 
 [[fig-10-14]]
 .El flujo de aire generalmente sigue la forma de la colina
-image::10/fig-10-14.flujo-aire-sigue-forma-colina.png[width=600]
+image::10/fig-10-14.flujo-aire-sigue-forma-colina.png[width=300]
 
 Cuanto más complicada sea la cresta, más errático y peligroso puede volverse el flujo de aire. <<fig-10-15>>
 
 [[fig-10-15]]
 .Los perfiles irregulares pueden crear un peligro
-image::10/fig-10-15.irregular-profiles-may-create-a-hazard.png[width=600]
+image::10/fig-10-15.irregular-profiles-may-create-a-hazard.png[width=300]
 
 Dado que existen trampas o peligros durante el planeo de cresta, los pilotos de planeadores deberían obtener instrucción cuando aprendan por primera vez a planeo de cresta o ladera. Los pilotos deberían acercarse al lado de barlovento de la cresta en un ángulo de 45°, para que pueda ocurrir una salida rápida lejos de la cresta en ausencia de sustentación.
 
@@ -193,7 +188,7 @@ Al acercarse a la cresta desde sotavento, acérquese a la cresta en diagonal. Si
 
 [[fig-10-16]]
 .Acerquese a las crestas diagonalmente
-image::10/fig-10-16.aproximacion-ridges-diagonally.png[width=600]
+image::10/fig-10-16.aproximacion-ridges-diagonally.png[width=300]
 
 Si planeando por encima de la cresta, un ángulo de crabeo apropiado previene derivar por encima de la cima hacia la corriente descendente de sotavento. Para el nuevo piloto de planeador, cruzar a lo largo de la cresta puede parecer extraño, y el piloto podría recurrir a entrada de control descoordinada para apuntar la nariz a lo largo de la cresta. Esto podría resultar en un derrape ineficiente y peligroso hacia la cresta.
 
@@ -201,13 +196,13 @@ El descenso térmico puede voltear el planeador boca abajo, un fenómeno conocid
 
 [[fig-10-17]]
 .El descenso térmico puede voltear la aeronave hacia la montaña
-image::10/fig-10-17.termica-sink-can-balanceo-the-craft-toward-the.png[width=600]
+image::10/fig-10-17.termica-sink-can-balanceo-the-craft-toward-the.png[width=300]
 
 Siempre que se vuela a favor del viento, la velocidad sobre el suelo y el radio de cualquier giro aumentarán. <<fig-10-18>>
 
 [[fig-10-18]]
 .Volar con viento aumenta el radio de giro sobre el suelo, así que acérquese a la cresta en un ángulo poco profundo
-image::10/fig-10-18.flying-with-a-viento-increases-the-giro-radius.png[width=600]
+image::10/fig-10-18.flying-with-a-viento-increases-the-giro-radius.png[width=300]
 
 En teoría, para obtener el mejor ascenso, el piloto debería volar a la velocidad de mínimo descenso. Dado que la velocidad de mínimo descenso da menos margen sobre la velocidad de pérdida, volar a esta velocidad cerca del terreno puede crear peligro. La maniobrabilidad a la velocidad de mínimo descenso puede no proporcionar control adecuado cerca del terreno, especialmente si el viento racheado o las térmicas complican la sustentación de cresta. Cuando se plane a o por debajo de la altura de la cima de la cresta, el piloto debería volar más rápido que la velocidad de mínimo descenso—cuánto más rápido depende del planeador, terreno y turbulencia. Cuando el planeador asciende al menos varios cientos de pies sobre la cresta y cuando se desplaza a barlovento lejos de ella dentro de la mejor zona de sustentación, el piloto puede reducir la velocidad.
 
@@ -218,7 +213,7 @@ Al volar cerca de la cresta, use velocidad extra por seguridad—la velocidad ex
 
 [[fig-10-19]]
 .Al volar cerca de una cresta, los pilotos usan velocidad extra para más control y para pasar rápidamente a través del descenso
-image::10/fig-10-19.when-flying-close-to-a-ladera-pilots-use-extra.png[width=600]
+image::10/fig-10-19.when-flying-close-to-a-ladera-pilots-use-extra.png[width=300]
 
 === Procedimientos para Vuelo Seguro
 
@@ -226,7 +221,7 @@ Varios procedimientos mejoran el planeo seguro de ladera y permiten que muchos p
 
 [[fig-10-20]]
 .Reglas de cresta
-image::10/fig-10-20.ladera-rules.png[width=600]
+image::10/fig-10-20.ladera-rules.png[width=300]
 
 El piloto debería:
 
@@ -244,19 +239,19 @@ Con viento soplando en un ángulo a la cresta, las cuencas o espolones, formacio
 
 [[fig-10-21]]
 .Evite el descenso en el lado de sotavento de los espolones desviándose alrededor de ellos
-image::10/fig-10-21.avoid-sink-on-the-viento-en-cola-lateral-of-spurs.png[width=600]
+image::10/fig-10-21.avoid-sink-on-the-viento-en-cola-lateral-of-spurs.png[width=300]
 
 Las combinaciones de térmicas con sustentación de ladera pueden ocurrir, y el planeo de cresta puede proporcionar sustentación cuando las térmicas se apagan temporalmente. Un piloto encontrando una térmica a lo largo de la cresta puede hacer una serie de giros en S con cada giro contra el viento. El planeador puede derivar de vuelta a la térmica después de cada giro si es necesario. El piloto de planeador nunca debería continuar el giro hacia la cresta. La velocidad ayuda a controlar cualquier encuentro con descenso fuerte que puede ocurrir en los lados de la térmica. La maniobra toma práctica, pero cuando se hace apropiadamente, el piloto puede hacer un ascenso rápido en la térmica a un punto bien por encima de la cima de la cresta, donde pueden comenzar giros de 360° de termalización. Incluso cuando está bien por encima de la cresta, el piloto debería usar precaución y asegurar que el planeador no derive hacia el descenso de sotavento durante un ascenso lento. Antes de intentar un giro en S, el piloto debería asegurar que no interferiría con otro tráfico a lo largo de la cresta. <<fig-10-22>>
 
 [[fig-10-22]]
 .Una técnica para atrapar una térmica desde la sustentación de ladera
-image::10/fig-10-22.one-technique-for-catching-a-termica-from-ladera.png[width=600]
+image::10/fig-10-22.one-technique-for-catching-a-termica-from-ladera.png[width=300]
 
 Un piloto puede usar una segunda técnica para atrapar térmicas cuando planea en ladera dirigiéndose a barlovento lejos de la cresta. Esto funciona mejor cuando las Cu marcan térmicas potenciales, y ayuda el tiempo. Si no encuentra una térmica, el piloto debería cortar la búsqueda corta mientras todavía está lo suficientemente alto para correr de vuelta hacia abajo a la seguridad de la sustentación de ladera de barlovento. <<fig-10-23>>
 
 [[fig-10-23]]
 .Atrapar una térmica volando a barlovento lejos de la sustentación de ladera
-image::10/fig-10-23.catching-a-termica-by-flying-viento-en-proa-away.png[width=600]
+image::10/fig-10-23.catching-a-termica-by-flying-viento-en-proa-away.png[width=300]
 
 === Obstrucciones
 
@@ -268,7 +263,7 @@ Observe la pendiente de la cresta para colectores o divisores del flujo de vient
 
 [[fig-10-24]]
 .Analice el terreno inclinado para colectores y divisores de viento
-image::10/fig-10-24.analyze-sloping-ground-for-collectors-and.png[width=600]
+image::10/fig-10-24.analyze-sloping-ground-for-collectors-and.png[width=300]
 
 * Los colectores incluyen cuencas de montaña/cresta y extremos de cañones que pueden ofrecer áreas extremas de sustentación cuando el viento sopla hacia ellos. Recuerde tener una salida.
 
@@ -278,19 +273,19 @@ El lado de sotavento de cualquier cresta o colina produce turbulencia y descenso
 
 [[fig-10-25]]
 .Espere turbulencia y descenso en el lado de sotavento de cualquier colina
-image::10/fig-10-25.expect-turbulencia-and-sink-on-the-viento-en-cola.png[width=600]
+image::10/fig-10-25.expect-turbulencia-and-sink-on-the-viento-en-cola.png[width=300]
 
 Los pilotos deberían asumir que el flujo de aire comienza a descender en la cima de la cresta. Mientras que las crestas empinadas con cimas de cresta estrechas pueden recoger acción térmica de ambos lados de la cima y la mejor sustentación puede existir directamente sobre la cima, el piloto no debería planear usar esa sustentación y siempre permanecer a barlovento de la cima. <<fig-10-26>>
 
 [[fig-10-26]]
 .La cima es donde el aire ascendente comienza a descender
-image::10/fig-10-26.the-crest-is-where-rising-air-starts-back-down.png[width=600]
+image::10/fig-10-26.the-crest-is-where-rising-air-starts-back-down.png[width=300]
 
 Las áreas profundamente sombreadas a lo largo de la cresta a menudo mejoran el aire descendente. Si existe sustentación fuerte en el lado soleado de la cresta, entonces usualmente existe descenso fuerte en el lado sombreado u oscuro de la cresta. Esto sucede a menudo con ángulos bajos del sol al final de la tarde. <<fig-10-27>>
 
 [[fig-10-27]]
 .La sombra profunda puede mejorar el descenso
-image::10/fig-10-27.deep-shade-can-enhance-sink.png[width=600]
+image::10/fig-10-27.deep-shade-can-enhance-sink.png[width=300]
 
 Una fuente térmica ocurre donde las áreas de drenaje a lo largo de la cresta se encuentran. Por ejemplo, un área con numerosas crestas o picos que se inclinan hacia abajo en un valle. Los cañones o cuencas grandes contienen áreas de aire cálido.
 
@@ -302,7 +297,7 @@ La altitud de densidad y la velocidad verdadera aumentan a medida que el planead
 
 [[fig-10-28]]
 .A 10,000' MSL, se necesita un 44 por ciento más de espacio para completar un giro debido a la altitud de densidad
-image::10/fig-10-28.at-10000-msl-44-percent-more-room-is-needed-to.png[width=600]
+image::10/fig-10-28.at-10000-msl-44-percent-more-room-is-needed-to.png[width=300]
 
 == Planeo de Ondas
 
@@ -310,7 +305,7 @@ Casi todos los vuelos de planeadores de gran altitud usan ondas de sotavento de 
 
 [[fig-10-29]]
 .Nubes de rotor y de gorro con lenticulares arriba
-image::10/fig-10-29.rotor-and-cap-nubes-with-lenticulars-above.png[width=600]
+image::10/fig-10-29.rotor-and-cap-nubes-with-lenticulars-above.png[width=300]
 
 === Preparación pre-vuelo
 
@@ -343,7 +338,7 @@ A veces, una capa inestable más baja que la cima de montaña tiene una tapa de 
 // TODO: Añadir figura de termalización hacia la onda cuando esté disponible
 // [[fig-10-30]]
 // .Termalizando hacia la onda
-// image::10/fig-10-30.thermalling-into-wave.png[width=600]
+// image::10/fig-10-30.thermalling-into-wave.png[width=300]
 
 Dependiendo de la topografía cerca del sitio de planeo, puede ser posible transitar desde la sustentación de ladera hacia una onda de sotavento creada por topografía de barlovento donde existen múltiples crestas. En este caso, el piloto asciende lo más alto posible en la sustentación de ladera, luego penetra a barlovento hacia la onda de sotavento. Con las ondas de sotavento en fase con la topografía, el piloto a menudo puede ascender desde la sustentación de ladera a la sustentación de onda sin el rotor. A veces, el piloto de planeador puede no darse cuenta de que se ha encontrado la onda hasta encontrar sustentación aumentando constantemente a medida que el planeador asciende. Ascender en sustentación de ladera y luego girar a favor del viento para encontrar posibles ondas de sotavento producidas a sotavento de la cresta generalmente no debería ocurrir. Incluso con viento a favor, el descenso de sotavento puede poner el planeador en el suelo antes del contacto con la onda.
 
@@ -353,7 +348,7 @@ El remolque hacia la onda ocurre remolcando por delante del rotor o a través de
 
 [[fig-10-31]]
 .Un remolque alrededor del rotor directamente hacia la onda evita la turbulencia
-image::10/fig-10-31.a-remolque-around-the-rotor-directly-into-the.png[width=600]
+image::10/fig-10-31.a-remolque-around-the-rotor-directly-into-the.png[width=300]
 
 A menudo, un remolque directamente a través del rotor proporciona la única ruta a la onda. El remolque usualmente encontrará turbulencia de rotor de moderada a severa. La naturaleza de la turbulencia del rotor difiere de una térmica turbulenta. El rotor somete la aeronave a ráfagas horizontales y verticales agudas y caóticas junto con aceleraciones y desaceleraciones rápidas. A veces, el rotor puede volverse tan áspero que incluso pilotos experimentados optarán por permanecer en tierra. Cualquier piloto sin experiencia volando a través de rotores debería obtener instrucción antes de intentar un remolque a través de un rotor.
 
@@ -363,11 +358,11 @@ La tendencia del variómetro a menudo indica el progreso a través del rotor. La
 
 [[fig-10-32]]
 .Indicaciones del variómetro durante la penetración hacia la onda
-image::10/fig-10-32.variometro-indications-during-the-penetration.png[width=600]
+image::10/fig-10-32.variometro-indications-during-the-penetration.png[width=300]
 
 [[fig-10-33]]
 .Posible liberación y separación en un remolque de onda
-image::10/fig-10-33.possible-soltado-and-separation-on-a-onda-remolque.png[width=600]
+image::10/fig-10-33.possible-soltado-and-separation-on-a-onda-remolque.png[width=300]
 
 === Volando en la Onda
 
@@ -377,31 +372,31 @@ En vientos fuertes (40 nudos o más), el piloto debería encontrar la porción m
 
 [[fig-10-34]]
 .Gestionando la posición de onda con velocidad
-image::10/fig-10-34.managing-onda-position-with-velocidad.png[width=600]
+image::10/fig-10-34.managing-onda-position-with-velocidad.png[width=300]
 
 A menudo, la sustentación de onda se mueve sobre el suelo ya que pequeños cambios en la velocidad del viento o estabilidad pueden alterar la longitud de onda de la onda de sotavento en unos pocos minutos. Si la sustentación comienza a disminuir mientras se asciende en la onda, una de estas cosas ha ocurrido: el planeador se acercó a la cima de la onda, el planeador se movió fuera de la mejor sustentación, o la longitud de onda de la onda de sotavento ha cambiado. En cualquier caso, el piloto puede explorar el área para mejor sustentación buscando a barlovento primero. Buscar a barlovento permite que el piloto derive a favor del viento de vuelta a la parte ascendente de la onda si no encuentra mejor sustentación a barlovento. Buscar a sotavento primero puede hacer difícil o imposible contactar la sustentación de nuevo si se encuentra descenso en el lado de sotavento de la onda. Además, el piloto podría exceder la velocidad de maniobra o la línea roja del planeador para aire áspero ya que planeando desde sotavento a barlovento podría poner el planeador de vuelta en el rotor. <<fig-10-35>>
 
 [[fig-10-35]]
 .Busque a barlovento primero para evitar descenso detrás de la cresta de la onda o el rotor
-image::10/fig-10-35.search-viento-en-proa-first-to-avoid-sink-behind.png[width=600]
+image::10/fig-10-35.search-viento-en-proa-first-to-avoid-sink-behind.png[width=300]
 
 En vientos moderados (20 a 40 nudos) y si la onda se extiende a lo largo de la cresta o cordillera de montañas por unas pocas millas, el piloto puede volar de un lado a otro a lo largo de la sustentación de onda mientras cruzaba contra el viento. El piloto puede usar la nube de rotor o lenticular como referencia. Todos los giros deberían ocurrir contra el viento para evitar moverse al lado negativo de la onda o de vuelta al rotor. Al hacer un giro a barlovento para cambiar el rumbo 180°, el piloto cambia el rumbo menos de 180°, con la reducción en el giro basada en la fuerza del viento. El piloto nota el ángulo de crabeo necesario para permanecer en sustentación en la primera pata y puede usar esa misma cantidad de ángulo de crabeo contra el viento inicialmente después de completar el siguiente giro a barlovento. Sin nube, las referencias de suelo permiten al piloto establecer y mantener el ángulo de crabeo apropiado. Mientras se asciende más alto en vientos suficientemente fuertes, el piloto puede transitar de cruzar de un lado a otro a un rumbo estacionario contra el viento. <<fig-10-36>>
 
 [[fig-10-36]]
 .Crucero y giros en una onda
-image::10/fig-10-36.crabbing-and-turns-in-a-onda.png[width=600]
+image::10/fig-10-36.crabbing-and-turns-in-a-onda.png[width=300]
 
 Los vientos más débiles (15 a 20 nudos) pueden requerir técnicas diferentes. Las ondas de sotavento de crestas más pequeñas pueden formarse en vientos relativamente débiles de aproximadamente 15 nudos, y la sustentación de onda de montañas más grandes disminuye rápidamente al ascender a una altura donde los vientos en altura disminuyen. En un área pequeña que todavía proporciona sustentación cerca de la cima de la onda, el piloto puede volar patrones de ocho más cortos para alcanzar la altitud máxima. El piloto también puede volar un patrón en forma de óvalo recto contra el viento en sustentación y volar un giro rápido de 360° para reposicionarse y a medida que disminuye. Si no es posible un ascenso consistente, el piloto puede volar una serie de círculos con una pata ocasional contra el viento para evitar derivar demasiado lejos a favor del viento. En un área de sustentación suficientemente grande, el piloto puede usar una técnica similar a la usada en vientos moderados. <<fig-10-37>>
 
 [[fig-10-37]]
 .Técnicas para trabajar sustentación cerca de la cima de la onda en vientos débiles
-image::10/fig-10-37.techniques-for-working-sustentacion-near-the.png[width=600]
+image::10/fig-10-37.techniques-for-working-sustentacion-near-the.png[width=300]
 
 La discusión hasta ahora asumió un ascenso en la onda primaria. El piloto también puede ascender usando cualquier onda de sotavento secundaria o terciaria y luego penetrar la siguiente onda a barlovento. El éxito de esta estrategia depende de la fuerza del viento, las nubes, la intensidad del descenso a sotavento de las crestas de onda, y el rendimiento del planeador. Dependiendo de la altura alcanzada en la onda de sotavento secundaria o terciaria, un viaje a través del rotor de la siguiente onda a barlovento podría ocurrir. Los pilotos deberían ejercer precaución si penetran a barlovento a alta velocidad. La transición al lado de sotavento del rotor puede ser tan abrupta como en el lado de barlovento, así que el piloto debería reducir la velocidad al primer indicio de turbulencia. En cualquier caso, el planeador podría perder una cantidad significativa de altitud mientras penetra a barlovento a través del lado descendente de la siguiente onda a barlovento. <<fig-10-38>>
 
 [[fig-10-38]]
 .Posible trayectoria de vuelo mientras se transita desde la terciaria hacia la secundaria y luego hacia la primaria
-image::10/fig-10-38.possible-flightpath-while-transitioning-from-the.png[width=600]
+image::10/fig-10-38.possible-flightpath-while-transitioning-from-the.png[width=300]
 
 El descenso a sotavento de la cresta de onda puede ayudar a un piloto que decide hacer un descenso rápido ya que el descenso puede fácilmente alcanzar el doble de la fuerza de la sustentación encontrada en el lado de barlovento de la cresta de onda. El descenso eventual en el rotor de sotavento también podría ocurrir. Un espacio inadecuado entre una nube de rotor y lenticulares superpuestos puede prevenir una transición segura a sotavento que podría ocurrir entonces con visibilidad reducida. En este caso, el piloto puede hacer una desviación de viento cruzado si una cresta corta o cordillera de montañas produce la onda. Si las nubes niegan una salida a sotavento o de viento cruzado de la onda, puede ocurrir un descenso en el lado de barlovento de la cresta de onda. Los spoilers o frenos de picado pueden usarse para descender a través de la corriente ascendente, seguido por una transición debajo de la nube de rotor y a través del rotor. El piloto debería controlar la velocidad durante el vuelo a través del rotor. Además, la sustentación en el lado de barlovento del rotor puede hacer difícil permanecer fuera de la nube de rotor. Este tipo de descenso requiere precaución y enfatiza la importancia de una estrategia de salida antes de ascender demasiado alto en la onda. Los pilotos deberían recordar que las condiciones y las nubes pueden evolucionar rápidamente durante el ascenso.
 

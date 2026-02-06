@@ -1,11 +1,6 @@
 [[cap09]]
 = Meteorología del Vuelo a Vela
 
-[abstract]
---
-Este capítulo se centra en el tiempo meteorológico que afecta comúnmente los vuelos de planeadores, incluyendo térmicas, ondas orográficas, convergencias y peligros asociados.
---
-
 == Introducción
 
 Los pilotos de planeadores enfrentan una multitud de decisiones, comenzando con la decisión de despegar. Los pilotos deben determinar si las condiciones meteorológicas son seguras y si las condiciones actuales soportan un vuelo de vela. Los planeadores, al ser propulsados por la gravedad, siempre están descendiendo a través del aire. Por lo tanto, los pilotos de planeadores deben buscar aire que ascienda más rápido que la tasa de descenso del planeador para permitir vuelos prolongados. Los pilotos de planeadores se refieren al aire ascendente como {term-lift}, sin confundirse con la sustentación creada por el ala. Este capítulo se centra en el tiempo meteorológico que afecta comúnmente los vuelos de planeadores. Sin embargo, todos los pilotos deberían entender la teoría meteorológica, los peligros meteorológicos para la aviación y los detalles técnicos de los productos meteorológicos de aviación. El Manual de Meteorología de Aviación (FAA-H-8083-28) proporciona información completa.
@@ -16,7 +11,7 @@ Sin la atmósfera, no existirían el viento, las nubes, la precipitación ni la 
 
 [[fig-09-01]]
 .Masa atmosférica por altitud
-image::09/fig-09-01.atmosferica-masa-by-altitud.png[width=600]
+image::09/fig-09-01.atmosferica-masa-by-altitud.png[width=300]
 
 == Composición
 
@@ -24,7 +19,7 @@ Dos gases, nitrógeno (N2) y oxígeno (O2), comprenden el 99 por ciento del volu
 
 [[fig-09-02]]
 .Composición de la atmósfera
-image::09/fig-09-02.the-composicion-of-the-atmosfera.png[width=600]
+image::09/fig-09-02.the-composicion-of-the-atmosfera.png[width=300]
 
 Aunque el vapor de agua existe en la atmósfera en pequeñas cantidades en comparación con el nitrógeno y oxígeno, tiene un impacto significativo en el tiempo meteorológico. Los estados físicos adicionales del vapor de agua como líquido y sólido contribuyen a la formación de nubes, precipitación, niebla y hielo.
 
@@ -56,7 +51,7 @@ Dado que la temperatura normalmente disminuye con la altitud a una tasa predecib
 
 [[fig-09-03]]
 .Temperaturas de la atmósfera estándar
-image::09/fig-09-03.standard-atmosfera-temperatures.png[width=600]
+image::09/fig-09-03.standard-atmosfera-temperatures.png[width=300]
 
 == Capas de la Atmósfera
 
@@ -64,7 +59,7 @@ Los científicos dividen la atmósfera de la tierra en cinco capas: troposfera, 
 
 [[fig-09-04]]
 .Capas de la atmósfera
-image::09/fig-09-04.layers-of-the-atmosfera.png[width=600]
+image::09/fig-09-04.layers-of-the-atmosfera.png[width=300]
 
 Casi todo el tiempo meteorológico de la tierra ocurre en la troposfera ya que la mayor parte del vapor de agua y las nubes se encuentran en esta capa. La parte inferior de la troposfera interactúa con la superficie de tierra y mar, proporcionando térmicas, ondas de montaña y frentes de brisa marina. Aunque las temperaturas disminuyen a medida que aumentan las altitudes en la troposfera, áreas locales donde la temperatura aumenta con la altitud (inversiones) ocurren comúnmente.
 
@@ -80,7 +75,7 @@ Al preparar pronósticos, los meteorólogos consideran la circulación atmosfér
 
 [[fig-09-05]]
 .Escala de circulación—dimensiones horizontales y vidas útiles de eventos meteorológicos asociados
-image::09/fig-09-05.scale-of-circulation-horizontal-dimensions-and.png[width=600]
+image::09/fig-09-05.scale-of-circulation-horizontal-dimensions-and.png[width=300]
 
 Las características de escala más pequeña están incrustadas en características de escala más grande. Por ejemplo, una térmica de microescala puede ser solo una de muchas térmicas en una línea de convergencia de mesoescala, como un frente de brisa marina.
 
@@ -100,11 +95,11 @@ El modelo de burbuja describe una térmica individual que se asemeja a un anillo
 
 [[fig-09-06]]
 .Modelo de burbuja o anillo de vórtice de una térmica
-image::09/fig-09-06.the-bubble-or-vortex-anillo-model-of-a-termica.png[width=600]
+image::09/fig-09-06.the-bubble-or-vortex-anillo-model-of-a-termica.png[width=300]
 
 [[fig-09-07]]
 .Modelo de columna o pluma de una térmica
-image::09/fig-09-07.the-column-or-plume-model-of-a-termica.png[width=600]
+image::09/fig-09-07.the-column-or-plume-model-of-a-termica.png[width=300]
 
 La aplicabilidad de los modelos puede depender del suministro de aire cálido cerca de la superficie. Dentro de un área pequeña y calentada, una sola burbuja puede ascender y llevarse todo el aire calentado de la superficie. Por otro lado, si un área grande se calienta y un punto actúa como el desencadenante inicial, el aire cálido circundante puede fluir hacia el vacío relativo dejado por la térmica inicial. El aire cálido que entra apresuradamente sigue el mismo camino, creando una columna o pluma térmica. Dado que todo el aire calentado cerca de la superficie usualmente no tiene exactamente la misma temperatura, una columna podría existir con algunas o varias burbujas incrustadas. Las burbujas individuales dentro de una pluma térmica pueden fusionarse, mientras que en otros momentos, dos burbujas adyacentes y distintas pueden existir lado a lado.
 
@@ -112,13 +107,13 @@ Ya sea comportándose como burbuja o columna, el aire en el medio de la térmica
 
 [[fig-09-08]]
 .Sección transversal a través de una térmica. Verde más oscuro es sustentación más fuerte; rojo es descenso
-image::09/fig-09-08.seccion-transversal-through-a-termica-darker.png[width=600]
+image::09/fig-09-08.seccion-transversal-through-a-termica-darker.png[width=300]
 
 Una sección transversal típica de térmica tiene un diámetro de 500–1,000 pies, aunque el tamaño puede variar considerablemente. Típicamente, debido a la mezcla con el aire circundante, las térmicas se expanden a medida que ascienden. Así, la columna térmica puede asemejarse a un cono, con la parte más estrecha cerca del suelo. Las plumas térmicas también se inclinan en viento constante y pueden distorsionarse en presencia de cizalladura vertical. En cizalladura vertical fuerte, las térmicas pueden volverse muy turbulentas o romperse completamente. <<fig-09-09>> muestra un esquema de un ciclo de vida térmico en cizalladura de viento.
 
 [[fig-09-09]]
 .Ciclo de vida de una térmica típica con nube cúmulo
-image::09/fig-09-09.lifecycle-of-a-typical-termica-with-cumulo-nube.png[width=600]
+image::09/fig-09-09.lifecycle-of-a-typical-termica-with-cumulo-nube.png[width=300]
 
 Una atmósfera estable dificulta el movimiento vertical, mientras que una atmósfera inestable promueve el movimiento vertical. Una cierta cantidad de inestabilidad atmosférica apoya el desarrollo de térmicas. Sin embargo, el aire húmedo y la fuerte inestabilidad atmosférica pueden llevar a la formación de tormentas eléctricas. Así, un entendimiento de la estabilidad atmosférica promueve el reconocimiento de condiciones de vuelo favorables así como el reconocimiento de peligros meteorológicos y riesgos asociados.
 
@@ -130,7 +125,7 @@ Una parcela de aire seco o no saturado moviéndose hacia arriba en la atmósfera
 
 [[fig-09-10]]
 .Aire inestable (A) y estable (B)
-image::09/fig-09-10.unstable-a-and-stable-b-air.png[width=600]
+image::09/fig-09-10.unstable-a-and-stable-b-air.png[width=300]
 
 Cambiar los valores en la <<fig-09-10>> ilustra factores que afectarían la estabilidad atmosférica. Una capa estable puede volverse inestable de una de dos maneras. En el escenario B, si la temperatura de la superficie se calienta más de 2 °C (a más de 22 °C), o si el aire a 3,000 pies se enfría más de 2 °C (a menos de 11 °C), la capa atmosférica hasta 3,000 pies se vuelve inestable. El calentamiento de las capas inferiores o el enfriamiento de las capas superiores de la atmósfera sin otros cambios reduce la estabilidad y lleva a un mejor entorno para térmicas. Si la capa en altura y en la superficie se calientan o enfrían por la misma cantidad, entonces la estabilidad de la capa permanece sin cambios. La capa exhibe mayor estabilidad si la temperatura del aire en altura permanece constante, pero el aire de la superficie se enfría.
 
@@ -146,7 +141,7 @@ En el sudoeste desértico, la Gran Cuenca y el oeste intermontañoso, las buenas
 
 [[fig-09-11]]
 .Flujo típico del monzón de Norteamérica
-image::09/fig-09-11.typical-north-american-monsoon-flow.png[width=600]
+image::09/fig-09-11.typical-north-american-monsoon-flow.png[width=300]
 
 === Calles de Nubes
 
@@ -156,7 +151,7 @@ Una sección transversal de una formación idealizada de calle de nubes ilustra 
 
 [[fig-09-12]]
 .Circulación a través de una calle de nubes
-image::09/fig-09-12.circulation-across-a-nube-street.png[width=600]
+image::09/fig-09-12.circulation-across-a-nube-street.png[width=300]
 
 Las calles de nubes usualmente ocurren sobre tierra con brotes de aire frío, por ejemplo, después de un frente frío. Vientos de superficie fuertes y una dirección del viento que permanece casi constante hasta la base de la nube son condiciones favorables de calle de nubes. La velocidad del viento debería aumentar de 10 a 20 nudos entre la superficie y la base de la nube, con un máximo en algún punto en el medio o cerca de la parte superior de la capa convectiva. Las térmicas deberían estar tapadas por una inversión o capa estable notable.
 
@@ -166,7 +161,7 @@ Las calles térmicas, con una circulación como la <<fig-09-12>>, pueden existir
 
 [[fig-09-13]]
 .Onda térmica de calle de nubes
-image::09/fig-09-13.nube-street-termica-onda.png[width=600]
+image::09/fig-09-13.nube-street-termica-onda.png[width=300]
 
 Las llamadas ondas cúmulo pueden existir donde las nubes cúmulo no se organizan en calles. Las ondas cúmulo requieren una inversión o capa estable y viento creciente por encima de las nubes cúmulo. Sin embargo, la cizalladura direccional no es necesaria. Las ondas cúmulo también pueden ser de corta duración y difíciles de trabajar por cualquier período de tiempo. Una excepción ocurre cuando la nube cúmulo se ancla a alguna característica, como una línea de cresta o una corta cordillera de montañas. Como nota final, las ondas térmicas también pueden formarse sin nubes. Sin nubes, la posible influencia de una cresta o montaña en crear la sustentación de onda se vuelve difícil de determinar.
 
@@ -178,7 +173,7 @@ Las tormentas eléctricas pueden ocurrir en cualquier época del año, aunque so
 
 [[fig-09-14]]
 .Frecuencia de tormentas eléctricas en verano
-image::09/fig-09-14.tormenta-frequency-in-the-summertime.png[width=600]
+image::09/fig-09-14.tormenta-frequency-in-the-summertime.png[width=300]
 
 El ciclo de vida de una tormenta de masa de aire o tormenta eléctrica ordinaria consiste en tres etapas principales: cúmulo, madura y disipación. El término «ordinaria» describe el tipo de tormenta eléctrica que consiste en una sola Cb, ya que las tormentas eléctricas individuales pueden desarrollarse en una masa de aire de gran escala uniforme. Todo el ciclo de vida de una tormenta eléctrica ordinaria toma aproximadamente una hora, aunque una nube remanente de la Cb disipada puede durar sustancialmente más tiempo.
 
@@ -186,7 +181,7 @@ La etapa de cúmulo de una tormenta eléctrica se caracteriza por una nube cúmu
 
 [[fig-09-15]]
 .Una nube cúmulo convirtiéndose en un cúmulo de gran desarrollo
-image::09/fig-09-15.a-cumulo-nube-becoming-a-towering-cumulo.png[width=600]
+image::09/fig-09-15.a-cumulo-nube-becoming-a-towering-cumulo.png[width=300]
 
 A medida que continúa el desarrollo de una tormenta eléctrica, alcanza la etapa madura. Para este momento, las corrientes descendentes conocidas como downbursts o microbursts alcanzan el suelo y se dispersan creando vientos de superficie fuertes ya veces dañinos. Los pilotos de planeadores deben evitar el vuelo hacia estas corrientes descendentes y su cizalladura de viento asociada, ya que el planeador podría perder la capacidad de alcanzar un área de aterrizaje seleccionada.
 
@@ -235,7 +230,7 @@ La sustentación de ladera puede extenderse a un máximo de dos o tres veces la 
 
 [[fig-09-16]]
 .Zona de sustentación para vuelo de ladera
-image::09/fig-09-16.sustentacion-zone-for-slope-vuelo-vela.png[width=600]
+image::09/fig-09-16.sustentacion-zone-for-slope-vuelo-vela.png[width=300]
 
 Dependiendo de la pendiente, velocidades de viento de 10 a 15 nudos soplando casi perpendicular a la cresta producen corrientes ascendentes utilizables. Sin embargo, direcciones de viento hasta 30° o 40° de perpendicular pueden todavía producir sustentación de ladera. Las crestas altas pueden tener poco o ningún viento a lo largo de las laderas inferiores, pero las partes superiores de la cresta pueden estar en vientos lo suficientemente fuertes para producir sustentación de ladera, creando una cizalladura de viento vertical.
 
@@ -243,7 +238,7 @@ El área de mejor sustentación varía con la altura. Debajo de la cima de la cr
 
 [[fig-09-17]]
 .Sustentación de ladera y remolino con pendiente casi vertical
-image::09/fig-09-17.slope-sustentacion-and-eddy-with-near-vertical.png[width=600]
+image::09/fig-09-17.slope-sustentacion-and-eddy-with-near-vertical.png[width=300]
 
 Una cresta ideal tiene una pendiente del orden de 1 a 4. Por cada cuatro pies de recorrido horizontal, el terreno aumenta verticalmente 1 pie. Las pendientes más suaves no crean un componente de viento vertical lo suficientemente fuerte como para compensar la tasa de descenso del planeador. Las pendientes muy empinadas, casi verticales, crean sustentación, pero también pueden producir remolinos turbulentos a lo largo de la ladera inferior o en cualquier lugar cerca de la cresta misma. En tales casos, solo la parte superior de la pendiente puede producir corrientes ascendentes, aunque las pendientes más empinadas permiten un escape rápido al valle adyacente.
 
@@ -255,19 +250,19 @@ Mientras el flujo se desvía hacia arriba en el lado de barlovento de una cresta
 
 [[fig-09-18]]
 .Flujo de aire a lo largo de diferentes crestas
-image::09/fig-09-18.airflow-along-different-ridges.png[width=600]
+image::09/fig-09-18.airflow-along-different-ridges.png[width=300]
 
 Los efectos tridimensionales son importantes también. Por ejemplo, una cresta con cúspides o cuencas puede producir mejor sustentación en el borde orientado contra el viento de una cuenca si el viento está en un ángulo desde la cresta. Sin embargo, el piloto puede encontrar descenso en el lado de sotavento de un borde de cuenca. <<fig-09-19>>
 
 [[fig-09-19]]
 .Efectos tridimensionales de vientos oblicuos y cuencas
-image::09/fig-09-19.three-dimensional-effects-of-oblique-winds-and.png[width=600]
+image::09/fig-09-19.three-dimensional-effects-of-oblique-winds-and.png[width=300]
 
 El aire húmedo ascendiendo desde el contacto con una pendiente que se enfría suficientemente puede formar una llamada nube de gorro. <<fig-09-20>> La nube puede formarse por encima de la cresta, y si el aire se humedece con el tiempo, la nube desciende lentamente sobre la cresta y hacia abajo por la pendiente de barlovento, limitando la altura utilizable de la sustentación de ladera. Bajo ciertas condiciones, una nube de gorro de la mañana puede ascender a medida que el día se calienta, luego descender lentamente de nuevo a medida que el día se enfría. Dado que la corriente ascendente forma la nube, un piloto podría ascender en la nube de gorro y perder referencias visuales externas.
 
 [[fig-09-20]]
 .Nube de gorro
-image::09/fig-09-20.cap-nube.png[width=600]
+image::09/fig-09-20.cap-nube.png[width=300]
 
 == Ondas de Montaña
 
@@ -285,7 +280,7 @@ El aire estable puede soportar la formación de ondas cuando una perturbación c
 
 [[fig-09-21]]
 .Parcela desplazada verticalmente y oscilando alrededor de su nivel de equilibrio
-image::09/fig-09-21.parcel-displaced-vertically-and-oscillating.png[width=600]
+image::09/fig-09-21.parcel-displaced-vertically-and-oscillating.png[width=300]
 
 La parte inferior de la <<fig-09-21>> también ilustra dos características de cualquier onda. La longitud de onda es la distancia horizontal entre dos crestas de onda adyacentes. Las longitudes de onda típicas de montaña varían considerablemente, entre 2 y 20 millas. La amplitud es la mitad de la distancia vertical entre el valle y la cresta de la onda.
 
@@ -293,7 +288,7 @@ La parte inferior de la <<fig-09-21>> también ilustra dos características de c
 
 [[fig-09-22]]
 .Sistema de onda de sotavento de montaña
-image::09/fig-09-22.above-indicates-nube-types-associated-with-a.png[width=600]
+image::09/fig-09-22.above-indicates-nube-types-associated-with-a.png[width=300]
 
 Este simple modelo conceptual tiene muchas variaciones posibles. Por ejemplo, la topografía podría tener muchas características tridimensionales complejas, como grandes crestas o espolones en ángulos rectos con la cordillera principal. Las variaciones pueden ocurrir cuando una cordillera Norte-Sur se curva para orientarse Noreste-Suroeste. Además, pueden ocurrir numerosas variaciones de los perfiles de viento y estabilidad. En algunas condiciones, la segunda o tercera crestas de onda aumentan en amplitud, y el piloto puede volar más alto si vuela esa porción de la onda.
 
@@ -305,7 +300,7 @@ Todo el sistema de onda de montaña puede formarse en condiciones completamente 
 
 [[fig-09-23]]
 .Cobertura de nubes asociada con variaciones en humedad
-image::09/fig-09-23.nube-cover-associated-with-variations-in-moisture.png[width=600]
+image::09/fig-09-23.nube-cover-associated-with-variations-in-moisture.png[width=300]
 
 En climas húmedos, el aire húmedo moviéndose horizontalmente puede cerrar completamente la brecha entre la nube de gorro y el rotor primario. Este cierre podría dejar varado un planeador encima de las nubes <<fig-09-23>> (Panel B). Los pilotos deberían considerar esta posibilidad cuando estén por encima de nubes de rotor en condiciones húmedas.
 
@@ -321,13 +316,13 @@ La topografía de barlovento de la cordillera productora de ondas también puede
 
 [[fig-09-24]]
 .Interferencia destructiva y constructiva
-image::09/fig-09-24.destructive-and-constructive-interference.png[width=600]
+image::09/fig-09-24.destructive-and-constructive-interference.png[width=300]
 
 El vuelo de onda requiere planificación y equipo apropiado. Además, el vuelo en el espacio aéreo Clase A requiere notificación de la Administración Federal de Aviación (FAA). La Soaring Society of America (SSA) ofrece a los pilotos de planeo Premios Lennie por completar y documentar un vuelo de onda. <<fig-09-25>>
 
 [[fig-09-25]]
 .Los Premios Lennie se otorgan por completar y documentar un vuelo de onda
-image::09/fig-09-25.lennie-awards-are-given-for-completing-and.png[width=600]
+image::09/fig-09-25.lennie-awards-are-given-for-completing-and.png[width=300]
 
 == Convergencia
 
@@ -339,7 +334,7 @@ El aire sobre el agua a menudo tiene un punto de rocío más alto que el aire in
 
 [[fig-09-26]]
 .Frente de brisa marina
-image::09/fig-09-26.sea-breeze-frente.png[width=600]
+image::09/fig-09-26.sea-breeze-frente.png[width=300]
 
 Varios factores influyen en las características del frente de brisa marina (por ejemplo, turbulencia, fuerza, velocidad de penetración hacia el interior, el grado de calentamiento interior y la diferencia de temperatura tierra/mar). Por ejemplo, una pequeña diferencia de temperatura tierra/mar al amanecer con nubes cirrus nubladas puede reducir el calentamiento del suelo e impedir o debilitar la formación del frente de brisa marina. Otro factor es el flujo de viento sinóptico (flujo general de viento para un lugar y tiempo particular). Un flujo sinóptico costero débil puede permitir una penetración más rápida hacia el interior del frente de brisa marina, mientras que un flujo costero fuerte puede remover las condiciones que permiten el desarrollo de un frente de brisa marina. Un fluego costero moderado generalmente previene cualquier penetración hacia el interior de un frente de brisa marina.
 
@@ -349,19 +344,19 @@ La convergencia también puede ocurrir a lo largo y alrededor de montañas o cre
 
 [[fig-09-27]]
 .Convergencia inducida por flujo alrededor de la topografía (visto desde arriba)
-image::09/fig-09-27.convergencia-induced-by-flow-around-topography-as.png[width=600]
+image::09/fig-09-27.convergencia-induced-by-flow-around-topography-as.png[width=300]
 
 La convergencia a veces puede ocurrir a lo largo de la cima de una línea de cresta o cordillera de montañas. En la <<fig-09-28>>, el viento sinóptico más seco fluye hacia arriba por el lado izquierdo de la montaña, mientras que una brisa de valle húmeda fluye hacia arriba por el lado derecho de la pendiente. Los dos flujos se encuentran en la cima de la montaña y forman sustentación a lo largo de toda la cordillera. Si las nubes están presentes, el aire del lado húmedo se condensa primero, a menudo formando una nube con un escalón bien definido, marcando la zona de convergencia. Para este escenario, las mejores condiciones de sustentación ocurren en el lado seco occidental en lugar del lado este donde es más probable que se formen nubes.
 
 [[fig-09-28]]
 .Convergencia en la cima de montaña
-image::09/fig-09-28.mountaintop-convergencia.png[width=600]
+image::09/fig-09-28.mountaintop-convergencia.png[width=300]
 
 Como ejemplo final, cuando el calentamiento diurno disminuye en terreno montañoso, un viento catabático frío o viento de drenaje puede fluir hacia abajo por las laderas de las montañas. El flujo hacia abajo por la pendiente converge con el aire en el valle adyacente para formar un área de sustentación débil. La convergencia, a menudo demasiado débil para crear sustentación para soportar el vuelo de planeador, puede actuar como un desencadenante para la última térmica del día. <<fig-09-29>>
 
 [[fig-09-29]]
 .Convergencia inducida por flujo alrededor de la topografía
-image::09/fig-09-29.convergencia-induced-by-flow-around-topography.png[width=600]
+image::09/fig-09-29.convergencia-induced-by-flow-around-topography.png[width=300]
 
 == Obtención de Información Meteorológica
 
@@ -377,7 +372,7 @@ Los informadores meteorológicos en realidad no predicen el tiempo; simplemente 
 
 [[fig-09-30]]
 .Pronóstico de planeo
-image::09/fig-09-30.vuelo-vela-forecast.png[width=600]
+image::09/fig-09-30.vuelo-vela-forecast.png[width=300]
 
 === Información relacionada con el tiempo
 
