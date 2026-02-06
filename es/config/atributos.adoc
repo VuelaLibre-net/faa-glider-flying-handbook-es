@@ -13,7 +13,7 @@
 // === CONFIGURACIÓN DEL DOCUMENTO ===
 :doctype: book
 :toc: left
-:toclevels: 2
+:toclevels: 3
 :sectnums:
 :sectnumlevels: 4
 :partnums:

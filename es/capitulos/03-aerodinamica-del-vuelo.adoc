@@ -15,15 +15,22 @@ image::03/fig-03-01.three-axes-of-rotation-with-each-perpendicular-to.png[width=
 
 == Fuerzas del vuelo
 
+=== {term-lift-force} 
+
 Tres fuerzas actúan sobre un {term-glider} sin motor mientras está en vuelo: {term-lift-force}, {term-drag} y {term-weight}. El {term-thrust} es otra fuerza de vuelo que permite a los {term-glider}es autolanzables despegar por sí mismos y mantenerse en el aire cuando las condiciones de vuelo a vela disminuyen.
 
-Newton's laws and Bernoulli's principle explain lift from different perspectives. Newton's third law describes the overall interaction between atmosphere and wing, while Bernoulli's principle looks at the effect of air changing speed as it moves past the wing. Together, these models provide a valid explanation of lift.
+[[fig-03-02]]
+.Componentes vectoriales de sustentación, empuje, resistencia y peso (gravedad)
+image::03/fig-03-02.vector-components-of-lift-thrust-drag-and-weight.png[width=500]
 
-== Tercera ley de Newton
+Las leyes de Newton y el principio de Bernoulli explican la sustentación desde diferentes perspectivas. La tercera ley de Newton describe la interacción global entre la atmósfera y el ala, mientras que el principio de Bernoulli analiza el efecto del cambio de velocidad del aire al pasar por el ala. En conjunto, estos modelos ofrecen una explicación válida de la sustentación.
+
+
+=== Tercera ley de Newton
 
 Según la Tercera Ley de Newton del Movimiento, para cada acción hay una reacción igual y opuesta. Cuando el aire se desvía hacia abajo debido a la interacción con el {term-wing}, el {term-wing} experimenta una reacción hacia arriba (de {term-lift-force}).
 
-== Principio de Bernoulli
+=== Principio de Bernoulli
 
 El Principio de Bernoulli establece que a medida que aumenta la velocidad de un fluido en movimiento (líquido o gas), la presión dentro del fluido disminuye. Este principio explica lo que sucede cuando el aire se mueve más rápido para pasar por encima del {term-wing} posicionada en un ángulo con respecto al {term-relative-wind}, es decir, el viento resultante del movimiento hacia adelante del {term-glider}. El aumento en la velocidad del aire a medida que viaja por encima del {term-wing} produce una caída de presión contra el {term-wing}, y la mayor presión de aire debajo del {term-wing} resulta en una fuerza de {term-lift-force} neta.
 
@@ -41,38 +48,42 @@ La ecuación de {term-lift-force} muestra que la {term-lift-force} total cambia 
 
 [[fig-03-04]]
 .Ángulo de ataque
-image::03/fig-03-04.angle-of-attack.png[width=300]
+image::03/fig-03-04.angle-of-attack.png[width=600]
 
 Al describir la {term-lift-force} como un vector, la {term-lift-force} total actúa a través de un punto conocido como el centro de {term-lift-force} (CL). Este punto ocurre detrás del centro de gravedad. Por lo tanto, la {term-lift-force} crea un momento de cabeceo en el {term-glider}, que la cola debe contrarrestar. El vector de {term-lift-force} total actúa perpendicular a la trayectoria de vuelo a través del CL y perpendicular al eje lateral.
 
+== Resistencia
+
 La fuerza que resiste el movimiento del {term-glider} consiste en la {term-drag} parásita y la {term-drag} inducida, que se combinan para formar la {term-drag} total.
 
-== Resistencia parásita
+=== Resistencia parásita
 
 La {term-drag} parásita incluye la {term-drag} del aire a cualquier objeto que se mueve a través de ella creada por la fricción de la superficie, la forma del objeto y los patrones de interferencia dentro del flujo de aire alrededor del objeto. Mientras que los diseños de {term-wing}s de {term-glider}es generan {term-drag} inducida y parásita mínima, otras partes del {term-glider} pueden crear {term-drag} parásita significativa. La {term-drag} parásita aumenta con el cuadrado de la velocidad. En términos simples, si la velocidad del {term-glider} se duplica, la {term-drag} parásita aumenta cuatro veces. <<fig-03-05>>
 
 [[fig-03-05]]
 .Resistencia parásita versus velocidad
-image::03/fig-03-05.parasite-resistencia-versus-velocidad.png[width=300]
+image::03/fig-03-05.parasite-resistencia-versus-velocidad.png[width=400]
 
-== Resistencia inducida
+=== Resistencia inducida
 
 A medida que aumenta el {term-aoa}, más aire fluye alrededor del extremo del {term-wing} desde la superficie inferior hasta la superficie superior, lo que crea vórtices de punta de {term-wing} más grandes. <<fig-03-06>>. El panel 4 de la <<fig-03-06>> muestra el {term-wing} moviéndose horizontalmente en vuelo nivelado. El vector de {term-lift-force} vertical se desarrolla perpendicular a la trayectoria de vuelo y al {term-relative-wind} entrante. Dado que los vórtices de punta de {term-wing} causan una divergencia descendente del {term-relative-wind} promedio desde la trayectoria de vuelo, el vector de {term-lift-force} total, que es perpendicular al {term-relative-wind} promedio, se inclina hacia atrás. Esta inclinación hacia atrás del vector de {term-lift-force} total crea {term-drag} inducida como subproducto de la {term-lift-force}. Los factores que aumentan el ángulo entre la {term-lift-force} total y los vectores de {term-lift-force} vertical, como la baja velocidad del aire y el alto {term-aoa}, aumentan la {term-drag} inducida.
 
 [[fig-03-06]]
 .Resistencia inducida desde la producción de {term-lift-force}
-image::03/fig-03-06.induced-resistencia-from-the-production-of.png[width=300]
+image::03/fig-03-06.induced-resistencia-from-the-production-of.png[width=600]
 
 A medida que un {term-glider} vuela más rápido, las {term-wing}s pueden generar la misma cantidad de {term-lift-force} con un {term-aoa} reducido. El aumento de velocidad con un {term-aoa} menor reduce la inclinación hacia atrás del vector de {term-lift-force} total y reduce la {term-drag} inducida.
 
-== Resistencia total
+=== Resistencia total
 
-La curva de {term-drag} total representa la combinación de {term-drag} parásita y {term-drag} inducida y varía con la velocidad del aire. <<fig-03-07>>
-
+[float-group]
+--
 [[fig-03-07]]
 .Resistencia parásita, {term-drag} inducida y {term-drag} total versus velocidad del aire
-image::03/fig-03-07.parasite-resistencia-induced-resistencia-and.png[width=300]
+image::03/fig-03-07.parasite-resistencia-induced-resistencia-and.png[width=450,float=right]
+La curva de {term-drag} total representa la combinación de {term-drag} parásita y {term-drag} inducida y varía con la velocidad del aire. <<fig-03-07>>
 
+--
 == Efecto suelo
 
 Operar dentro de una envergadura de {term-wing} por encima del suelo modifica el patrón tridimensional de flujo de aire alrededor del {term-glider}. Este efecto suelo disminuye la descarga, reduce el tamaño y efecto de los vórtices de punta de {term-wing}, reduce la {term-drag} inducida y resulta en un vuelo más eficiente. Este efecto permite al {term-glider} volar a una velocidad de aire menor durante el {term-takeoff} y reduce la tasa de descenso de un {term-glider} durante el {term-landing}.
@@ -87,7 +98,7 @@ Los {term-glider}es sin motor usan una fuente externa, como un avión de remolqu
 
 [[fig-03-08]]
 .Las fuerzas a lo largo de la trayectoria de vuelo de un {term-glider} sin motor y su perpendicular
-image::03/fig-03-08.the-forces-along-an-unpowered-gliders-vuelo-path.png[width=300]
+image::03/fig-03-08.the-forces-along-an-unpowered-gliders-vuelo-path.png[width=600]
 
 Un descenso sin motor convierte la energía potencial de altura del {term-glider} por encima del suelo en energía cinética de movimiento de manera continua. El ángulo de trayectoria de vuelo o ángulo de descenso (ɣ) es el mismo que el ángulo entre Wp y W. Wf, Wp y W podrían formar tres lados de un triángulo rectángulo. La trigonometría da los componentes Wf y Wp del {term-weight} usando las fórmulas mostradas dentro de las cajas de equilibrio de fuerzas en la <<fig-03-08>>. Un ángulo de trayectoria de vuelo más pronunciado (ɣ) aumenta el componente hacia adelante del {term-weight} (Wf) y disminuye el componente perpendicular del {term-weight} (Wp).
 
