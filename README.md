@@ -41,9 +41,9 @@ Este proyecto tiene como objetivo proporcionar una traducción de calidad del ma
 Esta versión está en fase **inicial de desarrollo**. Se ha completado la importación de todas las imágenes del manual original, pero el proyecto requiere trabajo significativo antes de estar listo para producción:
 
 - ✅ 279 imágenes oficiales FAA importadas (100%)
-- ⏳ 0/279 imágenes revisadas (0%)
+- ✅ Capítulos 1-2: Texto revisado y completo
 - ⏳ 0/279 imágenes con texto traducido al español (0%)
-- ⚠️ Texto de los capítulos en revisión inicial
+- ⚠️ Capítulos 3-13: En revisión inicial
 - 🔍 Terminología técnica por validar con pilotos titulados
 
 ### Estrategia de imágenes
@@ -196,8 +196,8 @@ Más detalles en [AGENTS.md](AGENTS.md).
 
 | Capítulo | Título | Estado Traducción | Img. Importadas | Img. Revisadas | Img. Traducidas |
 |----------|--------|-------------------|-----------------|----------------|-----------------|
-| 1 | Planeadores y Veleros | 📝 Borrador | 4 | ⏳ | ⏳ |
-| 2 | Componentes y Sistemas | 📝 Borrador | 12 | ⏳ | ⏳ |
+| 1 | Planeadores y Veleros | ✅ Revisado | 4 | ✅ | ⏳ |
+| 2 | Componentes y Sistemas | ✅ Revisado | 12 | ✅ | ⏳ |
 | 3 | Aerodinámica del Vuelo | 📝 Borrador | 22 | ⏳ | ⏳ |
 | 4 | Instrumentos de Vuelo | 📝 Borrador | 31 | ⏳ | ⏳ |
 | 5 | Performance del Planeador | 📝 Borrador | 21 | ⏳ | ⏳ |
@@ -211,7 +211,7 @@ Más detalles en [AGENTS.md](AGENTS.md).
 | 13 | Factores Humanos | 📝 Borrador | 13 | ⏳ | ⏳ |
 | - | Glosario | 📝 Borrador | - | - | - |
 
-**Progreso:** 13/13 capítulos en borrador (100%) - 279/279 imágenes importadas (100%) - 0/279 imágenes revisadas (0%)
+**Progreso:** 2/13 capítulos revisados (15%) - 279/279 imágenes importadas (100%) - 16/279 imágenes revisadas (6%)
 
 ## Contribuir
 

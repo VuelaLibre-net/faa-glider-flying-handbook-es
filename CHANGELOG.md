@@ -9,9 +9,15 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [Unreleased]
 
+### Changed
+- **Capítulos 1-2**: Texto completado y revisado
+  - Capítulo 1: Planeadores y Veleros - Revisión finalizada
+  - Capítulo 2: Componentes y Sistemas - Revisión finalizada
+  - Imágenes de ambos capítulos revisadas y verificadas
+
 ### Planned
 - Traducción de textos en imágenes (279 figuras)
-- Revisión técnica por pilotos titulados
+- Revisión técnica por pilotos titulados (capítulos 3-13)
 - Implementación completa de atributos de terminología `{term-xxx}`
 - Soporte para variante regional de México (mx)
 

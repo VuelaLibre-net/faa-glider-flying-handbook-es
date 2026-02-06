@@ -11,8 +11,8 @@
 | Aspecto | Estado | Notas |
 |---------|--------|-------|
 | **Estructura del proyecto** | ✅ Buena | Bien organizado, sigue convenciones |
-| **Contenido traducido** | ⚠️ Incompleto | 13/13 capítulos en borrador, requieren revisión |
-| **Imágenes** | ⚠️ Parcial | 279 imágenes importadas, 0 revisadas/traducidas |
+| **Contenido traducido** | 🟡 Parcial | 2/13 capítulos revisados, 11/13 en borrador |
+| **Imágenes** | ⚠️ Parcial | 279 imágenes importadas, 0 traducidas |
 | **Build system** | ✅ Funcional | Makefile completo, genera PDF/HTML/EPUB |
 | **Documentación** | ✅ Buena | AGENTS.md, CONTRIBUTING.md completos |
 | **Terminología** | ⚠️ Inconsistente | 17 ocurrencias de "patrón de tráfico" (debe ser "circuito de tráfico") |
@@ -58,8 +58,8 @@
 
 | Capítulo | Título | Líneas | Estado | Imágenes |
 |----------|--------|--------|--------|----------|
-| 01 | Planeadores y veleros | 65 | 📝 Borrador | 4 |
-| 02 | Componentes y sistemas | 131 | 📝 Borrador | 12 |
+| 01 | Planeadores y veleros | 60 | ✅ Revisado | 4 |
+| 02 | Componentes y sistemas | 130 | ✅ Revisado | 12 |
 | 03 | Aerodinámica del vuelo | 260 | 📝 Borrador | 22 |
 | 04 | Instrumentos de vuelo | 309 | 📝 Borrador | 31 |
 | 05 | Performance | 243 | 📝 Borrador | 21 |
@@ -147,7 +147,7 @@ Capítulo 13:  26 imágenes
 | Problema | Severidad | Descripción |
 |----------|-----------|-------------|
 | Texto en inglés | 🔴 Alta | 0/279 imágenes tienen texto traducido |
-| Revisión de calidad | 🟡 Media | 0/279 imágenes revisadas |
+| Revisión de calidad | 🟡 Media | 16/279 imágenes revisadas (capítulos 1-2) |
 | Compresión | 🟢 Baja | Algunas imágenes podrían optimizarse más |
 
 ---
@@ -355,10 +355,11 @@ grep -rn "entrada en pérdida" es/capitulos/
 
 | Métrica | Valor | Meta v1.0 |
 |---------|-------|-----------|
-| Capítulos traducidos | 13/13 | 13/13 ✅ |
-| Líneas de contenido | 4,292 | - |
+| Capítulos revisados | 2/13 | 13/13 |
+| Capítulos en borrador | 11/13 | 0/13 |
+| Líneas de contenido | 4,187 | - |
 | Imágenes importadas | 279/279 | 279/279 ✅ |
-| Imágenes revisadas | 0/279 | 279/279 |
+| Imágenes revisadas | 16/279 | 279/279 |
 | Imágenes traducidas | 0/279 | 279/279 |
 | Atributos de terminología usados | 0% | 90%+ |
 | Inconsistencias críticas | 17 | 0 |
