@@ -735,5 +735,5 @@ Gracias por tu interés en contribuir al proyecto FAA-GFH. Tu trabajo ayuda a pi
 ---
 
 **Última actualización:** 2026-01-31
-**Versión:** 0.1.1
+**Versión:** 0.1.2
 **Licencia:** CC BY-SA 4.0

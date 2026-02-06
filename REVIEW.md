@@ -2,7 +2,7 @@
 
 > **Fecha de auditoría:** 2026-02-06  
 > **Auditor:** Kimi Code CLI  
-> **Versión revisada:** 0.1.0  
+> **Versión revisada:** 0.1.2  
 
 ---
 
