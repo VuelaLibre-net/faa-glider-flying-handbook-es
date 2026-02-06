@@ -3,52 +3,52 @@
 
 == Introducción
 
-=== Diseño del planeador
+=== Diseño del {term-glider}
 
-Las estructuras de los planeadores incluyen un fuselaje, alas y empenaje o sección de cola. <<fig-02-01>>
+Las estructuras de los {term-glider}es incluyen un {term-fuselage}, {term-wing}s y empenaje o sección de cola. <<fig-02-01>>
 
 [[fig-02-01]]
-.Componentes de un planeador
+.Componentes de un {term-glider}
 image::02/fig-02-01.componentes-of-a-planeador.png[width=600]
 
-== El fuselaje
+== El {term-fuselage}
 
-El fuselaje contiene los controles del planeador, así como un asiento para cada ocupante. Las alas y el empenaje se unen al fuselaje. Los fabricantes típicamente usan compuestos, fibra de vidrio o fibra de carbono; sin embargo, en el pasado los fabricantes usaban madera, tela sobre tubos de acero, aluminio, o una combinación de estos materiales para construir un fuselaje.
+El {term-fuselage} contiene los controles del {term-glider}, así como un asiento para cada ocupante. Las {term-wing}s y el empenaje se unen al {term-fuselage}. Los fabricantes típicamente usan compuestos, fibra de vidrio o fibra de carbono; sin embargo, en el pasado los fabricantes usaban madera, tela sobre tubos de acero, aluminio, o una combinación de estos materiales para construir un {term-fuselage}.
 
 == Alas
 
-Cuando el aire fluye sobre las alas de un planeador, las alas producen sustentación que permite a la aeronave mantenerse en el aire. Los diseños de alas de planeadores producen sustentación máxima con resistencia mínima.
+Cuando el aire fluye sobre las {term-wing}s de un {term-glider}, las {term-wing}s producen {term-lift-force} que permite a la aeronave mantenerse en el aire. Los diseños de {term-wing}s de {term-glider}es producen {term-lift-force} máxima con {term-drag} mínima.
 
-Las alas de los planeadores incorporan varios componentes que ayudan al piloto a mantener la actitud del planeador y controlar la sustentación y la resistencia. Estos incluyen alerones y otros dispositivos de sustentación y resistencia.
+Las {term-wing}s de los {term-glider}es incorporan varios componentes que ayudan al piloto a mantener la actitud del {term-glider} y controlar la {term-lift-force} y la {term-drag}. Estos incluyen alerones y otros dispositivos de {term-lift-force} y {term-drag}.
 
 === Alerones
 
 [float-group]
 --
 [[fig-02-02]]
-.Los alerones cambian la curvatura o camber del ala y aumentan o disminuyen la sustentación
+.Los alerones cambian la curvatura o camber del {term-wing} y aumentan o disminuyen la {term-lift-force}
 image::02/fig-02-02.the-alerones-change-the-camber-or-curvature-of.png[width=300,float="right"]
-Los alerones se unen al borde de salida exterior de cada ala. Cuando el piloto mueve el control del alerón a la derecha del centro, el alerón derecho se deflecta hacia arriba <<fig-02-02>> y el alerón izquierdo se deflecta hacia abajo. En vuelo y con aire fluyendo sobre las alas, estas deflexiones resultan en aumento de sustentación en el ala izquierda y disminución de sustentación en el ala derecha. El aumento de sustentación en el ala izquierda y la disminución de sustentación en el ala derecha aplican una fuerza para inclinar el planeador hacia la derecha. Mover el control del alerón a la izquierda del centro deflecta el alerón derecho hacia abajo y el alerón izquierdo hacia arriba. Esto aplica una fuerza para inclinar el planeador hacia la izquierda.
+Los alerones se unen al borde de salida exterior de cada {term-wing}. Cuando el piloto mueve el control del {term-aileron} a la derecha del centro, el {term-aileron} derecho se deflecta hacia arriba <<fig-02-02>> y el {term-aileron} izquierdo se deflecta hacia abajo. En vuelo y con aire fluyendo sobre las {term-wing}s, estas deflexiones resultan en aumento de {term-lift-force} en el {term-wing} izquierda y disminución de {term-lift-force} en el {term-wing} derecha. El aumento de {term-lift-force} en el {term-wing} izquierda y la disminución de {term-lift-force} en el {term-wing} derecha aplican una fuerza para inclinar el {term-glider} hacia la derecha. Mover el control del {term-aileron} a la izquierda del centro deflecta el {term-aileron} derecho hacia abajo y el {term-aileron} izquierdo hacia arriba. Esto aplica una fuerza para inclinar el {term-glider} hacia la izquierda.
 --
 
-== Dispositivos de sustentación/resistencia
+== Dispositivos de {term-lift-force}/{term-drag}
 
-Los planeadores pueden usar otros dispositivos que modifican la sustentación/resistencia del ala. Estos dispositivos de alta resistencia incluyen spoilers, frenos de picado y flaps. <<fig-02-03>> Los spoilers se extienden desde la superficie superior de las alas, alteran el flujo de aire y causan que el planeador descienda más rápidamente. Los frenos de picado se extienden desde ambas superficies superior e inferior del ala y aumentan la resistencia. Algunos planeadores de alto rendimiento tienen limitaciones de velocidad para los frenos de picado para prevenir daños estructurales.
+Los {term-glider}es pueden usar otros dispositivos que modifican la {term-lift-force}/{term-drag} del {term-wing}. Estos dispositivos de alta {term-drag} incluyen spoilers, frenos de picado y flaps. <<fig-02-03>> Los spoilers se extienden desde la superficie superior de las {term-wing}s, alteran el flujo de aire y causan que el {term-glider} descienda más rápidamente. Los frenos de picado se extienden desde ambas superficies superior e inferior del {term-wing} y aumentan la {term-drag}. Algunos {term-glider}es de alto rendimiento tienen limitaciones de velocidad para los frenos de picado para prevenir daños estructurales.
 
 [[fig-02-03]]
-.Tipos de dispositivos de sustentación/resistencia
+.Tipos de dispositivos de {term-lift-force}/{term-drag}
 image::02/fig-02-03.types-of-lift-drag-devices.png[width=600]
 
-Algunos planeadores tienen flaps instalados en el borde de salida de cada ala entre los alerones, que pueden cambiar la sustentación, la resistencia y la tasa de descenso. El piloto puede generalmente configurar los flaps en tres posiciones diferentes, que son neutra, bajada o negativa. <<fig-02-04>> Cuando el piloto configura los flaps para deflectar hacia abajo en vuelo, el ala produce más sustentación y resistencia. Por otro lado, una posición de flap negativa resulta en sustentación y resistencia reducidas.
+Algunos {term-glider}es tienen flaps instalados en el borde de salida de cada {term-wing} entre los alerones, que pueden cambiar la {term-lift-force}, la {term-drag} y la tasa de descenso. El piloto puede generalmente configurar los flaps en tres posiciones diferentes, que son neutra, bajada o negativa. <<fig-02-04>> Cuando el piloto configura los flaps para deflectar hacia abajo en vuelo, el {term-wing} produce más {term-lift-force} y {term-drag}. Por otro lado, una posición de {term-flap} negativa resulta en {term-lift-force} y {term-drag} reducidas.
 
 [[fig-02-04]]
-.Posiciones del flap
+.Posiciones del {term-flap}
 image::02/fig-02-04.flap-positions.png[width=300]
 
 == Empenaje
 
 
-El empenaje incluye toda la sección de cola, que consiste en las superficies fijas, como el estabilizador horizontal y la aleta vertical, y superficies móviles, como el elevador o estabilador, el timón de dirección, y cualquier trim tab. Las dos superficies fijas actúan como las plumas en una flecha para estabilizar el planeador y ayudar a mantener una trayectoria recta a través del aire. <<fig-02-05>>
+El empenaje incluye toda la sección de cola, que consiste en las superficies fijas, como el {term-tailplane} y la aleta vertical, y superficies móviles, como el elevador o estabilador, el {term-rudder}, y cualquier trim tab. Las dos superficies fijas actúan como las plumas en una flecha para estabilizar el {term-glider} y ayudar a mantener una trayectoria recta a través del aire. <<fig-02-05>>
 
 [float-group]
 --
@@ -56,9 +56,9 @@ El empenaje incluye toda la sección de cola, que consiste en las superficies fi
 .Componentes del empenaje
 image::02/fig-02-05.empenaje-componentes.png[width=300,float="right"]
 
-El timón de dirección se une a la parte trasera de la aleta vertical, y el piloto deflecta el timón usando los pedales. El timón controla la guiñada y la coordinación de giros durante el vuelo.
+El {term-rudder} se une a la parte trasera de la aleta vertical, y el piloto deflecta el timón usando los pedales. El timón controla la guiñada y la coordinación de giros durante el vuelo.
 
-Durante el vuelo recto y nivelado, la deflexión por parte del piloto del elevador aplica una fuerza para mover la nariz del planeador hacia arriba y hacia abajo con respecto al horizonte. Levantar la nariz resulta en menor velocidad mientras que bajarla aumenta la velocidad. En lugar de un estabilizador horizontal y elevador, algunos planeadores usan un estabilador, donde toda la superficie horizontal de cola pivota hacia arriba y hacia abajo en un punto de bisagra central. Los pilotos se refieren al movimiento del elevador o estabilador como el control de la actitud de cabeceo del planeador.
+Durante el vuelo recto y nivelado, la deflexión por parte del piloto del elevador aplica una fuerza para mover la nariz del {term-glider} hacia arriba y hacia abajo con respecto al horizonte. Levantar la nariz resulta en menor velocidad mientras que bajarla aumenta la velocidad. En lugar de un {term-tailplane} y elevador, algunos {term-glider}es usan un estabilador, donde toda la superficie horizontal de cola pivota hacia arriba y hacia abajo en un punto de bisagra central. Los pilotos se refieren al movimiento del elevador o estabilador como el control de la actitud de cabeceo del {term-glider}.
 
 [[fig-02-06]]
 .Componentes adicionales del empenaje
@@ -70,62 +70,62 @@ Cuando el piloto deflecta los controles de cabeceo desde la posición neutral, e
 .Un trim anti-servo
 image::02/fig-02-07.an-anti-servo-tab.png[width=300,float="right"]
 
-Los diseños de planeadores con cola convencional incorporan el estabilizador horizontal montado en la parte inferior de la aleta vertical. Los planeadores de cola en T tienen el estabilizador horizontal montado en la parte superior de la aleta vertical formando una forma de «T». Las colas en V tienen dos superficies de cola montadas para formar una «V» que combina los movimientos del elevador y el timón.
+Los diseños de {term-glider}es con cola convencional incorporan el {term-tailplane} montado en la parte inferior de la aleta vertical. Los {term-glider}es de cola en T tienen el {term-tailplane} montado en la parte superior de la aleta vertical formando una forma de «T». Las colas en V tienen dos superficies de cola montadas para formar una «V» que combina los movimientos del elevador y el timón.
 --
 == Dispositivos de gancho de remolque
 
-Los planeadores que se lanzan usando remolque tienen un gancho de remolque aprobado. Para un remolque aéreo, la tripulación normalmente conecta el cable de remolque a un gancho ubicado en la nariz o justo debajo de la nariz del planeador. Para un remolque usando un torno o vehículo terrestre, la tripulación une el cable de remolque a un gancho posicionado debajo del centro de gravedad (CG) del planeador, el punto donde el planeador se equilibraría en tierra si se levantara desde arriba o debajo de esa posición. <<fig-02-08>> Ambos diseños de gancho permiten el desacoplamiento rápido de la cuerda o cable cuando el piloto del planeador tira de la manija de liberación. Un lanzamiento por remolque aéreo de un planeador usando un gancho específico solo puede ocurrir si el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto aprueba el procedimiento.
+Los {term-glider}es que se lanzan usando remolque tienen un gancho de remolque aprobado. Para un {term-aerotow}, la tripulación normalmente conecta el {term-tow-rope} a un gancho ubicado en la nariz o justo debajo de la nariz del {term-glider}. Para un remolque usando un torno o vehículo terrestre, la tripulación une el {term-tow-rope} a un gancho posicionado debajo del centro de gravedad (CG) del {term-glider}, el punto donde el {term-glider} se equilibraría en tierra si se levantara desde arriba o debajo de esa posición. <<fig-02-08>> Ambos diseños de gancho permiten el desacoplamiento rápido de la cuerda o cable cuando el piloto del {term-glider} tira de la manija de liberación. Un lanzamiento por {term-aerotow} de un {term-glider} usando un gancho específico solo puede ocurrir si el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto aprueba el procedimiento.
 
 [[fig-02-08]]
 .Ubicaciones del gancho de remolque
 image::02/fig-02-08.remolque-gancho-locations.png[width=600]
 
-Mientras que los aviones de remolque proporcionan el medio más común para lanzar un planeador en los Estados Unidos, los planeadores autolanzables con motores incorporados se han vuelto más comunes.
+Mientras que los aviones de remolque proporcionan el medio más común para lanzar un {term-glider} en los Estados Unidos, los {term-glider}es autolanzables con motores incorporados se han vuelto más comunes.
 
 == Planeadores autolanzables
 
-Hay dos tipos de planeadores autolanzables: motoveleros de turismo y planeadores autolanzables de alto rendimiento.
+Hay dos tipos de {term-glider}es autolanzables: {term-motorglider}s de turismo y {term-glider}es autolanzables de alto rendimiento.
 
 === Motoveleros de turismo
 
-Los motoveleros de turismo tienen un motor montado en la nariz y una hélice de plegado completo. <<fig-02-09>> Aunque los motoveleros de turismo tienen algunas características básicas de aviones, están certificados en la categoría de planeador.
+Los {term-motorglider}s de turismo tienen un motor montado en la nariz y una hélice de plegado completo. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de aviones, están certificados en la categoría de {term-glider}.
 
 [[fig-02-09]]
-.Un Grob G109B motovelero de turismo
+.Un Grob G109B {term-motorglider} de turismo
 image::02/fig-02-09.a-grob-g109b-touring-motor-planeador.png[width=600]
 
 === Planeadores de alto rendimiento
 
-Los planeadores autolanzables de alto rendimiento tienen motores que se retraen en el fuselaje para resistencia mínima. <<fig-02-10>> La hélice puede plegarse, o simplemente alinearse con el motor. Esta configuración preserva una configuración aerodinámica suave de baja resistencia.
+Los {term-glider}es autolanzables de alto rendimiento tienen motores que se retraen en el {term-fuselage} para {term-drag} mínima. <<fig-02-10>> La hélice puede plegarse, o simplemente alinearse con el motor. Esta configuración preserva una configuración aerodinámica suave de baja {term-drag}.
 
 [[fig-02-10]]
-.Un planeador DG-808B de 18 metros de alto rendimiento en autolanzamiento
+.Un {term-glider} DG-808B de 18 metros de alto rendimiento en autolanzamiento
 image::02/fig-02-10.a-dg-808b-18-meter-high-performance-planeador-in.png[width=600]
 
 === Planeadores con motores sustentadores
 
-Algunos planeadores tienen motores sustentadores propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor sustentador para permanecer en el aire; sin embargo, los motores sustentadores no proporcionan suficiente potencia para lanzar el planeador y pueden no tener suficiente potencia para compensar el aire descendente. <<fig-02-11>>
+Algunos {term-glider}es tienen motores sustentadores propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor sustentador para permanecer en el aire; sin embargo, los motores sustentadores no proporcionan suficiente potencia para lanzar el {term-glider} y pueden no tener suficiente potencia para compensar el aire descendente. <<fig-02-11>>
 
 [[fig-02-11]]
 .Un Schleicher ASG-29 E con el mástil del motor sustentador de gasolina extendido
 image::02/fig-02-11.a-schleicher-asg-29-e-with-gasoline-sustainer.png[width=600]
 
-== Tren de aterrizaje
+== Tren de {term-landing}
 
-Un sistema de tren de aterrizaje de planeador usualmente incluye una rueda principal. Los planeadores diseñados para alta velocidad y baja resistencia a menudo cuentan con un tren de aterrizaje principal retráctil. Otros componentes pueden incluir un patín o rueda frontal, una rueda o patín de cola, o ruedas de punta de ala o placas de patín. <<fig-02-12>>
+Un sistema de tren de {term-landing} de {term-glider} usualmente incluye una rueda principal. Los {term-glider}es diseñados para alta velocidad y baja {term-drag} a menudo cuentan con un tren de {term-landing} principal retráctil. Otros componentes pueden incluir un patín o rueda frontal, una rueda o patín de cola, o ruedas de punta de {term-wing} o placas de patín. <<fig-02-12>>
 
 [[fig-02-12]]
-.Ruedas del tren de aterrizaje en un planeador
+.Ruedas del tren de {term-landing} en un {term-glider}
 image::02/fig-02-12.aterrizaje-gear-wheels-on-a-planeador.png[width=600]
 
-Casi todos los planeadores de alto rendimiento tienen tren de aterrizaje retráctil, por lo que los pilotos deberían incluir el tren de aterrizaje bajado en su lista de verificación pre-aterrizaje. La mayoría de las manijas del tren de aterrizaje están en el lado derecho de la estación del piloto. Sin embargo, algunos modelos tienen manijas de tren en el lado izquierdo, y los pilotos deberían tener precaución al alcanzar una manija de tren en el lado izquierdo para asegurarse de que controla el tren y no los flaps o aerofrenos. Un error común incluye olvidar retraer el tren de aterrizaje después del despegue, y luego retraerlo erróneamente como parte de la lista de verificación pre-aterrizaje.
+Casi todos los {term-glider}es de alto rendimiento tienen tren de {term-landing} retráctil, por lo que los pilotos deberían incluir el tren de {term-landing} bajado en su lista de verificación pre-{term-landing}. La mayoría de las manijas del tren de {term-landing} están en el lado derecho de la estación del piloto. Sin embargo, algunos modelos tienen manijas de tren en el lado izquierdo, y los pilotos deberían tener precaución al alcanzar una manija de tren en el lado izquierdo para asegurarse de que controla el tren y no los flaps o {term-spoiler}s. Un error común incluye olvidar retraer el tren de {term-landing} después del {term-takeoff}, y luego retraerlo erróneamente como parte de la lista de verificación pre-{term-landing}.
 
-Algunos planeadores de alto rendimiento tienen solo un gancho de remolque de centro de gravedad (CG) ya sea delante del tren de aterrizaje o en el pozo del tren de aterrizaje. Con un gancho de CG dentro del pozo del tren de aterrizaje, retraer el tren durante el remolque interfiere con el cable de remolque. Incluso si el planeador tiene un gancho en la nariz, el retraer el tren debería esperar. Un gancho de CG, comparado con un gancho de nariz, hace que un despegue con viento cruzado sea más difícil ya que el planeador puede orientarse hacia el viento más fácilmente. Además, un gancho de CG hace que el planeador sea más susceptible a elevarse (subir por encima del avión de remolque) durante el despegue, lo que amenaza la seguridad del piloto de remolque.
+Algunos {term-glider}es de alto rendimiento tienen solo un gancho de remolque de centro de gravedad (CG) ya sea delante del tren de {term-landing} o en el pozo del tren de {term-landing}. Con un gancho de CG dentro del pozo del tren de {term-landing}, retraer el tren durante el remolque interfiere con el {term-tow-rope}. Incluso si el {term-glider} tiene un gancho en la nariz, el retraer el tren debería esperar. Un gancho de CG, comparado con un gancho de nariz, hace que un {term-takeoff} con {term-crosswind} sea más difícil ya que el {term-glider} puede orientarse hacia el viento más fácilmente. Además, un gancho de CG hace que el {term-glider} sea más susceptible a elevarse (subir por encima del avión de remolque) durante el {term-takeoff}, lo que amenaza la seguridad del piloto de remolque.
 
 === Frenos de rueda
 
-Los primeros planeadores a menudo confiaban en la fricción entre el patín de nariz y el suelo para detenerse. Modelos posteriores usan un freno de rueda montado en la rueda del tren de aterrizaje principal, que ayuda al planeador a frenar o detenerse después del toque. Los planeadores modernos comúnmente usan un freno de disco hidráulico, que proporciona una capacidad de frenado sustancial.
+Los primeros {term-glider}es a menudo confiaban en la fricción entre el patín de nariz y el suelo para detenerse. Modelos posteriores usan un freno de rueda montado en la rueda del tren de {term-landing} principal, que ayuda al {term-glider} a frenar o detenerse después del toque. Los {term-glider}es modernos comúnmente usan un freno de disco hidráulico, que proporciona una capacidad de frenado sustancial.
 
 == Resumen del capítulo
 
-Aunque los planeadores vienen en una variedad de formas y tamaños, la mayoría de los planeadores comparten características de diseño básicas. Estas incluyen un fuselaje, alas y componentes, dispositivos de sustentación/resistencia, y empenaje. Dependiendo del método de lanzamiento usado, un planeador puede tener un gancho de remolque o un motor.
+Aunque los {term-glider}es vienen en una variedad de formas y tamaños, la mayoría de los {term-glider}es comparten características de diseño básicas. Estas incluyen un {term-fuselage}, {term-wing}s y componentes, dispositivos de {term-lift-force}/{term-drag}, y empenaje. Dependiendo del método de lanzamiento usado, un {term-glider} puede tener un gancho de remolque o un motor.

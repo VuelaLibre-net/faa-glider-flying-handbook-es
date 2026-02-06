@@ -1,53 +1,53 @@
 [[cap01]]
-= Planeadores y veleros
+= Planeadores y {term-sailplane}s
 
 == Introducción
 
-Un planeador moderno, como el que se muestra a continuación <<fig-01-01>>, puede volar a gran altura y realizar largos vuelos de travesía con un piloto experimentado al mando.
+Un {term-glider} moderno, como el que se muestra a continuación <<fig-01-01>>, puede volar a gran altura y realizar largos vuelos de travesía con un piloto experimentado al mando.
 
 [[fig-01-01]]
-.Un planeador DG Flugzeugbau GmbH serie 800B
+.Un {term-glider} DG Flugzeugbau GmbH serie 800B
 image::01/fig-01-01.a-dg-flugzeugbau-gmbh-800b-series-planeador.png[]
 
-El Código de Regulaciones Federales (14 CFR parte 1, sección 1.1) establece que «planeador significa una aeronave más pesada que el aire, que se sustenta en vuelo por la reacción dinámica del aire contra sus superficies sustentadoras y cuyo vuelo libre no depende principalmente de un motor». El término «planeador» también designa la habilitación que se coloca en una licencia de piloto una vez que el aspirante completa satisfactoriamente la formación requerida, tiene la experiencia necesaria, supera cualquier examen de conocimientos requerido y aprueba el examen práctico correspondiente.
+El Código de Regulaciones Federales (14 CFR parte 1, sección 1.1) establece que «{term-glider} significa una aeronave más pesada que el aire, que se sustenta en vuelo por la reacción dinámica del aire contra sus superficies sustentadoras y cuyo vuelo libre no depende principalmente de un motor». El término «{term-glider}» también designa la habilitación que se coloca en una licencia de piloto una vez que el aspirante completa satisfactoriamente la formación requerida, tiene la experiencia necesaria, supera cualquier examen de conocimientos requerido y aprueba el examen práctico correspondiente.
 
-Para que un planeador vuele, necesita un medio para elevarse. Los primeros planeadores solo podían lanzarse desde la cima de una colina. <<fig-01-02>> y <<fig-01-03>>.
+Para que un {term-glider} vuele, necesita un medio para elevarse. Los primeros {term-glider}es solo podían lanzarse desde la cima de una colina. <<fig-01-02>> y <<fig-01-03>>.
 
 [[fig-01-02]]
 .Otto Lilienthal (el Rey del Planeador) en vuelo a mediados de la década de 1890
 image::01/fig-01-02.otto-lilienthal-the-planeador-king-in-vuelo.png[]
 
 [[fig-01-03]]
-.Orville Wright (izquierda) y Dan Tate (derecha) lanzaron el planeador Wright 1902 por la ladera este de Big Hill, Kill Devil Hills, Carolina del Norte, el 17 de octubre de 1902. Wilbur Wright estaba pilotando el planeador
+.Orville Wright (izquierda) y Dan Tate (derecha) lanzaron el {term-glider} Wright 1902 por la ladera este de Big Hill, Kill Devil Hills, Carolina del Norte, el 17 de octubre de 1902. Wilbur Wright estaba pilotando el {term-glider}
 image::01/fig-01-03.orville-wright-left-and-dan-tate-right-launched.png[]
 
-Tras el desarrollo del vuelo motorizado, un avión podía remolcar un planeador hasta cierta altitud, y esto se convirtió en un medio común de lanzar un planeador. Mientras que los primeros diseños de planeadores solo descendían tras el remolque y la suelta, los diseños posteriores podían soltarse y aprovechar el aire ascendente natural para seguir ganando altitud. Algunos planeadores que requieren remolque para alcanzar altitud también tienen un motor auxiliar para uso en vuelo. El piloto puede arrancar y parar el grupo motor en vuelo y, en algunos modelos, el piloto puede retraer el sistema de hélice dentro del fuselaje del planeador para aumentar la eficiencia aerodinámica. Un motovelero autolanzable puede despegar y ascender hasta altitudes de vuelo a vela sin remolque. <<fig-01-04>>
+Tras el desarrollo del vuelo motorizado, un avión podía remolcar un {term-glider} hasta cierta altitud, y esto se convirtió en un medio común de lanzar un {term-glider}. Mientras que los primeros diseños de {term-glider}es solo descendían tras el remolque y la suelta, los diseños posteriores podían soltarse y aprovechar el aire ascendente natural para seguir ganando altitud. Algunos {term-glider}es que requieren remolque para alcanzar altitud también tienen un motor auxiliar para uso en vuelo. El piloto puede arrancar y parar el grupo motor en vuelo y, en algunos modelos, el piloto puede retraer el sistema de hélice dentro del {term-fuselage} del {term-glider} para aumentar la eficiencia aerodinámica. Un {term-motorglider} autolanzable puede despegar y ascender hasta altitudes de vuelo a vela sin remolque. <<fig-01-04>>
 
 [[fig-01-04]]
-.Un motovelero ASH 26 E autolanzable con la hélice extendida
+.Un {term-motorglider} ASH 26 E autolanzable con la hélice extendida
 image::01/fig-01-04.an-ash-26-e-autolanzable-motor-planeador-with-the.png[]
 
-== Formación de piloto de planeador
+== Formación de piloto de {term-glider}
 
-¿Cómo puede una persona obtener formación de vuelo en planeador? Con una ubicación general en mente, una persona puede considerar varias opciones, incluyendo una escuela de planeadores aprobada por la FAA, una escuela de planeadores comercial de propiedad privada, o un colegio, universidad, o club privado de vuelo a vela. Estos contarán con instructores de vuelo certificados por la FAA que pueden proporcionar instrucción. Artículos publicados, sitios web relacionados con el vuelo a vela y conversaciones con otros pilotos pueden ayudar a un futuro alumno a crear una lista de elementos a buscar en un proveedor de formación.
+¿Cómo puede una persona obtener formación de vuelo en {term-glider}? Con una ubicación general en mente, una persona puede considerar varias opciones, incluyendo una escuela de {term-glider}es aprobada por la FAA, una escuela de {term-glider}es comercial de propiedad privada, o un colegio, universidad, o club privado de vuelo a vela. Estos contarán con instructores de vuelo certificados por la FAA que pueden proporcionar instrucción. Artículos publicados, sitios web relacionados con el vuelo a vela y conversaciones con otros pilotos pueden ayudar a un futuro alumno a crear una lista de elementos a buscar en un proveedor de formación.
 
 Una persona interesada debería considerar la calidad de la formación proporcionada. Una buena instrucción sigue un programa estructurado y un enfoque de bloques de construcción. Antes de elegir una escuela, visitar el proveedor de formación y hablar con la dirección, los instructores y otros alumnos puede revelar los pros y contras de elegir un club o escuela comercial particular. Antes de comprometerse, el futuro alumno debería realizar una lección de introducción. Tras decidirse por un proveedor y hacer los arreglos necesarios, puede comenzar la formación. El compromiso individual con un programa de entrenamiento regular maximiza el progreso y la retención del alumno.
 
-Para ser elegible para volar en solitario en un planeador, los pilotos sin habilitación necesitan obtener un certificado de alumno piloto, tener al menos 14 años de edad, y demostrar conocimientos aeronáuticos satisfactorios en un examen teórico previo al vuelo en solitario administrado por su instructor. Antes del vuelo en solitario, un alumno piloto también recibe formación teórica y práctica para las maniobras y procedimientos listados en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 61, sección 61.87(i). Después de que un alumno piloto cumple los requisitos administrativos y demuestra competencia satisfactoria, el instructor puede certificar el libro de vuelo del alumno para vuelo en solitario.
+Para ser elegible para volar en solitario en un {term-glider}, los pilotos sin habilitación necesitan obtener un certificado de alumno piloto, tener al menos 14 años de edad, y demostrar conocimientos aeronáuticos satisfactorios en un examen teórico previo al vuelo en solitario administrado por su instructor. Antes del vuelo en solitario, un alumno piloto también recibe formación teórica y práctica para las maniobras y procedimientos listados en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 61, sección 61.87(i). Después de que un alumno piloto cumple los requisitos administrativos y demuestra competencia satisfactoria, el instructor puede certificar el libro de vuelo del alumno para vuelo en solitario.
 
-Nótese que los pilotos de avión habilitados pueden aumentar sus conocimientos generales, habilidades y comprensión de la seguridad de vuelo añadiendo una habilitación de planeador. La adición de una habilitación de planeador mejora la capacidad de un piloto de avión para gestionar el vuelo sin motor en caso de que se produzca un mal funcionamiento del motor.
+Nótese que los pilotos de avión habilitados pueden aumentar sus conocimientos generales, habilidades y comprensión de la seguridad de vuelo añadiendo una habilitación de {term-glider}. La adición de una habilitación de {term-glider} mejora la capacidad de un piloto de avión para gestionar el vuelo sin motor en caso de que se produzca un mal funcionamiento del motor.
 
 == Elegibilidad para la habilitación
 
-Un alumno piloto de 16 años de edad o más, o un piloto existente habilitado por la FAA que cumpla los requisitos de tiempo de vuelo, puede realizar el examen práctico para un certificado de piloto deportivo con una habilitación de planeador o el examen práctico para un certificado de piloto privado con una habilitación de planeador tras completar los requisitos de formación listados en 14 CFR parte 61 para el nivel de certificación deseado.
+Un alumno piloto de 16 años de edad o más, o un piloto existente habilitado por la FAA que cumpla los requisitos de tiempo de vuelo, puede realizar el examen práctico para un certificado de piloto deportivo con una habilitación de {term-glider} o el examen práctico para un certificado de piloto privado con una habilitación de {term-glider} tras completar los requisitos de formación listados en 14 CFR parte 61 para el nivel de certificación deseado.
 
-Para ser elegible para un certificado de planeador comercial o de instructor de vuelo, un individuo debe tener 18 años de edad y completar los requisitos de formación específicos descritos en 14 CFR parte 61.
+Para ser elegible para un certificado de {term-glider} comercial o de instructor de vuelo, un individuo debe tener 18 años de edad y completar los requisitos de formación específicos descritos en 14 CFR parte 61.
 
-Los Estándares de Certificación de Pilotos de la FAA (ACS) o Estándares de Examen Práctico (PTS) aplicables contienen los conocimientos y habilidades requeridos para la certificación de pilotos y describen el proceso de examen. Los aspirantes también pueden consultar FAA-G-ACS-2, la Guía de Acompañamiento ACS para Pilotos, el Circular Asesorio de la FAA (AC) 60-22, Toma de Decisiones Aeronáuticas; el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25); el Manual de Gestión del Riesgo (FAA-H-8083-2); y el Manual de Meteorología Aeronáutica (FAA-H-8083-28) para obtener información adicional relacionada con la aviación. Para más información sobre la certificación de planeadores, consulte 14 CFR parte 21, las Especificaciones de Certificación de la Agencia Europea de Seguridad Aérea (EASA) (CS) 22.221, y el Manual de Peso y Balance (FAA-H-8083-1).
+Los Estándares de Certificación de Pilotos de la FAA (ACS) o Estándares de Examen Práctico (PTS) aplicables contienen los conocimientos y habilidades requeridos para la certificación de pilotos y describen el proceso de examen. Los aspirantes también pueden consultar FAA-G-ACS-2, la Guía de Acompañamiento ACS para Pilotos, el Circular Asesorio de la FAA (AC) 60-22, Toma de Decisiones Aeronáuticas; el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25); el Manual de Gestión del Riesgo (FAA-H-8083-2); y el Manual de Meteorología Aeronáutica (FAA-H-8083-28) para obtener información adicional relacionada con la aviación. Para más información sobre la certificación de {term-glider}es, consulte 14 CFR parte 21, las Especificaciones de Certificación de la Agencia Europea de Seguridad Aérea (EASA) (CS) 22.221, y el Manual de Peso y Balance (FAA-H-8083-1).
 
 == Elegibilidad médica
 
-Una persona puede ejercer los privilegios de una habilitación de planeador o los de un instructor autorizado en un planeador sin poseer un certificado médico. Sin embargo, 14 CFR parte 61, sección 61.53 establece que «...una persona no debe actuar como piloto al mando, ni en ninguna otra capacidad como miembro de la tripulación de vuelo requerido, mientras esa persona sepa o tenga motivos para saber de cualquier condición médica que le haga incapaz de operar la aeronave de manera segura.»
+Una persona puede ejercer los privilegios de una habilitación de {term-glider} o los de un instructor autorizado en un {term-glider} sin poseer un certificado médico. Sin embargo, 14 CFR parte 61, sección 61.53 establece que «...una persona no debe actuar como piloto al mando, ni en ninguna otra capacidad como miembro de la tripulación de vuelo requerido, mientras esa persona sepa o tenga motivos para saber de cualquier condición médica que le haga incapaz de operar la aeronave de manera segura.»
 
 == Programa FAA WINGS
 
@@ -57,4 +57,4 @@ Un piloto puede crear una cuenta WINGS para obtener información actual sobre mi
 
 == Resumen del capítulo
 
-Los planeadores incluyen aeronaves más pesadas que el aire que necesitan un medio para elevarse. En un planeador moderno y una vez en el aire, los pilotos tienen una variedad de medios para mantener el vuelo. Para convertirse en piloto de planeador, un futuro alumno debería investigar las opciones de formación y elegir un proveedor de formación adecuado.
+Los {term-glider}es incluyen aeronaves más pesadas que el aire que necesitan un medio para elevarse. En un {term-glider} moderno y una vez en el aire, los pilotos tienen una variedad de medios para mantener el vuelo. Para convertirse en piloto de {term-glider}, un futuro alumno debería investigar las opciones de formación y elegir un proveedor de formación adecuado.

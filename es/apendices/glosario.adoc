@@ -75,7 +75,7 @@ Caballito (Ground loop)::
 Cable de remolque (Tow rope)::
   Cuerda, generalmente de polipropileno o nylon, utilizada para conectar el planeador al avión remolcador. Su longitud típica oscila entre 45 y 60 metros.
 
-Caja de la estela (Boxing the wake)::
+Caja de estela (Boxing the wake)::
   Maniobra de entrenamiento avanzada en remolque aéreo donde el planeador se mueve controladamente alrededor de la estela del avión remolcador para explorar los límites de posición.
 
 Calle de nubes (Cloud street)::
@@ -138,7 +138,7 @@ Empuje (Thrust)::
 Eslabón fusible (Weak link)::
   Elemento de seguridad calibrado en el cable de remolque diseñado para romperse antes de que una carga excesiva dañe la estructura del planeador o del avión remolcador.
 
-Espiral (Spiral dive)::
+Picado en espiral (Spiral dive)::
   Descenso en viraje pronunciado y rápido con aumento progresivo de velocidad y carga G. A diferencia de la barrena, el ala no está en pérdida.
 
 Estabilidad (Stability)::
@@ -210,7 +210,7 @@ Lanzamiento con torno (Winch launch)::
 Lastre de agua (Water ballast)::
   Agua cargada en los tanques de las alas para aumentar la carga alar y la velocidad de penetración en días fuertes. Se descarga antes de aterrizar.
 
-Línea floja (Slack line)::
+Comba en el cable (Slack line)::
   Pérdida de tensión en el cable de remolque, que puede crear bucles peligrosos. Se corrige mediante maniobras suaves o uso de aerofrenos.
 
 [discrete]

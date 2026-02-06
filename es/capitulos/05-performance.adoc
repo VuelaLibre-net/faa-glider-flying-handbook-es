@@ -1,163 +1,163 @@
 [[cap05]]
-= Rendimiento del planeador
+= Rendimiento del {term-glider}
 
 == Introducción
 
-El rendimiento del planeador depende del diseño, el clima, el viento y otros fenómenos atmosféricos. Mientras que el diseño del planeador afecta el rendimiento en gran medida, el diseño permanece fijo y conocido por el piloto. Otros factores cambian y afectan el lanzamiento, crucero y aterrizaje.
+El rendimiento del {term-glider} depende del diseño, el clima, el viento y otros fenómenos atmosféricos. Mientras que el diseño del {term-glider} afecta el rendimiento en gran medida, el diseño permanece fijo y conocido por el piloto. Otros factores cambian y afectan el lanzamiento, crucero y {term-landing}.
 
 == Factores variables de rendimiento
 
-Para un vuelo específico de planeador, algunos factores que afectan el rendimiento incluyen altitud de densidad, viento y peso.
+Para un vuelo específico de {term-glider}, algunos factores que afectan el rendimiento incluyen {term-density-altitude}, viento y {term-weight}.
 
 == Altitud de densidad
 
-En general, un aumento en la altitud de densidad se refiere a aire más delgado, mientras que una disminución en la altitud de densidad se refiere a aire más espeso. Las condiciones que resultan en alta altitud de densidad incluyen elevación alta, baja presión atmosférica, alta temperatura, alta humedad, o alguna combinación de estos factores. La elevación más baja, alta presión atmosférica, baja temperatura y baja humedad reducen la altitud de densidad. Dado que las altas altitudes de densidad pueden existir a elevaciones más bajas en días calurosos, los pilotos deberían considerar la altitud de densidad basada en condiciones actuales antes de un vuelo.
+En general, un aumento en la {term-density-altitude} se refiere a aire más delgado, mientras que una disminución en la {term-density-altitude} se refiere a aire más espeso. Las condiciones que resultan en alta {term-density-altitude} incluyen elevación alta, baja presión atmosférica, alta temperatura, alta humedad, o alguna combinación de estos factores. La elevación más baja, alta presión atmosférica, baja temperatura y baja humedad reducen la {term-density-altitude}. Dado que las altas altitudes de densidad pueden existir a elevaciones más bajas en días calurosos, los pilotos deberían considerar la {term-density-altitude} basada en condiciones actuales antes de un vuelo.
 
-Un gráfico proporciona una forma de determinar la altitud de densidad. <<fig-05-01>> Por ejemplo, sabiendo una elevación de campo de 1,600 pies MSL con un ajuste altimétrico actual de 29.80 "Hg y temperatura de 85 °F, ¿cuál es la altitud de densidad? El lado derecho del gráfico proporciona un ajuste para presión no estándar (29.80 "Hg) y sugiere añadir 112 pies a la elevación de campo. Este paso proporciona una altitud de presión actual de 1,712 pies. El siguiente paso implica trazar una línea verticalmente desde la parte inferior del gráfico desde la temperatura de 85 °F (29.4 °C) que intercepta la línea diagonal de altitud de presión de 1,712 pies. El paso final implica trazar una línea horizontalmente hacia la izquierda desde el punto de intercepción y leer la altitud de densidad de aproximadamente 3,500 pies. Bajo estas condiciones, un planeador autolanzable o avión de remolque funcionará como si estuviera a 3,500 pies MSL en un día estándar.
+Un gráfico proporciona una forma de determinar la {term-density-altitude}. <<fig-05-01>> Por ejemplo, sabiendo una elevación de campo de 1,600 pies MSL con un ajuste altimétrico actual de 29.80 "Hg y temperatura de 85 °F, ¿cuál es la {term-density-altitude}? El lado derecho del gráfico proporciona un ajuste para presión no estándar (29.80 "Hg) y sugiere añadir 112 pies a la elevación de campo. Este paso proporciona una {term-pressure-altitude} actual de 1,712 pies. El siguiente paso implica trazar una línea verticalmente desde la parte inferior del gráfico desde la temperatura de 85 °F (29.4 °C) que intercepta la línea diagonal de {term-pressure-altitude} de 1,712 pies. El paso {term-final} implica trazar una línea horizontalmente hacia la izquierda desde el punto de intercepción y leer la {term-density-altitude} de aproximadamente 3,500 pies. Bajo estas condiciones, un {term-glider} autolanzable o avión de remolque funcionará como si estuviera a 3,500 pies MSL en un día estándar.
 
 [[fig-05-01]]
-.Gráfico de altitud de densidad
+.Gráfico de {term-density-altitude}
 image::05/fig-05-01.densidad-altitud-grafico.png[width=300]
 
-Muchos gráficos de rendimiento usan entradas de altitud de presión y temperatura sin requerir que el piloto calcule la altitud de densidad. Sin embargo, si el piloto quiere saber la altitud de densidad, un gráfico de altitud de densidad o una computadora de vuelo pueden proporcionar esa información.
+Muchos gráficos de rendimiento usan entradas de {term-pressure-altitude} y temperatura sin requerir que el piloto calcule la {term-density-altitude}. Sin embargo, si el piloto quiere saber la {term-density-altitude}, un gráfico de {term-density-altitude} o una computadora de vuelo pueden proporcionar esa información.
 
 == Presión atmosférica
 
-La presión atmosférica en una ubicación dada cambia de día a día. El siguiente informe METAR de aeródromo meteorológico indica una presión local de A2953, o ajuste altimétrico de 29.53 inHg. Cuando se considera solo la presión barométrica, la lectura de presión más baja que lo normal resulta en una altitud de densidad más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de despegue y ascenso y aumenta la longitud de pista necesaria durante el aterrizaje tanto para el planeador como para el avión de remolque. Por otro lado, si la presión barométrica sube, la altitud de densidad más baja mejora el rendimiento de despegue y ascenso, y la longitud de pista necesaria para el aterrizaje disminuye.
+La presión atmosférica en una ubicación dada cambia de día a día. El siguiente informe METAR de aeródromo meteorológico indica una presión local de A2953, o ajuste altimétrico de 29.53 inHg. Cuando se considera solo la presión barométrica, la lectura de presión más baja que lo normal resulta en una {term-density-altitude} más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de {term-takeoff} y ascenso y aumenta la longitud de pista necesaria durante el {term-landing} tanto para el {term-glider} como para el avión de remolque. Por otro lado, si la presión barométrica sube, la {term-density-altitude} más baja mejora el rendimiento de {term-takeoff} y ascenso, y la longitud de pista necesaria para el {term-landing} disminuye.
 
 == Temperatura
 
-Los cambios de temperatura tienen un efecto significativo en la altitud de densidad. El aire calentado se expande, las moléculas se mueven más separadas, haciendo el aire menos denso. Una altitud de densidad más alta reduce el rendimiento de despegue y ascenso del planeador y avión de remolque y aumenta la longitud de pista requerida para el aterrizaje.
+Los cambios de temperatura tienen un efecto significativo en la {term-density-altitude}. El aire calentado se expande, las moléculas se mueven más separadas, haciendo el aire menos denso. Una {term-density-altitude} más alta reduce el rendimiento de {term-takeoff} y ascenso del {term-glider} y avión de remolque y aumenta la longitud de pista requerida para el {term-landing}.
 
 Considere el siguiente METAR para dos aeropuertos con el mismo ajuste altimétrico, temperatura y punto de rocío. Love Field (KDAL) con elevación de aeropuerto de 487 pies versus Denver International (KDEN) a 5,431 pies.
 
-La altitud de densidad calculada para Love Field es 1,774 pies; para Denver, 7,837 pies, Denver experimenta casi el doble de la cantidad de aumento comparado con Love Field. Los efectos de la altitud y temperatura pueden sorprender a un piloto que no considera los problemas de rendimiento relacionados.
+La {term-density-altitude} calculada para Love Field es 1,774 pies; para Denver, 7,837 pies, Denver experimenta casi el doble de la cantidad de aumento comparado con Love Field. Los efectos de la altitud y temperatura pueden sorprender a un piloto que no considera los problemas de rendimiento relacionados.
 
 == Viento
 
-El viento también afecta el rendimiento del planeador. El viento en proa durante el lanzamiento o aterrizaje resulta en una carrera en tierra más corta, mientras que el viento en cola causa una carrera en tierra más larga. <<fig-05-02>> Los vientos cruzados durante el lanzamiento o aterrizaje requieren procedimientos adecuados de viento cruzado o entrada de control para seguir a lo largo de la pista.
+El viento también afecta el rendimiento del {term-glider}. El viento en proa durante el lanzamiento o {term-landing} resulta en una carrera en tierra más corta, mientras que el viento en cola causa una carrera en tierra más larga. <<fig-05-02>> Los vientos cruzados durante el lanzamiento o {term-landing} requieren procedimientos adecuados de {term-crosswind} o entrada de control para seguir a lo largo de la pista.
 
 [[fig-05-02]]
-.Efecto aparente del viento en la distancia de despegue y el ángulo de ascenso
+.Efecto aparente del viento en la distancia de {term-takeoff} y el ángulo de ascenso
 image::05/fig-05-02.apparent-viento-effect-on-despegue-distance-and.png[width=300]
 
-Debido a la disminución de la fricción del suelo entre el viento y el suelo, la velocidad del viento a menudo aumenta con la altitud. Este «gradiente de viento» durante un lanzamiento terrestre podría resultar en un exceso de la velocidad máxima de lanzamiento. <<fig-05-03>>
+Debido a la disminución de la fricción del suelo entre el viento y el suelo, la velocidad del viento a menudo aumenta con la altitud. Este «{term-wind-gradient}» durante un lanzamiento terrestre podría resultar en un exceso de la velocidad máxima de lanzamiento. <<fig-05-03>>
 
 [[fig-05-03]]
-.Un gradiente de viento puede afectar la velocidad del aire durante un remolque terrestre
+.Un {term-wind-gradient} puede afectar la velocidad del aire durante un remolque terrestre
 image::05/fig-05-03.a-viento-gradiente-may-affect-velocidad-aire.png[width=300]
 
-Durante el vuelo de crucero, los vientos en proa reducen la velocidad sobre el suelo del planeador. Un planeador volando a 60 nudos de velocidad del aire verdadera contra un viento en proa de 25 nudos tiene una velocidad sobre el suelo de solo 35 nudos. Los vientos en cola aumentan la velocidad sobre el suelo del planeador. Un planeador volando a 60 nudos de velocidad del aire verdadera con un viento en cola de 25 nudos tiene una velocidad sobre el suelo de 85 nudos.
+Durante el vuelo de crucero, los vientos en proa reducen la velocidad sobre el suelo del {term-glider}. Un {term-glider} volando a 60 nudos de velocidad del aire verdadera contra un viento en proa de 25 nudos tiene una velocidad sobre el suelo de solo 35 nudos. Los vientos en cola aumentan la velocidad sobre el suelo del {term-glider}. Un {term-glider} volando a 60 nudos de velocidad del aire verdadera con un viento en cola de 25 nudos tiene una velocidad sobre el suelo de 85 nudos.
 
-Algunos planeadores autolanzables pueden crucer por períodos extendidos usando el motor. La capacidad de combustible del planeador autolanzable normalmente limita el alcance máximo y la duración con el motor funcionando. El viento no tiene efecto en la duración del vuelo pero sí tiene un efecto significativo en el alcance. Durante vuelo de crucero motorizado, un viento en proa reduce el alcance, y un viento en cola aumenta el alcance.
+Algunos {term-glider}es autolanzables pueden crucer por períodos extendidos usando el motor. La capacidad de combustible del {term-glider} autolanzable normalmente limita el alcance máximo y la duración con el motor funcionando. El viento no tiene efecto en la duración del vuelo pero sí tiene un efecto significativo en el alcance. Durante vuelo de crucero motorizado, un viento en proa reduce el alcance, y un viento en cola aumenta el alcance.
 
-Cuando se vuela recto y nivelado y siguiendo una trayectoria terrestre seleccionada, el piloto puede apuntar el planeador hacia el viento predominante como el método preferido para corregir la deriva del viento. La velocidad del viento, el ángulo entre la dirección del viento y el eje longitudinal del planeador, y la velocidad del aire del planeador determinan el ángulo de corrección de viento requerido. <<fig-05-04>> Los vientos cruzados también pueden tener un componente de viento en proa o en cola que resulta en una velocidad sobre el suelo menor o mayor.
+Cuando se vuela recto y nivelado y siguiendo una trayectoria terrestre seleccionada, el piloto puede apuntar el {term-glider} hacia el viento predominante como el método preferido para corregir la deriva del viento. La velocidad del viento, el ángulo entre la dirección del viento y el eje longitudinal del {term-glider}, y la velocidad del aire del {term-glider} determinan el ángulo de corrección de viento requerido. <<fig-05-04>> Los vientos cruzados también pueden tener un componente de viento en proa o en cola que resulta en una velocidad sobre el suelo menor o mayor.
 
 [[fig-05-04]]
-.Efecto de viento cruzado en el planeo final
+.Efecto de {term-crosswind} en el planeo {term-final}
 image::05/fig-05-04.viento-cruzado-effect-on-final-planeo.png[width=300]
 
-Un viento en proa durante una aproximación resulta en una mayor pérdida de altitud por distancia recorrida. El planeador desciende a una tasa constante, pero una velocidad sobre el suelo más baja aumenta el ángulo de aproximación observado. Los pilotos usan varias técnicas para asegurar toques seguros en diferentes condiciones de viento. Por ejemplo, si se aterriza con un viento en proa fuerte, el piloto de planeador debería planificar un tramo de base más cercano a la zona de aterrizaje para permitir la aproximación más pronunciada. Otra técnica usa la extensión retardada de spoilers o frenos de picado con una velocidad del aire más rápida para contrarrestar el componente de viento en proa. En el caso de un viento en cola y un ángulo de aproximación aparentemente menor, el piloto de planeador puede usar más extensión de spoiler o freno de picado, deslizamiento, o usar una combinación de ambos si está permitido por el GFM. En cualquier caso, el piloto generalmente apunta a un punto más allá del umbral de la pista para proporcionar un factor de seguridad que cuente los efectos del gradiente de viento u otros factores que pueden causar que la aproximación sea más corta de lo esperado. <<fig-05-05>>
+Un viento en proa durante una {term-approach} resulta en una mayor {term-stall} de altitud por distancia recorrida. El {term-glider} desciende a una tasa constante, pero una velocidad sobre el suelo más baja aumenta el ángulo de {term-approach} observado. Los pilotos usan varias técnicas para asegurar toques seguros en diferentes condiciones de viento. Por ejemplo, si se aterriza con un viento en proa fuerte, el piloto de {term-glider} debería planificar un tramo de base más cercano a la zona de {term-landing} para permitir la {term-approach} más pronunciada. Otra técnica usa la extensión retardada de spoilers o frenos de picado con una velocidad del aire más rápida para contrarrestar el componente de viento en proa. En el caso de un viento en cola y un ángulo de {term-approach} aparentemente menor, el piloto de {term-glider} puede usar más extensión de spoiler o freno de picado, deslizamiento, o usar una combinación de ambos si está permitido por el GFM. En cualquier caso, el piloto generalmente apunta a un punto más allá del umbral de la pista para proporcionar un factor de seguridad que cuente los efectos del {term-wind-gradient} u otros factores que pueden causar que la {term-approach} sea más corta de lo esperado. <<fig-05-05>>
 
 [[fig-05-05]]
-.El efecto del viento en la aproximación final y la distancia de aterrizaje
+.El efecto del viento en la {term-approach} {term-final} y la distancia de {term-landing}
 image::05/fig-05-05.the-effect-of-viento-on-final-aproximacion-and.png[width=300]
 
-Al aproximar para aterrizar durante condiciones ventosas y con ráfagas, un piloto normalmente añade la mitad de la diferencia entre el viento constante y las ráfagas a la velocidad de aproximación para mitigar cualquier variación en la velocidad del aire. En lugar de mantener el planeador fuera del suelo para un aterrizaje de baja energía cinética durante estas condiciones, el piloto puede aterrizar un poco más rápido de lo normal. Al tocar tierra, extender los frenos de aire evita que el planeador se eleve de una ráfaga durante la carrera de aterrizaje.
+Al aproximar para aterrizar durante condiciones ventosas y con ráfagas, un piloto normalmente añade la mitad de la diferencia entre el viento constante y las ráfagas a la velocidad de {term-approach} para mitigar cualquier variación en la velocidad del aire. En lugar de mantener el {term-glider} fuera del suelo para un {term-landing} de baja energía cinética durante estas condiciones, el piloto puede aterrizar un poco más rápido de lo normal. Al tocar tierra, extender los frenos de aire evita que el {term-glider} se eleve de una ráfaga durante la {term-rollout}.
 
-El piloto usualmente espera que cualquier viento en proa disminuya durante el descenso a un aterrizaje. Esto se llama el gradiente de viento. Si el gradiente de viento es abrupto, el piloto puede experimentar una pérdida repentina de velocidad del aire. Después de que el piloto baja la nariz para compensar, toma un intervalo de tiempo finito superar la inercia del planeador y recuperar la velocidad del aire. Una pérdida de velocidad significativa cerca del suelo puede impedir recuperar cualquiera o toda la velocidad perdida. Un gradiente de viento en la aproximación final puede causar que el planeador aterrice corto del punto de toque previsto, por lo tanto, puede ser necesaria una aproximación más cercana.
+El piloto usualmente espera que cualquier viento en proa disminuya durante el descenso a un {term-landing}. Esto se llama el {term-wind-gradient}. Si el {term-wind-gradient} es abrupto, el piloto puede experimentar una {term-stall} repentina de velocidad del aire. Después de que el piloto baja la nariz para compensar, toma un intervalo de tiempo finito superar la inercia del {term-glider} y recuperar la velocidad del aire. Una {term-stall} de velocidad significativa cerca del suelo puede impedir recuperar cualquiera o toda la velocidad perdida. Un {term-wind-gradient} en la {term-approach} {term-final} puede causar que el {term-glider} aterrice corto del punto de toque previsto, por lo tanto, puede ser necesaria una {term-approach} más cercana.
 
-El piloto que aterriza con viento en cola tiene una velocidad sobre el suelo más alta y debería esperar una carrera de aterrizaje más larga. A medida que la fricción superficial frena los vientos, el piloto puede observar un aumento en la velocidad del aire.
+El piloto que aterriza con viento en cola tiene una velocidad sobre el suelo más alta y debería esperar una {term-rollout} más larga. A medida que la fricción superficial frena los vientos, el piloto puede observar un aumento en la velocidad del aire.
 
-Un fuerte gradiente de cortante de viento puede afectar un planeador durante un giro pronunciado en una aproximación final de baja altitud a baja velocidad del aire. El gradiente puede crear sustentación diferente en el ala baja y el ala elevada. <<fig-05-06>> La fuerza de balanceo creada por el gradiente puede superar a los alerones, causar una pérdida de control, y explica por qué el piloto debería limitar el ángulo de inclinación mientras está cerca del suelo y transitando un fuerte gradiente de viento.
+Un fuerte gradiente de cortante de viento puede afectar un {term-glider} durante un giro pronunciado en una {term-approach} {term-final} de baja altitud a baja velocidad del aire. El gradiente puede crear {term-lift-force} diferente en el {term-wing} baja y el {term-wing} elevada. <<fig-05-06>> La fuerza de balanceo creada por el gradiente puede superar a los alerones, causar una {term-stall} de control, y explica por qué el piloto debería limitar el ángulo de inclinación mientras está cerca del suelo y transitando un fuerte {term-wind-gradient}.
 
 [[fig-05-06]]
-.Efecto del gradiente de velocidad del viento en un planeador
+.Efecto del gradiente de velocidad del viento en un {term-glider}
 image::05/fig-05-06.effect-of-viento-velocity-gradiente-on-a.png[width=300]
 
 == Peso
 
-El peso de un planeador afecta la aceleración durante el lanzamiento. Un planeador al peso máximo de despegue toma más tiempo para alcanzar la velocidad de vuelo. Después del despegue, un avión de remolque con un planeador pesado ascenderá más lentamente. Aumentar el peso de un planeador motorizado causa que acelere más lentamente y ascienda más lentamente. <<fig-05-07>>
+El {term-weight} de un {term-glider} afecta la aceleración durante el lanzamiento. Un {term-glider} al {term-weight} máximo de {term-takeoff} toma más tiempo para alcanzar la velocidad de vuelo. Después del {term-takeoff}, un avión de remolque con un {term-glider} pesado ascenderá más lentamente. Aumentar el {term-weight} de un {term-glider} motorizado causa que acelere más lentamente y ascienda más lentamente. <<fig-05-07>>
 
 [[fig-05-07]]
-.Efecto del peso en la distancia de despegue y la tasa y ángulo de ascenso
+.Efecto del {term-weight} en la distancia de {term-takeoff} y la tasa y ángulo de ascenso
 image::05/fig-05-07.effect-of-peso-on-despegue-distance-and-climb-out.png[width=300]
 
-La velocidad de pérdida aumenta con la raíz cuadrada de cualquier carga en el planeador. Por ejemplo, si el peso o el factor de carga en el planeador se duplica, la velocidad de pérdida aumenta por la raíz cuadrada de 2 o 1.41. Si un planeador de 540 libras tiene una velocidad de pérdida de 40 nudos y el piloto añade 300 libras de lastre de agua aumentando el peso total a 840 libras, la velocidad de pérdida aumenta a aproximadamente 50 nudos (40 x √(840/540)).
+La velocidad de {term-stall} aumenta con la raíz cuadrada de cualquier carga en el {term-glider}. Por ejemplo, si el {term-weight} o el factor de carga en el {term-glider} se duplica, la velocidad de {term-stall} aumenta por la raíz cuadrada de 2 o 1.41. Si un {term-glider} de 540 libras tiene una velocidad de {term-stall} de 40 nudos y el piloto añade 300 libras de {term-water-ballast} aumentando el {term-weight} total a 840 libras, la velocidad de {term-stall} aumenta a aproximadamente 50 nudos (40 x √(840/540)).
 
-La velocidad que resulta en la menor pérdida de altitud sobre el tiempo, la velocidad de mínimo hundimiento, también aumenta con el peso. En cualquier ángulo de inclinación dado, un planeador más pesado usa velocidades del aire más altas para eficiencia, que resultan en círculos de diámetro más grande. La mejor sustentación en térmicas a menudo ocurre en un cilindro estrecho cerca del núcleo, y los círculos de diámetro grande generalmente reducen la capacidad del planeador de explotar la sustentación más fuerte. <<fig-05-08>>
+La velocidad que resulta en la menor {term-stall} de altitud sobre el tiempo, la velocidad de mínimo hundimiento, también aumenta con el {term-weight}. En cualquier ángulo de inclinación dado, un {term-glider} más pesado usa velocidades del aire más altas para eficiencia, que resultan en círculos de diámetro más grande. La mejor {term-lift-force} en {term-thermal}s a menudo ocurre en un cilindro estrecho cerca del núcleo, y los círculos de diámetro grande generalmente reducen la capacidad del {term-glider} de explotar la {term-lift-force} más fuerte. <<fig-05-08>>
 
 [[fig-05-08]]
-.Efecto del peso añadido en el radio de giro en térmicas
+.Efecto del {term-weight} añadido en el radio de giro en {term-thermal}s
 image::05/fig-05-08.effect-of-added-peso-on-thermaling-giro-radius.png[width=300]
 
-Aumentar el peso de operación de un planeador dado no solo aumenta la velocidad de pérdida y la velocidad de mínimo hundimiento, también aumenta la velocidad de aire de mejor relación L/D <<fig-05-09>>. Aunque un planeador más pesado se hunde más rápido, plane la misma distancia horizontal (a una velocidad más alta) que un planeador más ligero con la misma relación de planeo y altitud inicial.
+Aumentar el {term-weight} de operación de un {term-glider} dado no solo aumenta la velocidad de {term-stall} y la velocidad de mínimo hundimiento, también aumenta la velocidad de aire de mejor {term-ld-ratio} <<fig-05-09>>. Aunque un {term-glider} más pesado se hunde más rápido, plane la misma distancia horizontal (a una velocidad más alta) que un {term-glider} más ligero con la misma relación de planeo y altitud inicial.
 
 [[fig-05-09]]
-.Efecto del peso añadido en las velocidades de rendimiento
+.Efecto del {term-weight} añadido en las velocidades de rendimiento
 image::05/fig-05-09.above-shows-that-increasing-peso-from-800-to-1200.png[width=300]
 
-La <<fig-05-09>> muestra que aumentar el peso de 800 a 1,200 libras aumenta la velocidad de aire de mejor relación L/D de 60 a 73 nudos. Un planeador con más peso puede volar más rápido mientras mantiene la misma relación de sustentación/resistencia (relación de planeo). La ventaja del peso más pesado se hace aparente durante vuelo más rápido entre térmicas en aire descendente. En sustentación fuerte el planeador pesado puede ascender razonablemente bien, y la ventaja durante la porción de crucero del vuelo puede superar la desventaja durante los ascensos.
+La <<fig-05-09>> muestra que aumentar el {term-weight} de 800 a 1,200 libras aumenta la velocidad de aire de mejor {term-ld-ratio} de 60 a 73 nudos. Un {term-glider} con más {term-weight} puede volar más rápido mientras mantiene la misma relación de {term-lift-force}/{term-drag} (relación de planeo). La ventaja del {term-weight} más pesado se hace aparente durante vuelo más rápido entre {term-thermal}s en aire descendente. En {term-lift-force} fuerte el {term-glider} pesado puede ascender razonablemente bien, y la ventaja durante la porción de crucero del vuelo puede superar la desventaja durante los ascensos.
 
-Para volar más rápido con eficiencia, algunos planeadores tienen tanques de agua que permiten al piloto añadir peso como lastre. El piloto normalmente expulsa el lastre de agua antes de entrar en el circuito de tráfico o antes si las condiciones necesitan una tasa de ascenso más alta. Reducir el peso del planeador antes del aterrizaje permite al piloto hacer una aproximación normal, aterrizaje normal, y reduce la carga en el tren de aterrizaje.
+Para volar más rápido con eficiencia, algunos {term-glider}es tienen tanques de agua que permiten al piloto añadir {term-weight} como lastre. El piloto normalmente expulsa el {term-water-ballast} antes de entrar en el {term-pattern} o antes si las condiciones necesitan una tasa de ascenso más alta. Reducir el {term-weight} del {term-glider} antes del {term-landing} permite al piloto hacer una {term-approach} normal, {term-landing} normal, y reduce la carga en el tren de {term-landing}.
 
 == Manuales de vuelo y placas
 
-El GFM/POH proporciona al piloto la información de rendimiento necesaria para operar el planeador de manera segura. Un GFM/POH puede incluir la siguiente información:
+El GFM/POH proporciona al piloto la información de rendimiento necesaria para operar el {term-glider} de manera segura. Un GFM/POH puede incluir la siguiente información:
 
-* Descripción de los componentes primarios del planeador
-* Instrucciones de montaje del planeador
-* Datos de peso y balance
-* Descripción de los sistemas del planeador
-* Datos de rendimiento del planeador
+* Descripción de los componentes primarios del {term-glider}
+* Instrucciones de montaje del {term-glider}
+* Datos de {term-weight} y balance
+* Descripción de los sistemas del {term-glider}
+* Datos de rendimiento del {term-glider}
 * Limitaciones de operación
 
-Las placas adjuntas al planeador proporcionan al piloto información esencial para operación segura. El GFM/POH lista todas las placas requeridas.
+Las placas adjuntas al {term-glider} proporcionan al piloto información esencial para operación segura. El GFM/POH lista todas las placas requeridas.
 
-La cantidad de información que las placas transmiten al piloto aumenta a medida que aumenta la complejidad del planeador. Los planeadores de alto rendimiento pueden tener flaps de ala, tren de aterrizaje retráctil, un sistema de lastre de agua, paracaídas de freno para uso en la aproximación de aterrizaje, y otras características para mejorar el rendimiento. <<fig-05-10>>
+La cantidad de información que las placas transmiten al piloto aumenta a medida que aumenta la complejidad del {term-glider}. Los {term-glider}es de alto rendimiento pueden tener flaps de {term-wing}, tren de {term-landing} retráctil, un sistema de {term-water-ballast}, paracaídas de freno para uso en la {term-approach} de {term-landing}, y otras características para mejorar el rendimiento. <<fig-05-10>>
 
 [[fig-05-10]]
-.Placas típicas para planeadores
+.Placas típicas para {term-glider}es
 image::05/fig-05-10.typical-placards-for-planeadores.png[width=300]
 
 === Información de rendimiento
 
-El GFM/POH proporcionado por el fabricante contiene información de rendimiento del planeador. El GFM/POH lista velocidades del aire específicas como velocidad de pérdida, velocidad de mínimo hundimiento, velocidad de aire de mejor relación L/D, velocidad de maniobra, velocidad de aire en turbulencia, velocidad máxima de remolque aéreo, velocidad máxima de lanzamiento terrestre, y la velocidad de nunca exceder (VNE). Algunas velocidades de aire de rendimiento aplican solo a planeadores con cierto equipo. Por ejemplo, los planeadores con flaps de ala tienen una velocidad máxima permitida de flap extendido (VFE).
+El GFM/POH proporcionado por el fabricante contiene información de rendimiento del {term-glider}. El GFM/POH lista velocidades del aire específicas como velocidad de {term-stall}, velocidad de mínimo hundimiento, velocidad de aire de mejor {term-ld-ratio}, velocidad de maniobra, velocidad de aire en turbulencia, velocidad máxima de {term-aerotow}, velocidad máxima de lanzamiento terrestre, y la velocidad de nunca exceder (VNE). Algunas velocidades de aire de rendimiento aplican solo a {term-glider}es con cierto equipo. Por ejemplo, los {term-glider}es con flaps de {term-wing} tienen una velocidad máxima permitida de {term-flap} extendido (VFE).
 
-Los manuales para planeadores autolanzables incluyen información de rendimiento sobre operaciones motorizadas. Estos incluyen tasa de ascenso, limitaciones de motor y hélice, consumo de combustible, resistencia y crucero.
+Los manuales para {term-glider}es autolanzables incluyen información de rendimiento sobre operaciones motorizadas. Estos incluyen tasa de ascenso, limitaciones de motor y hélice, consumo de combustible, {term-drag} y crucero.
 
-=== Polares del planeador
+=== Polares del {term-glider}
 
 El fabricante proporciona información sobre la tasa de hundimiento en términos de velocidad del aire resumida en un gráfico llamado curva polar, o simplemente polar.
 
-El eje vertical de una polar muestra la tasa de hundimiento (hundimiento creciente hacia abajo), mientras que el eje horizontal muestra la velocidad del aire en las mismas unidades (nudos). Cada tipo de planeador tiene una polar característica derivada ya sea de cálculos teóricos o por medición real en vuelo de la tasa de hundimiento a diferentes velocidades. La polar de cada planeador individual varía (incluso de otros planeadores del mismo tipo) por unos pocos por ciento dependiendo de la suavidad relativa de la superficie del ala, el sellado alrededor de las superficies de control, e incluso el número de insectos en el borde de ataque del ala. La polar forma la base para velocidad para volar y estrategias discutidas en el Capítulo 11, Vuelo a Vela de Travesía.
+El eje vertical de una polar muestra la tasa de hundimiento (hundimiento creciente hacia abajo), mientras que el eje horizontal muestra la velocidad del aire en las mismas unidades (nudos). Cada tipo de {term-glider} tiene una polar característica derivada ya sea de cálculos teóricos o por medición real en vuelo de la tasa de hundimiento a diferentes velocidades. La polar de cada {term-glider} individual varía (incluso de otros {term-glider}es del mismo tipo) por unos pocos por ciento dependiendo de la suavidad relativa de la superficie del {term-wing}, el sellado alrededor de las superficies de control, e incluso el número de insectos en el borde de ataque del {term-wing}. La polar forma la base para velocidad para volar y estrategias discutidas en el Capítulo 11, Vuelo a Vela de Travesía.
 
-El pico de la curva azul de tasa de hundimiento determina la tasa de mínimo hundimiento. <<fig-05-11>> En este ejemplo, un mínimo hundimiento de 1.9 nudos ocurre a 40 nudos. Nótese que la tasa de hundimiento aumenta entre la velocidad de mínimo hundimiento y la velocidad de pérdida (el punto final izquierdo de la curva azul). Una tangente desde el origen a la polar indica la velocidad de mejor planeo (mejor relación L/D). La velocidad de mejor relación L/D es 50 nudos con una velocidad de hundimiento de 2.1 nudos. La relación de planeo a velocidad de mejor relación L/D se determina dividiendo la velocidad de mejor relación L/D por la tasa de hundimiento a esa velocidad, o 50/2.1, que es aproximadamente 24 en este ejemplo. Así, este planeador tiene una mejor relación de planeo en aire en calma (sin sustentación o hundimiento y sin viento en proa o en cola) de 24:1 a 50 nudos.
+El pico de la curva azul de tasa de hundimiento determina la tasa de mínimo hundimiento. <<fig-05-11>> En este ejemplo, un mínimo hundimiento de 1.9 nudos ocurre a 40 nudos. Nótese que la tasa de hundimiento aumenta entre la velocidad de mínimo hundimiento y la velocidad de {term-stall} (el punto {term-final} izquierdo de la curva azul). Una tangente desde el origen a la polar indica la {term-best-glide} (mejor {term-ld-ratio}). La velocidad de mejor {term-ld-ratio} es 50 nudos con una velocidad de hundimiento de 2.1 nudos. La relación de planeo a velocidad de mejor {term-ld-ratio} se determina dividiendo la velocidad de mejor {term-ld-ratio} por la tasa de hundimiento a esa velocidad, o 50/2.1, que es aproximadamente 24 en este ejemplo. Así, este {term-glider} tiene una mejor relación de planeo en aire en calma (sin {term-lift-force} o hundimiento y sin viento en proa o en cola) de 24:1 a 50 nudos.
 
 [[fig-05-11]]
-.Velocidad de aire de mínimo hundimiento y velocidad de máxima relación L/D
+.Velocidad de aire de mínimo hundimiento y velocidad de máxima {term-ld-ratio}
 image::05/fig-05-11.minimum-sink-velocidad-aire-and-maximum-l-d.png[width=300]
 
 Para determinar la mejor velocidad para volar para distancia sobre el suelo con viento en proa, el piloto puede desplazar el origen hacia la derecha a lo largo del eje horizontal por la velocidad del viento en proa y trazar una nueva línea tangente a la polar. Para vientos en cola, el piloto desplaza el origen hacia la izquierda de la marca cero en el eje horizontal.
 
-<<fig-05-12>> muestra un ejemplo para un viento en proa de 20 nudos. La nueva tangente indica 60 nudos como la velocidad de mejor planeo. Al repetir el procedimiento para diferentes vientos en proa, los datos muestran que volar más rápido a medida que aumentan los vientos en proa resulta en una mayor distancia recorrida sobre el suelo.
+<<fig-05-12>> muestra un ejemplo para un viento en proa de 20 nudos. La nueva tangente indica 60 nudos como la {term-best-glide}. Al repetir el procedimiento para diferentes vientos en proa, los datos muestran que volar más rápido a medida que aumentan los vientos en proa resulta en una mayor distancia recorrida sobre el suelo.
 
 [[fig-05-12]]
 .Mejor velocidad para volar con un viento en proa de 20 nudos
 image::05/fig-05-12.best-velocidad-to-fly-in-a-20-knot-viento-en-proa.png[width=300]
 
-La velocidad para volar en viento en cola se encuentra entre el mínimo hundimiento y la mejor relación L/D, pero nunca menor que la velocidad de mínimo hundimiento.
+La velocidad para volar en viento en cola se encuentra entre el mínimo hundimiento y la mejor {term-ld-ratio}, pero nunca menor que la velocidad de mínimo hundimiento.
 
-El aire hundido a menudo existe entre térmicas y volar más rápido que la mejor relación L/D puede resultar en menos tiempo en aire descendente y un aumento en eficiencia. El piloto puede determinar cuánto más rápido volar usando la polar del planeador, como se ilustra en la <<fig-05-13>> para una masa de aire hundida a 3 nudos entre térmicas. En este caso, el piloto dibuja una línea tangente a la polar que comienza 3 nudos sobre el origen para leer la mejor velocidad para volar, 60 nudos en este caso.
+El aire hundido a menudo existe entre {term-thermal}s y volar más rápido que la mejor {term-ld-ratio} puede resultar en menos tiempo en aire descendente y un aumento en eficiencia. El piloto puede determinar cuánto más rápido volar usando la polar del {term-glider}, como se ilustra en la <<fig-05-13>> para una masa de aire hundida a 3 nudos entre {term-thermal}s. En este caso, el piloto dibuja una línea tangente a la polar que comienza 3 nudos sobre el origen para leer la mejor velocidad para volar, 60 nudos en este caso.
 
 [[fig-05-13]]
 .Mejor velocidad para volar en aire descendente
 image::05/fig-05-13.best-velocidad-to-fly-in-sinking-air.png[width=300]
 
-Si el planeador tiene lastre de agua, flaps de ala o extensiones de punta de ala, la polar representa las características de rendimiento del planeador en esas configuraciones. <<fig-05-14>>, <<fig-05-15>> y <<fig-05-16>> Comparar la polar con y sin lastre muestra que el mínimo hundimiento aumenta y ocurre a una velocidad más alta después de añadir peso. Como resultado, trabajar térmicas débiles se vuelve más desafiante con lastre. Además, el lastre reduce la tasa de hundimiento a velocidades más altas. <<fig-05-14>> La mejor relación de planeo permanece la misma, pero ocurre a una velocidad más alta.
+Si el {term-glider} tiene {term-water-ballast}, flaps de {term-wing} o extensiones de punta de {term-wing}, la polar representa las características de rendimiento del {term-glider} en esas configuraciones. <<fig-05-14>>, <<fig-05-15>> y <<fig-05-16>> Comparar la polar con y sin lastre muestra que el mínimo hundimiento aumenta y ocurre a una velocidad más alta después de añadir {term-weight}. Como resultado, trabajar {term-thermal}s débiles se vuelve más desafiante con lastre. Además, el lastre reduce la tasa de hundimiento a velocidades más altas. <<fig-05-14>> La mejor relación de planeo permanece la misma, pero ocurre a una velocidad más alta.
 
 [[fig-05-14]]
-.Efecto del lastre de agua en la polar de rendimiento
+.Efecto del {term-water-ballast} en la polar de rendimiento
 image::05/fig-05-14.effect-of-water-lastre-on-performance-polar.png[width=300]
 
 Los flaps con un ajuste negativo en lugar de un ajuste de 0 grados durante el crucero también reducen la tasa de hundimiento a velocidades más altas, como se muestra en la polar. <<fig-05-15>> Por lo tanto, cuando se crucera a o por encima de 70 nudos, configurar los flaps a -8° proporcionaría una ventaja.
@@ -166,7 +166,7 @@ Los flaps con un ajuste negativo en lugar de un ajuste de 0 grados durante el cr
 .Polar de rendimiento con flaps a 0° y –8°
 image::05/fig-05-15.performance-polar-with-flaps-at-0-deg-and-8-deg.png[width=300]
 
-Las extensiones de punta de ala también alteran los datos de la polar, como se muestra en la <<fig-05-16>>. La ilustración muestra que los 3 metros adicionales de envergadura crean una ventaja a todas las velocidades. En algunos planeadores, el rendimiento a baja velocidad mejora con las extensiones de punta, mientras que el rendimiento a alta velocidad disminuye ligeramente.
+Las extensiones de punta de {term-wing} también alteran los datos de la polar, como se muestra en la <<fig-05-16>>. La ilustración muestra que los 3 metros adicionales de envergadura crean una ventaja a todas las velocidades. En algunos {term-glider}es, el rendimiento a baja velocidad mejora con las extensiones de punta, mientras que el rendimiento a alta velocidad disminuye ligeramente.
 
 [[fig-05-16]]
 .Polar de rendimiento con configuraciones de 15 metros y 18 metros de envergadura
@@ -174,65 +174,65 @@ image::05/fig-05-16.performance-polar-with-15-meter-and-18-meter.png[width=300]
 
 === Limitaciones
 
-Independientemente de la complejidad del planeador, los diseñadores y fabricantes proporcionan limitaciones de operación para asegurar la seguridad del vuelo. El diagrama VG del planeador proporciona al piloto información sobre las limitaciones de diseño, como velocidades limitantes y factores de carga. <<fig-05-17>> Los pilotos deberían familiarizarse con todas las limitaciones de operación de cada planeador volado y no deberían operar fuera de los límites.
+Independientemente de la complejidad del {term-glider}, los diseñadores y fabricantes proporcionan limitaciones de operación para asegurar la seguridad del vuelo. El diagrama VG del {term-glider} proporciona al piloto información sobre las limitaciones de diseño, como velocidades limitantes y factores de carga. <<fig-05-17>> Los pilotos deberían familiarizarse con todas las limitaciones de operación de cada {term-glider} volado y no deberían operar fuera de los límites.
 
 [[fig-05-17]]
-.Ejemplo de envolvente de vuelo de planeador
+.Ejemplo de envolvente de vuelo de {term-glider}
 image::05/fig-05-17.sample-planeador-vuelo-envelope.png[width=300]
 
-Las líneas amarillas curvas representan la sustentación máxima que el planeador puede generar a diferentes velocidades del aire como Gs.
+Las líneas amarillas curvas representan la {term-lift-force} máxima que el {term-glider} puede generar a diferentes velocidades del aire como Gs.
 
 == Peso y balance
 
-El piloto debería entender la gestión adecuada de peso y balance y las consecuencias de sobrecargar o cargar impropiamente el planeador.
+El piloto debería entender la gestión adecuada de {term-weight} y balance y las consecuencias de sobrecargar o cargar impropiamente el {term-glider}.
 
-=== Información de peso y balance
+=== Información de {term-weight} y balance
 
-El GFM/POH proporcionado por el fabricante da información sobre el peso y balance del planeador. Dado que la adición o remoción de equipo, como radios, baterías, instrumentos de vuelo o reparaciones de estructura afectan la posición del CG, los técnicos de mantenimiento aeronáutico (AMTs) registran cambios en los datos de peso y balance en el GFM/POH y el libro de bitácora de la estructura del planeador. También actualizan las placas de peso y balance.
+El GFM/POH proporcionado por el fabricante da información sobre el {term-weight} y balance del {term-glider}. Dado que la adición o remoción de equipo, como radios, baterías, instrumentos de vuelo o reparaciones de estructura afectan la posición del CG, los técnicos de mantenimiento aeronáutico (AMTs) registran cambios en los datos de {term-weight} y balance en el GFM/POH y el libro de bitácora de la estructura del {term-glider}. También actualizan las placas de {term-weight} y balance.
 
 === Centro de gravedad
 
-El balance longitudinal afecta la estabilidad alrededor del eje lateral de un planeador. Para lograr un manejo satisfactorio de la actitud de cabeceo, los fabricantes posicionan el centro de gravedad (CG) de un planeador cargado apropiadamente delante del centro de sustentación (CL) y publican los límites de CG del planeador en el GFM/POH.
+El balance longitudinal afecta la estabilidad alrededor del eje lateral de un {term-glider}. Para lograr un manejo satisfactorio de la actitud de cabeceo, los fabricantes posicionan el centro de gravedad (CG) de un {term-glider} cargado apropiadamente delante del centro de {term-lift-force} (CL) y publican los límites de CG del {term-glider} en el GFM/POH.
 
-En la mayoría de los planeadores, el estabilizador horizontal y el elevador proporcionan una fuerza hacia abajo para balancear el arreglo de CG y centro de sustentación. A medida que cambia la velocidad del aire el piloto ajusta el trim, y la fuerza hacia abajo de la cola balancea exactamente el CG hacia adelante. Un planeador en esta configuración tiende a reanudar su actitud de cabeceo previa después de una perturbación sobre el eje lateral.
+En la mayoría de los {term-glider}es, el {term-tailplane} y el elevador proporcionan una fuerza hacia abajo para balancear el arreglo de CG y centro de {term-lift-force}. A medida que cambia la velocidad del aire el piloto ajusta el trim, y la fuerza hacia abajo de la cola balancea exactamente el CG hacia adelante. Un {term-glider} en esta configuración tiende a reanudar su actitud de cabeceo previa después de una perturbación sobre el eje lateral.
 
-Los problemas asociados con un CG delante del límite publicado hacen difícil levantar la nariz en el despegue y requieren presión considerable hacia atrás en los controles para regular la actitud de cabeceo. A velocidades del aire bajas la cola puede perderse o no proporcionar suficiente fuerza hacia abajo. Cualquier pérdida de cola resulta en un cambio repentino de cabeceo hacia abajo y potencial para una recuperación lenta. El piloto puede no tener suficiente autoridad del elevador para realizar la flare de aterrizaje debido a pesadez de nariz. La incapacidad de hacer flare podría resultar en un aterrizaje duro de nariz primero.
+Los problemas asociados con un CG delante del límite publicado hacen difícil levantar la nariz en el {term-takeoff} y requieren presión considerable hacia atrás en los controles para regular la actitud de cabeceo. A velocidades del aire bajas la cola puede perderse o no proporcionar suficiente fuerza hacia abajo. Cualquier {term-stall} de cola resulta en un cambio repentino de cabeceo hacia abajo y potencial para una recuperación lenta. El piloto puede no tener suficiente autoridad del elevador para realizar la flare de {term-landing} debido a pesadez de nariz. La incapacidad de hacer flare podría resultar en un {term-landing} duro de nariz primero.
 
-Los problemas asociados con un CG detrás del límite posterior crean una condición de pesadez de cola. La pesadez de cola puede hacer el control de cabeceo del planeador difícil o imposible.
+Los problemas asociados con un CG detrás del límite posterior crean una condición de pesadez de cola. La pesadez de cola puede hacer el control de cabeceo del {term-glider} difícil o imposible.
 
 === Lastre de ajuste
 
-Los pesos de lastre de ajuste removibles, a menudo hechos de metal, se adjuntan a un receptáculo de lastre incorporado en la estructura del planeador. Estos pesos compensan un piloto de asiento delantero que pesa menos que lo necesario para mantener el CG dentro de límites de operación aceptables.
+Los {term-weight}s de lastre de ajuste removibles, a menudo hechos de metal, se adjuntan a un receptáculo de lastre incorporado en la estructura del {term-glider}. Estos {term-weight}s compensan un piloto de asiento delantero que pesa menos que lo necesario para mantener el CG dentro de límites de operación aceptables.
 
 === Lastre de rendimiento
 
-Añadir peso mejora el rendimiento de alta velocidad en planeadores. Aumentar el peso de operación del planeador aumenta la velocidad óptima para volar durante vuelo de crucero con alas niveladas. La mayor velocidad sobre el suelo resultante proporciona una ventaja en vuelo a vela de travesía y en carreras de planeadores.
+Añadir {term-weight} mejora el rendimiento de alta velocidad en {term-glider}es. Aumentar el {term-weight} de operación del {term-glider} aumenta la velocidad óptima para volar durante vuelo de crucero con {term-wing}s {term-round-out}s. La mayor velocidad sobre el suelo resultante proporciona una ventaja en vuelo a vela de travesía y en carreras de {term-glider}es.
 
-Los fabricantes comúnmente instalan tanques de agua en los paneles principales del ala. Esa agua actúa como lastre de rendimiento. El personal añade agua limpia a través de puertos de llenado en la parte superior de cada ala. <<fig-05-20>>
+Los fabricantes comúnmente instalan tanques de agua en los paneles principales del {term-wing}. Esa agua actúa como lastre de rendimiento. El personal añade agua limpia a través de puertos de llenado en la parte superior de cada {term-wing}. <<fig-05-20>>
 
 [[fig-05-20]]
-.Tapa de llenado con ventilación del tanque de lastre de agua
+.Tapa de llenado con ventilación del tanque de {term-water-ballast}
 image::05/fig-05-20.water-lastre-tank-vented-filler-cap.png[width=300]
 
-Las válvulas de drenaje se ajustan a la parte inferior de cada tanque, y el piloto controla las válvulas desde dentro del planeador. <<fig-05-21>> El piloto puede drenar completamente o parcialmente los tanques con el planeador en tierra para reducir el peso antes del lanzamiento. El piloto también puede manipular las válvulas para drenar los tanques de lastre parcialmente o completamente en vuelo, un proceso llamado expulsar lastre, que normalmente ocurre antes del aterrizaje.
+Las válvulas de drenaje se ajustan a la parte inferior de cada tanque, y el piloto controla las válvulas desde dentro del {term-glider}. <<fig-05-21>> El piloto puede drenar completamente o parcialmente los tanques con el {term-glider} en tierra para reducir el {term-weight} antes del lanzamiento. El piloto también puede manipular las válvulas para drenar los tanques de lastre parcialmente o completamente en vuelo, un proceso llamado expulsar lastre, que normalmente ocurre antes del {term-landing}.
 
 [[fig-05-21]]
-.Manijas de válvula de drenaje de lastre de agua
+.Manijas de válvula de drenaje de {term-water-ballast}
 image::05/fig-05-21.water-lastre-drain-valve-handles.png[width=300]
 
-Los pilotos deberían revisar las válvulas de drenaje para operación correcta antes del vuelo. El lastre de agua debería drenarse de cada tanque de ala a la misma tasa. El drenaje desigual conduce a una condición de pesadez de ala que hace el manejo en vuelo, así como los aterrizajes, más difíciles.
+Los pilotos deberían revisar las válvulas de drenaje para operación correcta antes del vuelo. El {term-water-ballast} debería drenarse de cada tanque de {term-wing} a la misma tasa. El drenaje desigual conduce a una condición de pesadez de {term-wing} que hace el manejo en vuelo, así como los {term-landing}s, más difíciles.
 
-El uso de lastre de agua en temperaturas ambiente bajas puede resultar en agua congelando la válvula de drenaje, haciendo el expulsar lastre difícil o imposible. Si solo una válvula se congela, puede ocurrir drenaje desigual como se discutió arriba. Si el agua en las alas se congela, puede ocurrir daño serio al ala porque el agua se expande al congelarse. El volumen aumentado resultante puede deformar costillas y otras estructuras del ala o deslaminar uniones pegadas. En clima frío o cuando se esperan condiciones de vuelo frías, los pilotos no deberían usar lastre de agua a menos que se añada anticongelante al agua.
+El uso de {term-water-ballast} en temperaturas ambiente bajas puede resultar en agua congelando la válvula de drenaje, haciendo el expulsar lastre difícil o imposible. Si solo una válvula se congela, puede ocurrir drenaje desigual como se discutió arriba. Si el agua en las {term-wing}s se congela, puede ocurrir daño serio al {term-wing} porque el agua se expande al congelarse. El volumen aumentado resultante puede deformar costillas y otras estructuras del {term-wing} o deslaminar uniones pegadas. En clima frío o cuando se esperan condiciones de vuelo frías, los pilotos no deberían usar {term-water-ballast} a menos que se añada anticongelante al agua.
 
-El piloto rutinariamente expulsa el lastre de agua antes del aterrizaje para reducir el peso del planeador. Expulsar lastre:
+El piloto rutinariamente expulsa el {term-water-ballast} antes del {term-landing} para reducir el {term-weight} del {term-glider}. Expulsar lastre:
 
-* Disminuye la velocidad de pérdida
-* Disminuye la velocidad del aire óptima para la aproximación de aterrizaje
-* Acorta la carrera de aterrizaje
-* Reduce la carga que las estructuras del planeador deben soportar durante el aterrizaje y la carrera
+* Disminuye la velocidad de {term-stall}
+* Disminuye la velocidad del aire óptima para la {term-approach} de {term-landing}
+* Acorta la {term-rollout}
+* Reduce la carga que las estructuras del {term-glider} deben soportar durante el {term-landing} y la carrera
 
-Mientras las ventajas de rendimiento del lastre ocurren durante condiciones de sustentación fuerte, los pilotos deberían considerar que el lastre degrada el rendimiento de despegue, tasa de ascenso y manejo a baja velocidad. Antes de comprometerse con un lanzamiento con lastre de agua a bordo, el piloto debería revisar las limitaciones de operación para asegurar la seguridad del vuelo.
+Mientras las ventajas de rendimiento del lastre ocurren durante condiciones de {term-lift-force} fuerte, los pilotos deberían considerar que el lastre degrada el rendimiento de {term-takeoff}, tasa de ascenso y manejo a baja velocidad. Antes de comprometerse con un lanzamiento con {term-water-ballast} a bordo, el piloto debería revisar las limitaciones de operación para asegurar la seguridad del vuelo.
 
 == Resumen del capítulo
 
-Los factores que afectan todos los vuelos de planeador incluyen temperatura, presión atmosférica, humedad, viento y peso de operación. Los pilotos deberían considerar el diseño del planeador y sus características de operación y conocer el rendimiento esperado antes del vuelo. Los pilotos solo deberían volar cuando las condiciones de peso y balance permanezcan dentro de los límites ya que estas condiciones afectan la estabilidad y control. Las polares de planeador indican las velocidades de rendimiento que los pilotos pueden esperar a diferentes pesos y bajo diferentes condiciones de viento y pueden ayudar a maximizar el rendimiento.
+Los factores que afectan todos los vuelos de {term-glider} incluyen temperatura, presión atmosférica, humedad, viento y {term-weight} de operación. Los pilotos deberían considerar el diseño del {term-glider} y sus características de operación y conocer el rendimiento esperado antes del vuelo. Los pilotos solo deberían volar cuando las condiciones de {term-weight} y balance permanezcan dentro de los límites ya que estas condiciones afectan la estabilidad y control. Las polares de {term-glider} indican las velocidades de rendimiento que los pilotos pueden esperar a diferentes {term-weight}s y bajo diferentes condiciones de viento y pueden ayudar a maximizar el rendimiento.

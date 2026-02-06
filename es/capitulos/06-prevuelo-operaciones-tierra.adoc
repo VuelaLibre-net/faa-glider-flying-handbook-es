@@ -3,54 +3,54 @@
 
 == Introducción
 
-La operación segura de un planeador depende del montaje cuidadoso y el pre-vuelo. Las técnicas de montaje apropiadas, seguidas por una inspección cercana del planeador usando listas de verificación contenidas en el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto (GFM/POH), proporcionan esa seguridad. Los pilotos deberían conducir los procedimientos de lanzamiento sistemática y consistentemente para cada vuelo usando métodos apropiados y trabajo en equipo. Los estudiantes y pilotos no familiarizados con el montaje de planeadores deberían buscar instrucción de un instructor de vuelo de planeador.
+La operación segura de un {term-glider} depende del montaje cuidadoso y el pre-vuelo. Las técnicas de montaje apropiadas, seguidas por una inspección cercana del {term-glider} usando listas de verificación contenidas en el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto (GFM/POH), proporcionan esa seguridad. Los pilotos deberían conducir los procedimientos de lanzamiento sistemática y consistentemente para cada vuelo usando métodos apropiados y trabajo en equipo. Los estudiantes y pilotos no familiarizados con el montaje de {term-glider}es deberían buscar instrucción de un instructor de vuelo de {term-glider}.
 
 == Montaje y almacenamiento
 
-El personal preparándose para montar un planeador debería considerar los siguientes elementos: ubicación, número de ayudantes, herramientas, piezas y listas de verificación que detallan los procedimientos de montaje apropiados. El GFM/POH debería contener listas de verificación para montar y hacer pre-vuelo a un planeador. Si no, el personal debería desarrollar una y seguirla. Los pilotos de planeadores deberían evitar distracciones que puedan ocurrir durante el montaje y verificar los documentos requeridos a bordo del planeador.
+El personal preparándose para montar un {term-glider} debería considerar los siguientes elementos: ubicación, número de ayudantes, herramientas, piezas y listas de verificación que detallan los procedimientos de montaje apropiados. El GFM/POH debería contener listas de verificación para montar y hacer pre-vuelo a un {term-glider}. Si no, el personal debería desarrollar una y seguirla. Los pilotos de {term-glider}es deberían evitar distracciones que puedan ocurrir durante el montaje y verificar los documentos requeridos a bordo del {term-glider}.
 
-Durante el montaje del planeador, los pilotos normalmente verifican los documentos transportados a bordo, que incluyen:
+Durante el montaje del {term-glider}, los pilotos normalmente verifican los documentos transportados a bordo, que incluyen:
 
 . Certificado de navegabilidad exhibido en la aeronave
 . Registro
 . Placas requeridas
 . GFM/POH
 
-Las herramientas y accesorios apropiados apoyan el montaje del planeador. <<fig-06-01>> Algunas personas colocan todo el hardware necesario en un estante o lienzo con un lugar para cada artículo. Un inventario del hardware después del montaje reduce el riesgo de una herramienta mal colocada en la estructura del planeador que podría restringir o atascar un control de vuelo. Dado que la cinta desprendida también podría causar problemas de control en vuelo, cualquier persona aplicando cinta debería tener cuidado al encintar las raíces del ala, cubierta de la tortuga (cubierta donde se unen los controles de vuelo), elevador u otras áreas.
+Las herramientas y accesorios apropiados apoyan el montaje del {term-glider}. <<fig-06-01>> Algunas personas colocan todo el hardware necesario en un estante o lienzo con un lugar para cada artículo. Un inventario del hardware después del montaje reduce el riesgo de una herramienta mal colocada en la estructura del {term-glider} que podría restringir o atascar un control de vuelo. Dado que la cinta desprendida también podría causar problemas de control en vuelo, cualquier persona aplicando cinta debería tener cuidado al encintar las raíces del {term-wing}, cubierta de la tortuga (cubierta donde se unen los controles de vuelo), elevador u otras áreas.
 
 [[fig-06-01]]
-.Soportes de ala y carritos de ala pueden asistir en el montaje del planeador
+.Soportes de {term-wing} y carritos de {term-wing} pueden asistir en el montaje del {term-glider}
 image::06/fig-06-01.ala-stands-and-ala-dollies-may-assist-assembling.png[width=300]
 
-Dependiendo del tipo de planeador, el montaje puede involucrar dos o más personas. Después del montaje, una inspección minuciosa de todos los puntos de unión asegura la instalación y seguridad apropiadas de pernos y pasadores.
+Dependiendo del tipo de {term-glider}, el montaje puede involucrar dos o más personas. Después del montaje, una inspección minuciosa de todos los puntos de unión asegura la instalación y seguridad apropiadas de pernos y pasadores.
 
-En muchos planeadores, las alas se desprenden rutinariamente del fuselaje para almacenamiento. En algunos motoveleros, las alas se pliegan. Después de plegar o desprender las alas, las personas pueden mover el planeador dentro y alrededor del área del hangar. <<fig-06-02>> Esto permite el montaje, desmontaje y almacenamiento en un hangar de tamaño normal.
+En muchos {term-glider}es, las {term-wing}s se desprenden rutinariamente del {term-fuselage} para almacenamiento. En algunos {term-motorglider}s, las {term-wing}s se pliegan. Después de plegar o desprender las {term-wing}s, las personas pueden mover el {term-glider} dentro y alrededor del área del hangar. <<fig-06-02>> Esto permite el montaje, desmontaje y almacenamiento en un hangar de tamaño normal.
 
 [[fig-06-02]]
-.Plegar las alas del planeador reduce el espacio de almacenamiento
+.Plegar las {term-wing}s del {term-glider} reduce el espacio de almacenamiento
 image::06/fig-06-02.folding-the-alas-of-the-planeador-reduces-storage.png[width=300]
 
-Una vez que un planeador ha sido completamente montado y antes del vuelo, el piloto inspecciona todas las áreas críticas para asegurar la finalización de todas las uniones de controles de vuelo. Muchos fabricantes proporcionan una lista de verificación de montaje crítico (CAC) para usar después del montaje. Un chequeo de control positivo (PCC) proporciona un medio adicional de verificación que debería ocurrir incluso si el personal apropiado completa un CAC. El piloto debería referirse a una lista de verificación escrita proporcionada por el fabricante o una fuente comercial que reproduzca con precisión las listas de verificación de planeadores.
+Una vez que un {term-glider} ha sido completamente montado y antes del vuelo, el piloto inspecciona todas las áreas críticas para asegurar la finalización de todas las uniones de controles de vuelo. Muchos fabricantes proporcionan una lista de verificación de montaje crítico (CAC) para usar después del montaje. Un chequeo de control positivo (PCC) proporciona un medio adicional de verificación que debería ocurrir incluso si el personal apropiado completa un CAC. El piloto debería referirse a una lista de verificación escrita proporcionada por el fabricante o una fuente comercial que reproduzca con precisión las listas de verificación de {term-glider}es.
 
-El transporte, almacenamiento o recuperación del planeador usa remolques especialmente diseñados <<fig-06-03>>, y los componentes del planeador deberían ajustarse firmemente en el espacio proporcionado, sin forzarse, y de una manera que prevenga el roce. Los remolques de planeadores también pueden tener áreas de almacenamiento para asegurar piezas.
+El transporte, almacenamiento o recuperación del {term-glider} usa remolques especialmente diseñados <<fig-06-03>>, y los componentes del {term-glider} deberían ajustarse firmemente en el espacio proporcionado, sin forzarse, y de una manera que prevenga el roce. Los remolques de {term-glider}es también pueden tener áreas de almacenamiento para asegurar piezas.
 
 [[fig-06-03]]
-.Componentes de un planeador almacenados y transportados en un remolque
+.Componentes de un {term-glider} almacenados y transportados en un remolque
 image::06/fig-06-03.componentes-of-a-planeador-stored-and-transported.png[width=300]
 
 Al remolcar un remolque, aplican las precauciones estándar de remolque de vehículos motorizados y la experiencia.
 
 == Amarre y aseguramiento
 
-Al amarrar en aeropuertos compartidos por aeronaves motorizadas, la explosión de la hélice puede causar daño a un planeador inadecuadamente asegurado. El personal debería amarrar un planeador con el canopy cerrado y asegurado antes de dejarlo desatendido. Si es posible, el punto de amarre debería enfrentar el viento. Los amarres permanentes a menudo usan correas, cuerdas o cadenas para las alas y cola y no se ajustan para variaciones en el viento. Los pilotos deberían llevar un kit de amarre apropiado para un viaje de travesía si no existe un amarre permanente en el destino.
+Al amarrar en aeropuertos compartidos por aeronaves motorizadas, la explosión de la hélice puede causar daño a un {term-glider} inadecuadamente asegurado. El personal debería amarrar un {term-glider} con el canopy cerrado y asegurado antes de dejarlo desatendido. Si es posible, el punto de amarre debería enfrentar el viento. Los amarres permanentes a menudo usan correas, cuerdas o cadenas para las {term-wing}s y cola y no se ajustan para variaciones en el viento. Los pilotos deberían llevar un kit de amarre apropiado para un viaje de travesía si no existe un amarre permanente en el destino.
 
-Si se esperan vientos fuertes, los pilotos pueden atar los spoilers abiertos con cinturones de asiento, o colocar un soporte acolchado bajo la cola para reducir el ángulo de ataque de las alas. Al asegurar el planeador por un período extendido, los bloqueos de ráfaga en las superficies de control previenen que golpeen contra sus topes. Las cubiertas del tubo pitot y la sonda de energía total previenen la entrada de insectos o escombros. <<fig-06-04>>
+Si se esperan vientos fuertes, los pilotos pueden atar los spoilers abiertos con cinturones de asiento, o colocar un soporte acolchado bajo la cola para reducir el {term-aoa} de las {term-wing}s. Al asegurar el {term-glider} por un período extendido, los bloqueos de ráfaga en las superficies de control previenen que golpeen contra sus topes. Las cubiertas del tubo pitot y la sonda de {term-total-energy} previenen la entrada de insectos o escombros. <<fig-06-04>>
 
 [[fig-06-04]]
-.Protección del tubo pitot y la sonda de energía total
+.Protección del tubo pitot y la sonda de {term-total-energy}
 image::06/fig-06-04.protecting-the-pitot-tube-and-total-energy-probe.png[width=300]
 
-Las cubiertas de canopy de planeadores proporcionan protección adicional contra daños mientras protegen el interior de la cabina de vuelo de los rayos ultravioleta (UV). <<fig-06-05>>
+Las cubiertas de canopy de {term-glider}es proporcionan protección adicional contra daños mientras protegen el interior de la cabina de vuelo de los rayos ultravioleta (UV). <<fig-06-05>>
 
 [[fig-06-05]]
 .Protección del canopy
@@ -58,31 +58,31 @@ image::06/fig-06-05.protecting-the-canopy.png[width=300]
 
 == Lastre de agua
 
-Si se transporta un planeador o se estaciona un planeador en clima frío, el personal debería verificar y drenar cualquier lastre de agua restante. Si no se puede drenar el lastre de agua, agregar anticongelante previene la congelación.
+Si se transporta un {term-glider} o se estaciona un {term-glider} en clima frío, el personal debería verificar y drenar cualquier {term-water-ballast} restante. Si no se puede drenar el {term-water-ballast}, agregar anticongelante previene la congelación.
 
 == Manejo en tierra
 
-Mover un planeador en tierra requiere procedimientos de manejo especiales, especialmente durante vientos altos. Al mover un planeador, todo el personal debería recibir una instrucción sobre procedimientos y señales.
+Mover un {term-glider} en tierra requiere procedimientos de manejo especiales, especialmente durante vientos altos. Al mover un {term-glider}, todo el personal debería recibir una instrucción sobre procedimientos y señales.
 
-Al usar un vehículo para mover un planeador, el personal debería usar una línea de remolque más de la mitad de la envergadura del planeador. Si una punta de ala deja de moverse por cualquier razón, esta longitud de línea de remolque previene que el planeador pivote y golpee el vehículo de remolque con la punta de ala opuesta. Dado que cualquier viento o corrientes de aire de otra aeronave pueden causar que el canopy del planeador se cierre abruptamente, un canopy cerrado y asegurado puede prevenir daño al marco o vidrio del canopy.
+Al usar un vehículo para mover un {term-glider}, el personal debería usar una línea de remolque más de la mitad de la envergadura del {term-glider}. Si una punta de {term-wing} deja de moverse por cualquier razón, esta longitud de línea de remolque previene que el {term-glider} pivote y golpee el vehículo de remolque con la punta de {term-wing} opuesta. Dado que cualquier viento o corrientes de aire de otra aeronave pueden causar que el canopy del {term-glider} se cierre abruptamente, un canopy cerrado y asegurado puede prevenir daño al marco o vidrio del canopy.
 
-Al empezar a mover el vehículo de remolque, el conductor debería tomar lentamente la holgura en la línea para evitar sacudir el planeador. La velocidad de remolque no debería exceder la de una caminata rápida. El conductor debería usar al menos un caminante de ala. Los caminantes de ala y el conductor del vehículo de remolque funcionan como un equipo, alerta a obstáculos, viento y cualquier otro factor que pueda afectar la seguridad del planeador. <<fig-06-06>>
+Al empezar a mover el vehículo de remolque, el conductor debería tomar lentamente la holgura en la línea para evitar sacudir el {term-glider}. La velocidad de remolque no debería exceder la de una caminata rápida. El conductor debería usar al menos un caminante de {term-wing}. Los caminantes de {term-wing} y el conductor del vehículo de remolque funcionan como un equipo, alerta a obstáculos, viento y cualquier otro factor que pueda afectar la seguridad del {term-glider}. <<fig-06-06>>
 
 [[fig-06-06]]
-.Posicionamiento del planeador para el vehículo de remolque
+.Posicionamiento del {term-glider} para el vehículo de remolque
 image::06/fig-06-06.positioning-the-planeador-for-the-remolque-vehicle.png[width=300]
 
-Los vientos fuertes y ráfagas pueden dañar el planeador durante el manejo en tierra. Durante el movimiento en tierra con vientos altos, dos o más miembros de la tripulación normalmente sostienen las puntas de ala y un piloto se sienta a los controles para desplegar spoilers y sostener los controles apropiadamente.
+Los vientos fuertes y ráfagas pueden dañar el {term-glider} durante el manejo en tierra. Durante el movimiento en tierra con vientos altos, dos o más miembros de la tripulación normalmente sostienen las puntas de {term-wing} y un piloto se sienta a los controles para desplegar spoilers y sostener los controles apropiadamente.
 
-Otro método de remolque usa equipo de remolque especialmente diseñado como una barra de remolque de remolque que se une directamente al vehículo que remolca un remolque. La barra de remolque y otro equipo hacen guiar el planeador mucho más fácil y permiten a los caminantes de ala enfocarse en los espacios libres de las puntas de ala. <<fig-06-07>>
+Otro método de remolque usa equipo de remolque especialmente diseñado como una barra de remolque de remolque que se une directamente al vehículo que remolca un remolque. La barra de remolque y otro equipo hacen guiar el {term-glider} mucho más fácil y permiten a los caminantes de {term-wing} enfocarse en los espacios libres de las puntas de {term-wing}. <<fig-06-07>>
 
 [[fig-06-07]]
-.Un carrito de ala (izquierda) listo para unión y un carrito de cola (derecha) siendo usado para movimiento en tierra del planeador
+.Un {term-wing-dolly} (izquierda) listo para unión y un {term-tail-dolly} (derecha) siendo usado para movimiento en tierra del {term-glider}
 image::06/fig-06-07.a-ala-dolly-left-ready-for-attachment-and-a-cola.png[width=300]
 
 == Inspección del equipo de lanzamiento
 
-Mientras un piloto de planeador puede inspeccionar la cuerda de remolque, 14 CFR parte 91, sección 91.309(a) da a la persona operando una aeronave civil remolcando un planeador responsabilidad por la resistencia de la cuerda de remolque. <<fig-06-08>> Dado que un punto débil podría desarrollarse en cualquier momento, las cuerdas de remolque deberían someterse a inspección antes de cada vuelo. La línea de remolque debería estar libre de desgaste excesivo; todas las hebras deberían estar intactas, y la línea debería estar libre de nudos. Un nudo en la línea de remolque reduce su resistencia hasta un 50 por ciento y crea un punto grueso en la línea de remolque más susceptible al desgaste.
+Mientras un piloto de {term-glider} puede inspeccionar la cuerda de remolque, 14 CFR parte 91, sección 91.309(a) da a la persona operando una aeronave civil remolcando un {term-glider} responsabilidad por la {term-drag} de la cuerda de remolque. <<fig-06-08>> Dado que un punto débil podría desarrollarse en cualquier momento, las cuerdas de remolque deberían someterse a inspección antes de cada vuelo. La línea de remolque debería estar libre de desgaste excesivo; todas las hebras deberían estar intactas, y la línea debería estar libre de nudos. Un nudo en la línea de remolque reduce su {term-drag} hasta un 50 por ciento y crea un punto grueso en la línea de remolque más susceptible al desgaste.
 
 [[fig-06-08]]
 .Inspección de la línea de remolque
@@ -94,25 +94,25 @@ Las cuerdas de remolque y cables están hechos de materiales como nylon, fibra d
 .Materiales de cuerda de remolque
 image::06/fig-06-09.remolque-cable-materials.png[width=300]
 
-<<fig-06-10>> muestra la resistencia de algunas cuerdas típicamente usadas. El fabricante de la cuerda puede proporcionar especificaciones exactas.
+<<fig-06-10>> muestra la {term-drag} de algunas cuerdas típicamente usadas. El fabricante de la cuerda puede proporcionar especificaciones exactas.
 
 [[fig-06-10]]
 .Resistencias típicas de cuerda
 image::06/fig-06-10.typical-cable-strengths.png[width=300]
 
-14 CFR parte 91, sección 91.309(a)(3), requiere resistencia de línea de remolque dentro de un rango de 80 a 200 por ciento del peso máximo certificado del planeador. Sin embargo, la línea de remolque puede tener una resistencia a la ruptura más del doble del peso máximo certificado de operación del planeador si se usan enlaces de seguridad como se especifica en 14 CFR parte 91, sección 91.309(a)(3). Nótese que un modelo específico de planeador puede tener una limitación más estricta en la resistencia máxima de línea de remolque. El POH listaría esta limitación.
+14 CFR parte 91, sección 91.309(a)(3), requiere {term-drag} de línea de remolque dentro de un rango de 80 a 200 por ciento del {term-weight} máximo certificado del {term-glider}. Sin embargo, la línea de remolque puede tener una {term-drag} a la ruptura más del doble del {term-weight} máximo certificado de operación del {term-glider} si se usan enlaces de seguridad como se especifica en 14 CFR parte 91, sección 91.309(a)(3). Nótese que un modelo específico de {term-glider} puede tener una limitación más estricta en la {term-drag} máxima de línea de remolque. El POH listaría esta limitación.
 
-Si se usa una línea de remolque con una resistencia a la ruptura más del doble del peso máximo certificado de operación del planeador, 14 CFR parte 91, sección 91.309(a)(3) requiere la instalación de dos enlaces de seguridad/débiles, cualquiera de los cuales puede romperse antes de que la tensión excesiva en la línea de remolque cause daño estructural ya sea al planeador o al avión de remolque. El enlace débil cerca del punto de unión del planeador <<fig-06-11>> requiere el mismo rango de resistencia a la ruptura que la cuerda de remolque, 80 a 200 por ciento del peso máximo certificado de operación del planeador. El enlace débil instalado cerca del punto de unión del avión de remolque debe tener una resistencia a la ruptura mayor, pero no más de 25 por ciento mayor, que la del enlace débil en el extremo del planeador de la línea de remolque y no más del doble del peso máximo certificado de operación del planeador. Ver <<fig-06-12>> para un análisis de ejemplo de resistencia de enlace débil.
+Si se usa una línea de remolque con una {term-drag} a la ruptura más del doble del {term-weight} máximo certificado de operación del {term-glider}, 14 CFR parte 91, sección 91.309(a)(3) requiere la instalación de dos enlaces de seguridad/débiles, cualquiera de los cuales puede romperse antes de que la tensión excesiva en la línea de remolque cause daño estructural ya sea al {term-glider} o al avión de remolque. El enlace débil cerca del punto de unión del {term-glider} <<fig-06-11>> requiere el mismo rango de {term-drag} a la ruptura que la cuerda de remolque, 80 a 200 por ciento del {term-weight} máximo certificado de operación del {term-glider}. El enlace débil instalado cerca del punto de unión del avión de remolque debe tener una {term-drag} a la ruptura mayor, pero no más de 25 por ciento mayor, que la del enlace débil en el extremo del {term-glider} de la línea de remolque y no más del doble del {term-weight} máximo certificado de operación del {term-glider}. Ver <<fig-06-12>> para un análisis de ejemplo de {term-drag} de enlace débil.
 
 [[fig-06-11]]
 .Un enlace de seguridad. La espuma añadida a la línea de remolque previene la abrasión de la línea de remolque
 image::06/fig-06-11.a-seguridad-link-the-foam-added-to-the-remolque.png[width=300]
 
 [[fig-06-12]]
-.Requisitos de resistencia de enlace de seguridad asumiendo un enlace de 1,000 lb instalado cerca del planeador
+.Requisitos de {term-drag} de enlace de seguridad asumiendo un enlace de 1,000 lb instalado cerca del {term-glider}
 image::06/fig-06-12.seguridad-link-strength-requirements-assuming-a.png[width=300]
 
-Los dos tipos más comunes de gancho de remolque son un diseño por encima de la parte superior, como un gancho Schweizer, o un estilo de agarre, como un gancho Tost. Los pilotos deberían inspeccionar y verificar que cualquier gancho de remolque esté libre de daño y opere libremente. <<fig-06-13>> y <<fig-06-14>>
+Los dos tipos más comunes de gancho de remolque son un diseño por encima de la parte superior, como un gancho Schweizer, o un estilo de agarre, como un {term-tost-hook}. Los pilotos deberían inspeccionar y verificar que cualquier gancho de remolque esté libre de daño y opere libremente. <<fig-06-13>> y <<fig-06-14>>
 
 [[fig-06-13]]
 .Gancho de remolque tipo Schweizer
@@ -122,17 +122,17 @@ image::06/fig-06-13.schweizer-type-remolque-gancho.png[width=300]
 .Gancho Tost
 image::06/fig-06-14.tost-gancho.png[width=300]
 
-== Inspección pre-vuelo del planeador
+== Inspección pre-vuelo del {term-glider}
 
-Los pilotos deberían conducir una inspección minuciosa del planeador antes del lanzamiento. Si el GFM/POH del planeador no contiene una lista de verificación pre-vuelo, el piloto debería desarrollar una lista de verificación usando las pautas contenidas en <<fig-06-15>>.
+Los pilotos deberían conducir una inspección minuciosa del {term-glider} antes del lanzamiento. Si el GFM/POH del {term-glider} no contiene una lista de verificación pre-vuelo, el piloto debería desarrollar una lista de verificación usando las pautas contenidas en <<fig-06-15>>.
 
 [[fig-06-15]]
-.Lista de verificación de inspección pre-vuelo de planeador
+.Lista de verificación de inspección pre-vuelo de {term-glider}
 image::06/fig-06-15.a-planeador-pre-vuelo-inspeccion-lista.png[width=300]
 
 == Lista de verificación pre-lanzamiento
 
-El piloto debería conducir un chequeo de control positivo con la ayuda de un miembro adicional de la tripulación, especialmente si el planeador fue recién montado. El piloto mueve la palanca de control y los pedales de timón mientras el miembro de la tripulación proporciona resistencia, sosteniendo cada alerón, el elevador, spoilers, flaps y el timón para asegurar conexiones de control correctas y seguras. <<fig-06-16>> Una palanca o pedal que se mueve libremente con las superficies de control correspondientes restringidas indica que las conexiones no están seguras, y el planeador no es navegable.
+El piloto debería conducir un chequeo de control positivo con la ayuda de un miembro adicional de la tripulación, especialmente si el {term-glider} fue recién montado. El piloto mueve la palanca de control y los pedales de timón mientras el miembro de la tripulación proporciona {term-drag}, sosteniendo cada {term-aileron}, el elevador, spoilers, flaps y el timón para asegurar conexiones de control correctas y seguras. <<fig-06-16>> Una palanca o pedal que se mueve libremente con las superficies de control correspondientes restringidas indica que las conexiones no están seguras, y el {term-glider} no es navegable.
 
 [[fig-06-16]]
 .Chequeo de control positivo de spoilers
@@ -144,22 +144,22 @@ Si el GFM/POH no proporciona una lista de verificación pre-lanzamiento específ
 .Listas de verificación pre-lanzamiento genéricas
 image::06/fig-06-17.generic-pre-lanzamiento-checklists.png[width=300]
 
-== Cuidado del planeador
+== Cuidado del {term-glider}
 
-Dependiendo del tipo de planeador, diferentes métodos de limpieza deberían emplearse. Después de todos los vuelos, el piloto o personal de tierra puede limpiar el planeador con un paño suave o una gamuza húmeda. Esto remueve cualquier escombro o insectos. Retrasar este proceso permite que los insectos se sequen y hace la remoción difícil.
+Dependiendo del tipo de {term-glider}, diferentes métodos de limpieza deberían emplearse. Después de todos los vuelos, el piloto o personal de tierra puede limpiar el {term-glider} con un paño suave o una gamuza húmeda. Esto remueve cualquier escombro o insectos. Retrasar este proceso permite que los insectos se sequen y hace la remoción difícil.
 
-Los planeadores hechos de tela deberían limpiarse con productos de rociar y lavar. Cualquier persona limpiando un planeador debería evitar usar grandes cantidades de agua ya que el agua puede penetrar grietas y agujeros, especialmente en planeadores de madera o tela anteriores, lo que daña y reduce la vida de la madera o tela. La exposición persistente y prolongada a la humedad puede dañar cualquier planeador con el tiempo.
+Los {term-glider}es hechos de tela deberían limpiarse con productos de rociar y lavar. Cualquier persona limpiando un {term-glider} debería evitar usar grandes cantidades de agua ya que el agua puede penetrar grietas y agujeros, especialmente en {term-glider}es de madera o tela anteriores, lo que daña y reduce la vida de la madera o tela. La exposición persistente y prolongada a la humedad puede dañar cualquier {term-glider} con el tiempo.
 
-En planeadores de metal, el personal puede usar una manguera de baja presión y detergente suave para limpiar. Los planeadores de fibra de vidrio de alto rendimiento usan un spray especial o pasta para limpiar. Se debe tener cuidado al usar un pulidor eléctrico, ya que el pulidor puede quemar la fibra de vidrio si no se usa de manera apropiada.
+En {term-glider}es de metal, el personal puede usar una manguera de baja presión y detergente suave para limpiar. Los {term-glider}es de fibra de vidrio de alto rendimiento usan un spray especial o pasta para limpiar. Se debe tener cuidado al usar un pulidor eléctrico, ya que el pulidor puede quemar la fibra de vidrio si no se usa de manera apropiada.
 
-Después de limpiar, se puede aplicar una capa de cera o sellador a planeadores de tela, metal y fibra de vidrio. Sin embargo, la cera que contiene silicona se adhiere a los poros de la fibra de vidrio y complica futuras reparaciones de fibra de vidrio.
+Después de limpiar, se puede aplicar una capa de cera o sellador a {term-glider}es de tela, metal y fibra de vidrio. Sin embargo, la cera que contiene silicona se adhiere a los poros de la fibra de vidrio y complica futuras reparaciones de fibra de vidrio.
 
-Un propietario o piloto puede realizar reparaciones menores en un planeador de fibra de vidrio como arreglar un rasguño o una astilla. Las personas deberían consultar a un experto en fibra de vidrio antes de hacer cualquier reparación menor y usar piezas y materiales aprobados al conducir estas reparaciones.
+Un propietario o piloto puede realizar reparaciones menores en un {term-glider} de fibra de vidrio como arreglar un rasguño o una astilla. Las personas deberían consultar a un experto en fibra de vidrio antes de hacer cualquier reparación menor y usar piezas y materiales aprobados al conducir estas reparaciones.
 
 == Mantenimiento preventivo
 
-Los pilotos pueden conducir mantenimiento preventivo en su planeador. El mantenimiento preventivo no involucra operaciones de ensamblaje complejas. Para la lista de actividades de mantenimiento permisibles realizadas por el piloto y para más información sobre mantenimiento preventivo, referirse al Apéndice A de 14 CFR Parte 43, Alteraciones Mayores, Reparaciones Mayores y Mantenimiento Preventivo.
+Los pilotos pueden conducir mantenimiento preventivo en su {term-glider}. El mantenimiento preventivo no involucra operaciones de ensamblaje complejas. Para la lista de actividades de mantenimiento permisibles realizadas por el piloto y para más información sobre mantenimiento preventivo, referirse al Apéndice A de 14 CFR Parte 43, Alteraciones Mayores, Reparaciones Mayores y Mantenimiento Preventivo.
 
 == Resumen del capítulo
 
-Este capítulo introduce prácticas de seguridad recomendadas para el montaje, almacenamiento, amarre, aseguramiento y manejo en tierra para un planeador. La autoridad final para cualquier planeador es el Manual de Vuelo específico o Manual de Operaciones del Piloto (POH) desarrollado por el fabricante de la aeronave y aprobado por la FAA.
+Este capítulo introduce prácticas de seguridad recomendadas para el montaje, almacenamiento, amarre, aseguramiento y manejo en tierra para un {term-glider}. La autoridad {term-final} para cualquier {term-glider} es el Manual de Vuelo específico o Manual de Operaciones del Piloto (POH) desarrollado por el fabricante de la aeronave y aprobado por la FAA.

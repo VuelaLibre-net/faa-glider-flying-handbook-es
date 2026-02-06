@@ -16,7 +16,7 @@
 :term-airbrake: aerofreno
 :term-divebrake: aerofreno
 :term-trim: compensador
-:term-canopy: cabina
+:term-canopy: carlinga
 :term-fuselage: fuselaje
 :term-wing: ala
 :term-tailplane: estabilizador horizontal
@@ -25,7 +25,7 @@
 // Vuelo
 :term-stall: pérdida
 :term-spin: barrena
-:term-spiral: espiral
+:term-spiral: picado en espiral
 :term-slip: resbale
 :term-skid: derrape
 :term-thermal: térmica
@@ -65,7 +65,7 @@
 :term-cas: velocidad calibrada (CAS)
 :term-tas: velocidad verdadera (TAS)
 :term-oat: temperatura exterior (OAT)
-:term-yaw-string: lanita
+:term-yaw-string: hilo de lana
 :term-inclinometer: inclinómetro
 :term-uncompensated-variometer: variómetro no compensado
 :term-total-energy: energía total
@@ -85,7 +85,7 @@
 :term-track: derrota
 :term-wind-shear: cizalladura
 :term-water-ballast: lastre de agua
-:term-polar-curve: curva polar
+:term-polar-curve: polar de velocidades
 :term-ld-ratio: relación L/D
 :term-min-sink-speed: velocidad de mínimo descenso
 :term-cac: lista de verificación de montaje crítico (CAC)
@@ -95,24 +95,24 @@
 :term-tail-dolly: carrito de cola
 :term-gust-lock: bloqueo de mandos
 :term-canopy-cover: funda de cabina
-:term-safety-link: fusible
+:term-safety-link: eslabón fusible
 :term-breaking-strength: resistencia a la rotura
 :term-schweizer-hook: gancho tipo Schweizer
 :term-tost-hook: gancho Tost
 :term-ground-loop: caballito (ground loop)
 :term-cartwheel: voltereta
 :term-tow-pilot: piloto del remolcador
-:term-boxing-wake: caja de la estela
-:term-slack-line: línea floja
+:term-boxing-wake: caja de estela
+:term-slack-line: comba en el cable
 :term-high-tow: remolque alto
 :term-low-tow: remolque bajo
 :term-p-factor: factor P
 :term-propwash: estela de la hélice
 // (VMCA y VX son términos aeronáuticos universales, se escriben como V~MCA~ y V~X~)
 :term-initial-point: punto inicial (IP)
-:term-aiming-point: punto de referencia (aiming point)
+:term-aiming-point: punto de referencia
 :term-stabilized-approach: aproximación estabilizada
-:term-round-out: nivelada (round out)
+:term-round-out: nivelada
 :term-coordinated-flight: vuelo coordinado
 :term-shallow-turn: viraje suave
 :term-medium-turn: viraje medio
@@ -140,7 +140,7 @@
 :term-downwind: tramo de viento en cola
 :term-base: tramo base
 :term-final: final
-:term-flare: redondeo (flare)
+:term-flare: redondeo
 :term-touchdown: toma de contacto
 :term-rollout: carrera de aterrizaje
 
