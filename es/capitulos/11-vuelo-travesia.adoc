@@ -30,7 +30,7 @@ Los pilotos de planeadores pueden usar una Carta Aeronáutica Seccional electró
 .Extracto de una Carta Aeronáutica Seccional
 image::11/fig-11-01.excerpt-from-a-sectional-aeronautical-grafico.png[width=600]
 
-Los pilotos deben dedicar una cantidad significativa de tiempo a estudiar cartas seccionales en tierra. Esto incluye volar algunos vuelos de travesía "virtuales" en varias direcciones desde el sitio de planeo local. Además de estudiar el terreno (colinas, montañas, lagos grandes) que puede afectar el planeo a lo largo de la ruta, el piloto debe estudiar las diversas líneas y símbolos y responder las siguientes preguntas:
+Los pilotos deben dedicar una cantidad significativa de tiempo a estudiar cartas seccionales en tierra. Esto incluye volar algunos vuelos de travesía «virtuales» en varias direcciones desde el sitio de planeo local. Además de estudiar el terreno (colinas, montañas, lagos grandes) que puede afectar el planeo a lo largo de la ruta, el piloto debe estudiar las diversas líneas y símbolos y responder las siguientes preguntas:
 
 * ¿Qué aeropuertos están disponibles en la ruta?
 * ¿Alguno tiene torre de control?
@@ -68,7 +68,7 @@ Los pilotos inexperimentados y experimentados por igual deben usar listas de ver
 
 Estar mejor organizado antes del vuelo conduce a menos estrés durante el vuelo y mejora la seguridad del vuelo.
 
-== Equipo Personal y Especial
+== Equipo personal y especial
 
 Muchos artículos no requeridos para planeo local aseguran la comodidad del piloto en vuelos largos de travesía. Un suministro adecuado de agua potable previene la deshidratación. Algunos pilotos usan un sistema de bebida con mochila con una manguera fácilmente accesible y válvula de mordida. Este sistema se guarda fácilmente al lado del piloto y permite sorbos frecuentes de agua. Los pilotos también deben tener comida a bordo ya que los vuelos de travesía pueden durar hasta 8 horas o más. Los pilotos también deben tener un sistema de alivio en vuelos más largos.
 
@@ -102,7 +102,7 @@ Finalmente, los pilotos deben considerar usar un bloc de notas o tablero de rodi
 
 Los pilotos de aviones navegan por pilotaje (volando por referencia a puntos de referencia en tierra) o navegación estimada (calculando un rumbo desde la velocidad verdadera y el viento, y luego estimando el tiempo necesario para volar a un destino). Los pilotos de planeadores generalmente usan pilotaje ya que a menudo se desvían de una línea de curso sobre una larga distancia y no vuelan una velocidad durante ningún período de tiempo. A veces, los pilotos de planeadores pueden usar una combinación de los dos métodos.
 
-== Un Ejemplo de Vuelo de Travesía
+== Un ejemplo de vuelo de travesía
 
 Para fines de entrenamiento, un piloto podría planificar una ruta triangular comenzando en el Aeropuerto de Portales (PRZ), con puntos de giro en el Aeropuerto de Benger (X54) y el pueblo de Circle Back. La preparación pre-vuelo incluye dibujar las líneas de curso para las tres patas usando un sistema electrónico o carta. <<fig-11-06>>
 
@@ -134,7 +134,7 @@ A veces un piloto determina un curso aproximado mientras está en el aire. Supon
 
 El cielo hacia Portales indica condiciones de sustentación favorables. Sin embargo, el área a lo largo del nuevo curso incluye colinas de arena, un área que puede no tener buenas opciones para aterrizajes fuera de campo. El piloto decide tomar tiempo para ganar altitud en térmicas hasta más allá de este punto y hasta estar dentro de la distancia de planeo de sitios de aterrizaje adecuados.
 
-== Navegación Usando GPS
+== Navegación usando GPS
 
 Un sistema GPS hace la navegación más fácil. Una unidad GPS muestra distancia y rumbo a un punto especificado, generalmente encontrado desplazándose a través de una base de datos interna de puntos de referencia. Muchas unidades GPS también calculan y muestran continuamente la velocidad sobre el suelo. Dada la información de TAS, el GPS puede calcular el componente de viento de frente.
 
@@ -170,7 +170,7 @@ Un vuelo de travesía inicial común consiste en un vuelo de distancia recta de 
 
 Los pilotos ganan habilidades de travesía a través de la práctica pero también deben continuar revisando la teoría mientras ganan esa experiencia. Una teoría o técnica que inicialmente tuvo poco sentido toma mucha más significancia después de varios vuelos de travesía. La auto-crítica post-vuelo, que puede ocurrir en cualquier momento antes del siguiente vuelo, también mejora las habilidades del piloto.
 
-== Planeando Más Rápido y Más Lejos
+== Planeando más rápido y más lejos
 
 Una velocidad promedio de travesía de 20 o 30 millas por hora parece adecuada para un vuelo de 32 millas, pero esa velocidad promedio no acomoda vuelos más largos. Volar a velocidades promedio de travesía más altas permite distancias de vuelo de planeo aumentadas.
 
@@ -212,15 +212,15 @@ Para cuando el piloto 4 asciende bajo el cúmulo grande, el piloto se sienta bie
 
 === Consejos y Técnicas
 
-La banda de altitud cambia durante el día. En un día típico de planeo, la altura y fuerza térmica a menudo aumentan rápidamente durante la mañana tardía, y luego tanto la fuerza como la altura permanecen algo estables durante varias horas durante la tarde. La banda de altitud sube y se amplía con la altura térmica general. A veces una base de nubes cúmulo limita la parte superior de la banda de altitud. La base de nube puede aumentar lentamente por miles de pies durante varias horas, durante las cuales la banda de altitud también aumenta. Los pilotos deben detener el viaje y termalizar cuando están en o cerca del fondo de la banda de altitud. Presionar demasiado por distancia puede llevar a un aterrizaje fuera de campo temprano o llevar a tiempo perdido gastado ascendiendo ineficientemente a altitudes más bajas. Las térmicas a menudo "se apagan" rápidamente al final del día, y los pilotos deben considerar permanecer más alto al final del día. <<fig-11-14>>
+La banda de altitud cambia durante el día. En un día típico de planeo, la altura y fuerza térmica a menudo aumentan rápidamente durante la mañana tardía, y luego tanto la fuerza como la altura permanecen algo estables durante varias horas durante la tarde. La banda de altitud sube y se amplía con la altura térmica general. A veces una base de nubes cúmulo limita la parte superior de la banda de altitud. La base de nube puede aumentar lentamente por miles de pies durante varias horas, durante las cuales la banda de altitud también aumenta. Los pilotos deben detener el viaje y termalizar cuando están en o cerca del fondo de la banda de altitud. Presionar demasiado por distancia puede llevar a un aterrizaje fuera de campo temprano o llevar a tiempo perdido gastado ascendiendo ineficientemente a altitudes más bajas. Las térmicas a menudo «se apagan» rápidamente al final del día, y los pilotos deben considerar permanecer más alto al final del día. <<fig-11-14>>
 
 [[fig-11-14]]
 .Altura térmica y banda de altitud versus hora del día
 image::11/fig-11-14.termica-height-and-height-band-versus-time-of-day.png[width=600]
 
-Otra manera de aumentar la velocidad de travesía involucra una técnica conocida como "vuelo de delfín," que cubre distancias sorprendentes con poco o ningún giro o circulación. La idea involucra picar para acelerar mientras está en descenso y frenar y ascender en sustentación mientras se mantiene una línea de curso recta. Esta técnica utiliza térmicas espaciadas estrechamente, como ocurre a lo largo de una calle de nubes. La velocidad para volar entre áreas de sustentación depende del ajuste MacCready apropiado.
+Otra manera de aumentar la velocidad de travesía involucra una técnica conocida como «vuelo de delfín», que cubre distancias sorprendentes con poco o ningún giro o circulación. La idea involucra picar para acelerar mientras está en descenso y frenar y ascender en sustentación mientras se mantiene una línea de curso recta. Esta técnica utiliza térmicas espaciadas estrechamente, como ocurre a lo largo de una calle de nubes. La velocidad para volar entre áreas de sustentación depende del ajuste MacCready apropiado.
 
-Como ejemplo, asuma que dos planeadores comienzan en el mismo punto y vuelan bajo una calle de nubes con térmicas frecuentes con descenso débil entre las térmicas. El Planeador 1 usa "vuelo de delfín" volando más rápido en el descenso y más lento en sustentación. El Planeador 2 conserva la altitud y permanece cerca de la base de la nube volando mejor L/D a través de descenso débil. Para llegar a la siguiente nube, el piloto del planeador 2 vuela más rápido en áreas de sustentación. Al final de la calle de nubes, una buena subida pone rápidamente al planeador 1 cerca de la base de la nube y bien adelante del planeador 2. <<fig-11-15>> La mejor velocidad para volar disminuye el tiempo en descenso y por lo tanto disminuye la cantidad total de descenso pero produce el mejor progreso hacia adelante. Ser más lento en descenso aumenta el tiempo descendiendo y frena el progreso hacia adelante. Ser rápido en sustentación disminuye el tiempo en sustentación y la altitud ganada.
+Como ejemplo, asuma que dos planeadores comienzan en el mismo punto y vuelan bajo una calle de nubes con térmicas frecuentes con descenso débil entre las térmicas. El Planeador 1 usa «vuelo de delfín» volando más rápido en el descenso y más lento en sustentación. El Planeador 2 conserva la altitud y permanece cerca de la base de la nube volando mejor L/D a través de descenso débil. Para llegar a la siguiente nube, el piloto del planeador 2 vuela más rápido en áreas de sustentación. Al final de la calle de nubes, una buena subida pone rápidamente al planeador 1 cerca de la base de la nube y bien adelante del planeador 2. <<fig-11-15>> La mejor velocidad para volar disminuye el tiempo en descenso y por lo tanto disminuye la cantidad total de descenso pero produce el mejor progreso hacia adelante. Ser más lento en descenso aumenta el tiempo descendiendo y frena el progreso hacia adelante. Ser rápido en sustentación disminuye el tiempo en sustentación y la altitud ganada.
 
 [[fig-11-15]]
 .Ventaja de la velocidad apropiada para volar bajo una calle de nubes
@@ -228,7 +228,7 @@ image::11/fig-11-15.advantage-of-proper-velocidad-to-fly-under-a-nube.png[width=
 
 En un vuelo real de travesía, el piloto puede usar una combinación de vuelo de delfín y ascenso y planeo clásico. En el ejemplo anterior los pilotos decidieron no detenerse y circular en las térmicas débiles espaciadas estrechamente, pero podrían detenerse y circular si encuentran áreas de sustentación fuerte.
 
-== Situaciones Especiales
+== Situaciones especiales
 
 === Desviaciones de Curso
 

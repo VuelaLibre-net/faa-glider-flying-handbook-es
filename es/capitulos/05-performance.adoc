@@ -46,7 +46,7 @@ El viento también afecta el rendimiento del planeador. El viento en proa durant
 .Efecto aparente del viento en la distancia de despegue y el ángulo de ascenso
 image::05/fig-05-02.apparent-viento-effect-on-despegue-distance-and.png[width=600]
 
-Debido a la disminución de la fricción del suelo entre el viento y el suelo, la velocidad del viento a menudo aumenta con la altitud. Este "gradiente de viento" durante un lanzamiento terrestre podría resultar en un exceso de la velocidad máxima de lanzamiento. <<fig-05-03>>
+Debido a la disminución de la fricción del suelo entre el viento y el suelo, la velocidad del viento a menudo aumenta con la altitud. Este «gradiente de viento» durante un lanzamiento terrestre podría resultar en un exceso de la velocidad máxima de lanzamiento. <<fig-05-03>>
 
 [[fig-05-03]]
 .Un gradiente de viento puede afectar la velocidad del aire durante un remolque terrestre
@@ -104,7 +104,7 @@ image::05/fig-05-09.above-shows-that-increasing-peso-from-800-to-1200.png[width=
 
 La Figura 5-9 anterior muestra que aumentar el peso de 800 a 1,200 libras aumenta la velocidad de aire de mejor relación L/D de 60 a 73 nudos. Un planeador con más peso puede volar más rápido mientras mantiene la misma relación de sustentación/resistencia (relación de planeo). La ventaja del peso más pesado se hace aparente durante vuelo más rápido entre térmicas en aire descendente. En sustentación fuerte el planeador pesado puede ascender razonablemente bien, y la ventaja durante la porción de crucero del vuelo puede superar la desventaja durante los ascensos.
 
-Para volar más rápido con eficiencia, algunos planeadores tienen tanques de agua que permiten al piloto añadir peso como lastre. El piloto normalmente expulsa el lastre de agua antes de entrar en el patrón de tráfico o antes si las condiciones necesitan una tasa de ascenso más alta. Reducir el peso del planeador antes del aterrizaje permite al piloto hacer una aproximación normal, aterrizaje normal, y reduce la carga en el tren de aterrizaje.
+Para volar más rápido con eficiencia, algunos planeadores tienen tanques de agua que permiten al piloto añadir peso como lastre. El piloto normalmente expulsa el lastre de agua antes de entrar en el circuito de tráfico o antes si las condiciones necesitan una tasa de ascenso más alta. Reducir el peso del planeador antes del aterrizaje permite al piloto hacer una aproximación normal, aterrizaje normal, y reduce la carga en el tren de aterrizaje.
 
 == Manuales de vuelo y placas
 

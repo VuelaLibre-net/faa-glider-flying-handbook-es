@@ -13,8 +13,31 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 - Traducción de textos en imágenes (279 figuras)
 - Revisión técnica por pilotos titulados
 - Implementación completa de atributos de terminología `{term-xxx}`
-- Corrección de inconsistencias terminológicas ("patrón de tráfico" → "circuito de tráfico")
 - Soporte para variante regional de México (mx)
+
+---
+
+## [0.1.2] - 2026-02-06
+
+### Changed
+- **Mejoras en documentación, estilo y configuración**
+  - Actualización de CONTRIBUTING.md: sección de imágenes, atributos de términos, variantes regionales
+  - Corrección de capitalización de títulos a estilo español (mayúscula solo en primera palabra)
+  - Unificación de comillas rectas a comillas latinas/angulares (« ») según norma RAE
+  - Eliminación de referencias a adaptación normativa AESA/EASA
+  - Corrección de referencias a repositorio GitHub
+  - Portada PDF cambiada a versión beta (cover-beta.jpeg)
+
+### Fixed
+- **Terminología**
+  - Corregido: «patrón de tráfico» → «circuito de tráfico» (17 ocurrencias)
+
+### Added
+- **Assets**
+  - Imágenes mockup WebP para README (mockup.webp, mockup-gestor-imagenes.webp)
+- **Documentación**
+  - AGENTS.md - Guía para agentes de IA
+  - CHANGELOG.md - Registro de cambios
 
 ---
 
@@ -34,19 +57,6 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Estado: 262/279 figuras indexadas, 0/279 imágenes traducidas
 
 ---
-
-## [0.1.0] - 2026-02-06
-
-### Added
-- **Estructura inicial del proyecto** con soporte multi-formato (PDF, HTML, EPUB)
-- **13 capítulos traducidos** del FAA Glider Flying Handbook (FAA-H-8083-13B):
-  - Capítulo 1: Planeadores y veleros
-  - Capítulo 2: Componentes y sistemas
-  - Capítulo 3: Aerodinámica del vuelo
-  - Capítulo 4: Instrumentos de vuelo
-  - Capítulo 5: Performance del planeador
-  - Capítulo 6: Prevuelo y operaciones en tierra
-  - Capítulo 7: Lanzamiento, aterrizaje y maniobras
   - Capítulo 8: Procedimientos de emergencia
   - Capítulo 9: Meteorología para vuelo a vela
   - Capítulo 10: Técnicas de vuelo a vela

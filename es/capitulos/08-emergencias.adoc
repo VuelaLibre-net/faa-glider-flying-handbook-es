@@ -1,5 +1,5 @@
 [[cap08]]
-= Procedimientos Anormales y de Emergencia
+= Procedimientos anormales y de emergencia
 
 [abstract]
 --
@@ -10,27 +10,27 @@ Este capítulo presenta una variedad de escenarios anormales y de emergencia que
 
 Los pilotos de planeadores entrenan para procedimientos anormales y de emergencia en caso de problemas de control, fallas de instrumentos o malfunciones de equipos. Además, dado que los aterrizajes forzosos pueden ocurrir debido a ascensos inadecuados en un vuelo de travesía, los pilotos de planeadores deben entender cómo usar equipo de emergencia y equipo de supervivencia como una necesidad práctica.
 
-== Procedimientos Anormales y de Emergencia en Remolque Aéreo
+== Procedimientos anormales y de emergencia en remolque aéreo
 
 Los factores ambientales, el error del piloto y la falla mecánica del equipo pueden causar una anomalía durante el remolque aéreo. Los pilotos de remolque y de planeador deben evitar situaciones que pondrían al otro piloto en riesgo. Si surge una situación donde la posición del planeador amenaza la seguridad del avión de remolque, el piloto del planeador puede no tener otra opción que liberar la línea de remolque.
 
-=== Factores Ambientales
+=== Factores ambientales
 
 Los factores ambientales para terminar el remolque incluyen encontrar nubes, rotores de montaña (área de turbulencia creada por el viento y terreno montañoso), o visibilidad restringida. Cualquiera de estos factores puede requerir que el piloto del planeador se libere.
 
 === Error del Piloto
 
-Ejemplos de errores del piloto de remolque incluyen comenzar el despegue antes de que el piloto del planeador dé la señal de listo, usar giros pronunciados durante el remolque aéreo sin consentimiento previo del piloto del planeador, o uso frívolo de las señales de remolque aéreo, como "liberar inmediatamente". Para el piloto del planeador, ejemplos de error del piloto incluyen permitir que el planeador se salga de posición durante el remolque, perder de vista el avión de remolque, o dejar los aerofrenos abiertos durante el despegue y ascenso.
+Ejemplos de errores del piloto de remolque incluyen comenzar el despegue antes de que el piloto del planeador dé la señal de listo, usar giros pronunciados durante el remolque aéreo sin consentimiento previo del piloto del planeador, o uso frívolo de las señales de remolque aéreo, como «liberar inmediatamente». Para el piloto del planeador, ejemplos de error del piloto incluyen permitir que el planeador se salga de posición durante el remolque, perder de vista el avión de remolque, o dejar los aerofrenos abiertos durante el despegue y ascenso.
 
 Una situación peligrosa puede ocurrir durante el despegue si el piloto del planeador vuela alto sobre el avión de remolque y pierde de vista el avión de remolque. Si la tensión en la línea de remolque tira la cola del avión de remolque hacia arriba, el piloto de remolque puede quedarse sin autoridad de elevador hacia arriba. Además del momento de cabeceo hacia abajo que experimenta el avión de remolque, también está perdiendo velocidad del aire. El planeador elevándose como cometa crea una gran cantidad de resistencia que frena el avión de remolque. Puede tomar 1,500 pies o más para que el avión de remolque se recupere una vez que la cuerda se rompe o el piloto del planeador se libera.
 
-=== Despliegue Involuntario de Spoilers
+=== Despliegue involuntario de spoilers
 
 Las emergencias relacionadas con spoilers a menudo resultan del fallo del piloto para bloquear los spoilers en la posición cerrada antes del despegue. A medida que el planeador acelera por la pista, o poco después de que está en el aire, el flujo de aire despliega los spoilers, aumentando enormemente la resistencia del planeador. El piloto puede no notar los spoilers abiertos, pero la resistencia aumentada puede hacer imposible que el piloto de remolque ascienda y despeje obstáculos. Una liberación por parte del piloto de remolque deja al planeador bajo del suelo y en una configuración de alta resistencia. Si el piloto del planeador no reconoce la situación y cierra los spoilers, un aterrizaje inseguro se vuelve probable. Si las condiciones permiten un ascenso continuo, el piloto de remolque puede mover el timón para indicar que algo está mal con el planeador. El piloto del planeador debe diferenciar entre el piloto de remolque balanceando las alas indicando liberar inmediatamente, y el piloto de remolque moviendo el timón indicando que algo está mal con el planeador, evitando una liberación innecesaria.
 
-Si el tiempo lo permite, el piloto de remolque puede usar la radio y advertir al piloto del planeador para cerrar los spoilers. Sin usar radio, el piloto de remolque puede usar la señal de "Movimiento de Timón" para que el piloto del planeador revise el planeador. El piloto del planeador no debe confundir esta señal con la señal de "Balanceo de Alas" para que el piloto del planeador libere la línea de remolque. Este error dejaría al piloto del planeador a baja altitud con los spoilers abiertos y haría un aterrizaje seguro muy difícil.
+Si el tiempo lo permite, el piloto de remolque puede usar la radio y advertir al piloto del planeador para cerrar los spoilers. Sin usar radio, el piloto de remolque puede usar la señal de «Movimiento de Timón» para que el piloto del planeador revise el planeador. El piloto del planeador no debe confundir esta señal con la señal de «Balanceo de Alas» para que el piloto del planeador libere la línea de remolque. Este error dejaría al piloto del planeador a baja altitud con los spoilers abiertos y haría un aterrizaje seguro muy difícil.
 
-=== Fallas Mecánicas
+=== Fallas mecánicas
 
 Las fallas mecánicas del equipo incluyen fallas del gancho de remolque, fallas mecánicas o del airframe del avión de remolque, y fallas del airframe del planeador. El piloto de remolque mece las alas del avión de remolque para solicitar una liberación inmediata por parte del piloto del planeador. <<fig-08-01, panel derecho>> El piloto del planeador puede terminar deliberadamente el remolque o lanzamiento en cualquier momento que parezca más seguro que continuar. Por ejemplo, si el piloto del planeador descubre atascamiento de controles una vez que la presión de aire se acumula en las superficies, liberar la línea de remolque parece menos riesgoso que continuar. Si ocurre una falla mecánica, el piloto del planeador debe evaluar la situación y determinar el mejor curso de acción. Las opciones incluyen permanecer en el remolque aéreo, planear liberarse en un punto futuro, o liberarse inmediatamente.
 
@@ -66,7 +66,7 @@ image::08/fig-08-06.situations-for-remolque-linea-break-uncommanded.png[width=60
 
 ==== Falla de Remolque después del Despegue—Planeador Incapaz de Regresar al Aeropuerto
 
-Cuando ocurre una liberación involuntaria, rotura de línea de remolque o una señal para liberar del avión de remolque en un punto en el cual el planeador no tiene suficiente pista directamente adelante para aterrizar ni suficiente altitud (típicamente 200 pies sobre el nivel del terreno) para hacer un giro seguro de regreso al campo, el piloto debe aterrizar el planeador adelante. <<fig-08-06, panel 2>> Los pilotos de planeadores deben considerar cualquier intento de girar a baja altitud antes del aterrizaje como de alto riesgo debido a la probabilidad de arrastrar una punta de ala en el suelo o perder el planeador. Aterrizar adelante y frenar el planeador tanto como sea posible antes del toque y rodar sobre terreno desconocido a menudo proporciona el mejor resultado. Baja velocidad significa fuerzas de impacto bajas, lo que reduce la probabilidad de lesión del piloto o daño al planeador. Los pilotos de planeadores deben mirar a ambos lados y adelante al elegir la mejor área para un aterrizaje fuera de campo. Mientras más altitud proporciona más alcance durante una emergencia, aterrizar bajo control tiene prioridad sobre llegar a un área de aterrizaje "perfecta" casi dentro de la distancia de planeo.
+Cuando ocurre una liberación involuntaria, rotura de línea de remolque o una señal para liberar del avión de remolque en un punto en el cual el planeador no tiene suficiente pista directamente adelante para aterrizar ni suficiente altitud (típicamente 200 pies sobre el nivel del terreno) para hacer un giro seguro de regreso al campo, el piloto debe aterrizar el planeador adelante. <<fig-08-06, panel 2>> Los pilotos de planeadores deben considerar cualquier intento de girar a baja altitud antes del aterrizaje como de alto riesgo debido a la probabilidad de arrastrar una punta de ala en el suelo o perder el planeador. Aterrizar adelante y frenar el planeador tanto como sea posible antes del toque y rodar sobre terreno desconocido a menudo proporciona el mejor resultado. Baja velocidad significa fuerzas de impacto bajas, lo que reduce la probabilidad de lesión del piloto o daño al planeador. Los pilotos de planeadores deben mirar a ambos lados y adelante al elegir la mejor área para un aterrizaje fuera de campo. Mientras más altitud proporciona más alcance durante una emergencia, aterrizar bajo control tiene prioridad sobre llegar a un área de aterrizaje «perfecta» casi dentro de la distancia de planeo.
 
 ==== Falla de Remolque por Encima de la Altitud de Retorno a Pista
 
@@ -88,9 +88,9 @@ Cuando la emergencia ocurre a 800 pies o más sobre el suelo, el piloto del plan
 
 ==== Falla de Remolque por Encima de la Altitud del Patrón de Tráfico
 
-Si ocurre una emergencia por encima de la altitud del patrón de tráfico, el piloto del planeador debe maniobrar lejos del avión de remolque, y liberar la línea de remolque si aún está unida. El piloto del planeador debe girar hacia el aeródromo o aeropuerto mientras evalúa la situación y luego decidir si buscar ascenso o hacer un retorno inmediato al aeródromo o aeropuerto para aterrizar. Los pilotos deben recordar su obligación cuando sueltan objetos (como una línea de remolque) de una aeronave de acuerdo al Título 14 del Código de Regulaciones Federales parte 91, sección 91.15, y no crear un peligro para personas y propiedad en tierra.
+Si ocurre una emergencia por encima de la altitud del circuito de tráfico, el piloto del planeador debe maniobrar lejos del avión de remolque, y liberar la línea de remolque si aún está unida. El piloto del planeador debe girar hacia el aeródromo o aeropuerto mientras evalúa la situación y luego decidir si buscar ascenso o hacer un retorno inmediato al aeródromo o aeropuerto para aterrizar. Los pilotos deben recordar su obligación cuando sueltan objetos (como una línea de remolque) de una aeronave de acuerdo al Título 14 del Código de Regulaciones Federales parte 91, sección 91.15, y no crear un peligro para personas y propiedad en tierra.
 
-==== Línea Floja
+==== Línea floja
 
 La línea floja es una reducción de la tensión en la línea de remolque. Si la holgura es lo suficientemente severa, podría enredar el planeador o causar daño al planeador o avión de remolque. Las siguientes situaciones pueden resultar en una línea floja:
 
@@ -113,7 +113,7 @@ Cuando el avión de remolque precede al planeador en una corriente ascendente, e
 
 Un piloto de planeador debe iniciar procedimientos de recuperación de línea de remolque floja tan pronto como sea posible aumentando la resistencia. Por ejemplo, el piloto del planeador puede resbalar de nuevo en alineación con el avión de remolque. Si el movimiento de resbalón falla en reducir la holgura suficientemente, el uso cuidadoso de spoilers/frenos de picado puede desacelerar el planeador y tomar la holgura. A medida que la línea de remolque se tensa y el remolque se estabiliza, el piloto del planeador remueve la resistencia extra y reanuda la posición de remolque aéreo deseada. El piloto del planeador debe liberarse inmediatamente del remolque aéreo si la holgura en la línea de remolque se vuelve excesiva o está más allá de la capacidad del piloto para recuperar de manera segura.
 
-==== Errores Comunes
+==== Errores comunes
 
 Los errores comunes respecto a una línea floja incluyen:
 
@@ -121,9 +121,9 @@ Los errores comunes respecto a una línea floja incluyen:
 * Procedimiento incorrecto para corregir línea floja causando estrés excesivo en la línea de remolque, avión de remolque y el planeador.
 * Falla en disminuir la resistencia a medida que disminuye la holgura de la línea de remolque.
 
-== Procedimientos Anormales y de Emergencia en Lanzamiento en Tierra
+== Procedimientos anormales y de emergencia en lanzamiento en tierra
 
-=== Procedimientos Anormales
+=== Procedimientos anormales
 
 El operador del equipo de lanzamiento gestiona un torno controlado por velocidad a cierta distancia del planeador, y la velocidad y tensión de remolque inicial podrían variar. Una velocidad de línea de remolque demasiado grande podría exceder las limitaciones del planeador mientras que una velocidad demasiado baja puede hacer difícil el despegue, prevenir un ascenso adicional después del despegue, o resultar en pérdida después del despegue. El piloto debe usar llamadas de radio apropiadas y aumentar con señales visuales si es necesario, para dirigir al operador de lanzamiento para aumentar o disminuir la velocidad. El piloto debe liberar la línea de remolque y aterrizar adelante si se desarrolla una situación anormal.
 
@@ -157,7 +157,7 @@ Las opciones posibles para manejar emergencias dependen de la altitud sobre el t
 
 Una actitud excesivamente baja de la nariz durante un giro pronunciado puede resultar en un aumento significativo de la velocidad y pérdida de altitud, lo que indica un picado en espiral. Si el piloto intenta recuperarse de esta situación aplicando solo presión hacia atrás del elevador, el factor de carga límite puede excederse, causando falla estructural. Para recuperarse de un picado en espiral, el piloto debe primero reducir el ángulo de alabeo con uso coordinado del timón y alerón, y luego suavemente aumentar el cabeceo a la actitud apropiada.
 
-==== Errores Comunes
+==== Errores comunes
 
 Los errores comunes durante picados en espiral incluyen:
 
@@ -192,11 +192,11 @@ Antes de iniciar una barrena, los pilotos deben revisar el área de vuelo arriba
 
 En la fase de entrada, el piloto proporciona los elementos necesarios para la barrena. El procedimiento de entrada de demostración de barrena comienza muy parecido a una pérdida. Sin embargo, a medida que el planeador se aproxima a una pérdida, el piloto suavemente aplica timón completo en la dirección seleccionada para la rotación de barrena y elevador completo hacia atrás (arriba) hasta el límite de recorrido. El piloto debe mantener los alerones en la posición neutral durante el procedimiento de barrena a menos que el GFM/POH especifique lo contrario.
 
-==== Fase Incipiente
+==== Fase incipiente
 
 La fase incipiente comienza cuando el planeador entra en pérdida y comienza la rotación. A medida que se desarrolla una barrena incipiente, la velocidad del aire indicada debe leer cerca o por debajo de la velocidad de pérdida. Esta fase puede durar hasta que la barrena se desarrolle completamente, lo que puede tomar hasta dos vueltas para la mayoría de los planeadores. Los instructores comúnmente usan una barrena incipiente para introducción al entrenamiento de barrena y comienzan la recuperación antes de la primera rotación de 360°. En esta fase, las fuerzas aerodinámicas y las fuerzas inerciales no han logrado un balance.
 
-==== Fase Desarrollada
+==== Fase desarrollada
 
 La fase desarrollada ocurre cuando la tasa de rotación angular del planeador, la velocidad del aire y la velocidad vertical se estabilizan con el planeador en una trayectoria de vuelo casi vertical. El equilibrio ocurre en esta fase ya que las fuerzas aerodinámicas y las fuerzas inerciales se balancean y la actitud, ángulos y movimientos auto-sostenidos alrededor del eje vertical se vuelven constantes o repetitivos.
 
@@ -216,7 +216,7 @@ La FAA recomienda estos procedimientos de recuperación solo para uso en ausenci
 
 Los problemas más comunes en la recuperación de barrena incluyen la confusión del piloto al determinar la dirección de la rotación de barrena y si la maniobra constituye una barrena o un picado en espiral. Un inclinómetro no indica la dirección de una barrena. Una velocidad del aire alta o aumentando indica un picado en espiral. En una barrena, la velocidad del aire lee en o por debajo de la velocidad de pérdida.
 
-==== Errores Comunes
+==== Errores comunes
 
 Los errores comunes al encontrar/practicar barrenas incluyen:
 
@@ -284,19 +284,19 @@ La resistencia aerodinámica funciona mejor que los frenos de rueda a velocidade
 
 ==== Después del Aterrizaje Fuera de Campo
 
-==== Aterrizaje Fuera de Campo sin Lesión
+==== Aterrizaje fuera de campo sin lesión
 
 Un piloto debe atender sus necesidades personales primero, asegurar el planeador, y luego contactar a la tripulación de recuperación. Si existe servicio celular, el piloto puede usar un teléfono celular para llamar a la tripulación de recuperación. Para ayudar a identificar la posición, el piloto debe transmitir las coordenadas GPS. Los pilotos deben escribir las coordenadas en caso de que el GPS pierda energía. Si es posible, llamar a otros pilotos de planeadores en el área en la frecuencia de radio planeador-a-planeador o llamar al avión de remolque puede ayudar con la recuperación.
 
 Una vez que se ha hecho contacto para arreglar la recuperación, el piloto puede recolectar cualquier herramienta especial necesaria para el desmontaje del planeador o instalar bloqueos de ráfaga en los controles de vuelo del planeador. Dado que una recuperación normal depende de la ubicación, clima y hora del día, el piloto puede necesitar preparar equipo para manejar las condiciones ambientales actuales o esperadas.
 
-==== Aterrizaje Fuera de Campo con Lesión o Emergencia
+==== Aterrizaje fuera de campo con lesión o emergencia
 
 Un piloto debe atender cualquier lesión crítica y contactar personal de respuesta de emergencia, otras aeronaves, o cualquier otra fuente de asistencia identificable. Si existe cobertura celular, el piloto puede marcar el número de emergencia local, hablar con un operador y proporcionar una descripción clara de la ubicación. Si el servicio celular no funciona, un piloto puede usar la radio del planeador, si está operable, para transmitir una llamada de socorro Mayday en la frecuencia de emergencia 121.5 MHz. Muchas aeronaves, incluyendo aviones comerciales civiles, monitorean rutinariamente esta frecuencia. Su altitud da al transceptor de aviación de línea de vista alcance mejorado al transmitir o recibir. El piloto puede intentar cualquier otra frecuencia probable que elicite una respuesta como la frecuencia planeador-aire-a-planeador o la frecuencia del avión de remolque. Algunos planeadores tienen un Transmisor de Localización de Emergencia (ELT) a bordo. Un piloto que necesite asistencia de emergencia debe activar el ELT, si está disponible. Mientras que 14 CFR, parte 91, sección 91.207 no se refiere a planeadores, un ELT o EPIRB añade seguridad cuando se vuela un planeador en travesía. Los dispositivos de localización personal ofrecidos por varias compañías usan la señal satelital de 406 MHz y tecnología GPS para rastrear y retransmitir con precisión la ubicación del piloto en el evento de un aterrizaje fuera de campo que requiera asistencia de emergencia. Además, los pilotos pueden elegir llevar dispositivos de comunicación y rastreo por satélite que permiten comunicación incluso fuera de cobertura celular.
 
 Si el planeador viene a reposar en una posición precaria, el piloto debe asegurar la aeronave si es posible. Un piloto lesionado debe quedarse con el planeador. El personal de rescate puede localizar el planeador más fácilmente desde el aire que localizar a un individuo. El piloto podría obtener protección de los elementos gateándose dentro del fuselaje, gateándose debajo de un ala, o usando cualquier toldo de paracaídas para improvisar una tienda alrededor de la estructura del planeador. Después de atender las necesidades médicas y contactar al personal de rescate, el piloto debe atender la ropa, alimentos y agua. El piloto debe hacer todo intento para conservar energía. Si no es seguro quedarse con el planeador, el piloto debe moverse a una ubicación cercana para refugiarse pero dejar instrucciones escritas claras en una ubicación prominente en el planeador detallando la ubicación del refugio.
 
-==== Errores Comunes
+==== Errores comunes
 
 Los errores comunes al planificar/ejecutar aterrizajes fuera de campo incluyen:
 
@@ -333,7 +333,7 @@ El planeador vuela derecho y nivelado, con o sin un pequeño trim de timón a la
 
 Para detener el giro y recuperar el vuelo recto, el piloto debe ajustar la presión del pedal para centrar la bola (coordinar el giro), nivelar las alas para detener el balanceo y luego aplicar presión de pedal izquierdo apropiada para mantener la velocidad de coordinación recta y nivelada. El piloto debe ajustar el timón para mantener el vuelo recto y nivelado hasta que los controles de tierra puedan asegurar la aeronave.
 
-En ocasiones, el alerón que funciona puede tener suficiente autoridad para movimientos normales de balanceo a la velocidad de planeado. Al entrar al patrón de tráfico, el piloto usa el alerón bueno para mantener la coordinación, sabiendo que el piloto puede coordinar la aproximación con solo timón. Luego, al bajar en la aproximación final, el piloto se da cuenta de que, con los spoilers o frenos de picado extendidos, solo el timón sigue teniendo autoridad para mantener el balanceo del planeador. Para esta falla de alerón particular, el piloto puede no usar el alerón bueno hasta después del despegue en un aterrizaje subsiguiente.
+En ocasiones, el alerón que funciona puede tener suficiente autoridad para movimientos normales de balanceo a la velocidad de planeado. Al entrar al circuito de tráfico, el piloto usa el alerón bueno para mantener la coordinación, sabiendo que el piloto puede coordinar la aproximación con solo timón. Luego, al bajar en la aproximación final, el piloto se da cuenta de que, con los spoilers o frenos de picado extendidos, solo el timón sigue teniendo autoridad para mantener el balanceo del planeador. Para esta falla de alerón particular, el piloto puede no usar el alerón bueno hasta después del despegue en un aterrizaje subsiguiente.
 
 ==== Timón de Dirección
 
@@ -411,7 +411,7 @@ Las emergencias de motor representan la amenaza más obvia durante el vuelo en m
 
 Un piloto debe cerrar el suministro de combustible y encender el sistema eléctrico después de una falla del motor para evitar daño al motor o sistema eléctrico e incendio. Para el reinicio, algunos planes de emergencia de motovela requieren que el piloto encienda la potencia y motor. En motoveletas equipadas con hélice y motor de arranque eléctrico, el piloto necesita energía eléctrica para encender el motor.
 
-==== Incendio Eléctrico
+==== Incendio eléctrico
 
 Para un incendio eléctrico, el piloto debe cerrar la válvula de combustible, apagar la batería, y apagar todos los equipos de panel. Esto incluye transponder, radio, instrumentos eléctricos y cualquier equipos de panel adicionales. El piloto debe luego abrir las ventanas de cabina y usar los extintores de fuego, si están disponibles, para extinguir el fuego. El piloto debe terminar el vuelo y aterrizar tan pronto como sea posible.
 
@@ -447,7 +447,7 @@ Si el ELT se activa inadvertidamente, el piloto debe apagarlo inmediatamente par
 
 Los pilotos deben llevar teléfonos celulares, si es posible. El piloto debe asegurarse de que el teléfono celular funcione y esté completamente cargado antes del vuelo. Los pilotos también pueden usar radios de mano para comunicación con la torre de control o Centro de Ruta de Vuelo de la FAA, o con otros pilotos de planeadores o el avión de remolque. Algunos planeadores tienen dispositivos de localización personal que usan la señal satelital de 406 MHz y tecnología GPS para rastrear y retransmitir la ubicación del piloto en el evento de un aterrizaje fuera de campo que requiera asistencia de emergencia. Los dispositivos de comunicación y rastreo por satélite permiten comunicación incluso fuera de cobertura celular.
 
-=== Kit Médico
+=== Kit médico
 
 Los pilotos de planeadores deben considerar llevar un kit médico que incluye vendajes, vendajes triangulares, esparadrapo, y otros artículos médicos para atender heridas. El piloto debe asegurarse de tener suministros de primeros auxilios para el planeador, y los pilotos deben revisar los contenidos del kit de primeros auxilios para asegurar que todos los suministros estén presentes, en buenas condiciones, y no vencidos. Los pilotos deben considerar llevar cualquier medicamento o suministro especial que necesiten para una condición médica existente.
 

@@ -1,5 +1,5 @@
 [[cap13]]
-= Factores Humanos
+= Factores humanos
 
 [abstract]
 --
@@ -14,13 +14,13 @@ El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-01
 .Disciplinas de factores humanos
 image::13/fig-13-01.human-factor-disciplines.png[width=600]
 
-== Reconociendo Actitudes Peligrosas
+== Reconociendo actitudes peligrosas
 
 Las actitudes peligrosas llevan a comportamientos peligrosos que incluyen complacencia, indisciplina y sobreconfianza, que todos aumentan el riesgo de un accidente de planeador.
 
 === Complacencia
 
-La complacencia puede ocurrir si un piloto siente una falsa sensación de seguridad sobre los alrededores. Esto podría afectar a un piloto de planeador que solo quiere volar y no comprende los peligros y riesgos asociados. La complacencia también afecta a pilotos de planeadores que ya no se sienten obligados a adherirse a precauciones de seguridad estándar (por ejemplo, "He hecho esto un millón de veces y no necesito referirme a una lista de verificación.").
+La complacencia puede ocurrir si un piloto siente una falsa sensación de seguridad sobre los alrededores. Esto podría afectar a un piloto de planeador que solo quiere volar y no comprende los peligros y riesgos asociados. La complacencia también afecta a pilotos de planeadores que ya no se sienten obligados a adherirse a precauciones de seguridad estándar (por ejemplo, «He hecho esto un millón de veces y no necesito referirme a una lista de verificación.»).
 
 Algunas contramedidas incluyen:
 
@@ -56,7 +56,7 @@ Un tipo de error involuntario involucra la falla en realizar una acción previst
 
 Si un piloto sabiamente hace algo mal, ese piloto se desvió intencionalmente de prácticas, procedimientos, estándares o reglamentos seguros. En aviación, un error intencional sugiere una falta grave y subyacente de preocupación por la seguridad. El piloto debe reflexionar sobre la razón del error, buscar consejo o asesoramiento, y no volar a menos que sea capaz de prevenir ese comportamiento.
 
-== Factores Fisiológicos/Médicos que Afectan el Rendimiento del Piloto
+== Factores fisiológicos/médicos que afectan el rendimiento del piloto
 
 === Fatiga
 
@@ -90,19 +90,19 @@ image::13/fig-13-04.common-symptoms-of-hyperventilation.png[width=600]
 
 La hipoxia resulta de oxígeno reducido o no suficiente oxígeno. Aunque el tejido celular humano morirá si se le priva de oxígeno por tiempo suficiente, la preocupación principal para los pilotos es la falta de oxígeno al cerebro, que puede reducir la capacidad cognitiva y resultar en errores que amenazan la vida. La hipoxia tiene varios factores causales, incluyendo un suministro insuficiente de oxígeno, transporte inadecuado de oxígeno, o la incapacidad de los tejidos corporales para usar el oxígeno. Las formas de hipoxia se basan en sus causas:
 
-==== Hipoxia Hipóxica
+==== Hipoxia hipóxica
 
 La hipoxia hipóxica resulta de oxígeno insuficiente disponible para el cuerpo en su conjunto. La reducción en la presión parcial de oxígeno a gran altitud puede hacer que un piloto experimente este tipo de hipoxia. A medida que una aeronave no presurizada asciende durante el vuelo, el porcentaje de oxígeno atmosférico permanece constante, pero un número reducido de moléculas de oxígeno entra en los pulmones y pasa entre las membranas dentro del sistema respiratorio.
 
-==== Hipoxia Hémica
+==== Hipoxia hémica
 
 La hipoxia hémica ocurre cuando la sangre no puede absorber suficiente oxígeno. Las causas de esta forma de hipoxia incluyen volumen sanguíneo reducido por sangrado severo o ciertas enfermedades sanguíneas, como anemia. El envenenamiento por monóxido de carbono causa este tipo de hipoxia. La hemoglobina, la molécula sanguínea que transporta oxígeno, se vuelve químicamente incapaz de unir moléculas de oxígeno si se expone al monóxido de carbono. La hipoxia hémica también puede ocurrir después de una donación de sangre. Mientras que el volumen sanguíneo se normaliza rápidamente después de una donación, restaurar la hemoglobina perdida puede tomar varias semanas. Aunque los efectos de la pérdida de sangre parecen leves al nivel del suelo, la donación de sangre puede crear un riesgo de vuelo durante el período de recuperación.
 
-==== Hipoxia Estancada
+==== Hipoxia estancada
 
 La hipoxia estancada o isquemia resulta cuando la sangre rica en oxígeno en los pulmones no se mueve a los tejidos que lo necesitan. Un brazo o pierna quedándose dormido debido a flujo sanguíneo restringido es una forma de hipoxia estancada. Este tipo de hipoxia también puede resultar de shock, el corazón fallando en bombear sangre efectivamente, o una arteria constreñida. Durante el vuelo, fuerzas G excesivas pueden causar hipoxia estancada. Las temperaturas frías también pueden reducir la circulación y disminuir el suministro de sangre a las extremidades.
 
-==== Hipoxia Histotóxica
+==== Hipoxia histotóxica
 
 Cuando ocurre la hipoxia histotóxica, el cuerpo transporta suficiente oxígeno a las células, pero ellas no pueden hacer uso de él. Este deterioro de la respiración a nivel celular puede resultar del consumo de alcohol, exposición a ciertas drogas o narcóticos, o exposición a venenos.
 
@@ -148,7 +148,7 @@ El buceo con escafandra somete al cuerpo a presión aumentada, que disuelve más
 
 El entrenamiento de buceo enfatiza cómo prevenir los dolores al subir a la superficie de un cuerpo de agua. Sin embargo, el nitrógeno en exceso puede permanecer en los fluidos tisulares por varias horas después de terminar una inmersión. Un piloto que bucea con escafandra puede experimentar los dolores desde tan bajo como 8,000 pies MSL, con severidad creciente a medida que aumenta la altitud. Como se indica en el Manual de Información Aeronáutica (AIM), el tiempo mínimo recomendado entre buceo con escafandra en inmersiones sin parada de descompresión y volar es de 12 horas, mientras que el tiempo mínimo recomendado entre buceo con parada de descompresión y volar es de 24 horas.
 
-=== Desorientación Espacial
+=== Desorientación espacial
 
 La mayoría de los planeadores usados para entrenamiento primario tienen instrumentación básica solamente, y los pilotos de planeadores normalmente no se entrenan para vuelo únicamente por referencia a instrumentos. Los pilotos de planeadores deben evitar el vuelo en baja visibilidad o en cualquier condición que haga difícil discernir el horizonte. Estas condiciones aumentan la probabilidad de que el piloto sucumba a una ilusión y experimente una pérdida de control. <<fig-13-07>> Los pilotos de planeadores que vuelan en visibilidad marginal deben establecer y cumplir con mínimos personales para visibilidad.
 
@@ -170,7 +170,7 @@ Los pilotos deben llevar agua en cada vuelo para prevenir la deshidratación. Al
 
 El golpe de calor resulta cuando el cuerpo no puede controlar la temperatura alta excesiva. El inicio de esta condición puede imitar la deshidratación, pero también puede llevar a colapso. Para prevenir estos síntomas, el piloto debe llevar un suministro amplio de agua y usarlo en intervalos frecuentes en cualquier vuelo largo, incluso si no tiene sed. Usar ropa de color claro, porosa y un sombrero proporciona protección del sol. Ventilar la cabina también ayuda a remover calor excesivo.
 
-=== Clima Frío
+=== Clima frío
 
 Prepararse para frío extremo puede parecer extraño cuando existen temperaturas cómodas al nivel del suelo en días de planeo de onda. Sin embargo, al volar a altas altitudes, el interior del planeador puede ponerse frío. Un planeador a gran altitud puede encontrar temperaturas de -30° a -60 °C. Al planear, el sol a través del dosel puede mantener la parte superior del cuerpo del piloto caliente por un tiempo, pero las piernas y pies sombreados pueden enfriarse rápidamente o sufrir congelación. Después de una hora o dos a tales temperaturas, incluso la parte superior del cuerpo puede volverse bastante fría. La ropa en capas, suelta ayuda a aislar el calor corporal. Ya sean guantes de lana o guantes ajustados con manoplas sobre ellos pueden proteger las manos. Dos o tres pares de calcetines en capas con seda en el interior y lana en el exterior más una bota aislada pueden ayudar a mantener los pies cómodos. Los fabricantes de ropa producen ropa y calcetines con elementos de calefacción internos y baterías de litio recargables que el piloto puede encender y regular. Estos hacen una gran adición al guardarropa de un piloto de planeador.
 
@@ -184,7 +184,7 @@ Antes del lanzamiento, el piloto debe informar a cualquier pasajero sobre el uso
 
 Los pilotos pueden usar un paracaídas para emergencias. Un empacador de paracaídas certificado y apropiadamente calificado debe reempacar un paracaídas de nailon dentro de los 180 días precedentes. La información de fecha de empaque usualmente se encuentra en una tarjeta contenida en un pequeño bolsillo en el cuerpo del paracaídas. Refiérase a 14 CFR, parte 91, sección 91.307 para más información.
 
-=== Oxígeno Suplemental
+=== Oxígeno suplemental
 
 Los vuelos de planeo de gran altitud requieren el uso de oxígeno suplemental. En algunas partes del país, el planeo ocurre rutinariamente hasta una base de nubes de 16,000 a 18,000 pies en térmicas. El vuelo usando ondas de montaña puede llevar a vuelo a altitudes de más de 30,000 pies en los Estados Unidos.
 
@@ -266,7 +266,7 @@ El Circular Asesivo (AC) 60-22, Toma de Decisiones Aeronáuticas, proporciona ma
 
 La Junta Nacional de Seguridad de Transporte (NTSB) compila un informe de accidente cada vez que ocurre un accidente de planeador reportable. Las personas interesadas pueden encontrar esta información pública en www.ntsb.gov.
 
-Un individuo usando la base de datos de accidentes del NTSB puede usar su herramienta de consulta suministrada para realizar una búsqueda simple usando el término "glider" (y otros elementos opcionales) para recuperar informes de accidentes involucrando planeadores. El detalle en estos informes proporciona una narrativa de circunstancias y eventos que llevaron a cada accidente. Dado que las decisiones del piloto antes y durante el vuelo pueden haber prevenido estos accidentes, una revisión puede ilustrar el concepto de una cadena de accidente. Ese entendimiento debería impulsar a los pilotos a hacer de la seguridad y la mitigación de riesgos una alta prioridad. La <<fig-13-13>> contiene un resumen de varios informes finales de accidentes de planeadores de los últimos años.
+Un individuo usando la base de datos de accidentes del NTSB puede usar su herramienta de consulta suministrada para realizar una búsqueda simple usando el término «glider» (y otros elementos opcionales) para recuperar informes de accidentes involucrando planeadores. El detalle en estos informes proporciona una narrativa de circunstancias y eventos que llevaron a cada accidente. Dado que las decisiones del piloto antes y durante el vuelo pueden haber prevenido estos accidentes, una revisión puede ilustrar el concepto de una cadena de accidente. Ese entendimiento debería impulsar a los pilotos a hacer de la seguridad y la mitigación de riesgos una alta prioridad. La <<fig-13-13>> contiene un resumen de varios informes finales de accidentes de planeadores de los últimos años.
 
 [[fig-13-13]]
 .Datos de accidentes de planeadores de la base de datos del NTSB
