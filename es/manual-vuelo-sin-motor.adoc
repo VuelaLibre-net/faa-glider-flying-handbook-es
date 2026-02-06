@@ -47,6 +47,10 @@ include::config/atributos.adoc[]
 // Sobrescribir imagesdir para que sea relativo a este archivo
 :imagesdir: imagenes
 
+// Numeración de secciones: solo hasta nivel 2 (capítulos y secciones)
+// Debe ir después del include para no ser sobrescrito
+:sectnumlevels: 2
+
 // === PORTADA Y PRELIMINARES ===
 
 [colophon]
@@ -117,13 +121,16 @@ Actualizaciones y mejoras son bienvenidas en nuestro repositorio de GitHub: http
 |===
 
 '''
-*Dedicatoria*
+[dedication]
+== Dedicatoria
 
-Esfuerzo dedicado a la memoria de Iñaqui Ulibarri, quien nos dio las alas y nos enseñó a usarlas con prudencia.
+*A la memoria de Iñaqui Ulibarri*
 
-Muchos aprendimos a ser pilotos bajo tu mirada atenta y tu sabia exigencia. Fuiste nuestro mejor maestro: siempre indicándonos dónde estaba la excelencia. Aunque ya no estés en el asiento de atrás, tu legado vuela con nosotros en cada planeo silencioso y en cada decisión segura. Gracias por hacernos mejores pilotos y, sobre todo, mejores personas.
+El maestro que nos dio las alas y nos transmitió la sabiduría para usarlas.
 
+Sigues con nosotros en el asiento de atrás; vuelas con nosotros en cada térmica y en cada decisión segura, que seguimos tomando en tu nombre. Gracias por la inmensa pasión que nos dejaste como herencia.
 
+_Siempre en nuestros vuelos._
 
 
 '''
@@ -217,11 +224,11 @@ A la comunidad de pilotos de vuelo a vela de España y Latinoamérica que han ap
 
 El *Manual de Vuelo en Planeador* está diseñado como manual técnico para candidatos que se preparan para obtener la habilitación de planeador y para pilotos de planeador certificados que desean mejorar sus conocimientos. Los instructores de vuelo certificados encontrarán en este manual una valiosa ayuda para la instrucción, ya que incluye cobertura detallada de toma de decisiones aeronáuticas, componentes y sistemas, aerodinámica, instrumentos de vuelo, limitaciones de rendimiento, operaciones en tierra, maniobras de vuelo, circuitos de tráfico, emergencias, meteorología para vuelo a vela, técnicas de vuelo a vela y vuelo de travesía. Temas como navegación y comunicación por radio, uso de publicaciones de información aeronáutica y normativas están disponibles en otras publicaciones de la Administración Federal de Aviación (FAA).
 
-Las discusiones y explicaciones reflejan las prácticas y principios más comúnmente utilizados. Ocasionalmente, se utiliza la palabra «debe» o lenguaje similar cuando la acción deseada se considera crítica. El uso de dicho lenguaje no pretende añadir, interpretar o aliviar una obligación impuesta por el Título 14 del Código de Regulaciones Federales (14 CFR). Se recomienda a las personas que trabajan para obtener una habilitación de planeador revisar las referencias de los estándares prácticos de examen aplicables. Los recursos de estudio incluyen FAA-H-8083-25, *Pilot's Handbook of Aeronautical Knowledge*; FAA-H-8083-2, *Risk Management Handbook*; y FAA-H-8083-28, *Aviation Weather Handbook*, ya que estos documentos contienen material básico no duplicado en este manual. Todos los candidatos principiantes deben consultar FAA-H-8083-25, *Pilot's Handbook of Aeronautical Knowledge*, para estudio y referencia bibliográfica básica.
+Las discusiones y explicaciones reflejan las prácticas y principios más comúnmente utilizados. Ocasionalmente, se utiliza la palabra «debe» o lenguaje similar cuando la acción deseada se considera crítica. El uso de dicho lenguaje no pretende añadir, interpretar o aliviar una obligación impuesta por el Título 14 del Código de Regulaciones Federales (14 CFR). Se recomienda a las personas que trabajan para obtener una habilitación de planeador revisar las referencias de los estándares prácticos de examen aplicables. Los recursos de estudio incluyen https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak[FAA-H-8083-25C, *Pilot's Handbook of Aeronautical Knowledge*]; https://www.faa.gov/regulations_policies/handbooks_manuals/aviation[FAA-H-8083-2A, *Risk Management Handbook*]; y https://www.faa.gov/regulations_policies/handbooks_manuals/aviation[FAA-H-8083-28A, *Aviation Weather Handbook*], ya que estos documentos contienen material básico no duplicado en este manual. Todos los candidatos principiantes deben consultar https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak[FAA-H-8083-25C, *Pilot's Handbook of Aeronautical Knowledge*], para estudio y referencia bibliográfica básica.
 
-Es esencial que las personas que utilizan este manual se familiaricen con las partes pertinentes del 14 CFR y el *Manual de Información Aeronáutica* (AIM). El AIM está disponible en el sitio web de la FAA. El material de entrenamiento y pruebas actual del Servicio de Estándares de Vuelo y las declaraciones de aprendizaje para todos los certificados y habilitaciones de aviador se pueden obtener del sitio web de la FAA.
+Es esencial que las personas que utilizan este manual se familiaricen con las partes pertinentes del 14 CFR y el https://www.faa.gov/air_traffic/publications/atpubs/aim_html[*Manual de Información Aeronáutica* (AIM)]. El AIM está disponible en el sitio web de la FAA. El material de entrenamiento y pruebas actual del Servicio de Estándares de Vuelo y las declaraciones de aprendizaje para todos los certificados y habilitaciones de aviador se pueden obtener del sitio web de la FAA.
 
-Este manual reemplaza al FAA-H-8083-13A, *Glider Flying Handbook*, de 2013.
+Este manual reemplaza al FAA-H-8083-13A, https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/glider_handbook[*Glider Flying Handbook*], de 2013.
 
 Este manual está disponible para descarga, en formato PDF, desde el sitio web de la FAA.
 
@@ -231,7 +238,7 @@ Los comentarios sobre esta publicación deben enviarse por correo electrónico a
 
 [IMPORTANT]
 ====
-*Nota del traductor:* Esta es una traducción realizada por y para la comunidad de pilotos de habla hispana e incluye aspectos reglamentarios específicos de EE. UU.
+*Nota de los traductores:* Esta es una traducción realizada por y para la comunidad de pilotos de habla hispana e incluye aspectos reglamentarios específicos de EE. UU.
 
 Si vuela en España (bajo normativa EASA) o en otro país hispanohablante, debe consultar siempre su regulación local. Las principales diferencias con EE. UU. radican en la burocracia (licencias y exámenes médicos...), mientras que, obviamente, toda la física del vuelo, los factores humanos, la meteorología, etc., son universales. Incluso la mayoría de los procedimientos operativos en vuelo son prácticamente idénticos.
 
