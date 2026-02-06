@@ -38,6 +38,9 @@
 :version-label: Versión
 :last-update-label: Última actualización
 
+// Niveles del índice de contenidos (debe ir antes del include)
+:toclevels: 3
+
 // Incluir configuración global
 include::config/atributos.adoc[]
 

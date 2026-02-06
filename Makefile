@@ -86,7 +86,7 @@ $(BUILD_DIR)/pdf/$(BOOK_NAME).pdf: $(MAIN_DOC) $(SRC_FILES) $(PDF_THEME) $(ALL_I
 		-a front-cover-image=imagenes/cover-beta.jpeg \
 		-a title-page \
 		-a toc \
-		-a toclevels=2 \
+		-a toclevels=3 \
 		-a lang=es \
 		-a chapter-signifier=Capítulo \
 		-a region=$(REGION) \
