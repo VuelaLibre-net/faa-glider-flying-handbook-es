@@ -14,9 +14,13 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
   - Capítulo 1: Planeadores y Veleros - Revisión finalizada
   - Capítulo 2: Componentes y Sistemas - Revisión finalizada
   - Imágenes de ambos capítulos revisadas y verificadas
+- **Capítulo 3** (WIP): Aerodinámica del vuelo - En revisión
+  - Añadida figura 03-02 (componentes vectoriales de fuerzas)
+  - Implementación de atributos `{term-xxx}` para terminología
+  - Total: 23 imágenes (+1)
 
 ### Planned
-- Traducción de textos en imágenes (279 figuras)
+- Traducción de textos en imágenes (280 figuras)
 - Revisión técnica por pilotos titulados (capítulos 3-13)
 - Implementación completa de atributos de terminología `{term-xxx}`
 - Soporte para variante regional de México (mx)

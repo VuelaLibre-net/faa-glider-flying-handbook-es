@@ -40,7 +40,7 @@ Este proyecto tiene como objetivo proporcionar una traducción de calidad del ma
 
 Esta versión está en fase **inicial de desarrollo**. Se ha completado la importación de todas las imágenes del manual original, pero el proyecto requiere trabajo significativo antes de estar listo para producción:
 
-- ✅ 279 imágenes oficiales FAA importadas (100%)
+- ✅ 280 imágenes oficiales FAA importadas (100%)
 - ✅ Capítulos 1-2: Texto revisado y completo
 - ✅ 16/279 imágenes con texto traducido al español (6%)
 - ⚠️ Capítulos 3-13: En revisión inicial
@@ -198,7 +198,7 @@ Más detalles en [AGENTS.md](AGENTS.md).
 |----------|--------|-------------------|-----------------|----------------|-----------------|
 | 1 | Planeadores y Veleros | ✅ Revisado | 4 | ✅ | ✅ |
 | 2 | Componentes y Sistemas | ✅ Revisado | 12 | ✅ | ✅ |
-| 3 | Aerodinámica del Vuelo | 📝 Borrador | 22 | ⏳ | ⏳ |
+| 3 | Aerodinámica del Vuelo | 📝 Borrador | 23 | ⏳ | ⏳ |
 | 4 | Instrumentos de Vuelo | 📝 Borrador | 31 | ⏳ | ⏳ |
 | 5 | Performance del Planeador | 📝 Borrador | 21 | ⏳ | ⏳ |
 | 6 | Prevuelo y Operaciones en Tierra | 📝 Borrador | 17 | ⏳ | ⏳ |
@@ -211,7 +211,7 @@ Más detalles en [AGENTS.md](AGENTS.md).
 | 13 | Factores Humanos | 📝 Borrador | 13 | ⏳ | ⏳ |
 | - | Glosario | 📝 Borrador | - | - | - |
 
-**Progreso:** 2/13 capítulos revisados (15%) - 279/279 imágenes importadas (100%) - 16/279 imágenes revisadas (6%)
+**Progreso:** 2/13 capítulos revisados (15%) - 280/280 imágenes importadas (100%) - 16/280 imágenes revisadas (6%)
 
 ## Contribuir
 

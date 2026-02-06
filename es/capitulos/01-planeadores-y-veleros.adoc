@@ -37,7 +37,7 @@ Para ser elegible para volar en solitario en un {term-glider}, los pilotos sin h
 
 Nótese que los pilotos de avión habilitados pueden aumentar sus conocimientos generales, habilidades y comprensión de la seguridad de vuelo añadiendo una habilitación de {term-glider}. La adición de una habilitación de {term-glider} mejora la capacidad de un piloto de avión para gestionar el vuelo sin motor en caso de que se produzca un mal funcionamiento del motor.
 
-== Elegibilidad para la habilitación
+=== Elegibilidad para la habilitación
 
 Un alumno piloto de 16 años de edad o más, o un piloto existente habilitado por la FAA que cumpla los requisitos de tiempo de vuelo, puede realizar el examen práctico para un certificado de piloto deportivo con una habilitación de {term-glider} o el examen práctico para un certificado de piloto privado con una habilitación de {term-glider} tras completar los requisitos de formación listados en 14 CFR parte 61 para el nivel de certificación deseado.
 
@@ -45,11 +45,11 @@ Para ser elegible para un certificado de {term-glider} comercial o de instructor
 
 Los Estándares de Certificación de Pilotos de la FAA (ACS) o Estándares de Examen Práctico (PTS) aplicables contienen los conocimientos y habilidades requeridos para la certificación de pilotos y describen el proceso de examen. Los aspirantes también pueden consultar FAA-G-ACS-2, la Guía de Acompañamiento ACS para Pilotos, el Circular Asesorio de la FAA (AC) 60-22, Toma de Decisiones Aeronáuticas; el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25); el Manual de Gestión del Riesgo (FAA-H-8083-2); y el Manual de Meteorología Aeronáutica (FAA-H-8083-28) para obtener información adicional relacionada con la aviación. Para más información sobre la certificación de {term-glider}es, consulte 14 CFR parte 21, las Especificaciones de Certificación de la Agencia Europea de Seguridad Aérea (EASA) (CS) 22.221, y el Manual de Peso y Balance (FAA-H-8083-1).
 
-== Elegibilidad médica
+=== Elegibilidad médica
 
 Una persona puede ejercer los privilegios de una habilitación de {term-glider} o los de un instructor autorizado en un {term-glider} sin poseer un certificado médico. Sin embargo, 14 CFR parte 61, sección 61.53 establece que «...una persona no debe actuar como piloto al mando, ni en ninguna otra capacidad como miembro de la tripulación de vuelo requerido, mientras esa persona sepa o tenga motivos para saber de cualquier condición médica que le haga incapaz de operar la aeronave de manera segura.»
 
-== Programa FAA WINGS
+=== Programa FAA WINGS
 
 Los pilotos habilitados deberían comparar la formación y práctica continuas con 14 CFR parte 61, sección 61.56(c)(1) y (2), que permiten la formación y una firma dentro de los 24 meses de calendario anteriores para poder actuar como piloto al mando. Muchos pilotos astutos se dan cuenta de que esta normativa especifica un requisito mínimo, y el camino hacia una mayor competencia, seguridad y disfrute del vuelo requiere un mayor grado de compromiso como el disponible usando 14 CFR parte 61, sección 61.56(e). Por esta razón, muchos pilotos mantienen su revisión de vuelo actualizada usando el programa FAA WINGS. El programa proporciona educación continua para pilotos y contiene materiales de estudio interesantes y relevantes que los pilotos pueden usar durante todo el año.
 

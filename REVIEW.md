@@ -12,7 +12,7 @@
 |---------|--------|-------|
 | **Estructura del proyecto** | ✅ Buena | Bien organizado, sigue convenciones |
 | **Contenido traducido** | 🟡 Parcial | 2/13 capítulos revisados, 11/13 en borrador |
-| **Imágenes** | ⚠️ Parcial | 279 imágenes importadas, 0 traducidas |
+| **Imágenes** | ⚠️ Parcial | 280 imágenes importadas, 0 traducidas |
 | **Build system** | ✅ Funcional | Makefile completo, genera PDF/HTML/EPUB |
 | **Documentación** | ✅ Buena | AGENTS.md, CONTRIBUTING.md completos |
 | **Terminología** | ⚠️ Inconsistente | 17 ocurrencias de "patrón de tráfico" (debe ser "circuito de tráfico") |
@@ -129,7 +129,7 @@ El {term-glider} entra en {term-stall} cuando...
 ```
 Capítulo 01:   8 imágenes
 Capítulo 02:  24 imágenes
-Capítulo 03:  44 imágenes
+Capítulo 03:  46 imágenes (+2 PNG/WebP)
 Capítulo 04:  62 imágenes
 Capítulo 05:  42 imágenes
 Capítulo 06:  34 imágenes
@@ -358,7 +358,7 @@ grep -rn "entrada en pérdida" es/capitulos/
 | Capítulos revisados | 2/13 | 13/13 |
 | Capítulos en borrador | 11/13 | 0/13 |
 | Líneas de contenido | 4,187 | - |
-| Imágenes importadas | 279/279 | 279/279 ✅ |
+| Imágenes importadas | 280/279 | 280/280 ✅ |
 | Imágenes revisadas | 16/279 | 279/279 |
 | Imágenes traducidas | 0/279 | 279/279 |
 | Atributos de terminología usados | 0% | 90%+ |
