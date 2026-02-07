@@ -245,6 +245,16 @@ Si vuela en España (bajo normativa EASA) o en otro país hispanohablante, debe 
 En cualquier caso, la formación práctica con *un instructor cualificado es imprescindible*. Su instructor y el manual de vuelo de su planeador, siempre tendrán la última palabra sobre procedimientos, técnicas adecuadas o legislación.
 ====
 
+[NOTE]
+====
+Fe de erratas: Durante la traducción se han detectado varios errores en el documento original en inglés, que se han corregido en esta versión. En caso de discrepancia entre esta traducción y el documento original, prevalece siempre el texto en inglés. Por ejemplos:
+
+** Subsecciones mal estructuradas** en el capítulo 2, existe un segundo subnivel "Introduction", duplicado, bajo "The Fuselage" que carece de indentación clara y aparece al mismo nivel que el propio "The Fuselage" generando confusión estructural.
+** Comentarios de revisión sin eliminar**: La figura 5-16 tiene comentarios para Matt.
+
+Los errores detectados y corregidos se encuentran listados en el repositorio de GitHub del proyecto, en el fichero FE_DE_ERRATAS.md
+====
+
 // === CONTENIDO PRINCIPAL ===
 // Reactivar numeración para los capítulos
 :sectnums:
