@@ -12,12 +12,6 @@ source: "FAA Glider Flying Handbook (FAA-H-8083-13B)"
 
 Las estructuras de los planeadores incluyen un fuselaje, alas y empenaje o sección de cola. [Figure 2-1]
 
-Alerón derecho
-
-Alerón izquierdo
-
-Spoiler/Freno de picada
-
 > **Figure 2-1:** Componentes de un planeador.
 
 ## El Fuselaje
@@ -26,9 +20,9 @@ El fuselaje contiene los controles del planeador, así como un asiento para cada
 
 ## Las Alas
 
-Cuando el aire fluye sobre las alas de un planeador, las alas producen sustentación que permite que la aeronave permanezca en el aire. Los diseños de alas de planeador producen la máxima sustentación con el mínimo arrastre.
+Cuando el aire fluye sobre las alas de un planeador, las alas producen sustentación que permite que la aeronave permanezca en el aire. Los diseños de alas de planeador producen la máxima sustentación con la mínima resistencia.
 
-Las alas de los planeadores incorporan varios componentes que ayudan al piloto a mantener la actitud del planeador y controlar la sustentación y el arrastre. Estos incluyen alerones y otros dispositivos de sustentación y arrastre.
+Las alas de los planeadores incorporan varios componentes que ayudan al piloto a mantener la actitud del planeador y controlar la sustentación y la resistencia. Estos incluyen alerones y otros dispositivos de sustentación y resistencia.
 
 ### Alerones
 
@@ -36,81 +30,43 @@ Los alerones se unen al borde de salida exterior de cada ala. Cuando el piloto m
 
 hacia la izquierda del centro desvía el alerón derecho hacia abajo y el alerón izquierdo hacia arriba. Esto aplica una fuerza para inclinar el planeador hacia la izquierda.
 
-Curvatura inferior
-
-Curvatura superior
-
-Borde de ataque Borde de salida
-
 > **Figure 2-2:** Los alerones cambian la curvatura o el perfil del ala y aumentan o disminuyen la sustentación.
 
 ### Dispositivos de Sustentación/Arrastre
 
-Los planeadores pueden usar otros dispositivos que modifican la sustentación/arrastre del ala. Estos dispositivos de alto arrastre incluyen spoilers, frenos de picada y flaps. [Figure 2-3] Los spoilers se extienden desde la superficie superior de las alas, alteran el flujo de aire y hacen que el planeador descienda más rápidamente. Los frenos de picada se extienden desde ambas superficies superior e inferior del ala y aumentan el arrastre. Algunos planeadores de alto rendimiento tienen limitaciones de velocidad con frenos de picada para evitar daños estructurales.
+Los planeadores pueden usar otros dispositivos que modifican la sustentación/resistencia del ala. Estos dispositivos de alta resistencia incluyen spoilers, aerofrenos y flaps. [Figure 2-3] Los spoilers se extienden desde la superficie superior de las alas, alteran el flujo de aire y hacen que el planeador descienda más rápidamente. Los aerofrenos se extienden desde ambas superficies superior e inferior del ala y aumentan la resistencia. Algunos planeadores de alto rendimiento tienen limitaciones de velocidad con aerofrenos para evitar daños estructurales.
 
-Freno de picada Freno de picada
+> **Figure 2-3:** Tipos de dispositivos de sustentación/resistencia.
 
-Spoiler Spoiler
-
-> **Figure 2-3:** Tipos de dispositivos de sustentación/arrastre.
-
-Algunos planeadores tienen flaps instalados en el borde de salida de cada ala hacia adentro de los alerones, que pueden cambiar la sustentación, el arrastre y la tasa de descenso. El piloto generalmente puede ajustar los flaps en tres posiciones diferentes: en bandera, bajados o negativos. [Figure 2-4] Cuando el piloto ajusta los flaps para desviarlos hacia abajo en vuelo, el ala produce más sustentación y arrastre. Por otro lado, una posición de flap negativa resulta en sustentación y arrastre reducidos.
-
-Flaps 0 (en bandera)
-
-Flaps bajados
-
-Flaps negativos
+Algunos planeadores tienen flaps instalados en el borde de salida de cada ala hacia adentro de los alerones, que pueden cambiar la sustentación, la resistencia y la tasa de descenso. El piloto generalmente puede ajustar los flaps en tres posiciones diferentes: en bandera, bajados o negativos. [Figure 2-4] Cuando el piloto ajusta los flaps para desviarlos hacia abajo en vuelo, el ala produce más sustentación y resistencia. Por otro lado, una posición de flap negativa resulta en sustentación y resistencia reducidos.
 
 > **Figure 2-4:** Posiciones de los flaps.
 
 ## Empenaje
 
-El empenaje incluye toda la sección de cola, que consiste en las superficies fijas, como el estabilizador horizontal y la aleta vertical, y las superficies móviles, como el elevador o estabilador, el timón de dirección y cualquier trim tab. Las dos superficies fijas actúan como las plumas de una flecha para estabilizar el planeador y ayudar a mantener una trayectoria recta a través del aire. [Figure 2-5]
-
-Timón de dirección
-
-Estabilizador vertical
-
-Elevadores
-
-Estabilizador horizontal
+El empenaje incluye toda la sección de cola, que consiste en las superficies fijas, como el estabilizador horizontal y el estabilizador vertical, y las superficies móviles, como el timón de profundidad o estabilizador móvil, el timón de dirección y cualquier aleta compensadora. Las dos superficies fijas actúan como las plumas de una flecha para estabilizar el planeador y ayudar a mantener una trayectoria recta a través del aire. [Figure 2-5]
 
 > **Figure 2-5:** Componentes del empenaje.
 
 El timón de dirección se une a la parte trasera del estabilizador vertical, y el piloto lo desvía usando los pedales. El timón de dirección controla la guiñada y la coordinación de giros durante el vuelo.
 
-Durante el vuelo recto y nivelado, la desviación controlada por el piloto del elevador aplica una fuerza para mover la nariz del planeador hacia arriba y hacia abajo con respecto al horizonte. Levantar la nariz resulta en menor velocidad mientras que bajar la nariz aumenta la velocidad. En lugar de un estabilizador horizontal y un elevador, algunos planeadores usan un estabilador, donde toda la superficie horizontal de cola pivota hacia arriba y
+Durante el vuelo recto y nivelado, la desviación controlada por el piloto del timón de profundidad aplica una fuerza para mover la nariz del planeador hacia arriba y hacia abajo con respecto al horizonte. Levantar la nariz resulta en menor velocidad mientras que bajar la nariz aumenta la velocidad. En lugar de un estabilizador horizontal y un timón de profundidad, algunos planeadores usan un estabilizador móvil, donde toda la superficie horizontal de cola pivota hacia arriba y
 
-hacia abajo en un punto de bisagra central. Los pilotos se refieren al movimiento del elevador o estabilador como control de la actitud de cabeceo del planeador.
+hacia abajo en un punto de bisagra central. Los pilotos se refieren al movimiento del timón de profundidad o estabilizador móvil como control de la actitud de cabeceo del planeador.
 
-Cuando el piloto desvía los controles de cabeceo desde la posición neutra, el flujo de aire empuja hacia atrás contra los controles. Esta fuerza opuesta proporciona retroalimentación al piloto pero también aumenta la carga de trabajo del piloto. El piloto puede aliviar la presión del control del elevador usando el trim del elevador. Un sistema de trim común consiste en una pequeña lengüeta ajustable controlada por el piloto en el borde de salida del elevador. [Figure 2-6] Los trim tabs vienen en diseños servo y anti-servo. [Figure 2-7] Un trim tab servo alivia la presión. El piloto puede ajustar un trim tab anti-servo, generalmente instalado en estabiladores, para aliviar la presión, pero también se autoajusta para aumentar la presión opuesta cuando el piloto aumenta el desplazamiento del estabilador.
-
-Trim tab anti-servo
-
-Estabilizador horizontal
-
-Elevador
-
-Timón de dirección
+Cuando el piloto desvía los controles de cabeceo desde la posición neutra, el flujo de aire empuja hacia atrás contra los controles. Esta fuerza opuesta proporciona retroalimentación al piloto pero también aumenta la carga de trabajo del piloto. El piloto puede aliviar la presión del control del timón de profundidad usando el compensador del timón de profundidad. Un sistema de trim común consiste en una pequeña lengüeta ajustable controlada por el piloto en el borde de salida del timón de profundidad. [Figure 2-6] Las aletas compensadoras vienen en diseños servo y anti-servo. [Figure 2-7] Una aleta compensadora servo alivia la presión. El piloto puede ajustar una aleta compensadora anti-servo, generalmente instalado en estabilizador móviles, para aliviar la presión, pero también se autoajusta para aumentar la presión opuesta cuando el piloto aumenta el desplazamiento del estabilizador móvil.
 
 > **Figure 2-6:** Componentes adicionales del empenaje.
 
-Trim tab anti-servo
 
-> **Figure 2-7:** Un trim tab anti-servo.
 
-Los diseños de planeadores con cola convencional incorporan el estabilizador horizontal montado en la parte inferior del estabilizador vertical. Los planeadores con cola en T tienen el estabilizador horizontal montado en la parte superior del estabilizador vertical formando una "T". Los empenajes en V tienen dos superficies de cola montadas para formar una "V" que combina los movimientos del elevador y el timón.
+> **Figure 2-7:** Una aleta compensadora anti-servo.
+
+Los diseños de planeadores con cola convencional incorporan el estabilizador horizontal montado en la parte inferior del estabilizador vertical. Los planeadores con cola en T tienen el estabilizador horizontal montado en la parte superior del estabilizador vertical formando una "T". Los empenajes en V tienen dos superficies de cola montadas para formar una "V" que combina los movimientos del timón de profundidad y el timón.
 
 ## Dispositivos de Gancho de Remolque
 
 Los planeadores que despegan usando remolque tienen un gancho de remolque aprobado. Para un remolque aéreo, la tripulación normalmente conecta la línea de remolque a un gancho de remolque ubicado en o justo debajo de la nariz del planeador. Para un remolque usando un torno o vehículo terrestre, la tripulación sujeta la línea de remolque a un gancho de remolque posicionado debajo del centro de gravedad (CG) del planeador—el punto donde el planeador se equilibraría en el suelo si se levantara desde arriba o desde abajo de esa posición. [Figure 2-8]. Ambos diseños de gancho de remolque permiten la liberación rápida de la cuerda o cable cuando el piloto del planeador tira de la palanca de liberación. Un despegue por remolque aéreo de un planeador usando un gancho de remolque específico solo puede ocurrir si el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto aprueba el procedimiento.
-
-Lanzamiento terrestre
-
-Centro de gravedad
-
-Gancho de remolque en nariz
 
 > **Figure 2-8:** Ubicaciones del gancho de remolque.
 
@@ -118,43 +74,31 @@ Gancho de remolque en nariz
 
 Mientras que los aviones de remolque proporcionan el medio más común para lanzar un planeador en los Estados Unidos, los planeadores con motor incorporado se han vuelto más comunes.
 
-### Planeadores con Autodespegue
+### Planeadores Autolanzables
 
-Hay dos tipos de planeadores con autodespegue: planeadores de motor de turismo y planeadores de autodespegue de alto rendimiento.
+Hay dos tipos de planeadores autolanzables: motoveleros de turismo (TMG) y planeadores autolanzables de alto rendimiento.
 
-#### Planeadores de Motor de Turismo
+#### Motoveleros de Turismo (TMG)
 
-Los planeadores de motor de turismo tienen un motor montado en la nariz y una hélice de pleno bandeo. [Figure 2-9] Aunque los planeadores de motor de turismo tienen algunas características básicas de avión, están certificados en la categoría de planeador.
+Los motoveleros TMG tienen un motor montado en la nariz y una hélice de pleno bandeo. [Figure 2-9] Aunque los motoveleros de turismo tienen algunas características básicas de avión, están certificados en la categoría de planeador.
 
-> **Figure 2-9:** Un planeador de motor de turismo Grob G109B.
+> **Figure 2-9:** Un planeador de motor TMG Grob G109B.
 
 #### Planeadores de Alto Rendimiento
 
-Los planeadores de autodespegue de alto rendimiento tienen motores que se retraen en el fuselaje para un arrastre mínimo. [Figure 2-10] La hélice puede plegarse o simplemente alinearse con el motor. Esta configuración preserva una configuración de bajo arrastre suave.
+Los planeadores autolanzables de alto rendimiento tienen motores que se retraen en el fuselaje para una resistencia mínima. [Figure 2-10] La hélice puede plegarse o simplemente alinearse con el motor. Esta configuración preserva una configuración de baja resistencia suave.
 
-> **Figure 2-10:** Un planeador de alto rendimiento DG-808B de 18 metros en autodespegue.
+> **Figure 2-10:** Un planeador de alto rendimiento DG-808B de 18 metros en autolanzamiento.
 
-### Planeadores con Motores de Sostenimiento
+### Motores de sostenimiento
 
-Algunos planeadores tienen motores de sostenimiento propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor de sostenimiento para permanecer en el aire; sin embargo, los motores de sostenimiento no proporcionan suficiente potencia para lanzar el planeador y pueden no tener suficiente potencia para compensar el aire descendente. [Figure 2-11]
+Algunos planeadores tienen motores de sostenimiento (también denominados "turbo") propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor de sostenimiento para permanecer en el aire; sin embargo, los motores de sostenimiento no proporcionan suficiente potencia para lanzar el planeador y pueden no tener suficiente potencia para compensar el aire descendente. [Figure 2-11]
 
 > **Figure 2-11:** Un Schleicher ASG-29 E con mástil de motor de sostenimiento de gasolina extendido.
 
 ## Tren de Aterrizaje
 
-Un sistema de tren de aterrizaje de planeador generalmente incluye una rueda principal. Los planeadores diseñados para alta velocidad y bajo arrastre a menudo cuentan con un tren de aterrizaje principal retráctil. Otros componentes pueden incluir un patín o rueda delantero, una rueda o patín de cola, o ruedas o placas de patín en las puntas de las alas. [Figure 2-12]
-
-Rueda principal retráctil
-
-Rueda principal fija
-
-Patín de punta de ala
-
-Rueda de punta de ala
-
-Rueda de cola desprendible
-
-Rueda principal fija
+Un sistema de tren de aterrizaje de planeador generalmente incluye una rueda principal. Los planeadores diseñados para alta velocidad y baja resistencia a menudo cuentan con un tren de aterrizaje principal retráctil. Otros componentes pueden incluir un patín o rueda delantero, una rueda o patín de cola, o ruedas o placas de patín en las puntas de las alas. [Figure 2-12]
 
 > **Figure 2-12:** Ruedas del tren de aterrizaje en un planeador.
 
@@ -168,4 +112,4 @@ Los planeadores tempranos a menudo dependían de la fricción entre el patín de
 
 ## Resumen del Capítulo
 
-Aunque los planeadores vienen en una variedad de formas y tamaños, la mayoría de los planeadores comparten características de diseño básicas. Estas incluyen un fuselaje, alas y componentes, dispositivos de sustentación/arrastre, y empenaje. Dependiendo del método de lanzamiento utilizado, un planeador puede tener un gancho de remolque o un motor.
+Aunque los planeadores vienen en una variedad de formas y tamaños, la mayoría de los planeadores comparten características de diseño básicas. Estas incluyen un fuselaje, alas y componentes, dispositivos de sustentación/resistencia, y empenaje. Dependiendo del método de lanzamiento utilizado, un planeador puede tener un gancho de remolque o un motor.

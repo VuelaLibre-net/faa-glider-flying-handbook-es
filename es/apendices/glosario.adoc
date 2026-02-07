@@ -15,6 +15,9 @@ Acelerómetro (G-meter)::
 Aerofreno (Airbrake/Spoiler)::
   Superficie de control que aumenta la resistencia aerodinámica para controlar la velocidad y el ángulo de descenso. En planeadores, es el control principal de la trayectoria de planeo durante la aproximación.
 
+Alabeo (Roll)::
+  Movimiento de rotación del planeador sobre su eje longitudinal. Se controla mediante los alerones.
+
 Alargamiento (Aspect Ratio)::
   Relación entre la envergadura y la cuerda media del ala. Un alargamiento elevado (alas largas y estrechas) es característico de los planeadores eficientes, ya que reduce la resistencia inducida.
 

@@ -10,15 +10,15 @@ source: "FAA Glider Flying Handbook (FAA-H-8083-13B)"
 
 Este capítulo trata sobre la aerodinámica relacionada con los planeadores. Un piloto que comprende cómo las fuerzas afectan a un planeador puede operar de manera segura mientras maximiza el rendimiento. Para obtener una descripción más detallada de la aerodinámica general, consulte el Pilot's Handbook of Aeronautical Knowledge (FAA-H-808-25).
 
-Un planeador maniobra alrededor de tres ejes de rotación: vertical, lateral y longitudinal. Cada eje es perpendicular a los otros dos, y los tres ejes se intersectan en un punto central llamado centro de gravedad (CG), que varía según la carga del planeador. Cualquier objeto en el suelo se equilibrará en cualquier orientación si se sostiene desde el CG o un punto directamente arriba o debajo del CG.
+Un planeador maniobra alrededor de tres ejes de rotación: vertical, transversal y longitudinal. Cada eje es perpendicular a los otros dos, y los tres ejes se intersectan en un punto central llamado centro de gravedad (CG), que varía según la carga del planeador. Cualquier objeto en el suelo se equilibrará en cualquier orientación si se sostiene desde el CG o un punto directamente arriba o debajo del CG.
 
-El guiñada describe el movimiento alrededor del eje vertical, representado por una línea recta imaginaria trazada a través del CG. [Figure 3-1] En vuelo, mover el timón hacia la izquierda o derecha hace que el planeador guañe. El eje lateral corre paralelo a una línea de punta de ala a punta de ala. Tirar la palanca hacia atrás o empujarla hacia adelante cambia la inclinación del planeador y controla su movimiento alrededor del eje lateral. El alabeo describe el movimiento alrededor del eje longitudinal causado por el desplazamiento de los alerones en direcciones opuestas. Este eje corre paralelo a una línea trazada desde la nariz hasta la cola.
+La guiñada describe el movimiento alrededor del eje vertical, representado por una línea recta imaginaria trazada a través del CG. [Figure 3-1] En vuelo, mover el timón hacia la izquierda o derecha hace que el planeador guañe. El eje transversal corre paralelo a una línea de punta de ala a punta de ala. Tirar de la palanca hacia atrás o empujarla hacia adelante cambia la inclinación del planeador y controla su movimiento alrededor del eje transversal. El alabeo describe el movimiento alrededor del eje longitudinal causado por el desplazamiento de los alerones en direcciones opuestas. Este eje corre paralelo a una línea trazada desde la nariz hasta la cola.
 
 > **Figure 3-1:** Tres ejes de rotación, cada uno perpendicular a los otros dos y todos intersectando en el CG.
 
 ### Fuerzas del Vuelo
 
-Tres fuerzas actúan sobre un planeador sin motor mientras está en vuelo: sustentación, resistencia y peso. El empuje es otra fuerza del vuelo que permite a los planeadores con auto-lanzamiento despegar por sí mismos y mantenerse en el aire cuando las condiciones de vuelo a vela disminuyen.
+Tres fuerzas actúan sobre un planeador sin motor mientras está en vuelo: sustentación, resistencia y peso. El empuje es otra fuerza del vuelo que permite a los planeadores autolanzables despegar por sí mismos y mantenerse en el aire cuando las condiciones de vuelo a vela disminuyen.
 
 > **Figure 3-2:** Componentes vectoriales de la sustentación, empuje, resistencia y peso (gravedad).
 
@@ -46,7 +46,7 @@ La ecuación de sustentación muestra que la sustentación total cambia a medida
 
 > **Figure 3-4:** Ángulo de ataque.
 
-Al describir la sustentación como un vector, la sustentación total actúa a través de un punto conocido como el centro de sustentación (CL). Este punto ocurre detrás del centro de gravedad. Por lo tanto, la sustentación crea un momento de cabeceo en el planeador, que la cola debe contrarrestar. El vector de sustentación total actúa perpendicular a la trayectoria de vuelo a través del CL y perpendicular al eje lateral.
+Al describir la sustentación como un vector, la sustentación total actúa a través de un punto conocido como el centro de sustentación (CL). Este punto ocurre detrás del centro de gravedad. Por lo tanto, la sustentación crea un momento de cabeceo en el planeador, que la cola debe contrarrestar. El vector de sustentación total actúa perpendicular a la trayectoria de vuelo a través del CL y perpendicular al eje transversal.
 
 La fuerza que resiste el movimiento del planeador consiste en la resistencia parásita y la resistencia inducida, que se combinan para formar la resistencia total.
 
@@ -126,7 +126,7 @@ Un planeador con estabilidad estática positiva oscilará más allá de su actit
 
 > **Figure 3-11:** Tres tipos de estabilidad dinámica.
 
-Los planeadores tienen un CG delante del centro de sustentación: el único punto a través del cual actúa la suma de toda la sustentación. Este diseño requiere una fuerza de cola hacia abajo opuesta para mantener el control y crear estabilidad estática positiva para el cabeceo. [Figure 3-12] Por ejemplo, si un piloto desplaza la nariz del planeador hacia arriba y suelta los controles, el planeador perderá velocidad del aire. La reducción resultante en la fuerza descendente proporcionada por la cola hace que la nariz del planeador caiga de regreso hacia su posición original. Este diseño resulta en estabilidad longitudinal inicial positiva (estabilidad alrededor del eje lateral). Cuando un planeador positivamente estable dinámicamente oscila en cabeceo, la amplitud de las oscilaciones disminuye a través de cada ciclo y eventualmente se detiene en la velocidad donde la fuerza descendente en la cola compensa la tendencia a bajar la nariz.
+Los planeadores tienen un CG delante del centro de sustentación: el único punto a través del cual actúa la suma de toda la sustentación. Este diseño requiere una fuerza de cola hacia abajo opuesta para mantener el control y crear estabilidad estática positiva para el cabeceo. [Figure 3-12] Por ejemplo, si un piloto desplaza la nariz del planeador hacia arriba y suelta los controles, el planeador perderá velocidad del aire. La reducción resultante en la fuerza descendente proporcionada por la cola hace que la nariz del planeador caiga de regreso hacia su posición original. Este diseño resulta en estabilidad longitudinal inicial positiva (estabilidad alrededor del eje transversal). Cuando un planeador positivamente estable dinámicamente oscila en cabeceo, la amplitud de las oscilaciones disminuye a través de cada ciclo y eventualmente se detiene en la velocidad donde la fuerza descendente en la cola compensa la tendencia a bajar la nariz.
 
 > **Figure 3-12:** El estabilizador horizontal compensa la tendencia natural de un planeador a cabecear hacia abajo.
 
@@ -176,7 +176,7 @@ El factor de carga aumenta rápidamente a medida que el ángulo de inclinación 
 
 2. Por encima de cierta velocidad del aire, conocida como velocidad de maniobra o V*A*, un piloto puede generar suficiente sustentación para crear una sobrecarga peligrosa en la estructura del planeador.
 
-En un giro a velocidad constante, el pilota tira hacia atrás de la palanca para proporcionar la sustentación extra necesaria para mantener una velocidad vertical constante en la masa de aire. La carga y la velocidad de pérdida aumentan significativamente a medida que los ángulos de inclinación exceden los 30 grados. [Figure 3-16] y [Figure 3-17]
+En un giro a velocidad constante, el piloto tira hacia atrás de la palanca para proporcionar la sustentación extra necesaria para mantener una velocidad vertical constante en la masa de aire. La carga y la velocidad de pérdida aumentan significativamente a medida que los ángulos de inclinación exceden los 30 grados. [Figure 3-16] y [Figure 3-17]
 
 > **Figure 3-16:** Las cargas colocadas en un planeador mientras se mantiene una tasa constante de descenso con respecto al aire circundante aumentan a medida que el ángulo de inclinación aumenta.
 
@@ -244,4 +244,4 @@ Una pérdida y entrada en barrena cerca del suelo puede resultar fatal porque un
 
 ## Resumen del Capítulo
 
-Este capítulo se enfoca en las cuatro fuerzas del vuelo, que incluyen sustentación, resistencia, empuje y peso. Los componentes de una fuerza pueden contribuir a otra. Cuando la sustentación compensa la gravedad y el empuje compensa la resistencia, ocurre un vuelo no acelerado. El capítulo también introduce el concepto de efecto suelo, que resulta de una reducción en la resistencia inducida cerca del suelo. Un planeador tiene 3 ejes de rotación y se mueve alrededor de cada eje debido a perturbaciones naturales y entradas del piloto. El alabeo ocurre alrededor del eje longitudinal, el cabeceo alrededor del eje lateral, y la guiñada alrededor del eje vertical. La estabilidad se refiere a la habilidad de la aeronave para retornar a su trayectoria y orientación original después de una perturbación. Los pilotos no familiarizados con los efectos de las entradas de control y la estabilidad pueden inducir oscilaciones. Este capítulo cubre el vuelo de giro y el efecto de las fuerzas en la tasa de giro, radio de giro, coordinación del giro y factores de carga. El capítulo también discute las pérdidas y barrenas.
+Este capítulo se enfoca en las cuatro fuerzas del vuelo, que incluyen sustentación, resistencia, empuje y peso. Los componentes de una fuerza pueden contribuir a otra. Cuando la sustentación compensa la gravedad y el empuje compensa la resistencia, ocurre un vuelo no acelerado. El capítulo también introduce el concepto de efecto suelo, que resulta de una reducción en la resistencia inducida cerca del suelo. Un planeador tiene 3 ejes de rotación y se mueve alrededor de cada eje debido a perturbaciones naturales y entradas del piloto. El alabeo ocurre alrededor del eje longitudinal, el cabeceo alrededor del eje transversal, y la guiñada alrededor del eje vertical. La estabilidad se refiere a la habilidad de la aeronave para retornar a su trayectoria y orientación original después de una perturbación. Los pilotos no familiarizados con los efectos de las entradas de control y la estabilidad pueden inducir oscilaciones. Este capítulo cubre el vuelo de giro y el efecto de las fuerzas en la tasa de giro, radio de giro, coordinación del giro y factores de carga. El capítulo también discute las pérdidas y barrenas.
