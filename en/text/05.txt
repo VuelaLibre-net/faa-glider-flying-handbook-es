@@ -1,0 +1,1657 @@
+5-1
+
+Introduction
+
+32671
+Glider performance depends on design, weather, wind, and other atmospheric phenomena. While the design of the glider 
+affects performance to a great degree, design remains fixed and known to the pilot. Other factors change and affect launch, 
+cruise, and landing.
+
+Variable Performance Factors
+
+32672
+For a specific glider flight, some factors that affect performance include density altitude, wind, and weight.
+
+Density Altitude
+
+32673
+In general, an increase in density altitude refers to thinner air, while a decrease in density altitude refers to thicker air. 
+Conditions that result in high-density altitude include high elevation, low atmospheric pressure, high temperature, high 
+humidity, or some combination of these factors. Lower elevation, high atmospheric pressure, low temperature, and low 
+humidity reduce density altitude. Since high density altitudes may exist at lower elevations on hot days, pilots should 
+consider density altitude based on actual conditions before a flight.
+
+32674
+A chart provides one way to determine density altitude. [Figure 5-1] For example, knowing field elevation of 1,600 feet 
+MSL with a current altimeter setting of 29.80 "Hg and temperature of 85 °F, what is the density altitude? The right side of 
+the chart provides an adjustment for nonstandard pressure (29.80 "Hg) and suggests adding 112 feet to the field elevation. 
+This step provides a current pressure altitude of 1,712 feet. The next step involves tracing a line vertically from the bottom 
+of the chart from the temperature of 85 °F (29.4 °C) that intercepts the diagonal 1,712-foot pressure altitude line. The 
+final step involves tracing a line horizontally to the left from the interception point and reading the density altitude of 
+approximately 3,500 feet. Under these conditions, a self-launching glider or towplane will perform as if at 3,500 feet MSL 
+on a standard day.
+
+Chapter 5:  Glider Performance
+
+
+5-2
+
+32675
+
+Density Altitude Chart 
+
+Outside air temperature 
+
+Approximate density altitude (thousand feet) 
+
+15
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+S.L.
+
+14,000 
+
+13,000 
+
+12,000 
+
+11,000 
+
+10,000 
+
+9,000       Pressure altitude (feet) 
+
+8,000 
+
+7,000 
+
+6,000 
+
+5,000 
+
+4,000 
+
+3,000 
+
+2,000 
+
+1,000 
+
+-1,000 
+
+Sea level
+
+ 
+-18° -12° -7° -1° 4° 10° 16° 21° 27° 32° 38° 
+
+ 
+0° 10° 20° 30° 40° 50° 60° 70° 80° 90° 100°
+
+Standard temperature 
+
+F 
+
+C 
+
+28.0 
+1,824 
+
+28.1 
+1,727 
+
+28.2 
+1,630 
+
+28.3 
+1,533 
+
+28.4 
+1,436 
+
+28.5 
+1,340 
+
+28.6 
+1,244 
+
+28.7 
+1,148 
+
+28.8 
+1,053 
+
+28.9 
+957 
+
+29.0 
+863 
+
+29.1 
+768 
+
+29.2 
+673 
+
+29.3 
+579 
+
+29.4 
+485 
+
+29.5 
+392 
+
+29.6 
+298 
+
+29.7 
+205 
+
+29.8 
+112 
+
+29.9 
+20 
+
+29.92 
+0 
+
+30.0 
+−73 
+
+30.1 
+−165 
+
+30.2 
+−257 
+
+30.3 
+−348 
+
+30.4 
+−440 
+
+30.5 
+−531 
+
+30.6 
+−622 
+
+30.7 
+−712 
+
+30.8 
+−803 
+
+Altimeter setting  
+("Hg) 
+
+Pressure altitude 
+conversion factor 
+
+Figure 5-1. Density altitude chart.
+
+32676
+Many performance charts use pressure altitude and temperature inputs without requiring the pilot to calculate density 
+altitude. However, if the pilot wants to know the density altitude, a density altitude chart or a flight computer can supply 
+that information.
+
+Atmospheric Pressure
+
+32677
+Atmospheric pressure at a given location changes from day to day. The following sample Meteorological Aerodrome Report 
+(METAR) indicates a local pressure of A2953, or altimeter setting of 29.53 inHg. When considering barometric pressure 
+only, the lower than normal pressure reading results in a higher density altitude that decreases aircraft performance. This 
+reduction affects takeoff and climb performance and increases the length of runway needed during landing for both the 
+
+
+5-3
+
+glider and towplane. On the other hand, if barometric pressure rises, the lower density altitude improves takeoff and climb 
+performance, and the length of runway needed for landing decreases.
+
+32678
+KDAL 232153Z 21006KT 7SM -RA BKN025 BKN060 OVC110 12/11 A2953 RMK AO2 PRESFR SLP995 P0005 
+T01220106
+
+Temperature
+
+32682
+Temperature changes have a significant effect on density altitude. Heated air expands—the molecules move farther apart, 
+making the air less dense. Higher density altitude reduces glider and towplane takeoff and climb performance and increases 
+the length of runway required for landing.
+
+32683
+Consider the following METAR for two airports with same altimeter setting, temperature, and dewpoint. Love Field 
+(KDAL) airport elevation of 487 feet versus Denver International (KDEN) at 5,431 feet.
+
+32684
+KDAL 240453Z 21007KT 10SM CLR 25/15 A3010 RMK AO2…
+
+32685
+KDEN 240453Z 24006KT 10SM FEW120 SCT200 25/15 A3010 RMK AO2…
+
+32686
+The computed density altitude for Love Field is 1,774 feet; for Denver, 7,837 feet—Denver experiences almost twice 
+the amount of increase compared to Love Field. The effects of altitude and temperature can surprise a pilot who does not 
+consider the related performance issues.
+
+Wind
+
+32687
+Wind also affects glider performance. Headwind during launch or landing results in a shorter ground roll, while tailwind 
+causes a longer ground roll. [Figure 5-2] Crosswinds during launch or landing require proper crosswind procedures or 
+control input to track along the runway.
+
+32688
+
+34
+
+34
+
+Win
+
+d
+
+Takeoff and climb-out: no wind 
+
+Takeoff and climb-out: 25-knot headwind
+
+Figure 5-2. Apparent wind effect on takeoff distance and climb-out angle. 
+
+33733
+Due to diminishing ground friction between the wind and the ground, wind speed often increases with altitude. This “wind 
+gradient” during a ground launch could result in an exceedance of the maximum launch speed. [Figure 5-3]
+
+
+5-4
+
+32695
+
+Wind 20 knots
+
+Wind 10 knots
+
+Wind gradient
+
+knots
+Airspeed
+7 0
+0
+
+knots
+Airspeed
+6 0
+0
+
+57.5 MPH (50 knots)
+
+Figure 5-3. A wind gradient may affect airspeed during a ground tow.
+
+32689
+During cruising flight, headwinds reduce the groundspeed of the glider. A glider flying at 60 knots true airspeed into a 
+headwind of 25 knots has a groundspeed of only 35 knots. Tailwinds increase the groundspeed of the glider. A glider flying 
+at 60 knots true airspeed with a tailwind of 25 knots has a groundspeed of 85 knots.
+
+32701
+Some self-launching gliders can cruise for extended periods using the engine. The self-launching glider’s fuel capacity 
+normally limits maximum range and duration with the engine running. Wind has no effect on flight duration but does have 
+a significant effect on range. During powered cruising flight, a headwind reduces range, and a tailwind increases range. 
+The Glider Flight Manual/Pilot’s Operating Handbook (GFM/POH) provides recommended airspeeds and power settings 
+to maximize range when flying in no wind, headwind, or tailwind conditions.
+
+32690
+When flying straight and level and following a selected ground track, the pilot can point the glider into the prevailing wind 
+as the preferred method to correct for wind drift. The wind speed, the angle between the wind direction and the glider's 
+longitudinal axis, and the airspeed of the glider determine the required wind correction angle. [Figure 5-4] Crosswinds may 
+also have a head or tailwind component that results in a lower or higher groundspeed.
+
+
+5-5
+
+32691
+
+Wind at 10 knots
+
+No wind
+Heading = Track
+
+Final glide
+
+Crosswind from the right
+Heading is crabbed upwind of track
+
+Final glide
+
+Track
+
+Target
+
+Glider Airspeed – 60 Knots
+Wind – 10 Knots and 90° off the nose 
+Glider Ground Speed – 59 Knots
+Crab angle of about 9.5°
+
+Glider Airspeed – 60 Knots
+Wind – 10 Knots and 45° off the nose 
+Glider Ground Speed – 52 Knots
+Crab angle of about 6°
+
+Glider Airspeed – 60 Knots
+Wind – 10 Knots and 30° off the nose 
+Glider Ground Speed – 51 Knots
+Crab angle of about 4°
+
+Heading
+
+Heading
+
+Target
+
+Crab angle
+
+Track
+
+Figure 5-4. Crosswind effect on final glide.
+
+32692
+A headwind during an approach results in greater altitude loss per distance traveled. The glider descends at a constant rate, 
+but a lower groundspeed increases the observed approach angle. Pilots use various techniques to ensure safe touchdowns 
+in different wind conditions. For example, if landing in a strong headwind, the glider pilot should plan for a base leg 
+closer to the landing zone to allow for the steeper approach. Another technique uses delayed extension of spoilers or dive 
+brakes with a faster airspeed to counter the headwind component. In the case of a tailwind and an apparent lower angle 
+of approach, the glider pilot can use more spoiler or dive brake extension, slip, or use a combination of the two if allowed 
+by the GFM. In any case, the pilot generally aims for a spot past the threshold of the runway to provide a safety factor 
+that accounts for the effects of the wind gradient or other factors that may cause the approach to be shorter than expected. 
+[Figure 5-5]
+
+
+5-6
+
+32693
+
+34
+
+34
+
+34
+
+Win
+
+d
+
+W
+
+i
+
+n
+
+d
+
+Touchdown point
+
+Touchdown point
+
+Touchdown point
+
+Landing: 25-knot headwind
+
+Landing: no wind 
+
+Landing: 15-knot tailwind
+
+Figure 5-5. The effect of wind on final approach and landing distance.
+
+32700
+When approaching to land during windy and gusty conditions, a pilot normally adds half of the difference between the 
+steady wind and gusts to the approach speed to mitigate any variations in airspeed. Instead of holding the glider off 
+the ground for a low kinetic energy landing during these conditions, the pilot can land a little faster than normal. Upon 
+touchdown, extending the air brakes prevents the glider from becoming airborne from a gust during the landing roll.
+
+32694
+The pilot usually expects any headwind to diminish during descent to a landing. This is called the wind gradient. If the 
+wind gradient is abrupt, the pilot may experience a sudden airspeed loss. After the pilot lowers the nose to compensate, it 
+takes a finite time interval to overcome the inertia of the glider and regain airspeed. A significant speed loss near the ground 
+may preclude recovering any or all the lost speed. A wind gradient on final approach may cause the glider to land short of 
+the point of intended touchdown therefore, a closer approach may be necessary.
+
+32696
+The pilot landing with a tailwind has a higher groundspeed and should expect a longer landing roll. As the surface friction 
+slows the winds, the pilot may observe an increase in airspeed.
+
+32698
+A strong windshear gradient can affect a glider during a steep turn on a low altitude final approach at a low airspeed. The 
+gradient can create different lift on the low wing and the raised wing. [Figure 5-6] The rolling force created by the gradient 
+can overcome the ailerons, cause a loss of control, and explains why the pilot should limit bank angle while close to the 
+ground and transitioning a strong wind gradient.
+
+
+5-7
+
+32699
+
+Wind velocity
+18 mph
+
+Wind velocity 16 mph
+
+Wind velocity 14 mph
+
+Wind velocity
+12 mph
+
+Wind
+velocity
+10 mph
+
+Figure 5-6. Effect of wind velocity gradient on a glider. Stronger airflow over higher wing may cause bank to steepen.
+
+Weight
+
+32702
+The weight of a glider affects acceleration during launch. A glider at maximum takeoff weight takes longer to attain flying 
+speed. After takeoff, a tow plane with a heavy glider will climb more slowly. Increasing the weight of a powered glider 
+causes it to accelerate more slowly and climb more slowly. [Figure 5-7]
+
+32703
+
+34
+
+34
+
+Takeoff and climb-out: lightweight glider
+
+Takeoff and climb-out: heavy glider
+
+Figure 5-7. Effect of weight on takeoff distance and climb-out rate and angle.
+
+
+5-8
+
+32704
+The stall speed increases with the square root of any load on the glider. For example, if the weight or load factor on the 
+glider doubles, the stall speed increases by the square root of 2 or 1.41. If a 540-pound glider has a stalling speed of 40 
+knots and the pilot adds 300 pounds of water ballast increasing the total weight to 840 pounds, the stall speed increases to 
+approximately 50 knots (40 x √(840/540)).
+
+32705
+The speed that results in the lowest altitude loss over time, the minimum sink airspeed, also increases with weight. At any 
+given bank angle, a heavier glider uses higher airspeeds for efficiency, which result in larger diameter circles. The best 
+lift in thermals often occurs in a narrow cylinder near the core, and large diameter circles generally reduce the glider's 
+capability to exploit the strongest lift. [Figure 5-8]
+
+32706
+
+Lightweight glider thermal circle
+Heavy (ballasted) glider thermal cycle
+
+Figure 5-8. Effect of added weight on thermaling turn radius.
+
+32708
+Increasing the operating weight of a given glider not only increases the stall airspeed and minimum sink airspeed, it also 
+increases the best L/D airspeed [Figure 5-9]. Although a heavier glider sinks faster, it glides the same horizontal distance 
+(at a higher speed) as a lighter glider with the same glide ratio and starting altitude.
+
+32709
+
+Operating Weight
+   800 pounds
+1,200 pounds
+1,600 pounds
+
+Stall Airspeed
+36 knots
+44 knots
+50 knots
+
+Minimum Sink
+48 knots
+58 knots
+68 knots
+
+Best L/D Airspeed
+60 knots
+73 knots
+83 knots
+
+Figure 5-9. Effect of added weight on performance airspeeds.
+
+32711
+Figure 5-9 above shows that increasing weight from 800 to 1,200 pounds increases the best L/D airspeed from 60 knots 
+to 73 knots. A glider with more weight can fly faster while maintaining the same  lift-to-drag (L/D) ratio (glide ratio). The 
+advantage of the heavier weight becomes apparent during faster flight between thermals in sink. In strong lift the heavy 
+glider can climb reasonably well, and the advantage during the cruising portion of flight may outweigh the disadvantage 
+during climbs.
+
+32712
+To fly faster with efficiency, some gliders have water tanks that allow the pilot to add weight as ballast. The pilot normally 
+jettisons the water ballast before entering the traffic pattern or earlier if conditions necessitate a higher climb rate. Reducing 
+the weight of the glider before landing allows the pilot to make a normal approach, normal landing, and reduces load on 
+the landing gear.
+
+
+5-9
+
+Rate of Climb
+
+32715
+Rate of climb for a ground-launched glider depends on the power of the ground-launch equipment. With a powerful 
+winch or tow vehicle, rate of climb can exceed 2,000 feet per minute (fpm). For an aerotow, the rate of climb depends on 
+the  power of the towplane. The towplane should have sufficient power to tow the glider safely, considering the existing 
+conditions, which include glider weight.
+
+32716
+The rate of climb of self-launching gliders may vary from as low as 200 fpm to as much as 800 fpm or more. The
+pilot should consult the GFM/POH to determine rate of climb under the existing conditions.
+
+Flight Manuals & Placards
+
+32717
+The GFM/POH provides the pilot with the necessary performance information to operate the glider safely. A GFM/POH 
+may include the following information:
+
+32718
+
+• Description of glider primary components
+
+32719
+
+• Glider assembly instructions
+
+32720
+
+• Weight and balance data
+
+32721
+
+• Description of glider systems
+
+32722
+
+• Glider performance data
+
+32723
+
+• Operating limitations
+
+Placards
+
+32724
+Placards attached to the glider provide the pilot with essential information for safe operation. The GFM/POH lists all the 
+required placards.
+
+32725
+The amount of information that placards convey to the pilot increases as the complexity of the glider increases. High-
+performance gliders may have wing flaps, retractable landing gear, a water ballast system, drogue chute for use in the 
+landing approach, and other features to enhance performance. [Figure 5-10]
+
+32726
+
+Glider
+Self-Launching Glider
+
+After inflight
+engine shutdown, 
+feather propeller
+
+DO NOT EXCEED
+6,400
+Engine rpm
+
+OFF
+
+EMERGENCY CANOPY
+
+JETTISON
+
+Minimum pilot seat weight—154 lb (70 kg)
+Maximum pilot seat weight—264 lb (120 kg)
+
+INTENTIONAL
+SPINNING
+PROHIBITED
+
+Stall speed—35 knots
+Maximum ground launch speed—74 knots
+Maneuvering speed—86 knots
+Maximum aerotow speed—94 knots
+VNE—136 knots
+
+Figure 5-10. Typical placards for gliders.
+
+
+5-10
+
+Performance Information
+
+32727
+The GFM/POH provided by the manufacturer contains glider performance information. The GFM/POH lists specific 
+airspeeds such as stall speed, minimum sink airspeed, best L/D airspeed, maneuvering speed, rough airspeed, maximum 
+aerotow speed, maximum ground launch speed, and the never exceed speed (VNE). Some performance airspeeds apply only 
+to gliders with certain equipment. For instance, gliders with wing flaps have a maximum permitted flap extended airspeed 
+(VFE).
+
+32728
+Manuals for self-launching gliders include performance information about powered operations. These include rate of 
+climb, engine and propeller limitations, fuel consumption, endurance, and cruise.
+
+Glider Polars
+
+32729
+The manufacturer provides information about the rate of sink in terms of airspeed summarized in a graph called a polar 
+curve, or simply a polar.
+
+32731
+The vertical axis of a polar shows the sink rate (increasing sink downwards), while the horizontal axis shows airspeed in 
+the same units (knots). Every type of glider has a characteristic polar derived either from theoretical calculations or by 
+actual inflight measurement of the sink rate at different speeds. The polar of each individual glider varies (even from other 
+gliders of the same type) by a few percent depending on relative smoothness of the wing surface, the sealing around control 
+surfaces, and even the number of bugs on the wing’s leading edge. The polar forms the basis for speed to fly and strategies 
+discussed in Chapter 11, Cross-Country Soaring.
+
+32732
+The peak of the blue sink rate curve determines minimum sink rate. [Figure 5-11] In this example, a minimum sink of 1.9 
+knots occurs at 40 knots. Note that the sink rate increases between minimum sink speed and the stall speed (the left end 
+point of the blue curve). A tangent from the origin to the polar indicates the best glide speed (best L/D). The best L/D speed 
+is 50 knots with a sink speed of 2.1 knots. The glide ratio at best L/D speed is determined by dividing the best L/D speed 
+by the sink rate at that speed, or 50/2.1, which is approximately 24 in this example. Thus, this glider has a best glide ratio 
+in calm air (no lift or sink and no headwind or tailwind) of 24:1 at 50 knots.
+
+32733
+
+Airspeed (knots)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130
+
+Sink rate (knots)
+
+Airspeed (knots)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130
+
+Dual (
+
+heavie
+
+r)
+
+Solo (l
+
+ighter
+
+)
+
+Minimum sink airspeed
+40 knots
+
+Best glide speed
+
+Headwind change
+
+L/D maximum
+50 knots
+
+Figure 5-11. Minimum sink airspeed and maximum L/D speed.
+
+32734
+To determine the best speed to fly for distance over the ground in a headwind, the pilot can shift the origin to the right along 
+the horizontal axis by the speed of the headwind and draw a new tangent line to the polar. For tailwinds, the pilot shifts the 
+origin to the left of the zero mark on the horizontal axis.
+
+32735
+Figure 5-12 shows an example for a 20-knot headwind. The new tangent indicates 60 knots as the best glide speed. By 
+repeating the procedure for different headwinds, the data show that flying faster as headwinds increase results in a greater 
+distance traveled over the ground. Analysis of the data from many gliders leads to the following general rule: the pilot can 
+add half the headwind component to the zero wind L/D to obtain maximum distance.
+
+
+5-11
+
+32736
+
+10
+
+11
+
+12
+
+Sink rate (knots)
+
+Airspeed (knots)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130
+
+Best glide speed
+
+Headwind change
+
+{
+
+Figure 5-12. Best speed to fly in a 20-knot headwind.
+
+32737
+The speed to fly in a tailwind lies between minimum sink and best L/D, but never lower than minimum sink speed.
+
+32738
+Sinking air often exists between thermals and flying faster than best L/D can result in less time in sinking air and an 
+increase in efficiency. The pilot can determine how much faster to fly using the glider polar, as illustrated in Figure 5-13 for 
+an airmass sinking at 3 knots between thermals. In this case, the pilot draws a tangent line to the polar that begins 3 knots 
+above the origin to read the best speed to fly, 60 knots in this case. Note, that in this situation, the variometer would show 
+a total sink of 5 knots (3 knots from sinking air and 2 knots for the constant aircraft descent) as highlighted in the figure.
+
+32739
+
+Sink rate (knots)
+Lift rate (knots)
+
+Airspeed (knots)
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+–1
+
+–2
+
+–3
+
+–4
+
+–5
+
+–6
+
+–7
+
+ 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130
+
+Best speed to fly is 60 knots
+
+Total sink
+
+{
+
+Figure 5-13. Best speed to fly in sinking air.
+
+32740
+If the glider has water ballast, wing flaps, or wingtip extensions, the polar depicts the performance characteristics of the 
+glider in those configurations. [Figure 5-14, Figure 5-15, and Figure 5-16] Comparing the polar with and without ballast 
+shows that the minimum sink increases and occurs at a higher speed after adding weight. As a result, working weak 
+thermals becomes more challenging with ballast. In addition, ballast lowers the sink rate at higher speeds. [Figure 5-14] 
+The best glide ratio remains the same, but it occurs at a higher speed. Note that as expected, the stall speed increases with 
+added ballast.
+
+
+5-12
+
+32741
+
+Sink rate (knots)
+
+Airspeed (knots)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130
+
+Notice higher airspeed with ballast for same sink rate
+
+70 knots
+
+50 knots
+
+= performance without water ballast
+= performance with 300 lb water ballast
+
+Figure 5-14. Effect of water ballast on performance polar.
+
+32744
+Flaps with a negative setting as opposed to a 0-degree setting during cruise also reduce the sink rate at higher speeds, as 
+shown in the polar. [Figure 5-15] Therefore, when cruising at or above 70 knots, setting the flaps to -8° would provide 
+an advantage. The polar with flaps set at -8° does not extend to speeds lower than 70 knots since the negative flap setting 
+loses its advantage there.
+
+32742
+
+Sink rate (knots)
+
+Airspeed (knots)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130
+
+With flaps set to –8 degrees, sink rate does not 
+change significantly but airspeed increases. 
+
+56 knots
+
+85 knots
+
+= performance, flaps set to 0°
+= performance, flaps set to −8°
+
+Figure 5-15. Performance polar with flaps at 0° and –8°.
+
+32745
+Wingtip extensions also alter the polar data, as shown in Figure 5-16. The illustration shows that the additional 3 meters of 
+wingspan creates an advantage at all speeds. In some gliders, the low-speed performance improves with the tip extensions, 
+while high-speed performance diminishes slightly.
+
+
+5-13
+
+32743
+
+Sink rate (knots)
+
+Airspeed (knots)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+130
+43 knots
+
+40 knots
+
+= 15-meter wingspan performance
+= 18-meter wingspan performance
+
+Figure 5-16. Performance polar with 15-meter and 18-meter wingspan configurations. (Matt please add tangent lines to intersect the 
+
+curves at the 43 and 40 knot annotated points.)
+
+Limitations
+
+32748
+Regardless of glider complexity, designers and manufacturers provide operating limitations to ensure the safety of flight. 
+The glider VG diagram provides the pilot with information on the design limitations, such as limiting airspeeds and load 
+factors (L.F. in Figure 5-17). Pilots should become familiar with all the operating limitations of each glider flown and 
+should not operate outside the limits. Figure 5-17 shows different possible limiting conditions and the basic flight envelope 
+for a high-performance glider.
+
+32749
+
+N Limit wing load factor (“G” units)
+
+V = Velocity (mph)
+
++6.0
+
++5.0
+
++4.0
+
++3.0
+
++2.0
+
++1.0
+
+0.0
+
+−1.0
+
+−2.0
+
+−3.0
+
+−4.0
+
+SGS 1-35 Basic Flight Envelope
+High Performance Class
+
+Cond 3 Pos. Gust L.F. = 3.55
+
+1
+
+2
+
+3
+
+4
+Cond 4 Neg. Gust L.F. = 3.55
+
+Cond 2 Neg. Max. L.F. = 2.67
+
+Cond 1 Pos. Max. L.F. = 5.33
+
+VG = 154 MPH
+
+POSITIVE 24 FPS GUST FACTOR
+
+NEGATIVE 24 FPS GUST FACTOR
+
+0  
+20 
+40 
+60 
+80 
+100 
+120 
+140 
+160 
+180 
+200 
+220
+
+L.F. – Load Factor
+Neg. – Negative
+Pos. – Positive
+FPS – Feet per second
+ 
+
+Figure 5-17. Sample glider flight envelope.
+
+
+5-14
+
+37089
+The curved yellow lines represent the maximum lift that the glider can generate at different airspeeds as Gs.
+
+37090
+Condition 1 identifies the maximum speed at which the pilot can use full elevator up authority without damaging the glider. 
+Up to this point along the curve and to the left at lower speeds, the glider would stall before the pilot exceeds the design 
+load limit shown on the diagram. At higher speeds (to the right of condition 1), lift can exceed the maximum design load 
+factor before a stall occurs. Such operation may impose damaging loads to the structure.
+
+37091
+Condition 2 represents the speed at which the pilot can use full down elevator authority and not create a negative load that 
+damages the glider. Above this speed the pilot can impose damaging loads to the structure.
+
+Vertical Gusts During High-Speed Cruise
+
+34228
+In high-speed cruise pilots should pay attention to load factor limitations. An encounter with an abrupt updraft during 
+wings-level high-speed cruise increases the angle of attack, bends the wings upward, briefly increases the G-load, and 
+stores elastic energy in the wing spars. As the wings release this energy, the wing spars spring downward and loft the 
+fuselage higher. As the fuselage reaches the top of this motion, the wing spars, now bent downward, move upward again 
+to release the stored energy. Since a negative G-load can occur as the fuselage drops downward, the seat belt and shoulder 
+harness can prevent the pilot's head from banging against the top of the canopy.
+
+34229
+During these excursions, the weight of the pilot’s hand and arm may inadvertently move the control stick forward or aft. 
+Positive G-loading and the increased apparent weight of the pilot’s arm tend to move the control stick aft and further 
+increase the angle of attack and G-load. Negative G-loading and the decreased apparent weight of the pilot’s arm tend to 
+move the control stick forward and further decrease the angle of attack and G-load.
+
+51158
+To minimize the intensification of vertical gusts and avoid high-speed pilot induced oscillations (PIOs), the pilot should 
+reduce speed when cruising through turbulent air. The pilot may also brace both arms and use both hands on the control 
+stick to prevent unwanted input. Some glider designs incorporate a parallelogram control stick linkage to reduce the 
+likelihood of PIOs during high-speed cruise.
+
+Weight & Balance
+
+32747
+The pilot should understand proper weight and balance management and the consequences of overloading or improperly 
+loading the glider.
+
+Weight & Balance Information
+
+32746
+The GFM/POH provided by the manufacturer gives information about the weight and balance of the glider. Since addition 
+or removal of equipment, such as radios, batteries, flight instruments, or airframe repairs affect the CG position, aviation 
+maintenance technicians (AMTs) record changes to the weight and balance data in the GFM/POH and glider airframe 
+logbook. They also update weight and balance placards.
+
+Center of Gravity
+
+32751
+Longitudinal balance affects stability around the lateral axis of a glider. To achieve satisfactory pitch attitude handling, 
+manufacturers position the center of gravity (CG) of a properly loaded glider forward of the center of lift (CL) and publish 
+the glider CG limits in the GFM/POH.
+
+32757
+On most gliders, the horizontal stabilizer and elevator provide a down force to balance the CG and center of lift arrangement. 
+As the airspeed changes the pilot adjusts the trim, and the tail-down force exactly balances the forward CG. A glider in 
+this configuration tends to resume its previous pitch attitude after an upset about the lateral axis. Should an upset occur 
+that pitches the nose upward, the resultant slower airspeed and decrease in tail-down force lowers the nose and allows 
+the airspeed to return toward its pre-upset value. Conversely, if the upset places the aircraft in a nose-down attitude, the 
+increase in airspeed increases tail-down force and raises the nose toward the pre-upset condition. This arrangement creates 
+positive stability. However, if the tail stalls, this stabilizing action will not begin until the tail begins producing down force.
+
+
+5-15
+
+Problems Associated with CG forward of the Published Limit
+
+32752
+Loading the glider with the CG forward of the limit makes it difficult to raise the nose on takeoff and requires considerable 
+back pressure on the controls to regulate pitch attitude. At low airspeeds the tail may stall or not provide sufficient down 
+force. Any tail stall results in a sudden nose-down pitch change and potential for a slow recovery. The pilot may not have 
+sufficient elevator authority to perform the landing flare due to nose heaviness. Inability to flare could result in a nose-first 
+hard landing.
+
+32753
+A CG forward of the limit might occur for these reasons:
+
+32754
+
+• The pilot weight exceeds the maximum permitted.
+
+32755
+
+• Installed ballast weights added to the weight of the pilot exceed the maximum permitted.
+
+Problems Associated with CG forward of the Published Limit
+
+32756
+Loading a glider with the CG location behind the aft limit creates a tail-heavy condition. Tail heaviness can make pitch 
+control of the glider difficult or impossible.
+
+32758
+A CG aft of the limit might occur for these reasons:
+
+32759
+
+• The pilot weighs less than the specified minimum pilot seat weight without necessary ballast installed in the glider.
+
+32760
+
+• Tailwheel dolly not removed prior to flight.
+
+32762
+
+• A heavy, non-approved tailwheel or tail skid installed on the aft tail boom of the glider.
+
+32761
+
+• Foreign matter or debris (water, ice, mud, sand, or nests) accumulation in the aft fuselage.
+
+Sample Weight & Balance Problems
+
+32763
+Some glider manufacturers provide weight and balance information in a graphic presentation. A well-designed graph 
+provides a convenient way to determine whether the glider is within weight and balance limits.
+
+32764
+Sample figure 5-18 indicates that the minimum weight for the front seat pilot is 125 pounds (the lowest number on the 
+x-axis) to a maximum of 250 pounds (the highest number on the x-axis). It also indicates a maximum rear seat pilot weight 
+of 225 pounds (the highest number on the y-axis). If each pilot weighs 150 pounds, the intersection of pilot weights falls 
+within the envelope. Therefore, the glider load falls within the envelope for safe flight. If each pilot weighs 225 pounds, 
+the intersecting lines intersect in the yellow portion of the graph and indicate a load outside of weight and balance limits.
+
+32810
+
+Rear seat pilot weight (lb)
+
+225
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Front seat pilot weight (lb)
+
+125 
+150 
+175 
+200 
+225 
+ 250
+
+Within weight and balance limits
+
+Out of weight and balance limits
+
+Figure 5-18. Sample weight and balance envelope.
+
+
+5-16
+
+57877
+Weight along the longitudinal axis of the glider affects the CG location. Pilots calculate the CG using of the arm or distance 
+of known weights from a specific point (datum) on the longitudinal axis. The GFM/POH supplies the arm from the datum 
+for the empty glider, each occupant seat, and for any cargo storage.
+
+32765
+The pilot can determine the CG position using the following formulas:
+
+32766
+
+• Weight × Arm = Moment.
+
+32767
+
+• Total Moment ÷ Total Weight = CG Position (in relation to the datum).
+
+32768
+The computational method involves the application of basic math functions as follows:
+
+10082
+
+Given:
+
+32770
+
+Maximum gross weight:  1,040 lb
+
+32771
+
+Empty weight:  669 lb
+
+32772
+
+CG range:  14.8–18.6 in
+
+32773
+
+Front seat occupant:  180 lb
+
+32774
+
+Rear seat occupant:  200 lb
+
+32775
+To determine the loaded weight and CG, follow these steps:
+
+32776
+
+1. List the empty weight of the glider and the weight of the occupants.
+
+32777
+
+2. Enter the moment for each item listed. Remember, weight × arm = moment.
+
+32778
+
+3. Total the weight and moments.
+
+32779
+
+4. To determine the CG, divide the total moments by the total weight. [Figure 5-19]
+
+32780
+Note: The weight and balance records for a particular glider provide the empty weight and moment, as well as the 
+information on the arm distance. [Figure 5-19]
+
+32781
+
+Item
+
+Empty weight
+
+Front seat pilot
+
+Rear seat pilot
+
+Weight (pounds)
+
+669
+
+180
+
+190
+
+1,039 total weight
+
+Arm (inches)
+
++93.7
+
++43.8
+
++74.7
+
++81.58
+
+Moment (inch·pounds)
+
++62,685
+
++7,884
+
++14,193
+
++84,762 total moment
+
+Figure 5-19. Sample weight and balance: front and rear seat pilot weights and moments.
+
+32782
+In Figure 5-19 above, the weight of each pilot appears in the appropriate block in the table. For the front seat pilot, 
+multiplying 180 pounds by 43.8 inches yields a moment of 7,884 inch-pounds. For the rear seat pilot, multiplying 190 
+pounds by 74.7 inches yields a moment of 14,193 inch-pounds. The next step is to find the sum of all weights (980 pounds) 
+including the empty weight of the glider. Then, find the sum of all moments (+84,762 inch-pounds). To determine the CG 
+position of the loaded glider, divide the total moment by the total weight to in inches from the datum: 84,762 inch-pounds 
+÷ 1039 pounds = 81.58 aft of the datum.
+
+32783
+For the final step the pilot determines whether total weight and CG location values are within acceptable limits. The GFM/ 
+POH lists the maximum gross weight as 1,040 pounds. The operating weight of 1039 pounds does not exceed the 1,040 
+pounds maximum gross weight. The GFM/POH lists the approved CG range as between 78.2 inches and 86.1 inches from 
+
+
+5-17
+
+the datum. The operating CG of 81.58 inches from the datum falls within these limits. Therefore, the calculation shows the 
+glider within operating limits if loaded as planned.
+
+Ballast
+
+32784
+Ballast includes nonstructural weight added to a glider. In soaring, ballast weight serves two purposes. Trim ballast adjusts 
+the location of the CG of the glider to remain within acceptable limits. Performance ballast improves high-speed cruise 
+performance.
+
+Trim Ballast
+
+32785
+Removable trim ballast weights, often made of metal, attach to a ballast receptacle incorporated in the glider structure. 
+These weights compensate for a front seat pilot who weighs less than needed to maintain the CG within acceptable 
+operating limits. The ballast weight mounted well forward in the glider cabin can move the CG within permissible limits 
+with the minimum addition of weight.
+
+32786
+Whenever an approved POH or Glider Flight Manual limitation section includes specific instructions on the use of trim 
+ballast, pilots must follow the approved method stated in the GFM/POH for placement of that ballast. For gliders without 
+limitations or placards regarding placement of trim ballast, pilots may consider using a seat cushion with sand or lead shot 
+sewn into the unit to provide additional weight. Since this type of ballast may shift position during maneuvering, pilots 
+should not rely on seat cushion ballast during acrobatic or inverted flight. The pilot should develop a means to verify the 
+presence, absence, weight, and appropriateness of any trim ballast before a flight.
+
+32787
+Trim ballast may also include water in a tail tank in the vertical fin. Water weighs 8.35 pounds per gallon. Because of 
+its far-aft location, the pilot can use a small amount of water in the tail tank to offset the moment of any main wing tank 
+performance ballast. Even though a tail tank generally holds less than two gallons of water, a calculation error leading to 
+excess water in the tail could result in flight with a CG aft of the limit.
+
+Performance Ballast
+
+32788
+Adding weight enhances high-speed performance in gliders. Increasing the operating weight of the glider increases the 
+optimum speed to fly during wings-level cruising flight. The resulting higher ground speed provides an advantage in cross-
+country soaring and in glider racing.
+
+32789
+Manufacturers commonly install water tanks in the main wing panels. That water acts as performance ballast. Personnel 
+add clean water through fill ports in the top of each wing. The amount of water introduced depends on the pilot’s choice 
+of operating weight. After adding water, replacement of the filler caps prevents water from sloshing out of the filler holes. 
+Vents in the filler caps allow air to enter the tanks to replace the volume of water drained from the tanks. [Figure 5-20] 
+Pilots should ensure that the vents work properly to prevent wing damage when draining water ballast.
+
+
+5-18
+
+32791
+
+Figure 5-20. Water ballast tank vented filler cap.
+
+32790
+Drain valves fit to the bottom of each tank, and the pilot controls the valves from inside the glider. [Figure 5-21] The pilot 
+can fully or partially drain the tanks with the glider on the ground to reduce weight prior to launch. The pilot can also 
+manipulate the valves to drain the ballast tanks partially or completely in flight—a process called dumping ballast, which 
+normally occurs prior to landing. The long streaks of white spray behind an airborne glider indicate water draining in the 
+air.
+
+32792
+
+Drain valve closed
+Drain valve open
+
+Figure 5-21. Water ballast drain valve handles.
+
+32793
+Pilots should check the drain valves for correct operation prior to flight. Water ballast should drain from each wing tank 
+at the same rate. Unequal draining leads to a wing-heavy condition that makes inflight handling, as well as landings, more 
+difficult. If the wing-heavy condition becomes extreme, the pilot may lose control of the glider.
+
+32794
+Water ballast should drain into the air outside the glider rather than leak into the fuselage. Water trapped in the fuselage 
+may flow through or over bulkheads, causing unmanaged changes to the glider CG. Sufficient CG movement could lead 
+to control difficulty or even total loss of control.
+
+32795
+The flight manual provides guidance regarding the length of time it takes for the ballast tanks to drain completely. When 
+preparing for landing, the pilot should dump ballast early enough to give the ballast drains sufficient time to empty the 
+tanks.
+
+
+5-19
+
+32796
+Use of water ballast in low ambient temperatures can result in water freezing the drain valve, making dumping ballast 
+difficult or impossible. If only one valve freezes, uneven dumping may occur as discussed above. If water in the wings 
+freezes, serious wing damage may occur because water expands while freezing. The resulting increased volume can deform 
+ribs and other wing structures or delaminate glued bonds. In cold weather or when expecting cold flight conditions, pilots 
+should not use water ballast unless adding antifreeze to the water. The GFM has information on antifreeze compounds 
+approved for use in the glider.
+
+32797
+A glider carrying large amounts of water ballast has noticeably different handling characteristics than the same glider 
+without water ballast. Water ballast:
+
+32798
+
+• Reduces the rate of acceleration of the glider at the beginning of the launch due to the increased glider weight.
+
+32799
+
+• Increases the length of ground roll prior to glider liftoff.
+
+32800
+
+• Increases stall speed.
+
+32801
+
+• Reduces aileron control during the takeoff roll, increasing the chance of uncontrolled wing drop and resultant 
+
+ground loop.
+
+32802
+
+• Reduces rate of climb during climb-out.
+
+32803
+
+• Reduces aileron response during free flight. The addition of large amounts of water increases lateral stability 
+
+substantially. This makes quick banking maneuvers difficult or impossible to perform.
+
+32804
+The pilot routinely dumps water ballast before landing to reduce the weight of the glider. Dumping ballast:
+
+32805
+
+• Decreases stall speed.
+
+32806
+
+• Decreases the optimum airspeed for the landing approach.
+
+32807
+
+• Shortens landing roll.
+
+32808
+
+• Reduces the load that glider structures must support during landing and rollout.
+
+32809
+While performance advantages from ballast occur during strong soaring conditions, pilots should consider that ballast 
+degrades takeoff performance, climb rate, and low-speed handling. Before committing to a launch with water ballast 
+aboard, the pilot should review operating limitations to ensure safety of flight.
+
+Chapter Summary
+
+41702
+Factors that affect all glider flights include temperature, atmospheric pressure, humidity, wind, and operating weight. Pilots 
+should consider the design of the glider and its operating characteristics and know the expected performance before flight. 
+Pilots should only fly when weight and balance conditions remain within limits since these conditions affect stability and 
+control. Glider polars indicate the performance speeds that pilots can expect at different weights and under different wind 
+conditions and can assist in maximizing performance. Glider pilots flying models that use water ballast should understand 
+how to verify proper system operation before flight and know when to drain any water when necessary or before landing.
+
+

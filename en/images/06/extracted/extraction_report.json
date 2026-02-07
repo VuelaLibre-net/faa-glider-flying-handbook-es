@@ -1,0 +1,519 @@
+{
+  "metadata": {
+    "source": "en/images/06",
+    "total_pages_processed": 10,
+    "total_figures_extracted": 22,
+    "total_skipped": 9
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 6-1. ] Some individuals place all the necessary hardware on",
+      "caption_text": "] Some individuals place all the necessary hardware on",
+      "bbox_normalized": [
+        0.33054263565891473,
+        0.08888888888888889,
+        0.39348837209302323,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1066,
+        220,
+        1269,
+        2254
+      ],
+      "filename": "06-01.01.some-individuals-place-a.png",
+      "source_page": "page-1.png",
+      "chapter": 6,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 6-1. Wing stands and wing dollies may assist assembling the glider",
+      "caption_text": "Wing stands and wing dollies may assist assembling the glider",
+      "bbox_normalized": [
+        0.6474418604651163,
+        0.17494949494949494,
+        0.893953488372093,
+        0.8246464646464646
+      ],
+      "bbox_pixels": [
+        2088,
+        433,
+        2883,
+        2041
+      ],
+      "filename": "06-01.01.wing-stands-and-wing-doll.png",
+      "source_page": "page-1.png",
+      "chapter": 6,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 6-2. Folding the wings of the glider reduces storage space",
+      "caption_text": "Folding the wings of the glider reduces storage space",
+      "bbox_normalized": [
+        0.1888372093023256,
+        0.08848484848484849,
+        0.34852713178294575,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        609,
+        219,
+        1124,
+        2254
+      ],
+      "filename": "06-02.02.folding-the-wings-of-the.png",
+      "source_page": "page-2.png",
+      "chapter": 6,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 6-3. ], and the glider components should fit",
+      "caption_text": "], and the glider components should fit",
+      "bbox_normalized": [
+        0.3851162790697674,
+        0.0892929292929293,
+        0.4641860465116279,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        1242,
+        221,
+        1497,
+        2258
+      ],
+      "filename": "06-03.02.and-the-glider-component.png",
+      "source_page": "page-2.png",
+      "chapter": 6,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 6-3. Components of a glider stored and transported in a trailer",
+      "caption_text": "Components of a glider stored and transported in a trailer",
+      "bbox_normalized": [
+        0.5702325581395349,
+        0.29535353535353537,
+        0.7826356589147286,
+        0.7042424242424242
+      ],
+      "bbox_pixels": [
+        1839,
+        731,
+        2524,
+        1743
+      ],
+      "filename": "06-03.02.components-of-a-glider-st.png",
+      "source_page": "page-2.png",
+      "chapter": 6,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 6-4. Protecting the pitot tube and total energy probe",
+      "caption_text": "Protecting the pitot tube and total energy probe",
+      "bbox_normalized": [
+        0.1925581395348837,
+        0.2686868686868687,
+        0.39193798449612405,
+        0.730909090909091
+      ],
+      "bbox_pixels": [
+        621,
+        665,
+        1264,
+        1809
+      ],
+      "filename": "06-04.03.protecting-the-pitot-tube.png",
+      "source_page": "page-3.png",
+      "chapter": 6,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 6-5. Protecting the canopy",
+      "caption_text": "Protecting the canopy",
+      "bbox_normalized": [
+        0.470077519379845,
+        0.25656565656565655,
+        0.6734883720930233,
+        0.743030303030303
+      ],
+      "bbox_pixels": [
+        1516,
+        635,
+        2172,
+        1839
+      ],
+      "filename": "06-05.03.protecting-the-canopy.png",
+      "source_page": "page-3.png",
+      "chapter": 6,
+      "figure_number": 5,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 6-6. Positioning the glider for the tow vehicle",
+      "caption_text": "Positioning the glider for the tow vehicle",
+      "bbox_normalized": [
+        0.1764341085271318,
+        0.24606060606060606,
+        0.3627906976744186,
+        0.7535353535353535
+      ],
+      "bbox_pixels": [
+        569,
+        609,
+        1170,
+        1865
+      ],
+      "filename": "06-06.04.positioning-the-glider-fo.png",
+      "source_page": "page-4.png",
+      "chapter": 6,
+      "figure_number": 6,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 6-7. A wing dolly (left) ready for attachment and a tail dolly (right) being",
+      "caption_text": "A wing dolly (left) ready for attachment and a tail dolly (right) being",
+      "bbox_normalized": [
+        0.5190697674418605,
+        0.08848484848484849,
+        0.7367441860465116,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        1674,
+        219,
+        2376,
+        2255
+      ],
+      "filename": "06-07.04.a-wing-dolly-left-ready-f.png",
+      "source_page": "page-4.png",
+      "chapter": 6,
+      "figure_number": 7,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 6-8. ] Since a weak spot could develop at any time, tow",
+      "caption_text": "] Since a weak spot could develop at any time, tow",
+      "bbox_normalized": [
+        0.5190697674418605,
+        0.08848484848484849,
+        0.7581395348837209,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        1674,
+        219,
+        2445,
+        2255
+      ],
+      "filename": "06-08.04.since-a-weak-spot-could.png",
+      "source_page": "page-4.png",
+      "chapter": 6,
+      "figure_number": 8,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 6-8. /nspecting the tow line",
+      "caption_text": "/nspecting the tow line",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3284848484848485,
+        0.4117829457364341,
+        0.6711111111111111
+      ],
+      "bbox_pixels": [
+        209,
+        813,
+        1328,
+        1661
+      ],
+      "filename": "06-08.05.nspecting-the-tow-line.png",
+      "source_page": "page-5.png",
+      "chapter": 6,
+      "figure_number": 8,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 6-9. Zow rope materials",
+      "caption_text": "Zow rope materials",
+      "bbox_normalized": [
+        0.48992248062015503,
+        0.3292929292929293,
+        0.8657364341085272,
+        0.6698989898989899
+      ],
+      "bbox_pixels": [
+        1580,
+        815,
+        2792,
+        1658
+      ],
+      "filename": "06-09.05.zow-rope-materials.png",
+      "source_page": "page-5.png",
+      "chapter": 6,
+      "figure_number": 9,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 6-10. Zypical rope strengths",
+      "caption_text": "Zypical rope strengths",
+      "bbox_normalized": [
+        0.17550387596899225,
+        0.1995959595959596,
+        0.2827906976744186,
+        0.8
+      ],
+      "bbox_pixels": [
+        566,
+        494,
+        912,
+        1980
+      ],
+      "filename": "06-10.06.zypical-rope-strengths.png",
+      "source_page": "page-6.png",
+      "chapter": 6,
+      "figure_number": 10,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 6-11. ] requires the same breaking strength range as the tow rope, 80 to 200",
+      "caption_text": "] requires the same breaking strength range as the tow rope, 80 to 200",
+      "bbox_normalized": [
+        0.17550387596899225,
+        0.1995959595959596,
+        0.30387596899224806,
+        0.8
+      ],
+      "bbox_pixels": [
+        566,
+        494,
+        980,
+        1980
+      ],
+      "filename": "06-11.06.requires-the-same-breaki.png",
+      "source_page": "page-6.png",
+      "chapter": 6,
+      "figure_number": 11,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 6-11. A safety link",
+      "caption_text": "A safety link",
+      "bbox_normalized": [
+        0.4576744186046512,
+        0.2315151515151515,
+        0.7689922480620155,
+        0.768080808080808
+      ],
+      "bbox_pixels": [
+        1476,
+        573,
+        2480,
+        1901
+      ],
+      "filename": "06-11.06.a-safety-link.png",
+      "source_page": "page-6.png",
+      "chapter": 6,
+      "figure_number": 11,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 6-12. Safety link strength requirements assuming a 1,000 Ib",
+      "caption_text": "Safety link strength requirements assuming a 1,000 Ib",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.13373737373737374,
+        0.25829457364341085,
+        0.8654545454545455
+      ],
+      "bbox_pixels": [
+        209,
+        331,
+        833,
+        2142
+      ],
+      "filename": "06-12.07.safety-link-strength-requ.png",
+      "source_page": "page-7.png",
+      "chapter": 6,
+      "figure_number": 12,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 6-13. Schweizer-type tow hook",
+      "caption_text": "Schweizer-type tow hook",
+      "bbox_normalized": [
+        0.35255813953488374,
+        0.2739393939393939,
+        0.6136434108527132,
+        0.7256565656565657
+      ],
+      "bbox_pixels": [
+        1137,
+        678,
+        1979,
+        1796
+      ],
+      "filename": "06-13.07.schweizertype-tow-hook.png",
+      "source_page": "page-7.png",
+      "chapter": 6,
+      "figure_number": 13,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 6-14. hook",
+      "caption_text": "hook",
+      "bbox_normalized": [
+        0.645891472868217,
+        0.2690909090909091,
+        0.8992248062015504,
+        0.7305050505050505
+      ],
+      "bbox_pixels": [
+        2083,
+        666,
+        2900,
+        1808
+      ],
+      "filename": "06-14.07.hook.png",
+      "source_page": "page-7.png",
+      "chapter": 6,
+      "figure_number": 14,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 6-15. 4 glider preflight inspection checklist",
+      "caption_text": "4 glider preflight inspection checklist",
+      "bbox_normalized": [
+        0.12930232558139534,
+        0.09575757575757576,
+        0.5100775193798449,
+        0.9038383838383839
+      ],
+      "bbox_pixels": [
+        417,
+        237,
+        1645,
+        2237
+      ],
+      "filename": "06-15.08.4-glider-preflight-inspec.png",
+      "source_page": "page-8.png",
+      "chapter": 6,
+      "figure_number": 15,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 6-16. Positive control check of spoilers",
+      "caption_text": "Positive control check of spoilers",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.2492929292929293,
+        0.3221705426356589,
+        0.7503030303030302
+      ],
+      "bbox_pixels": [
+        209,
+        617,
+        1039,
+        1857
+      ],
+      "filename": "06-16.09.positive-control-check-of.png",
+      "source_page": "page-9.png",
+      "chapter": 6,
+      "figure_number": 16,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 6-17. Pilots should follow each step carefully regardless of the checklist",
+      "caption_text": "Pilots should follow each step carefully regardless of the checklist",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.2492929292929293,
+        0.34325581395348836,
+        0.7503030303030302
+      ],
+      "bbox_pixels": [
+        209,
+        617,
+        1107,
+        1857
+      ],
+      "filename": "06-17.09.pilots-should-follow-each.png",
+      "source_page": "page-9.png",
+      "chapter": 6,
+      "figure_number": 17,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 6-17. Generic prelaunch checklists",
+      "caption_text": "Generic prelaunch checklists",
+      "bbox_normalized": [
+        0.4164341085271318,
+        0.26222222222222225,
+        0.8893023255813953,
+        0.7373737373737373
+      ],
+      "bbox_pixels": [
+        1343,
+        649,
+        2868,
+        1825
+      ],
+      "filename": "06-17.09.generic-prelaunch-checkli.png",
+      "source_page": "page-9.png",
+      "chapter": 6,
+      "figure_number": 17,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 6-4]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 6-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-4.png",
+      "caption": "[Figure 6-6]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-4.png",
+      "caption": "[Figure 6-7]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-5.png",
+      "caption": "[Figure 6-9]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "[Figure 6-13",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "Figure 6-14]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "Figure 6-15.",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 6-16]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

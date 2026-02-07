@@ -1,0 +1,135 @@
+1-1
+
+Introduction
+
+24754
+A modern glider, such as the one pictured below [Figure 1-1] can fly high and make long cross-country flights with a 
+skilled pilot at the controls.
+
+20904
+
+Figure 1-1. A DG Flugzeugbau GmbH 800B-series glider.
+
+20903
+The Code of Federal Regulations (14 CFR part 1, section 1.1) states, “glider means a heavier-than-air aircraft, that is 
+supported in flight by the dynamic reaction of the air against its lifting surfaces and whose free flight does not depend 
+principally on an engine.” The term “glider” also designates the rating placed on a pilot certificate once an applicant 
+successfully completes required glider training, has the requisite experience, passes any required knowledge test, and 
+passes the appropriate practical test.
+
+24650
+For a glider to fly, it needs a means to become airborne. Early gliders could only launch from the top of a hill. [Figure 1-2] 
+and [Figure 1-3].
+
+20895
+
+Figure 1-2. Otto Lilienthal (the Glider King) in flight during the mid-1890s.
+
+Chapter 1:  Gliders & Sailplanes
+
+
+1-2
+
+20897
+
+Figure 1-3. Orville Wright (left) and Dan Tate (right) launched the Wright 1902 glider off the east slope of the Big Hill, Kill Devil 
+
+Hills, North Carolina, on October 17, 1902. Wilbur Wright was flying the glider.
+
+20905
+After development of powered flight, an airplane could tow a glider to altitude, and this became a common means to 
+launch a glider. While early glider designs would only descend after tow and release, later designs could release and take 
+advantage of natural rising air to continue to gain altitude. Some gliders that require a tow to altitude also have a sustainer 
+engine for use in flight. The pilot can start and stop the powerplant while in flight, and in some models, the pilot may retract 
+the propeller system into the body of the glider for increased aerodynamic efficiency. A self-launching motor glider can 
+takeoff and climb to soaring altitudes without a tow. [Figure 1-4]
+
+20909
+
+Figure 1-4. An ASH 26 E self-launching motor glider with the propeller extended.
+
+Glider Pilot Training
+
+20910
+How does a person obtain glider flight training? With a general location in mind, an individual may consider several 
+options, including an FAA-approved glider school, privately owned commercial glider school, or college, university, or 
+private soaring club. These will have FAA-certified flight instructors who can provide instruction. Published articles, 
+soaring-related websites, and discussions with other pilots may help a prospective student create a list of items to look for 
+in a training provider.
+
+20911
+An interested person should consider the quality of training provided. Good instruction follows a structured syllabus and a 
+building block approach. Prior to picking a school, visiting the training provider and talking with management, instructors, 
+and other students can reveal the pros and cons of choosing a particular club or commercial school. Before making a 
+commitment, the prospective student should take an introductory lesson. After deciding on a provider and making the 
+necessary arrangements, training can begin. Individual commitment to a regular training schedule maximizes student 
+progress and retention.
+
+20918
+To be eligible to fly solo in a glider, unrated pilots need to obtain a student pilot certificate, be at least 14 years of age, and 
+demonstrate satisfactory aeronautical knowledge on a pre-solo written test administered by their instructor. Before solo, 
+
+
+1-3
+
+a student pilot also receives ground and flight training for the maneuvers and procedures listed in Title 14 of the Code of 
+Federal Regulations (14 CFR) part 61, section 61.87(i). After a student pilot meets the administrative requirements and 
+demonstrates satisfactory proficiency, the instructor may endorse the student’s logbook for solo flight.
+
+58810
+Note that rated airplane pilots can increase their overall knowledge, skill, and understanding of safety of flight by adding 
+a glider rating. The addition of a glider rating enhances an airplane pilot’s ability to manage flight without power should 
+an engine malfunction occur.
+
+Rating Eligibility
+
+20919
+A student pilot 16 years of age or older or an existing FAA-rated pilot who meets the flight time requirements may take the 
+practical test for a sport pilot certificate with a glider endorsement or the practical test for a private pilot certificate with a 
+glider rating after accomplishing the training requirements listed in 14 CFR part 61 for the desired level of certification.
+
+20920
+To be eligible for a commercial or flight instructor glider certificate, an individual must be 18 years of age and complete 
+the specific training requirements described in 14 CFR part 61.
+
+37088
+The applicable FAA Airman Certification Standards (ACS) or Practical Test Standards (PTS) contain the knowledge and 
+skills required for pilot certification and describe the testing process. Applicants may also refer to FAA-G-ACS- 2, the ACS 
+Companion Guide for Pilots, FAA Advisory Circular (AC) 60-22, Aeronautical Decision Making; the Pilot’s Handbook of 
+Aeronautical Knowledge (FAA-H-8083-25); the Risk Management Handbook (FAA-H-8083-2); and the Aviation Weather 
+Handbook (FAA-H-8083-28) to gain additional aviation-related information. For more information on the certification of 
+gliders, refer to 14 CFR part 21, the European Aviation Safety Agency (EASA) Certification Specifications (CS) 22.221, 
+and the Weight and Balance Handbook (FAA-H-8083-1).
+
+Medical Eligibility
+
+24755
+A person may exercise the privileges of a glider rating or those of an authorized instructor in a glider without holding a 
+medical certificate. However, 14 CFR part 61, section 61.53 states, “...a person shall not act as pilot in command, or in 
+any other capacity as a required pilot flight crewmember, while that person knows or has reason to know of any medical 
+condition that would make the person unable to operate the aircraft in a safe manner.”
+
+FAA Wings Program
+
+9690
+Rated pilots should compare continuous training and practice to 14 CFR part 61, section 61.56(c)(1) and (2), which allow 
+for training and a sign-off within the previous 24 calendar months in order to act as a pilot in command. Many astute pilots 
+realize that this regulation specifies a minimum requirement, and the path to enhanced proficiency, safety, and enjoyment 
+of flying takes a higher degree of commitment such as available using 14 CFR part 61, section 61.56(e). For this reason, 
+many pilots keep their flight review up to date using the FAA WINGS program. The program provides continuing pilot 
+education and contains interesting and relevant study materials that pilots can use all year round.
+
+9691
+A pilot may create a WINGS account to obtain current information concerning risk mitigation. The program provides a 
+means to improve risk management skill as a means to increase safety. As an added bonus, completion of a phase of the 
+Wings Program can count for a flight review and participants may receive a discount on certain flight insurance policies. 
+The link to create an account is www.faasafety.gov.
+
+Chapter Summary
+
+24651
+Gliders include heavier-than-air aircraft that need a means to become airborne. In a modern glider and once aloft, pilots 
+have a variety of means to sustain flight. To become a glider pilot, a prospective student should investigate training options 
+and pick a suitable training provider.
+
+

@@ -1,24 +1,22 @@
-# Índice de Contenidos
-
 - **Capítulo 1: Planeadores y Veleros**
   - Introducción
   - Entrenamiento de Piloto de Planeador
-    - Elegibilidad para la Habilitación
+    - Elegibilidad de Calificación
     - Elegibilidad Médica
-    - Programa de Alas de la FAA (FAA Wings Program)
+    - Programa FAA Wings
   - Resumen del Capítulo
 - **Capítulo 2: Componentes y Sistemas**
   - Introducción
     - Diseño del Planeador
   - El Fuselaje
-    - Introducción
+  - Alas
     - Alerones
     - Dispositivos de Sustentación/Resistencia
   - Empenaje
   - Dispositivos de Gancho de Remolque
-  - Planta de Potencia
-    - Planeadores Autolanzables
-    - Planeadores con Motor Sustentador
+  - Planta Motriz
+    - Planeadores de Auto-Lanzamiento
+    - Planeadores con Motores de Sostenimiento
   - Tren de Aterrizaje
     - Frenos de Rueda
   - Resumen del Capítulo
@@ -28,168 +26,168 @@
     - Sustentación
     - Fórmula de Sustentación
     - Resistencia
-    - Efecto Suelo
+    - Efecto de Suelo
     - Peso
     - Empuje
-  - Análisis Vectorial del Planeo Sin Motor
+  - Análisis Vectorial del Planeo sin Motor
   - Relación de Planeo y Diseño del Ala
-    - Forma en Planta del Ala
-    - Alargamiento (Aspect Ratio)
+    - Planta del Ala
+    - Alargamiento
     - Winglets
-    - Torsión (Washout)
+    - Torsión Geométrica (Washout)
   - Estabilidad
     - Estabilidad Lateral
-    - Flutter (Flameo)
+    - Flutter
   - Oscilación Inducida por el Piloto (PIO)
-  - Vuelo en Viraje
+  - Vuelo de Giro
     - Factor de Carga
-    - Tasa de Viraje
-    - Radio de Viraje
-    - Coordinación del Viraje
-    - Resbales y Derrapes
-      - Resbale (Forward Slip)
-      - Glisada (Sideslip)
-    - Pérdidas (Stalls)
-    - Barrenas (Spins)
+    - Velocidad de Giro
+    - Radio de Giro
+    - Coordinación de Giro
+    - Resbalones
+      - Resbalón Frontal
+      - Resbalón Lateral
+    - Pérdidas
+    - Barrenas
   - Resumen del Capítulo
 - **Capítulo 4: Instrumentos de Vuelo**
   - Introducción
-  - Instrumentos Pitot-Estática
+  - Instrumentos Pitot-Estáticos
     - Líneas de Presión de Impacto y Estática
-    - Anemómetro (Indicador de Velocidad)
-    - Marcas del Anemómetro
-    - Efecto de la Altitud en la VNE
+    - Indicador de Velocidad Aerodinámica
+    - Marcas del Indicador de Velocidad
+    - Efecto de la Altitud en VNE
     - Otras Limitaciones de Velocidad
     - Altímetro
     - Tipos de Altitud
     - Variómetro
-  - Computadores de Vuelo Electrónicos
+  - Computadoras de Vuelo Electrónicas
   - Brújula Magnética
-  - Indicadores de Resbale/Derrape
-    - Lana de Guiñada (Yaw String)
+  - Indicadores de Resbalón/Derrape
+    - Hilo de Guiñada
     - Inclinómetro
   - Instrumentos Giroscópicos
-  - Acelerómetro (G-Meter)
-  - Sistema de Prevención de Colisiones FLARM
-  - Código de Transpondedor
+  - G-Meter
+  - Sistema FLARM de Evitación de Colisiones
+  - Código del Transponder
     - Definiciones
-  - Indicador de Temperatura Exterior (OAT)
+  - Indicador de Temperatura del Aire Exterior (OAT)
   - Resumen del Capítulo
-- **Capítulo 5: Rendimiento del Planeador**
+- **Capítulo 5: Performance del Planeador**
   - Introducción
-  - Factores Variables de Rendimiento
+  - Factores de Performance Variables
     - Altitud de Densidad
     - Viento
     - Peso
-  - Tasa de Ascenso
+  - Velocidad de Ascenso
   - Manuales de Vuelo y Placas
     - Placas
-    - Información de Rendimiento
+    - Información de Performance
     - Polares del Planeador
     - Limitaciones
   - Peso y Balance
     - Información de Peso y Balance
     - Centro de Gravedad
-    - Problemas de Muestra de Peso y Balance
+    - Problemas de Peso y Balance de Ejemplo
   - Lastre
-    - Lastre de Ajuste (Trim Ballast)
-    - Lastre de Rendimiento (Agua)
+    - Lastre de Trimado
+    - Lastre de Performance
   - Resumen del Capítulo
-- **Capítulo 6: Pre-vuelo y Operaciones en Tierra**
+- **Capítulo 6: Operaciones de Prevuelo y en Tierra**
   - Introducción
-  - Montaje y Almacenamiento
+  - Ensamblaje y Almacenamiento
     - Transporte en Remolque
     - Amarre y Aseguramiento
   - Lastre de Agua
   - Manejo en Tierra
-  - Inspección del Equipo de Lanzamiento
-  - Inspección Pre-vuelo del Planeador
-  - Lista de Verificación Pre-lanzamiento
+  - Inspección de Equipo de Lanzamiento
+  - Inspección de Prevuelo del Planeador
+  - Lista de Verificación de Pre-Lanzamiento
   - Cuidado del Planeador
     - Mantenimiento Preventivo
   - Resumen del Capítulo
-- **Capítulo 7: Lanzamiento, Maniobras de Vuelo, Aterrizaje y Procedimientos de Recuperación**
+- **Capítulo 7: Procedimientos de Lanzamiento, Maniobras de Vuelo, Aterrizaje y Recuperación**
   - Introducción
-  - Procedimientos de Despegue por Remolque Aéreo (Aerotow)
+  - Procedimientos de Despegue en Remolque Aéreo
     - Señales
     - Procedimientos y Técnicas de Despegue
     - Oscilaciones Inducidas por el Piloto (PIOs) Durante el Lanzamiento
     - Errores Comunes
-    - Ascenso en Remolque Aéreo
-    - Línea Floja
-    - Boxear la Estela (Boxing the Wake)
-    - Liberación del Remolque Aéreo
-  - Procedimientos de Despegue por Lanzamiento Terrestre
-    - Ganchos de Centro de Gravedad (CG)
+    - Ascenso en Remolque
+    - Cable Flojo
+    - Rodear la Estela
+    - Liberación del Remolque
+  - Procedimientos de Despegue con Lanzamiento en Tierra
+    - Ganchos CG
     - Señales
     - Velocidades de Remolque
-    - Lanzamiento por Automóvil
-    - Lanzamiento por Torno (Winch)
+    - Lanzamiento con Automóvil
+    - Lanzamiento con Torno
     - Despegue y Ascenso con Viento Cruzado
-    - Lanzamiento Normal Viento en Cara
-  - Procedimientos de Autolanzamiento
+    - Despegue Normal Contra el Viento
+  - Procedimientos de Auto-Lanzamiento
     - Preparación y Arranque del Motor
-    - Rodaje
-    - Chequeo Pre-despegue
+    - Taxeo
+    - Verificación Pre-Despegue
     - Despegue Normal
-    - PIOs en Planeadores Autolanzables
+    - PIOs en Planeadores de Auto-Lanzamiento
     - Despegue con Viento Cruzado
-    - Ascenso y Procedimientos de Apagado del Motor
-  - Circuitos de Tráfico y Operaciones en el Aeródromo
-  - Aproximación Normal y Aterrizaje
+    - Procedimientos de Ascenso y Apagado del Motor
+  - Circuitos de Tráfico del Planeador/Aeropuerto y Operaciones
+  - Aproximación y Aterrizaje Normal
     - Oscilaciones de Cabeceo Inducidas por el Piloto Durante el Aterrizaje
-    - Resbale (Forward Slip)
-    - Glisada (Sideslip)
+    - Resbalón Frontal
+    - Resbalón Lateral
     - Aterrizaje con Viento Cruzado
     - Aterrizaje con Viento en Cola
-    - Aterrizaje de un Planeador Autolanzable
-    - Oscilaciones de Planeadores con Rueda de Morro Durante Lanzamientos y Aterrizajes
-    - Oscilaciones de Planeadores con Rueda/Patín de Cola Durante Lanzamientos y Aterrizajes
+    - Aterrizaje de un Planeador de Auto-Lanzamiento
+    - Oscilaciones del Planeador con Tren Triciclo Durante Lanzamientos y Aterrizajes
+    - Oscilaciones del Planeador con Tren Convencional Durante Lanzamientos y Aterrizajes
     - Después del Aterrizaje y Aseguramiento
-  - Maniobras de Rendimiento
+  - Maniobras de Performance
     - Planeos Rectos
-    - Virajes
+    - Giros
     - Vuelo Lento
-    - Reconocimiento y Recuperación de Pérdidas
+    - Reconocimiento de Pérdida y Recuperación
   - Resumen del Capítulo
 - **Capítulo 8: Procedimientos Anormales y de Emergencia**
   - Introducción
   - Procedimientos Anormales y de Emergencia en Remolque Aéreo
     - Factores Ambientales
     - Error del Piloto
-    - Fallos Mecánicos
-    - Línea Floja
-  - Procedimientos Anormales y de Emergencia en Lanzamiento Terrestre
+    - Fallas Mecánicas
+    - Cable Flojo
+  - Procedimientos Anormales y de Emergencia con Lanzamiento en Tierra
     - Procedimientos Anormales
     - Procedimientos de Emergencia
-    - Procedimientos de Emergencia en Despegue Autolanzable
-  - Espirales Picadas (Spiral Dives)
-  - Barrenas (Spins)
+    - Procedimientos de Emergencia en Despegue de Auto-Lanzamiento
+  - Caídas en Espiral
+  - Barrenas
     - Fase de Entrada
     - Fase Incipiente
     - Fase Desarrollada
     - Fase de Recuperación
   - Procedimientos de Aterrizaje Fuera de Campo
     - Después del Aterrizaje Fuera de Campo
-  - Mal funcionamiento de Sistemas y Equipos
-    - Mal funcionamiento de Instrumentos de Vuelo
-    - Mal funcionamiento de la Cubierta (Canopy) del Planeador
-    - Mal funcionamiento del Lastre de Agua
-    - Mal funcionamiento del Tren de Aterrizaje Retráctil
-    - Sistemas de Control de Vuelo Primarios
-    - Sistemas de Control de Vuelo Secundarios
-  - Mal funcionamiento de Sistemas de Vuelo Misceláneos
-    - Mal funcionamiento del Gancho de Remolque
-    - Mal funcionamiento del Sistema de Oxígeno
-    - Mal funcionamiento del Paracaídas de Frenado
-  - Planeadores Autolanzables
-    - Incapacidad para Rearrancar un Motor de Planeador Autolanzable/Sustentador en Vuelo
-    - Mal funcionamiento de la Hélice del Planeador Autolanzable
-    - Mal funcionamiento del Sistema Eléctrico del Planeador Autolanzable
-  - Fuego en Vuelo
+  - Fallas del Sistema y Equipo
+    - Fallas de Instrumentos de Vuelo
+    - Fallas del Dosel del Planeador
+    - Fallas del Lastre de Agua
+    - Fallas del Tren de Aterrizaje Retráctil
+    - Sistemas Primarios de Control de Vuelo
+    - Sistemas Secundarios de Control de Vuelo
+  - Fallas Misceláneas del Sistema de Vuelo
+    - Fallas del Gancho de Remolque
+    - Fallas del Sistema de Oxígeno
+    - Fallas del Paracaídas de Frenado
+  - Planeadores de Auto-Lanzamiento
+    - Incapacidad para Reiniciar el Motor de un Planeador de Auto-Lanzamiento/Sostenimiento en el Aire
+    - Fallas de la Hélice del Planeador de Auto-Lanzamiento
+    - Fallas del Sistema Eléctrico del Planeador de Auto-Lanzamiento
+  - Incendio en Vuelo
   - Equipo de Emergencia y Supervivencia
     - Listas de Verificación de Equipo de Supervivencia
-    - Comida y Agua
+    - Alimentos y Agua
     - Ropa
     - Comunicación
     - Equipo de Navegación
@@ -197,7 +195,7 @@
     - Estiba
     - Paracaídas
   - Resumen del Capítulo
-- **Capítulo 9: Meteorología del Vuelo a Vela**
+- **Capítulo 9: Meteorología para Vuelo a Vela**
   - Introducción
   - La Atmósfera
     - Composición
@@ -208,62 +206,62 @@
   - Escala de Eventos Meteorológicos
   - Térmicas
     - Forma y Estructura de la Térmica
-  - Masas de Aire Propicias para el Vuelo Térmico
-    - Calles de Nubes (Cloud Streets)
+  - Masas de Aire Conducentes al Planeo Térmico
+    - Calles de Nubes
   - Tormentas Eléctricas
-  - Meteorología para Vuelo de Ladera
+  - Meteorología para Planeo de Ladera
     - Ondas de Montaña
     - Mecanismo de Formación de Ondas
-    - Ascendencia de Convergencia
+    - Ascendencia por Convergencia
   - Obtención de Información Meteorológica
-    - Informe Meteorológico Pre-vuelo
-    - Información Relacionada con el Tiempo
-  - Interpretación de Cartas Meteorológicas, Informes y Pronósticos
+    - Briefing Meteorológico de Prevuelo
+    - Información Relacionada con el Clima
+  - Interpretación de Cartas, Reportes y Pronósticos Meteorológicos
   - Resumen del Capítulo
-- **Capítulo 10: Técnicas de Vuelo a Vela**
+- **Capítulo 10: Técnicas de Vela**
   - Introducción
-  - Vuelo Térmico
+  - Planeo Térmico
     - Dentro de una Térmica
-    - Prevención de Colisiones
+    - Evitación de Colisiones
     - Saliendo de una Térmica
-    - Gestión de Expectativas
-  - Vuelo de Ladera
+    - Manejo de Expectativas
+  - Planeo de Ladera
     - Trampas
-    - Procedimientos para un Vuelo Seguro
-    - Cuencas y Espolones
-    - Sustentación de Ladera y Vuelo Térmico
+    - Procedimientos para Volar Seguro
+    - Cuencos y Espolones
+    - Ascendencia de Ladera y Planeo Térmico
     - Obstrucciones
     - Consejos y Técnicas
-  - Vuelo de Onda
-    - Preparación Pre-vuelo
+  - Planeo de Ondas
+    - Preparación de Prevuelo
     - Entrando en la Onda
     - Volando en la Onda
-    - Vuelo en Zonas de Convergencia
-    - Fuentes Combinadas de Ascendencia
+    - Zonas de Convergencia de Planeo
+    - Fuentes Combinadas de Ascendencias
   - Resumen del Capítulo
 - **Capítulo 11: Vuelo de Travesía**
   - Introducción
   - Preparación y Planificación del Vuelo
-    - Preparándose para Vuelos de Travesía en Planeador
+    - Preparándose para Vuelos de Planeador de Travesía
     - Finalizando Planes
   - Equipo Personal y Especial
   - Navegación
-    - Un Vuelo de Travesía de Muestra
-    - Navegación Usando GPS
-  - Técnicas de Vuelo de Travesía
-  - Volando Más Rápido y Más Lejos
+    - Un Vuelo de Travesía de Ejemplo
+    - Navegación usando GPS
+  - Técnicas de Travesía
+  - Planeando Más Rápido y Más Lejos
     - Bandas de Altura
     - Consejos y Técnicas
   - Situaciones Especiales
     - Desviaciones de Rumbo
     - Procedimientos de Pérdida de Orientación
-  - Vuelo de Travesía en un Planeador Autolanzable
+  - Vuelo de Travesía en un Planeador de Auto-Lanzamiento
   - Operaciones y Consideraciones de Planeadores de Alto Rendimiento
     - Complejidad del Planeador
     - Lastre de Agua
-  - Vuelo de Travesía Usando Otras Fuentes de Ascendencia
+  - Vuelo de Travesía usando Otras Fuentes de Ascendencia
   - Resumen del Capítulo
-- **Capítulo 12: Remolque Aéreo**
+- **Capítulo 12: Remolque**
   - Introducción
   - Inspecciones de Equipo y Verificaciones Operacionales
     - Gancho de Remolque
@@ -271,20 +269,20 @@
     - Inspección de la Cuerda de Remolque
     - Briefing de Aborto
     - En el Aeropuerto
-  - Señales en Tierra
+  - Señales de Tierra
   - Despegue y Ascenso
-  - Posiciones de Remolque, Virajes y Liberación
-    - Posiciones de Remolque de Planeador
-    - Virajes en Remolque
+  - Posiciones de Remolque, Giros y Liberación
+    - Posiciones de Remolque del Planeador
+    - Giros en Remolque
     - Acercándose a una Térmica
     - Liberación
   - Descenso, Aproximación y Aterrizaje
     - Descenso
     - Aproximación y Aterrizaje
-  - Remolque Aéreo de Travesía
+  - Remolque de Travesía
   - Emergencias
-    - Emergencias de Despegue
-    - Emergencias en Vuelo
+    - Emergencias en Despegue
+    - Emergencias en el Aire
   - Resumen del Capítulo
 - **Capítulo 13: Factores Humanos**
   - Introducción
@@ -299,7 +297,7 @@
   - Hipoxia
     - Síntomas de Hipoxia
   - Malestar del Oído Interno
-  - Buceo (Scuba Diving)
+  - Buceo
   - Desorientación Espacial
   - Deshidratación
   - Golpe de Calor

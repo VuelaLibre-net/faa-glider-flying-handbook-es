@@ -1,0 +1,313 @@
+- **Chapter 1: Gliders & Sailplanes**
+  - Introduction
+  - Glider Pilot Training
+    - Rating Eligibility
+    - Medical Eligibility
+    - FAA Wings Program
+  - Chapter Summary
+- **Chapter 2: Components & Systems**
+  - Introduction
+    - Glider Design
+  - The Fuselage
+  - Wings
+    - Ailerons
+    - Lift/Drag Devices
+  - Empennage
+  - Towhook Devices
+  - Powerplant
+    - Self-Launching Gliders
+    - Gliders with Sustainer Engines
+  - Landing Gear
+    - Wheel Brakes
+  - Chapter Summary
+- **Chapter 3: Aerodynamics of Flight**
+  - Introduction
+    - Forces of Flight
+    - Lift
+    - Lift Formula
+    - Drag
+    - Ground Effect
+    - Weight
+    - Thrust
+  - Unpowered Glide Vector Analysis
+  - Glide Ratio & Wing Design
+    - Wing Planform
+    - Aspect Ratio
+    - Winglets
+    - Washout
+  - Stability
+    - Lateral Stability
+    - Flutter
+  - Pilot Induced Oscillation (PIO)
+  - Turning Flight
+    - Load Factor
+    - Rate of Turn
+    - Radius of Turn
+    - Turn Coordination
+    - Slips
+      - Forward Slip
+      - Sideslip
+    - Stalls
+    - Spins
+  - Chapter Summary
+- **Chapter 4: Flight Instruments**
+  - Introduction
+  - Pitot-Static Instruments
+    - Impact & Static Pressure Lines
+    - Airspeed Indicator
+    - Airspeed Indicator Markings
+    - Effect of Altitude on VNE
+    - Other Airspeed Limitations
+    - Altimeter
+    - Types of Altitude
+    - Variometer
+  - Electronic Flight Computers
+  - Magnetic Compass
+  - Slip/Skid Indicators
+    - Yaw String
+    - Inclinometer
+  - Gyroscopic Instruments
+  - G-Meter
+  - FLARM Collision Avoidance System
+  - Transponder Code
+    - Definitions
+  - Outside Air Temperature (OAT) Gauge
+  - Chapter Summary
+- **Chapter 5: Glider Performance**
+  - Introduction
+  - Variable Performance Factors
+    - Density Altitude
+    - Wind
+    - Weight
+  - Rate of Climb
+  - Flight Manuals & Placards
+    - Placards
+    - Performance Information
+    - Glider Polars
+    - Limitations
+  - Weight & Balance
+    - Weight & Balance Information
+    - Center of Gravity
+    - Sample Weight & Balance Problems
+  - Ballast
+    - Trim Ballast
+    - Performance Ballast
+  - Chapter Summary
+- **Chapter 6: Preflight & Ground Operations**
+  - Introduction
+  - Assembly & Storage
+    - Trailering
+    - Tiedown & Securing
+  - Water Ballast
+  - Ground Handling
+  - Launch Equipment Inspection
+  - Glider Preflight Inspection
+  - Prelaunch Checklist
+  - Glider Care
+    - Preventive Maintenance
+  - Chapter Summary
+- **Chapter 7: Launch, Flight Maneuvers, Landing, & Recovery Procedures**
+  - Introduction
+  - Aerotow Takeoff Procedures
+    - Signals
+    - Takeoff Procedures & Techniques
+    - Pilot Induced Oscillations (PIOs) During Launch
+    - Common Errors
+    - Aerotow Climb-Out
+    - Slack Line
+    - Boxing the Wake
+    - Aerotow Release
+  - Ground Launch Takeoff Procedures
+    - CG Hooks
+    - Signals
+    - Tow Speeds
+    - Automobile Launch
+    - Winch Launch
+    - Crosswind Takeoff & Climb
+    - Normal Into-the-Wind Launch
+  - Self-Launch Procedures
+    - Preparation & Engine Start
+    - Taxiing
+    - Pretakeoff Check
+    - Normal Takeoff
+    - PIOs in Self-Launching Gliders
+    - Crosswind Takeoff
+    - Climb-Out & Engine Shutdown Procedures
+  - Gliderport/Airport Traffic Patterns & Operations
+  - Normal Approach & Landing
+    - Pilot Induced Pitch Oscillations During Landing
+    - Forward Slip
+    - Sideslip
+    - Crosswind Landing
+    - Downwind Landing
+    - Landing a Self-Launching Glider
+    - Nosewheel Glider Oscillations During Launches & Landings
+    - Tailwheel/Tailskid Equipped Glider Oscillations During Launches & Landings
+    - After Landing & Securing
+  - Performance Maneuvers
+    - Straight Glides
+    - Turns
+    - Slow Flight
+    - Stall Recognition & Recovery
+  - Chapter Summary
+- **Chapter 8: Abnormal & Emergency Procedures**
+  - Introduction
+  - Aerotow Abnormal & Emergency Procedures
+    - Environmental Factors
+    - Pilot Error
+    - Mechanical Failures
+    - Slack Line
+  - Ground Launch Abnormal & Emergency Procedures
+    - Abnormal Procedures
+    - Emergency Procedures
+    - Self-Launch Takeoff Emergency Procedures
+  - Spiral Dives
+  - Spins
+    - Entry Phase
+    - Incipient Phase
+    - Developed Phase
+    - Recovery Phase
+  - Off-Field Landing Procedures
+    - Afterlanding Off Field
+  - System & Equipment Malfunctions
+    - Flight Instrument Malfunctions
+    - Glider Canopy Malfunctions
+    - Water Ballast Malfunctions
+    - Retractable Landing Gear Malfunctions
+    - Primary Flight Control Systems
+    - Secondary Flight Controls Systems
+  - Miscellaneous Flight System Malfunctions
+    - Towhook Malfunctions
+    - Oxygen System Malfunctions
+    - Drogue Chute Malfunctions
+  - Self-Launching Gliders
+    - Inability to Restart a Self-Launching/Sustainer Glider Engine While Airborne
+    - Self-Launching Glider Propeller Malfunctions
+    - Self-Launching Glider Electrical System Malfunctions
+  - Inflight Fire
+  - Emergency Equipment & Survival Gear
+    - Survival Gear Checklists
+    - Food & Water
+    - Clothing
+    - Communication
+    - Navigation Equipment
+    - Medical Equipment
+    - Stowage
+    - Parachute
+  - Chapter Summary
+- **Chapter 9: Glider Flight & Weather**
+  - Introduction
+  - The Atmosphere
+    - Composition
+    - Atmospheric Measurements
+    - Ideal Gas Law
+    - Standard Atmosphere
+    - Layers of the Atmosphere
+  - Scale of Weather Events
+  - Thermals
+    - Thermal Shape & Structure
+  - Air Masses Conducive to Thermal Soaring
+    - Cloud Streets
+  - Thunderstorms
+  - Weather for Slope Soaring
+    - Mountain Waves
+    - Mechanism for Wave Formation
+    - Convergence Lift
+  - Obtaining Weather Information
+    - Preflight Weather Briefing
+    - Weather-Related Information
+  - Interpreting Weather Charts, Reports, & Forecasts
+  - Chapter Summary
+- **Chapter 10: Soaring Techniques**
+  - Introduction
+  - Thermal Soaring
+    - Inside a Thermal
+    - Collision Avoidance
+    - Exiting a Thermal
+    - Managing Expectations
+  - Ridge/Slope Soaring
+    - Traps
+    - Procedures for Safe Flying
+    - Bowls & Spurs
+    - Slope Lift & Thermalling
+    - Obstructions
+    - Tips & Techniques
+  - Wave Soaring
+    - Preflight Preparation
+    - Getting into the Wave
+    - Flying in the Wave
+    - Soaring Convergence Zones
+    - Combined Sources of Updrafts
+  - Chapter Summary
+- **Chapter 11: Cross-Country Soaring**
+  - Introduction
+  - Flight Preparation & Planning
+    - Getting Ready for Cross-Country Glider Flights
+    - Finalizing plans
+  - Personal & Special Equipment
+  - Navigation
+    - A Sample Cross-Country Flight
+    - Navigation Using GPS
+  - Cross-Country Techniques
+  - Soaring Faster & Farther
+    - Height Bands
+    - Tips & Techniques
+  - Special Situations
+    - Course Deviations
+    - Lost Procedures
+  - Cross-Country Flight in a Self-Launching Glider
+  - High-Performance Glider Operations & Considerations
+    - Glider Complexity
+    - Water Ballast
+  - Cross-Country Flight Using Other Lift Sources
+  - Chapter Summary
+- **Chapter 12: Aerotow**
+  - Introduction
+  - Equipment Inspections & Operational Checks
+    - Tow Hook
+    - Tow Ring Inspection
+    - Tow Rope Inspection
+    - Abort Briefing
+    - On the Airport
+  - Ground Signals
+  - Takeoff & Climb
+  - Tow Positions, Turns, & Release
+    - Glider Tow Positions
+    - Turns on Tow
+    - Approaching a Thermal
+    - Release
+  - Descent, Approach, & Landing
+    - Descent
+    - Approach & Landing
+  - Cross-Country Aerotow
+  - Emergencies
+    - Takeoff Emergencies
+    - Airborne Emergencies
+  - Chapter Summary
+- **Chapter 13: Human Factors**
+  - Introduction
+  - Recognizing Hazardous Attitudes
+    - Complacency
+    - Indiscipline
+    - Overconfidence
+  - Pilot Error
+    - Types of Errors
+  - Fatigue
+  - Hyperventilation
+  - Hypoxia
+    - Symptoms of Hypoxia
+  - Inner Ear Discomfort
+  - Scuba Diving
+  - Spatial Disorientation
+  - Dehydration
+  - Heatstroke
+  - Cold Weather
+  - Cabin Management & Equipment
+    - Parachute
+    - Supplemental Oxygen
+  - Risk Management
+    - Safety Management System (SMS)
+    - Aeronautical Decision-Making (ADM)
+  - Analysis of Previous Accidents
+  - Chapter Summary
+- **Glossary**

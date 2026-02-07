@@ -1,0 +1,506 @@
+6-1
+
+Introduction
+
+32816
+Safe operation of a glider depends on careful assembly and preflight. Proper assembly techniques, followed by a close 
+inspection of the glider using checklists contained in the Glider Flight Manual/Pilot’s Operating Handbook (GFM/POH), 
+provide for that safety. Pilots should conduct launch procedures systematically and consistently for each flight using 
+appropriate methods and teamwork. Students and pilots unfamiliar with glider assembly should seek instruction from a 
+glider flight instructor.
+
+Assembly & Storage
+
+32822
+Personnel preparing to assemble a glider should consider the following elements: location, number of helpers, tools, parts, 
+and checklists that detail the appropriate assembly procedures. The GFM/POH should contain checklists for assembling 
+and preflighting a glider. If not, personnel should develop one and follow it. Glider pilots should avoid distractions that 
+may occur during assembly and check for required documents on board the glider.
+
+32817
+During assembly of the glider, pilots normally check for documents carried on board, which include:
+
+32818
+
+1. Airworthiness certificate displayed in the aircraft
+
+32819
+
+2. Registration
+
+32820
+
+3. Required placards
+
+32821
+
+4. GFM/POH
+
+32826
+Proper tools and accessories support glider assembly. [Figure 6-1] Some individuals place all the necessary hardware on 
+a shelf or canvas with a spot for each item. An inventory of the hardware after assembly reduces the risk of a misplaced 
+tool in the glider structure that could restrict or jam a flight control. Since detached tape could also cause control issues in 
+flight, any person applying tape should use care when taping the wing roots, turtle deck (cover where the flight controls 
+are attached), elevator, or other areas.
+
+32827
+
+Figure 6-1. Wing stands and wing dollies may assist assembling the glider.
+
+Chapter 6:  Preflight & Ground Operations
+
+
+6-2
+
+32828
+Depending on the type of glider, assembly may involve two or more people. After assembly, a thorough inspection of all 
+attach points ensures proper installation and security of bolts and pins.
+
+32829
+On many gliders, the wings routinely detach from the fuselage for storage. On some motor gliders, the wings fold. After 
+folding or detaching the wings, persons can move the glider in and around the hangar area. [Figure 6-2] This allows 
+assembly, disassembly, and storage in a normal size hangar. Hangars usually range between 35 and 45 feet in width. 
+Because most glider wings span a minimum of 40 feet (12 meters) total length, a large hangar may save time and effort.
+
+32830
+
+Figure 6-2. Folding the wings of the glider reduces storage space.
+
+32832
+Once a glider has been completely assembled and before flight, the pilot inspects all critical areas to ensure completion of 
+all flight control attachments. Many manufacturers provide a critical assembly checklist (CAC) for use after assembly. A 
+positive control check (PCC) provides an additional means of verification that should occur even if appropriate personnel 
+complete a CAC. The pilot should refer to a written checklist provided by the manufacturer or a commercial source that 
+accurately reproduces glider checklists.
+
+Trailering
+
+32835
+Glider transport, storage, or retrieval uses specially designed trailers [Figure 6-3], and the glider components should fit 
+snugly in the space provided, without being forced, and in a manner that prevents chafing. Glider trailers may also have 
+storage areas to secure parts.
+
+32836
+
+Figure 6-3. Components of a glider stored and transported in a trailer.
+
+32846
+When towing a trailer, standard motor vehicle towing precautions and experience apply.
+
+Tiedown & Securing
+
+32847
+When tying down at airports shared by powered aircraft, propeller blast may cause damage to an improperly secured glider. 
+Personnel should tie down a glider with the canopy closed and latched before leaving it unattended. If possible, the tie-
+
+
+6-3
+
+down spot should face into the wind. Permanent tie-downs often use straps, ropes, or chains for the wings and tail and do 
+not adjust for variations in wind. Pilots should carry a proper tie down kit for a cross-country trip if no permanent tie-down 
+exists at the destination. Pilots should consult the GFH/POH for specific tie-down procedures.
+
+32848
+If expecting strong winds, pilots can tie the spoilers open with seat belts, or place a padded stand under the tail to reduce 
+the angle of attack of the wings. When securing the glider for an extended period, gust locks on the control surfaces 
+prevent them from banging against their stops. Pitot tube and total energy probe covers prevent entry of insects or debris. 
+[Figure 6-4]
+
+32849
+
+Figure 6-4. Protecting the pitot tube and total energy probe.
+
+32850
+Glider canopy covers provide additional protection from damage while shielding the interior of the flight deck from 
+ultraviolet (UV) rays. [Figure 6-5]
+
+32851
+
+Figure 6-5. Protecting the canopy.
+
+Water Ballast
+
+32852
+If transporting a glider or parking a glider in cold weather, personnel should check for and drain any remaining water 
+ballast. If unable to drain water ballast, adding antifreeze prevents freezing.
+
+Ground Handling
+
+32853
+Moving a glider on the ground requires special handling procedures, especially during high winds. When moving a glider, 
+all personnel should receive a briefing on procedures and signals.
+
+32854
+When using a vehicle to move a glider, personnel should use a tow line more than half the wingspan of the glider. If one 
+wingtip stops moving for any reason, this tow line length prevents the glider from pivoting and striking the tow vehicle 
+
+
+6-4
+
+with the opposite wingtip. Since any wind or air currents from another aircraft can cause the glider canopy to close 
+abruptly, a closed and latched canopy can prevent damage to the canopy frame or glass.
+
+32855
+When starting to move the tow vehicle, the driver should slowly take up slack in the line to prevent jerking the glider. The 
+towing speed should not exceed that of a brisk walk. The driver should use at least one wing walker. The wing walker(s) 
+and the driver of the tow vehicle function as a team, alert for obstacles, wind, and any other factor that may affect the safety 
+of the glider. The driver should stay alert for any signals from the wing walker(s). [Figure 6-6]
+
+32856
+
+Figure 6-6. Positioning the glider for the tow vehicle.
+
+32857
+Strong winds and gusts can damage the glider during ground handling. During ground movement in high winds, two or 
+more crewmembers normally hold the wingtips and a pilot sits at the controls to deploy spoilers and hold the controls 
+appropriately.
+
+32858
+Another method of towing uses specially designed towing gear like a trailer tow bar that attaches directly to the vehicle 
+towing a trailer. The tow bar and other equipment make guiding the glider much easier and allow the wing walkers to focus 
+on wingtip clearances. [Figure 6-7]
+
+32859
+
+Figure 6-7. A wing dolly (left) ready for attachment and a tail dolly (right) being used for glider ground movement.
+
+Launch Equipment Inspection
+
+32860
+While a glider pilot may inspect the tow rope, 14 CFR part 91, section 91.309(a) gives the person operating a civil aircraft 
+towing a glider responsibility for the tow rope strength. [Figure 6-8] Since a weak spot could develop at any time, tow 
+ropes should undergo inspection prior to every flight. The tow line should be free from excess wear; all strands should be 
+intact, and the line should be free from knots. A knot in the tow line reduces its strength by up to 50 percent and creates 
+a thick spot in the tow line more susceptible to wear. The ring to which the glider attaches may create a high-wear area. 
+Operators may replace the tow rope periodically due to ultraviolet (UV) exposure from the sun or after a specific number 
+of tows.
+
+
+6-5
+
+32861
+
+Figure 6-8. Inspecting the tow line.
+
+34825
+Tow ropes and cables are made of materials such as nylon, step-index fiber from Red Polyester, Hollow Braid POLYPRO, 
+Dacron, steel, and Polyethylene. [Figure 6-9]
+
+34826
+
+Step-index fiber from Red Polyester
+
+Hollow Braid PolyPro
+Dacron
+
+Polyethylene Braids
+
+Figure 6-9. Tow rope materials.
+
+
+6-6
+
+46850
+Figure 6-10 shows the strength of some ropes typically used. The rope manufacturer can provide exact specifications. 
+14 CFR part 91, section 91.309(a)(3), requires tow line strength within a range of 80 to 200 percent of the maximum 
+certificated weight of the glider. However, the tow line may have a breaking strength more than twice the maximum 
+certificated operating weight of the glider if using  safety links as specified in 14 CFR part 91, section 91.309(a)(3). Note 
+that a specific model of glider may have a more stringent limitation on the maximum tow line strength. The POH would 
+list this limitation.
+
+32862
+
+Diameter
+
+3/16"
+1/4"
+5/16"
+
+Polyethylene
+Hollow braid
+700
+1,200
+1,750
+
+Polypropylene
+Monofilament
+800
+1,300
+1,900
+
+Polypropylene
+Multifilament
+870
+1,200
+2,050
+
+Nylon
+
+960
+1,500
+2,400
+
+Dacron
+
+720
+1,150
+1,750
+
+Figure 6-10. Typical rope strengths.
+
+32864
+If using a tow line with a breaking strength more than twice the maximum certificated operating weight of the glider, 
+14 CFR part 91, section 91.309(a)(3) requires installation of two safety/weak links, either of which can break before 
+excess tension on the tow line causes structural damage to either the glider or the tow plane. The weak link near the 
+glider attachment point [Figure 6-11] requires the same breaking strength range as the tow rope, 80 to 200 percent of the 
+maximum certificated operating weight of the glider. The weak link installed near the tow plane attachment point must 
+have a breaking strength greater, but not more than 25 percent greater, than that of the weak link at the glider end of the 
+tow line and not more than twice the maximum certificated operating weight of the glider. See figure 6-12 for a sample 
+weak link strength analysis.
+
+33738
+
+Weak link
+
+Figure 6-11. A safety link. The foam added to the tow line prevents tow line abrasion.
+
+
+6-7
+
+34824
+
+Greater, but not more than 25 percent greater than 
+that of the safety link at the glider end, and not greater 
+than twice the glider max gross weight (MGW).
+
+RULE
+
+1000 lbs. x 25% = 250 lbs.
+1000 lbs. + 250 lbs. = 1250 lbs.
+700 lbs. x 2 = 1400 lbs.
+
+700 lbs. MGW
+
+Glider safety link 
+breaking strength 
+1,000 lbs.
+
+To meet the rule below, the tow plane safety 
+link strength requirement must be greater than 
+1,000 lbs. and not more than 1,250 lbs.
+The 1,400 lb. strength requirement is
+not relevant since 1,250 lbs. is the maximum
+allowed by rule.
+
+Figure 6-12. Safety link strength requirements assuming a 1,000 lb. safety link installed near the glider.
+
+32865
+The two most common types of tow hook are an over-the-top design, such as a Schweizer hook, or a grasping style, such 
+as a Tost hook. Pilots should inspect and verify that any tow hook is free from damage and operates freely. [Figure 6-13 
+and Figure 6-14]
+
+32866
+
+Figure 6-13. Schweizer-type tow hook.
+
+32867
+
+Figure 6-14. Tost hook.
+
+
+6-8
+
+Glider Preflight Inspection
+
+32868
+Pilots should conduct a thorough inspection of the glider before launch. If the glider GFM/POH does not contain a preflight 
+checklist, the pilot should develop a checklist using the guidelines contained in Figure 6-15.
+
+32869
+
+Begin by assessing the overall condition of the fiberglass 
+or fabric.
+
+Be alert for signs of damage or excessive wear.
+
+Ensure that the canopy is clean and free from damage.
+
+Verify the interior wing and control connections are safe and 
+secure.
+
+If a battery is used, ensure that it is charged and safely 
+fastened in the proper spot.
+
+Ensure that seat harnesses are free from excessive wear.
+
+Buckle and tighten any harness that will not be used to
+prevent it from inadvertently interfering with controls. 
+
+Test the tow hook to ensure it is operating correctly.  
+
+Inspect top, bottom, and leading edge of wings, ensuring
+they are free from excess dirt, bugs, and damage. 
+
+Inspect spoilers/dive brakes for mechanical damage. They 
+should be clear of obstructions. Perform control continuity
+check. 
+
+Inspect the wingtip and wingtip skid or wheel for general 
+condition. 
+
+Inspect ailerons for freedom of movement, the condition 
+of hinges and connections, and the condition of the gap 
+seal. Perform control continuity
+check. 
+
+Check the condition of flaps for freedom from damage and
+for appropriate range of motion. Perform control continuity
+check.
+
+Inspect the general condition of the empennage. 
+
+Check static ports, pitot tube, and total energy probe to 
+ensure they are free from obstruction. 
+
+Check top, bottom, and leading edge of tailplane for 
+bugs, dirt, and damage. 
+
+Check the landing gear for signs of damage or excessive 
+wear. The brake pads should be checked if they are visible;
+otherwise, the brakes can be checked by pulling the glider 
+forward and applying the brakes. Note that the landing gear 
+is frequently a problem area for gliders used in training.
+
+Check elevator and trim tab for condition of connections, 
+freedom of movement, and condition of gap seal. Perform 
+control continuity check.
+
+Check rudder freedom of movement and condition of 
+connections. Perform control continuity check.
+
+Figure 6-15. A glider preflight inspection checklist.
+
+Prelaunch Checklist
+
+32870
+The pilot should conduct a positive control check with the help of an additional crewmember, especially if the glider was 
+just assembled. The pilot moves the control stick and rudder pedals while the crewmember provides resistance, holding 
+each aileron, the elevator, spoilers, flaps, and the rudder to ensure correct and secure control connections. [Figure 6-16] 
+A stick or pedal that moves freely with the corresponding control surfaces restricted indicates the connections are not 
+secure, and the glider is not airworthy. Pilots should adjust the pilot or passenger seats, as well as adjustable controls, such 
+as rudder pedals, prior to buckling the seat belt and shoulder harness. Caution should be exercised to avoid crimping or 
+clamping any onboard oxygen supply.
+
+
+6-9
+
+32871
+
+Figure 6-16. Positive control check of spoilers.
+
+32872
+If the GFM/POH does not provide a specific prelaunch checklist, then some good generic checklists are CB SWIFT CBE 
+and ABBCCCDDE, which are explained in Figure 6-17. Pilots should follow each step carefully regardless of the checklist 
+used.
+
+32873
+
+A
+
+B
+
+C
+
+C
+
+C
+
+D
+
+D
+
+B
+
+E
+
+Altimeter set to correct elevation
+Ballast
+Seat belts and shoulder harnesses fastened and tightened
+Controls checked for full and free movement
+Canopy closed, locked, and checked 
+Cable or towline properly connected to the correct hook
+Dive brakes closed and locked
+Direction of wind checked
+Emergency Plan reviewed
+
+Phase I:
+•  Controls (plural)
+•  Ballast
+
+Phase II:
+•  Straps (plural)
+•  Wind
+•  Instruments (plural)
+•  Flaps (singular)
+•  Trim
+
+Phase III:
+•  Canopy
+•  Brakes (singular for most gliders, plural for a Blanik, since the 
+   wheel brake is not at the end of the air brake travel) 
+•  Emergency plan (the three phases plus the return speed that   
+ can and should be prebriefed prior to closing the canopy)
+
+Before Takeoff Checklist 
+
+Figure 6-17. Generic prelaunch checklists.
+
+
+6-10
+
+Glider Care
+
+32874
+Depending on the type of glider, different cleaning methods should be employed. After all flights, the pilot or ground 
+personnel can wipe down the glider with a soft cloth or a wet chamois. This removes any debris or bugs. Delaying this 
+process allows bugs to dry and makes removal difficult.
+
+32875
+Gliders made of fabric should be cleaned with spray-on and wash-off products. Anyone cleaning a glider should avoid using 
+large amounts of water as the water may penetrate cracks and holes, especially on earlier wood or fabric gliders, which 
+damages and reduces the life of the wood or fabric. Persistent and prolonged moisture exposure can damage any glider 
+over time. On metal gliders, personnel can use a low-pressure hose and mild detergent for cleaning. High-performance 
+fiberglass gliders use a special spray or paste for cleaning. Care must be taken when using a powered buffer, as the buffer 
+may burn the fiberglass if not used in a proper manner. Anyone cleaning a canopy should use only recommended cleaners 
+for that purpose. The GFH/POH or a glider supply store or organization can suggest appropriate cleaning materials based 
+on the type of glider.
+
+32876
+After cleaning, a coat of wax or a sealer may be applied to fabric, metal, and fiberglass gliders. However, wax containing 
+silicon adheres to the pores of fiberglass and complicates future fiberglass repair. After applying any wax, personnel may 
+use a clean, soft cloth to wipe off excess wax and buff the area by hand.
+
+32877
+An owner or pilot may perform minor repairs on a fiberglass glider such as fixing a scratch or a chip. Individuals should 
+consult a fiberglass expert prior to making any minor repair and use approved parts and materials when conducting these 
+repairs. All gliders, including those certified as standard or experimental, should be repaired in accordance with the 
+manufacturer’s recommended procedures and 14 CFR part 43.
+
+Preventive Maintenance
+
+32878
+Pilots may conduct preventive maintenance on their glider. Preventive maintenance does not involve complex assembly 
+operations. For the list of permissible pilot-performed maintenance activities and for more information on preventive 
+maintenance, refer to Appendix A of 14 CFR Part 43, Major Alterations, Major Repairs, and Preventive Maintenance found 
+at www.ecfr.gov.
+
+58246
+
+Chapter Summary
+
+46851
+This chapter introduces recommended safety practices for assembly, storage, tie-down, securing, and ground handling for 
+a glider. The final authority for any glider is the specific Flight Manual or Pilot’s Operating Handbook (POH) developed 
+by the aircraft manufacturer and approved by the FAA.
+
+

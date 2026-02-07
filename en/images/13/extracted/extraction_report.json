@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "source": "en/images/13",
+    "total_pages_processed": 14,
+    "total_figures_extracted": 18,
+    "total_skipped": 3
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 13-1. Human factor disciplines",
+      "caption_text": "Human factor disciplines",
+      "bbox_normalized": [
+        0.31968992248062017,
+        0.21656565656565657,
+        0.5823255813953488,
+        0.7830303030303031
+      ],
+      "bbox_pixels": [
+        1031,
+        536,
+        1878,
+        1938
+      ],
+      "filename": "13-01.01.human-factor-disciplines.png",
+      "source_page": "page-1.png",
+      "chapter": 13,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 13-9. ] The oxygen flows continuously",
+      "caption_text": "] The oxygen flows continuously",
+      "bbox_normalized": [
+        0.056434108527131786,
+        0.0892929292929293,
+        0.10356589147286822,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        182,
+        221,
+        334,
+        2254
+      ],
+      "filename": "13-09.10.the-oxygen-flows-continu.png",
+      "source_page": "page-10.png",
+      "chapter": 13,
+      "figure_number": 9,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 13-9. Continuous-flow oxygen system",
+      "caption_text": "Continuous-flow oxygen system",
+      "bbox_normalized": [
+        0.25333333333333335,
+        0.22585858585858587,
+        0.5038759689922481,
+        0.7733333333333333
+      ],
+      "bbox_pixels": [
+        817,
+        559,
+        1625,
+        1914
+      ],
+      "filename": "13-09.10.continuousflow-oxygen-sys.png",
+      "source_page": "page-10.png",
+      "chapter": 13,
+      "figure_number": 9,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 13-10. Oxygen mask",
+      "caption_text": "Oxygen mask",
+      "bbox_normalized": [
+        0.536124031007752,
+        0.3236363636363636,
+        0.8958139534883721,
+        0.675959595959596
+      ],
+      "bbox_pixels": [
+        1729,
+        801,
+        2889,
+        1673
+      ],
+      "filename": "13-10.10.oxygen-mask.png",
+      "source_page": "page-10.png",
+      "chapter": 13,
+      "figure_number": 10,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 13-11. Nasal cannula",
+      "caption_text": "Nasal cannula",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3498989898989899,
+        0.32868217054263565,
+        0.6496969696969697
+      ],
+      "bbox_pixels": [
+        209,
+        866,
+        1060,
+        1608
+      ],
+      "filename": "13-11.11.nasal-cannula.png",
+      "source_page": "page-11.png",
+      "chapter": 13,
+      "figure_number": 11,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 13-12. ] The EDS has a micro-",
+      "caption_text": "] The EDS has a micro-",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3498989898989899,
+        0.34945736434108526,
+        0.6496969696969697
+      ],
+      "bbox_pixels": [
+        209,
+        866,
+        1127,
+        1608
+      ],
+      "filename": "13-12.11.the-eds-has-a-micro.png",
+      "source_page": "page-11.png",
+      "chapter": 13,
+      "figure_number": 12,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 13-12. Electronic Pulse Demand Oxygen System (EDS)",
+      "caption_text": "Electronic Pulse Demand Oxygen System (EDS)",
+      "bbox_normalized": [
+        0.48372093023255813,
+        0.3511111111111111,
+        0.7249612403100775,
+        0.6484848484848484
+      ],
+      "bbox_pixels": [
+        1560,
+        869,
+        2338,
+        1605
+      ],
+      "filename": "13-12.11.electronic-pulse-demand-o.png",
+      "source_page": "page-11.png",
+      "chapter": 13,
+      "figure_number": 12,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 13-13. Glider accident data from the NTSB database",
+      "caption_text": "Glider accident data from the NTSB database",
+      "bbox_normalized": [
+        0.056434108527131786,
+        0.16404040404040404,
+        0.72,
+        0.8355555555555556
+      ],
+      "bbox_pixels": [
+        182,
+        406,
+        2322,
+        2068
+      ],
+      "filename": "13-13.14.glider-accident-data-from.png",
+      "source_page": "page-14.png",
+      "chapter": 13,
+      "figure_number": 13,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 13-2. Sampling of factors that interact with fatigue",
+      "caption_text": "Sampling of factors that interact with fatigue",
+      "bbox_normalized": [
+        0.20744186046511628,
+        0.29777777777777775,
+        0.5060465116279069,
+        0.7018181818181818
+      ],
+      "bbox_pixels": [
+        669,
+        737,
+        1632,
+        1737
+      ],
+      "filename": "13-02.03.sampling-of-factors-that.png",
+      "source_page": "page-3.png",
+      "chapter": 13,
+      "figure_number": 2,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 13-3. ] A person’s ability to work and rest rises and falls during this cycle",
+      "caption_text": "] A person’s ability to work and rest rises and falls during this cycle",
+      "bbox_normalized": [
+        0.20744186046511628,
+        0.29777777777777775,
+        0.5274418604651163,
+        0.7018181818181818
+      ],
+      "bbox_pixels": [
+        669,
+        737,
+        1701,
+        1737
+      ],
+      "filename": "13-03.03.a-persons-ability-to-wor.png",
+      "source_page": "page-3.png",
+      "chapter": 13,
+      "figure_number": 3,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 13-3. Many human performance factors rise and fall daily",
+      "caption_text": "Many human performance factors rise and fall daily",
+      "bbox_normalized": [
+        0.6651162790697674,
+        0.2678787878787879,
+        0.8824806201550388,
+        0.7317171717171718
+      ],
+      "bbox_pixels": [
+        2145,
+        663,
+        2846,
+        1811
+      ],
+      "filename": "13-03.03.many-human-performance-fa.png",
+      "source_page": "page-3.png",
+      "chapter": 13,
+      "figure_number": 3,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 13-4. lists the common symptoms of hyperventilation",
+      "caption_text": "lists the common symptoms of hyperventilation",
+      "bbox_normalized": [
+        0.2421705426356589,
+        0.08888888888888889,
+        0.3054263565891473,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        781,
+        220,
+        985,
+        2254
+      ],
+      "filename": "13-04.04.lists-the-common-symptoms.png",
+      "source_page": "page-4.png",
+      "chapter": 13,
+      "figure_number": 4,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 13-4. Common symptoms of hyperventilation",
+      "caption_text": "Common symptoms of hyperventilation",
+      "bbox_normalized": [
+        0.3944186046511628,
+        0.2795959595959596,
+        0.6170542635658914,
+        0.7195959595959596
+      ],
+      "bbox_pixels": [
+        1272,
+        692,
+        1990,
+        1781
+      ],
+      "filename": "13-04.04.common-symptoms-of-hyperv.png",
+      "source_page": "page-4.png",
+      "chapter": 13,
+      "figure_number": 4,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 13-5. Time of useful consciousness",
+      "caption_text": "Time of useful consciousness",
+      "bbox_normalized": [
+        0.09829457364341085,
+        0.28606060606060607,
+        0.26945736434108525,
+        0.7135353535353536
+      ],
+      "bbox_pixels": [
+        317,
+        708,
+        869,
+        1766
+      ],
+      "filename": "13-05.06.time-of-useful-consciousn.png",
+      "source_page": "page-6.png",
+      "chapter": 13,
+      "figure_number": 5,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 13-6. CAMI altitude chamber",
+      "caption_text": "CAMI altitude chamber",
+      "bbox_normalized": [
+        0.39596899224806203,
+        0.24808080808080807,
+        0.6874418604651162,
+        0.7515151515151515
+      ],
+      "bbox_pixels": [
+        1277,
+        614,
+        2217,
+        1860
+      ],
+      "filename": "13-06.06.cami-altitude-chamber.png",
+      "source_page": "page-6.png",
+      "chapter": 13,
+      "figure_number": 6,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 13-7. ] Glider pilots who fly in marginal visibility should establish and abide by",
+      "caption_text": "] Glider pilots who fly in marginal visibility should establish and abide by",
+      "bbox_normalized": [
+        0.25829457364341085,
+        0.0892929292929293,
+        0.33767441860465114,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        833,
+        221,
+        1089,
+        2253
+      ],
+      "filename": "13-07.07.glider-pilots-who-fly-in.png",
+      "source_page": "page-7.png",
+      "chapter": 13,
+      "figure_number": 7,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 13-7. in haze or other restrictions to visibility increases the likelihood of spatial",
+      "caption_text": "in haze or other restrictions to visibility increases the likelihood of spatial",
+      "bbox_normalized": [
+        0.47565891472868216,
+        0.1103030303030303,
+        0.877829457364341,
+        0.8888888888888888
+      ],
+      "bbox_pixels": [
+        1534,
+        273,
+        2831,
+        2200
+      ],
+      "filename": "13-07.07.in-haze-or-other-restrict.png",
+      "source_page": "page-7.png",
+      "chapter": 13,
+      "figure_number": 7,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 13-8. Symptoms of dehydration",
+      "caption_text": "Symptoms of dehydration",
+      "bbox_normalized": [
+        0.28651162790697676,
+        0.2896969696969697,
+        0.5640310077519379,
+        0.7098989898989899
+      ],
+      "bbox_pixels": [
+        924,
+        717,
+        1819,
+        1757
+      ],
+      "filename": "13-08.08.symptoms-of-dehydration.png",
+      "source_page": "page-8.png",
+      "chapter": 13,
+      "figure_number": 8,
+      "page_number": 8
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 13-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 13-6]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 13-8]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

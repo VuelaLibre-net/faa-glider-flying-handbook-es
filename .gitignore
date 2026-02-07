@@ -3,7 +3,7 @@
 .opencode/
 AGENTS.md
 GEMINI.md
-en/
+# en/
 
 # Caché de Python
 scripts/__pycache__/

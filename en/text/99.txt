@@ -1,0 +1,421 @@
+G-1
+
+A
+
+Advection. The transport of an atmospheric variable due to mass motion by the wind. Usually the term as used in meteorology 
+refers only to horizontal transport.
+
+Ailerons. The hinged portion of the trailing edge of the outer wing used to bank or roll around the longitudinal axis.
+
+Air density. The mass of air per unit volume.
+
+Airfoil. The surfaces on a glider that produce lift.
+
+Air mass. A widespread mass of air having similar characteristics (e.g., temperature), that usually helps to identify the 
+source region of the air. Fronts are distinct boundaries between air masses.
+
+Amplitude. In wave motion, one half the distance between the wave crest and the wave trough.
+
+Angle of attack. The angle formed between the relative wind and the chord line of the wing.
+
+Angle of incidence. The angle between the chord line of the wing and the longitudinal axis of the glider. The angle of 
+incidence is built into the glider by the manufacturer and cannot be adjusted by the pilot’s movements of the controls.
+
+Aspect ration. The ratio between the wing span and the mean chord of the wing.
+
+Asymmetrical airfoil. One in which the upper camber differs from the lower camber.
+
+Atmospheric sounding. A measure of atmospheric variables aloft, usually pressure, temperature, humidity, and wind.
+
+Atmospheric stability. Describes a state in which an air parcel resists vertical displacement or, once displaced (for instance 
+by flow over a hill), tends to return to its original level.
+B
+
+Bailout bottle. Small oxygen cylinder connected to the oxygen mask supplying several minutes of oxygen. It can be used 
+in case of primary oxygen system failure or if an emergency bailout at high altitude became necessary.
+
+Ballast. Term used to describe any system that adds weight to the glider. Performance ballast employed in some gliders 
+increases wing loading using releasable water in the wings (via integral tanks or water bags). This allows faster average 
+cross-country speeds. Trim ballast is used to adjust the flying CG, often necessary for light-weight pilots. Some gliders also 
+have a small water ballast tank in the tail for optimizing flying CG.
+
+Barograph. Instrument for recording pressure as a function of time. Used by glider pilots to verify flight performance for 
+badge or record flights.
+
+Best glide speed (best L/D speed). The airspeed that results in the least amount of altitude loss over a given distance. This 
+speed is determined from the performance polar. The manufacturer publishes the best glide (L/D) airspeed for specified 
+weights and the resulting glide ratio. For example, a glide ratio of 36:1 means that the glider will lose 1 foot of altitude for 
+every 36 feet of forward movement in still air at this airspeed.
+
+C
+
+Camber. The curvature of a wing when looking at a cross section. A wing has upper camber on its top surface and lower 
+
+Glossary
+
+
+G-2
+
+camber on its bottom surface.
+
+Cap cloud. Also called a foehn cloud. These are clouds forming on mountain or ridge tops by cooling of moist air rising 
+on the upwind side followed by warming and drying by downdrafts on the lee side.
+
+Centering. Adjusting circles while thermalling to provide the greatest average climb.
+
+Center of pressure. The point along the wing chord line where lift is considered to be concentrated.
+
+Centrifugal force. The apparent force occurring in curvilinear motion acting to deflect objects outward from the axis of 
+rotation. For instance, when pulling out of a dive, it is the force pushing you down in your seat.
+
+Centripetal force. The force in curvilinear motion acting toward the axis of rotation. For instance, when pulling out of a 
+dive, it is the force that the seat exerts on the pilot to offset the centrifugal force.
+
+Chord line. An imaginary straight line drawn from the leading edge of an airfoil to the trailing edge.
+
+Cloud streets. Parallel rows of cumulus clouds. Each row can be as short as 10 miles or as long as a 100 miles or more.
+
+Cold soaked. Condition of a self-launch or sustainer engine making it difficult or impossible to start in flight due to long-
+time exposure to cold temperatures. Usually occurs after a long soaring flight at altitudes with cold temperatures (e.g., a 
+wave flight).
+
+Convection. Transport and mixing of an atmospheric variable due to vertical mass motions (e.g., updrafts).
+
+Convective condensation level (CCL). The level at which cumulus forms from surface-based convection. Under this level, 
+the air is dry adiabatic and the mixing ratio is constant.
+
+Conventional tail. A glider design with the horizontal stabilizer mounted at the bottom of the vertical stabilizer.
+
+Convergence. A net increase in the mass of air over a specified area due to horizontal wind speed and/or direction changes. 
+When convergence occurs in lower levels, it is usually associated with upward air motions.
+
+Convergence zone. An area of convergence, sometimes several miles wide, at other times very narrow. These zones often 
+provide organized lift for many miles (e.g., a sea-breeze front).
+
+Critical angle of attack. Angle of attack, typically around 18°, beyond which a stall occurs. The critical angle of attack 
+can be exceeded at any airspeed and at any nose attitude.
+
+Cross-country. In soaring, any flight out of gliding range of the takeoff airfield. Note that this is different from the definitions 
+in the 14 CFR for meeting the experience requirements for various pilot certificates and/or ratings.
+
+Cumulus congestus. A cumulus cloud of significant vertical extent and usually displaying sharp edges. In warm climates, 
+these sometimes produce precipitation. Also called towering cumulus, these clouds indicate that thunderstorm activity may 
+soon occur.
+
+Cumulonimbus (CB). Also called thunderclouds, these are deep convective clouds with a cirrus anvil and may contain any 
+of the characteristics of a thunderstorm: thunder, lightning, heavy rain, hail, strong winds, turbulence, and even tornadoes.
+
+D
+
+Dead reckoning. Navigation by computing a heading from true airspeed and wind, then estimating time needed to fly to 
+a destination.
+
+
+G-3
+
+Density altitude. Pressure altitude corrected for nonstandard temperature variations. Performance charts for many older 
+gliders are based on this value.
+
+Dewpoint (or dewpoint temperature). The temperature to which a sample of air must be cooled, while the amount of 
+water vapor and barometric pressure remain constant, in order to attain saturation with respect to water.
+
+Dihedral. The angle at which the wings are slanted upward from the root to the tip.
+
+Diurnal effects. A variation (may be in temperature, moisture, wind, cloud cover, etc.) that recurs every 24 hours.
+
+Downburst. A strong, concentrated downdraft, often associated with a thunderstorm. When these reach the ground, they 
+spread out, leading to strong and even damaging surface winds.
+
+Drag. The force that resists the movement of the glider through the air.
+
+Dry adiabat. A line on a thermodynamic chart representing a rate of temperature change at the dry adiabatic lapse rate.
+
+Dry adiabatic lapse rate (DALR). The rate of decrease of temperature with height of unsaturated air lifted adiabatically 
+(not heat exchange). Numerically the value is 3 °C or 5.4 °F per 1,000 feet.
+
+Dust devil. A small vigorous circulation that can pick up dust or other debris near the surface to form a column hundreds 
+or even thousands of feet deep. At the ground, winds can be strong enough to flip an unattended glider over on its back. 
+Dust devils mark the location where a thermal is leaving the ground.
+
+Dynamic stability. A glider’s motion and time required for a response to static stability.
+
+E
+
+Elevator. Attached to the back of the horizontal stabilizer, if controls movement around the lateral axis.
+
+Empennage. The tail group of the aircraft usually supporting the vertical stabilizer and rudder, as well as the horizontal 
+stabilizer and elevator, or on some aircraft, the V-Tail.
+
+F
+
+Flaps. Hinged portion of the trailing edge between the ailerons and fuselage. In some gliders, ailerons and flaps are 
+interconnected to produce full-span flaperons. In either case, flap change the lift and drag on the wing.
+
+Flutter. Resonant condition leading to rapid, unstable oscillations of part of the glider structure (e.g., the wing) or a control 
+surface (e.g., elevator or aileron). Flutter usually occurs at high speeds and can quickly lead to structural failure.
+
+Forward slip. A slide used to dissipate altitude without increasing the glider’s speed, particularly in gliders without flaps 
+or with inoperative spoilers.
+
+G
+
+Glider. A heavier-than-air aircraft that is supported in flight by the dynamic reaction of the air against its lifting surfaces, 
+and whose free flight does not depend on an engine.
+
+Graupel. Also called soft hail or snow pellets, these are white, round or conical ice particles 1⁄8 to 1⁄4 inch in diameter. They 
+often form as a thunderstorm matures and indicate the likelihood of lightning. 
+
+Ground effect. A reduction in induced drag for the same amount of lift produced. Within one wingspan above the ground, 
+the decrease in induced drag enables the glider to fly at a lower airspeed. In ground effect, a lower angle of attack is required 
+to produce the same amount of lift.
+
+
+G-4
+
+H
+
+Height band. The altitude range in which the thermals are strongest on any given day. Remaining with the height band on 
+a cross-country flight should allow the fastest average speed.
+
+House thermal. A thermal that forms frequently in the same or similar location.
+
+Human factors. The study of how people interact with their environments. In the case of general aviation, it is the study 
+of how pilot performance is influenced by such issues as the design of cockpits, the function of the organs of the body, the 
+effects of emotions, and the interaction and communication with the other participants of the aviation community, such as 
+other crewmembers and air traffic control personnel.
+
+I
+
+Induced drag. Drag that is the consequence of developing lift with a finite-span wing. It can be represented by a vector 
+that results from the difference between total and vertical lift.
+
+Inertia. The tendency of a mass at rest to remain at rest or, if in motion, to remain in motion unless acted upon by some 
+external force.
+
+Instrument meteorological conditions (IMC). Meteorological conditions expressed in terms of visibility, distance from 
+cloud, and ceiling less than the minimum specified for visual meteorological conditions (VMC). Gliders rarely fly in IMC 
+due to instrumentation and air traffic control requirements.
+
+Inversion. Usually refers to an increase in temperature with height, but may also be used for other atmospheric variables.
+
+Isohumes. Lines of equal relative humidity.
+
+Isopleth. A line connecting points of constant or equal value.
+
+Isotherm. A contour line of equal temperature.
+
+K
+
+Katabatic. Used to describe any wind blowing down slope.
+
+Kinetic energy. Energy due to motion, defined as one half mass times velocity squared.
+
+L
+
+Lapse rate. The decrease with height of an atmospheric variable, usually referring to temperature, but can also apply to 
+pressure or density.
+
+Lateral axis. An imaginary straight line drawn perpendicularly (laterally) across the fuselage and through the center of 
+gravity. Pitch movement occurs around the lateral axis, and is controlled by the elevator.
+
+Lenticular cloud. Smooth, lens-shaped clouds marking mountain-wave crests. They may extend the entire length of the 
+mountain range producing the wave and are also called wave clouds or lennies by glider pilots.
+
+Lift. Produced by the dynamic effects of the airstream acting on the wing, lift opposes the downward force of weight.
+
+Limit load. The maximum load, expressed as multiples of positive and negative G (force of gravity), that an aircraft can 
+sustain before structural damage becomes possible. The load limit varies from aircraft to aircraft.
+
+Load factor. The ratio of the load supported by the glider’s wings to the actual weight of the aircraft and its contents.
+
+
+G-5
+
+Longitudinal axis. An imaginary straight line running through the fuselage from nose to tail. Roll movement occurs around 
+the longitudinal axis, and is controlled by the ailerons.
+
+M
+
+Mesoscale convection system (MCS). A large cluster of thunderstorms with horizontal dimensions on the order of 100 
+miles. MCSs are sometimes organized in a long line of thunderstorms (e.g., a squall line) or as a random grouping of 
+thunderstorms. Individual thunderstorms within the MCS may be severe.
+
+Microburst. A small-sized downburst of 2.2 nautical mile or less horizontal dimension.
+
+Minimum sink airspeed. Airspeed, as determined by the performance polar, at which the glider achieves the lowest sink 
+rate. That is, the glider loses the least amount of altitude per unit of time at minimum sink airspeed.
+
+Mixing ration. The ratio of the mass of water vapor to the mass of dry air.
+
+Multicell thunderstorm. A group or cluster of individual thunderstorm cells with varying stages of development. These 
+storms are often self propagating and may last for several hours.
+
+O
+
+Olphin flight. Straight flight following speed-to-fly theory. Glides can often be extended and average cross-country speeds 
+increased by flying faster in sink and slower in lift without stopping to circle.
+
+P
+
+Parasite drag. Drag caused by any aircraft surface that deflects or interferes with the smooth airflow around the airplane.
+
+Pilotage. Navigational technique based on flight by reference to ground landmarks.
+
+Pilot-induced oscillation (PIO). Rapid oscillations caused by the pilot’s overcontrolled motions. PIOs usually occur on 
+takeoff or landings with pitch-sensitive gliders and in severe cases can lead to loss of control or damage.
+
+Pitch attitude. The angle of the longitudinal axis relative to the horizon. Pitch attitude serves as a visual reference for the 
+pilot to maintain or change airspeed.
+
+Pitot-static system. System that powers the airspeed altimeter and variometer by relying on air pressure differences to 
+measure glider speed, altitude, and climb or sink rate.
+
+Placards. Small statements or pictorial signs permanently fixed in the cockpit and visible to the pilot. Placards are used for 
+operating limitations (e.g., weight or speeds) or to indicate the position of an operating lever (e.g., landing gear retracted 
+or down and locked).
+
+Precipitable water. The amount of liquid precipitation that would result if all water vapor were condensed.
+
+Pressure altitude. The height above the standard pressure level of 29.92 "Hg. It is obtained by setting 29.92 in the barometric 
+pressure window and reading the altimeter.
+
+R
+
+Radiant energy. Energy due to any form of electromagnetic radiation (e.g., from the sun).
+
+Radius of turn. The  horizontal distance an aircraft uses to complete a turn.
+
+Rate of turn. The amount of time it takes for a glider to turn a specified number of degrees.
+
+
+G-6
+
+Relative wind. The airflow caused by the motion of the aircraft through the air. Relative wind, also called relative airflow, 
+is opposite and parallel to the direction of flight.
+
+Rotor. A turbulent circulation under mountain-wave crests, to the lee side and parallel to the mountains creating the wave. 
+Glider pilots use the term rotor to describe any low-level turbulent flow associated with mountain waves.
+
+Rotor streaming. A phenomenon that occurs when the air flow at mountain levels may be sufficient for wave formation, 
+but begins to decrease with altitude above the mountain. In this case, the air downstream of the mountain breaks up and 
+becomes turbulent, similar to rotor, with no lee waves above.
+
+Rudder. Attached to the back of the vertical stabilizer, the rudder controls movement about the vertical axis.
+
+S
+
+Sailplane. A glider used for traveling long distances and remaining aloft for extended periods of time.
+
+Saturated Adiabatic Lapse Rate (SALR). The rate of temperature decrease with height of saturated air. Unlike the dry 
+adiabatic lapse rate (DALR), the SALR is not a constant numerical value but varies with temperature. 
+
+Self-launching glider. A glider equipped with an engine, allowing it to be launched under its own power. When the engine 
+is shut down, a self-launching glider displays the same characteristics as a non-powered glider.
+
+Side slip. A slip in which the glider’s longitudinal axis remains parallel to the original flightpath but in which the flightpath 
+changes direction according to the steepness of the bank.
+
+Slip. A descent with one wing lowered and the glider’s longitudinal axis at an angle to the flightpath. A slip is used to steepen 
+the approach path without increasing the airspeed, or to make the glider move sideways through the air, counteracting the 
+drift resulting from a crosswind.
+
+Speed to fly. Optimum speed through the (sinking or rising) air mass to achieve either the furthest glide or fastest average 
+cross-country speed depending on the objectives during a flight.
+
+Spin. An aggravated stall that results in the glider descending in a helical, or corkscrew, path.
+
+Spoilers. Devices on the tops of wings to disturb (spoil) part of the airflow over the wing. The resulting decrease in lift 
+creates a higher sink rate and allows for a steeper approach.
+
+Squall line. A line of thunderstorms often located along or ahead of a vigorous cold front. Squall lines may contain severe 
+thunderstorms. The term is also used to describe a line of heavy precipitation with an abrupt wind shift but no thunderstorms, 
+as sometimes occurs in association with fronts.
+
+Stabilator. A one-piece horizontal stabilizer used in lieu of an elevator.
+
+Stability. The glider’s ability to maintain a uniform flight condition and return to that condition after being disturbed.
+
+Stall. Condition that occurs when the critical angle of attack is reached and exceeded. Airflow begins to separate from the 
+top of the wing, leading to a loss of lift. A stall can occur at any pitch attitude or airspeed.
+
+Standard atmosphere. A theoretical vertical distribution of pressure, temperature and density agreed upon by international 
+convention. It is the standard used, for instance, for aircraft performance calculations. At sea level, the standard atmosphere 
+consists of a barometric pressure of 29.92 inches of mercury ("Hg) or 1013.2 millibars, and a temperature of 15 °C (59 
+°F). Pressure and temperature normally decrease as altitude increases. The standard lapse rate in the lower atmosphere for 
+each 1,000 feet of altitude is approximately 1 "Hg. and 2 °C (3.5 °F). For example, the standard pressure and temperature 
+at 3,000 feet mean sea level (MSL) is 26.92 "Hg. (29.92 – 3) and 9 °C (15 °C – 6 °C).
+
+
+G-7
+
+Static stability. The initial tendency to return to a state of equilibrium when disturbed from that state.
+
+Supercell thunderstorm. A large, powerful type of thunderstorm that forms in very unstable environments with vertical 
+and horizontal wind shear. These are almost always associated with severe weather, strong surface winds, large hail, and/
+or tornadoes.
+
+T
+
+T-tail. A type of glider with the horizontal stabilizer mounted on the top of the vertical stabilizer forming a T.
+
+Thermal. A buoyant plume or bubble of rising air.
+
+Thermal index (TI). For any given level is the temperature of the air parcel having risen at the dry adiabatic lapse rate 
+(DALR) subtracted from the ambient temperature. Experience has shown that a TI should be –2 for thermals to form and 
+be sufficiently strong for soaring flight.
+
+Thermal wave. Waves, often but not always marked by cloud streets, that are excited by convection disturbing an overlying 
+stable layer. Also called convection waves.
+
+Thermodynamic diagram. A chart presenting isopleths of pressure, temperature, water vapor content, as well as dry and 
+saturated adiabats. Various forms exist, the most commonly used in the United States being the Skew-T/Log-P.
+
+Thrust. The forward force that propels a powered glider through the air.
+
+Total drag. The sum of parasite and induced drag.
+
+Towhook. A mechanism allowing the attachment and release of a towrope on the glider or towplane. On gliders, it is located 
+near the nose or directly ahead of the main wheel. Two types oftowhooks commonly used in gliders are manufactured by 
+Tost and Schweizer.
+
+Trim devices. Any device designed to reduce or eliminate pressure on the control stick. When properly trimmed, the glider 
+should fly at the desired airspeed with no control pressure from the pilot (i.e., hands off). Trim mechanisms are either external 
+tabs on the elevator (or stabilator) or a simple spring-tension system connected to the control stick.
+
+True altitude. The actual height of an object above mean sea level.
+
+V
+
+V-tail. A type of glider with two tail surfaces mounted to form a V. V-tails combine elevator and rudder movements.
+
+Variometer. Sensitive rate of climb or descent indicator that measures static pressure between the static ports and an external 
+capacity. Variometers can be mechanical or electrical and can be compensated to eliminate unrealistic indications of lift 
+and sink due to rapid speed changes.
+
+Vertical axis. An imaginary straight line drawn through the center of gravity and perpendicular to the lateral and longitudinal 
+axes. Yaw movement occurs around the vertical axis and is controlled by the rudder.
+
+Visual meteorological conditions (VMC). Meteorological conditions expressed in terms of visibility, distance from cloud, 
+and ceiling equal to or better than a specified minimum. VMC represents minimum conditions for safe flight using visual 
+reference for navigation and traffic separation. Ceilings and visibility below VMC constitutes instrument meteorological 
+conditions (IMC).
+
+
+G-8
+
+W
+
+Washout. Slight twist built in towards the wingtips, designed to improve the stall characteristics of the wing.
+
+Water vapor. Water present in the air while in its vapor form. It is one of the most important of atmospheric constituents.
+
+Wave length. The distance between two wave crests or wave troughs.
+
+Wave window. Special areas arranged by Letter of Agreement (LOA) with the controlling ATC wherein gliders may be 
+allowed to fly under VFR in Class A Airspace at certain times and to certain specified altitudes.
+
+Weight. Acting vertically through the glider’s center of gravity, weight opposes lift.
+
+Wind triangle. Navigational calculation allowing determination of true heading with a correction for crosswinds on course.
+
+

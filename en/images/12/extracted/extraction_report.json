@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "source": "en/images/12",
+    "total_pages_processed": 13,
+    "total_figures_extracted": 14,
+    "total_skipped": 8
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 12-1. ] An aerotow takes time but can",
+      "caption_text": "] An aerotow takes time but can",
+      "bbox_normalized": [
+        0.05674418604651163,
+        0.08969696969696969,
+        0.09395348837209302,
+        0.52
+      ],
+      "bbox_pixels": [
+        183,
+        222,
+        303,
+        1287
+      ],
+      "filename": "12-01.01.an-aerotow-takes-time-bu.png",
+      "source_page": "page-1.png",
+      "chapter": 12,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 12-1. Gliders commonly use tow planes to launch and obtain altitude",
+      "caption_text": "Gliders commonly use tow planes to launch and obtain altitude",
+      "bbox_normalized": [
+        0.2713178294573643,
+        0.15555555555555556,
+        0.5013953488372093,
+        0.844040404040404
+      ],
+      "bbox_pixels": [
+        875,
+        385,
+        1617,
+        2089
+      ],
+      "filename": "12-01.01.gliders-commonly-use-tow.png",
+      "source_page": "page-1.png",
+      "chapter": 12,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 12-9. On a cross-country tow, the tow pilot and glider pilot should have two-way",
+      "caption_text": "On a cross-country tow, the tow pilot and glider pilot should have two-way",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.31555555555555553,
+        0.4350387596899225,
+        0.684040404040404
+      ],
+      "bbox_pixels": [
+        209,
+        781,
+        1403,
+        1693
+      ],
+      "filename": "12-09.10.on-a-crosscountry-tow-the.png",
+      "source_page": "page-10.png",
+      "chapter": 12,
+      "figure_number": 9,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 12-10. Glider release failure",
+      "caption_text": "Glider release failure",
+      "bbox_normalized": [
+        0.5674418604651162,
+        0.1604040404040404,
+        0.8821705426356589,
+        0.8391919191919192
+      ],
+      "bbox_pixels": [
+        1830,
+        397,
+        2845,
+        2077
+      ],
+      "filename": "12-10.11.glider-release-failure.png",
+      "source_page": "page-11.png",
+      "chapter": 12,
+      "figure_number": 10,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 12-11. The towplane indicates the glider pilot should release immediately",
+      "caption_text": "The towplane indicates the glider pilot should release immediately",
+      "bbox_normalized": [
+        0.49550387596899226,
+        0.15272727272727274,
+        0.8911627906976745,
+        0.8468686868686869
+      ],
+      "bbox_pixels": [
+        1598,
+        378,
+        2874,
+        2096
+      ],
+      "filename": "12-11.12.the-towplane-indicates-th.png",
+      "source_page": "page-12.png",
+      "chapter": 12,
+      "figure_number": 11,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 12-2. Schweizer tow hook (left) and a Tost tow hook (right)",
+      "caption_text": "Schweizer tow hook (left) and a Tost tow hook (right)",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.10343434343434343,
+        0.25488372093023254,
+        0.8961616161616162
+      ],
+      "bbox_pixels": [
+        209,
+        256,
+        822,
+        2218
+      ],
+      "filename": "12-02.02.schweizer-tow-hook-left-a.png",
+      "source_page": "page-2.png",
+      "chapter": 12,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 12-3. Schweizer tow ring and a Tost tow ring",
+      "caption_text": "Schweizer tow ring and a Tost tow ring",
+      "bbox_normalized": [
+        0.16155038759689921,
+        0.29818181818181816,
+        0.4744186046511628,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        521,
+        738,
+        1530,
+        1736
+      ],
+      "filename": "12-03.03.schweizer-tow-ring-and-a.png",
+      "source_page": "page-3.png",
+      "chapter": 12,
+      "figure_number": 3,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 12-4. ] and brief the glider pilot on the abort point and abort procedures",
+      "caption_text": "] and brief the glider pilot on the abort point and abort procedures",
+      "bbox_normalized": [
+        0.7001550387596899,
+        0.08888888888888889,
+        0.7311627906976744,
+        0.9098989898989899
+      ],
+      "bbox_pixels": [
+        2258,
+        220,
+        2358,
+        2252
+      ],
+      "filename": "12-04.03.and-brief-the-glider-pil.png",
+      "source_page": "page-3.png",
+      "chapter": 12,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 12-4. 4 physical abort point on the runway should be determined and briefed to",
+      "caption_text": "4 physical abort point on the runway should be determined and briefed to",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09333333333333334,
+        0.22232558139534883,
+        0.9062626262626262
+      ],
+      "bbox_pixels": [
+        209,
+        231,
+        717,
+        2243
+      ],
+      "filename": "12-04.04.4-physical-abort-point-on.png",
+      "source_page": "page-4.png",
+      "chapter": 12,
+      "figure_number": 4,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 12-5. Zhe tow pilot advances the throttle smoothly and quickly in one motion so",
+      "caption_text": "Zhe tow pilot advances the throttle smoothly and quickly in one motion so",
+      "bbox_normalized": [
+        0.1268217054263566,
+        0.24565656565656566,
+        0.38852713178294573,
+        0.7539393939393939
+      ],
+      "bbox_pixels": [
+        409,
+        608,
+        1253,
+        1866
+      ],
+      "filename": "12-05.05.zhe-tow-pilot-advances-th.png",
+      "source_page": "page-5.png",
+      "chapter": 12,
+      "figure_number": 5,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 12-6. Sample glider maximum aerotow speeds",
+      "caption_text": "Sample glider maximum aerotow speeds",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.20404040404040405,
+        0.21426356589147286,
+        0.7955555555555556
+      ],
+      "bbox_pixels": [
+        209,
+        505,
+        691,
+        1969
+      ],
+      "filename": "12-06.06.sample-glider-maximum-aer.png",
+      "source_page": "page-6.png",
+      "chapter": 12,
+      "figure_number": 6,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 12-7. Aerotow climb-out",
+      "caption_text": "Aerotow climb-out",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09373737373737374,
+        0.4186046511627907,
+        0.9058585858585858
+      ],
+      "bbox_pixels": [
+        209,
+        232,
+        1350,
+        2242
+      ],
+      "filename": "12-07.07.aerotow-climbout.png",
+      "source_page": "page-7.png",
+      "chapter": 12,
+      "figure_number": 7,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 12-8. Aerotow release",
+      "caption_text": "Aerotow release",
+      "bbox_normalized": [
+        0.11069767441860465,
+        0.11676767676767677,
+        0.5906976744186047,
+        0.8828282828282829
+      ],
+      "bbox_pixels": [
+        357,
+        289,
+        1905,
+        2185
+      ],
+      "filename": "12-08.08.aerotow-release.png",
+      "source_page": "page-8.png",
+      "chapter": 12,
+      "figure_number": 8,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 12-9. Cross-country tow",
+      "caption_text": "Cross-country tow",
+      "bbox_normalized": [
+        0.5376744186046511,
+        0.2606060606060606,
+        0.7320930232558139,
+        0.738989898989899
+      ],
+      "bbox_pixels": [
+        1734,
+        645,
+        2361,
+        1829
+      ],
+      "filename": "12-09.09.crosscountry-tow.png",
+      "source_page": "page-9.png",
+      "chapter": 12,
+      "figure_number": 9,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-1.png",
+      "caption": "[Figure 12-2]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-11.png",
+      "caption": "[Figure 12-10]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-12.png",
+      "caption": "[Figure 12-11]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 12-3]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-5.png",
+      "caption": "[Figure 12-6]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 12-7]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "[Figure 12-8]:",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-9.png",
+      "caption": "[Figure 12-9]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

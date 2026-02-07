@@ -1,0 +1,513 @@
+{
+  "metadata": {
+    "source": "en/images/11",
+    "total_pages_processed": 20,
+    "total_figures_extracted": 21,
+    "total_skipped": 12
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 11-1. shows a sample sectional chart",
+      "caption_text": "shows a sample sectional chart",
+      "bbox_normalized": [
+        0.6924031007751938,
+        0.0892929292929293,
+        0.7367441860465116,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2233,
+        221,
+        2376,
+        2254
+      ],
+      "filename": "11-01.01.shows-a-sample-sectional.png",
+      "source_page": "page-1.png",
+      "chapter": 11,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 11-9. Examples of practice cross-country courses",
+      "caption_text": "Examples of practice cross-country courses",
+      "bbox_normalized": [
+        0.4511627906976744,
+        0.34505050505050505,
+        0.768062015503876,
+        0.6541414141414141
+      ],
+      "bbox_pixels": [
+        1455,
+        854,
+        2477,
+        1619
+      ],
+      "filename": "11-09.10.examples-of-practice-cros.png",
+      "source_page": "page-10.png",
+      "chapter": 11,
+      "figure_number": 9,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 11-10. ] A",
+      "caption_text": "] A",
+      "bbox_normalized": [
+        0.06914728682170543,
+        0.0892929292929293,
+        0.13209302325581396,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        223,
+        221,
+        426,
+        2254
+      ],
+      "filename": "11-10.11.a.png",
+      "source_page": "page-11.png",
+      "chapter": 11,
+      "figure_number": 10,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 11-10. Example of a flight profile during a cross-country course",
+      "caption_text": "Example of a flight profile during a cross-country course",
+      "bbox_normalized": [
+        0.2722480620155039,
+        0.0901010101010101,
+        0.6465116279069767,
+        0.9094949494949495
+      ],
+      "bbox_pixels": [
+        878,
+        223,
+        2085,
+        2251
+      ],
+      "filename": "11-10.11.example-of-a-flight-profi.png",
+      "source_page": "page-11.png",
+      "chapter": 11,
+      "figure_number": 10,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 11-11. Example of the height band",
+      "caption_text": "Example of the height band",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.298989898989899,
+        0.4703875968992248,
+        0.7006060606060606
+      ],
+      "bbox_pixels": [
+        209,
+        740,
+        1517,
+        1734
+      ],
+      "filename": "11-11.13.example-of-the-height-ban.png",
+      "source_page": "page-13.png",
+      "chapter": 11,
+      "figure_number": 11,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 11-12. 4 MacCready Ring set for an expected 4 knot climb in the next",
+      "caption_text": "4 MacCready Ring set for an expected 4 knot climb in the next",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.23757575757575758,
+        0.4356589147286822,
+        0.762020202020202
+      ],
+      "bbox_pixels": [
+        209,
+        588,
+        1405,
+        1886
+      ],
+      "filename": "11-12.14.4-maccready-ring-set-for.png",
+      "source_page": "page-14.png",
+      "chapter": 11,
+      "figure_number": 12,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 11-13. Example of glides achieved for different MacCready ring settings",
+      "caption_text": "Example of glides achieved for different MacCready ring settings",
+      "bbox_normalized": [
+        0.6372093023255814,
+        0.17898989898989898,
+        0.8995348837209303,
+        0.8206060606060606
+      ],
+      "bbox_pixels": [
+        2055,
+        443,
+        2901,
+        2031
+      ],
+      "filename": "11-13.14.example-of-glides-achieve.png",
+      "source_page": "page-14.png",
+      "chapter": 11,
+      "figure_number": 13,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 11-14. Thermal height and height band versus time of day",
+      "caption_text": "Thermal height and height band versus time of day",
+      "bbox_normalized": [
+        0.45395348837209304,
+        0.31393939393939396,
+        0.8862015503875968,
+        0.6856565656565656
+      ],
+      "bbox_pixels": [
+        1464,
+        777,
+        2858,
+        1697
+      ],
+      "filename": "11-14.15.thermal-height-and-height.png",
+      "source_page": "page-15.png",
+      "chapter": 11,
+      "figure_number": 14,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 11-15. Advantage of proper speed to fly under a cloud street",
+      "caption_text": "Advantage of proper speed to fly under a cloud street",
+      "bbox_normalized": [
+        0.26976744186046514,
+        0.0905050505050505,
+        0.5147286821705427,
+        0.9090909090909091
+      ],
+      "bbox_pixels": [
+        870,
+        224,
+        1660,
+        2250
+      ],
+      "filename": "11-15.16.advantage-of-proper-speed.png",
+      "source_page": "page-16.png",
+      "chapter": 11,
+      "figure_number": 15,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 11-16. Effects of starting course deviations at different times",
+      "caption_text": "Effects of starting course deviations at different times",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09212121212121212,
+        0.43627906976744185,
+        0.9074747474747474
+      ],
+      "bbox_pixels": [
+        209,
+        228,
+        1407,
+        2246
+      ],
+      "filename": "11-16.17.effects-of-starting-cours.png",
+      "source_page": "page-17.png",
+      "chapter": 11,
+      "figure_number": 16,
+      "page_number": 17
+    },
+    {
+      "caption_reference": "Figure 11-17. Effects on the glide ratio of the engine being extended but not running",
+      "caption_text": "Effects on the glide ratio of the engine being extended but not running",
+      "bbox_normalized": [
+        0.390077519379845,
+        0.09171717171717171,
+        0.6003100775193798,
+        0.9078787878787878
+      ],
+      "bbox_pixels": [
+        1258,
+        227,
+        1936,
+        2247
+      ],
+      "filename": "11-17.18.effects-on-the-glide-rati.png",
+      "source_page": "page-18.png",
+      "chapter": 11,
+      "figure_number": 17,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 11-1. Excerpt from a Sectional Aeronautical Chart",
+      "caption_text": "Excerpt from a Sectional Aeronautical Chart",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.343030303030303,
+        0.6275968992248062,
+        0.6565656565656566
+      ],
+      "bbox_pixels": [
+        209,
+        849,
+        2024,
+        1625
+      ],
+      "filename": "11-01.02.excerpt-from-a-sectional.png",
+      "source_page": "page-2.png",
+      "chapter": 11,
+      "figure_number": 1,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 11-2. Sample Soaring Forecast",
+      "caption_text": "Sample Soaring Forecast",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.1688888888888889,
+        0.7017054263565892,
+        0.8307070707070707
+      ],
+      "bbox_pixels": [
+        209,
+        418,
+        2263,
+        2056
+      ],
+      "filename": "11-02.04.sample-soaring-forecast.png",
+      "source_page": "page-4.png",
+      "chapter": 11,
+      "figure_number": 2,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 11-3. Navigational plotter",
+      "caption_text": "Navigational plotter",
+      "bbox_normalized": [
+        0.768062015503876,
+        0.21252525252525253,
+        0.902015503875969,
+        0.787070707070707
+      ],
+      "bbox_pixels": [
+        2477,
+        526,
+        2909,
+        1948
+      ],
+      "filename": "11-03.05.navigational-plotter.png",
+      "source_page": "page-5.png",
+      "chapter": 11,
+      "figure_number": 3,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 11-4. The settings in Figure 11-4",
+      "caption_text": "The settings in Figure 11-4",
+      "bbox_normalized": [
+        0.06914728682170543,
+        0.0892929292929293,
+        0.11596899224806202,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        223,
+        221,
+        374,
+        2253
+      ],
+      "filename": "11-04.06.the-settings-in-figure-11.png",
+      "source_page": "page-6.png",
+      "chapter": 11,
+      "figure_number": 4,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 11-4. Circular glider calculator",
+      "caption_text": "Circular glider calculator",
+      "bbox_normalized": [
+        0.19162790697674417,
+        0.3147474747474747,
+        0.4657364341085271,
+        0.6848484848484848
+      ],
+      "bbox_pixels": [
+        618,
+        779,
+        1502,
+        1695
+      ],
+      "filename": "11-04.06.circular-glider-calculato.png",
+      "source_page": "page-6.png",
+      "chapter": 11,
+      "figure_number": 4,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 11-5. Glide calculation examples for a headwind and a tailwind",
+      "caption_text": "Glide calculation examples for a headwind and a tailwind",
+      "bbox_normalized": [
+        0.5761240310077519,
+        0.298989898989899,
+        0.8210852713178295,
+        0.7006060606060606
+      ],
+      "bbox_pixels": [
+        1858,
+        740,
+        2648,
+        1734
+      ],
+      "filename": "11-05.06.glide-calculation-example.png",
+      "source_page": "page-6.png",
+      "chapter": 11,
+      "figure_number": 5,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 11-6. Cross-country triangle drawn on the Albuquerque Sectional Chart",
+      "caption_text": "Cross-country triangle drawn on the Albuquerque Sectional Chart",
+      "bbox_normalized": [
+        0.4951937984496124,
+        0.22181818181818183,
+        0.9004651162790698,
+        0.7777777777777778
+      ],
+      "bbox_pixels": [
+        1597,
+        549,
+        2904,
+        1925
+      ],
+      "filename": "11-06.07.crosscountry-triangle-dra.png",
+      "source_page": "page-7.png",
+      "chapter": 11,
+      "figure_number": 6,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 11-7. TZEXICO VOR and Benger Airport (X54)",
+      "caption_text": "TZEXICO VOR and Benger Airport (X54)",
+      "bbox_normalized": [
+        0.5392248062015503,
+        0.26181818181818184,
+        0.8927131782945736,
+        0.7377777777777778
+      ],
+      "bbox_pixels": [
+        1739,
+        648,
+        2879,
+        1826
+      ],
+      "filename": "11-07.08.tzexico-vor-and-benger-ai.png",
+      "source_page": "page-8.png",
+      "chapter": 11,
+      "figure_number": 7,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 11-8. ] include power transmission lines, Salt Lake (possibly dry), the small town of Arch,",
+      "caption_text": "] include power transmission lines, Salt Lake (possibly dry), the small town of Arch,",
+      "bbox_normalized": [
+        0.06914728682170543,
+        0.0892929292929293,
+        0.13209302325581396,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        223,
+        221,
+        426,
+        2254
+      ],
+      "filename": "11-08.09.include-power-transmissi.png",
+      "source_page": "page-9.png",
+      "chapter": 11,
+      "figure_number": 8,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 11-8. Circle Back and Needmore",
+      "caption_text": "Circle Back and Needmore",
+      "bbox_normalized": [
+        0.17550387596899225,
+        0.26181818181818184,
+        0.5289922480620155,
+        0.7377777777777778
+      ],
+      "bbox_pixels": [
+        566,
+        648,
+        1706,
+        1826
+      ],
+      "filename": "11-08.09.circle-back-and-needmore.png",
+      "source_page": "page-9.png",
+      "chapter": 11,
+      "figure_number": 8,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-12.png",
+      "caption": "[Figure 11-10]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-13.png",
+      "caption": "[Figure 11-12]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-14.png",
+      "caption": "Figure 11-13.",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-15.png",
+      "caption": "[Figure 11-14]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-16.png",
+      "caption": "[Figure 11-16]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 11-2]:",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-5.png",
+      "caption": "[Figure 11-3]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "Figure 11-4",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 11-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "[Figure 11-6]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 11-7]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "Figure 11-6). The town should appear on the right and the airport on the left",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

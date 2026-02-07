@@ -1,0 +1,103 @@
+
+Glider Flying Handbook
+
+U.S. Department of Transportation
+
+FEDERAL AVIATION ADMINISTRATION
+
+Flight Standards Service
+
+2024
+
+
+ii
+
+The Glider Flying Handbook is designed as a technical manual for applicants who are preparing for glider category 
+rating and for currently certificated glider pilots who wish to improve their knowledge. Certificated flight instructors 
+will find this handbook a valuable training aid, since detailed coverage of aeronautical decision-making, components and 
+systems, aerodynamics, flight instruments, performance limitations, ground operations, flight maneuvers, traffic patterns, 
+emergencies, soaring weather, soaring techniques, and cross-country flight is included. Topics such as radio navigation and 
+communication, use of flight information publications, and regulations are available in other Federal Aviation Administration 
+(FAA) publications.
+
+The discussion and explanations reflect the most commonly used practices and principles. Occasionally, the word “must” 
+or similar language is used where the desired action is deemed critical. The use of such language is not intended to add to, 
+interpret, or relieve a duty imposed by Title 14 of the Code of Federal Regulations (14 CFR). Persons working towards 
+a glider rating are advised to review the references from the applicable practical test standards. Resources for study 
+include FAA-H-8083-25, Pilot’s Handbook of Aeronautical Knowledge; FAA-H-8083-2, Risk Management Handbook; 
+and FAA-H-8083-28, Aviation Weather Handbook, as these documents contain basic material not duplicated herein. All 
+beginning applicants should refer to FAA-H-8083-25, Pilot’s Handbook of Aeronautical Knowledge, for study and basic 
+library reference.
+
+It is essential for persons using this handbook to become familiar with and apply the pertinent parts of 14 CFR and the 
+Aeronautical Information Manual (AIM). The AIM is available on the FAA website. The current Flight Standards Service 
+airman training and testing material and learning statements for all airman certificates and ratings can be obtained from 
+the FAA website.
+
+This handbook supersedes FAA-H-8083-13A, Glider Flying Handbook, dated 2013. 
+
+This handbook is available for download, in PDF format, from the FAA website.
+
+This handbook is published by the United States Department of Transportation, Federal Aviation Administration, General 
+Aviation & Commercial Division, Training & Certification Group (AFS-810), Testing Standards Section, P.O. Box 25082, 
+Oklahoma City, OK 73125.
+
+Comments regarding this publication should be emailed to AFS630comments@faa.gov.
+
+Preface
+
+
+iii
+
+The Glider Flying Handbook was produced by the Federal Aviation Administration (FAA). The FAA wishes to acknowledge 
+the following contributors:
+
+ 
+Sue Telford of Telford Fishing & Hunting Services for images used in Chapter 1.
+
+ 
+JerryZieba (www.dianasailplanes.com) for images used in Chapter 2.
+
+ 
+Tim Mara (www.wingsandwheels.com) for images used in Chapters 2 and 12. 
+
+ 
+Uli Kremer of Alexander Schleicher GmbH & Co for images used in Chapter 2.
+
+ 
+Richard Lancaster (www.carrotworks.com) for images and content used in Chapter 3.
+
+ 
+Dave Nadler of Nadler & Associates for images used in Chapter 6. 
+
+ 
+Dave McConeghey for images used in Chapter 6.
+
+ 
+John Brandon (www.raa.asn.au) for images and content used in Chapter 7.
+
+ 
+Patrick Panzera (www.contactmagazine.com) for images used in Chapter 8.
+
+ 
+Jeff Haby (www.theweatherprediction) for images used in Chapter 8.
+
+ 
+National Soaring Museum (www.soaringmuseum.org) for content used in Chapter 9.
+
+ 
+Bill Elliot (www.soaringcafe.com) for images used in Chapter 12. 
+
+ 
+Tiffany Fidler for images used in Chapter 12. 
+
+ 
+Phil Klauder, Philadelphia Glider Council, for assistance with graphics revisions and review input.
+
+Additional appreciation is extended to the Soaring Society of America, Inc. (www.ssa.com), the Soaring Safety Foundation, 
+and Mr. Brad Temeyer and Mr. Bill Martin from the National Oceanic and Atmospheric Administration (NOAA) for their 
+technical support and input.
+
+Acknowledgments
+
+
