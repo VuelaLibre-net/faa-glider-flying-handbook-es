@@ -21,11 +21,7 @@ image::05/fig-05-01.densidad-altitud-grafico.png[width=300]
 
 Muchos gráficos de rendimiento usan entradas de {term-pressure-altitude} y temperatura sin requerir que el piloto calcule la {term-density-altitude}. Sin embargo, si el piloto quiere saber la {term-density-altitude}, un gráfico de {term-density-altitude} o una computadora de vuelo pueden proporcionar esa información.
 
-=== Presión atmosférica
-
 La presión atmosférica en una ubicación dada cambia de día a día. El siguiente informe METAR de aeródromo meteorológico indica una presión local de A2953, o ajuste altimétrico de 29.53 inHg. Cuando se considera solo la presión barométrica, la lectura de presión más baja que lo normal resulta en una {term-density-altitude} más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de {term-takeoff} y ascenso y aumenta la longitud de pista necesaria durante el {term-landing} tanto para el {term-glider} como para el avión de remolque. Por otro lado, si la presión barométrica sube, la {term-density-altitude} más baja mejora el rendimiento de {term-takeoff} y ascenso, y la longitud de pista necesaria para el {term-landing} disminuye.
-
-=== Temperatura
 
 Los cambios de temperatura tienen un efecto significativo en la {term-density-altitude}. El aire calentado se expande, las moléculas se mueven más separadas, haciendo el aire menos denso. Una {term-density-altitude} más alta reduce el rendimiento de {term-takeoff} y ascenso del {term-glider} y avión de remolque y aumenta la longitud de pista requerida para el {term-landing}.
 
@@ -100,6 +96,10 @@ image::05/fig-05-09.above-shows-that-increasing-peso-from-800-to-1200.png[width=
 La <<fig-05-09>> muestra que aumentar el {term-weight} de 800 a 1,200 libras aumenta la velocidad de aire de mejor {term-ld-ratio} de 60 a 73 nudos. Un {term-glider} con más {term-weight} puede volar más rápido mientras mantiene la misma relación de {term-lift-force}/{term-drag} (relación de planeo). La ventaja del {term-weight} más pesado se hace aparente durante vuelo más rápido entre {term-thermal}s en aire descendente. En {term-lift-force} fuerte el {term-glider} pesado puede ascender razonablemente bien, y la ventaja durante la porción de crucero del vuelo puede superar la desventaja durante los ascensos.
 
 Para volar más rápido con eficiencia, algunos {term-glider}es tienen tanques de agua que permiten al piloto añadir {term-weight} como lastre. El piloto normalmente expulsa el {term-water-ballast} antes de entrar en el {term-pattern} o antes si las condiciones necesitan una tasa de ascenso más alta. Reducir el {term-weight} del {term-glider} antes del {term-landing} permite al piloto hacer una {term-approach} normal, {term-landing} normal, y reduce la carga en el tren de {term-landing}.
+
+== Tasa de ascenso
+
+La tasa de ascenso es una medida crucial del rendimiento del {term-glider}, especialmente durante el lanzamiento. Los factores que afectan la tasa de ascenso incluyen la {term-density-altitude}, el {term-weight} del {term-glider}, y la potencia disponible del método de lanzamiento. A mayor {term-density-altitude}, menor es la tasa de ascenso debido al aire más delgado. Un {term-glider} más pesado también tendrá una tasa de ascenso menor.
 
 == Manuales de vuelo y placas
 
@@ -199,6 +199,10 @@ En la mayoría de los {term-glider}es, el {term-tailplane} y el elevador proporc
 Los problemas asociados con un CG delante del límite publicado hacen difícil levantar la nariz en el {term-takeoff} y requieren presión considerable hacia atrás en los controles para regular la actitud de cabeceo. A velocidades del aire bajas la cola puede perderse o no proporcionar suficiente fuerza hacia abajo. Cualquier {term-stall} de cola resulta en un cambio repentino de cabeceo hacia abajo y potencial para una recuperación lenta. El piloto puede no tener suficiente autoridad del elevador para realizar la flare de {term-landing} debido a pesadez de nariz. La incapacidad de hacer flare podría resultar en un {term-landing} duro de nariz primero.
 
 Los problemas asociados con un CG detrás del límite posterior crean una condición de pesadez de cola. La pesadez de cola puede hacer el control de cabeceo del {term-glider} difícil o imposible.
+
+=== Problemas de muestra de peso y balance
+
+Los cálculos de peso y balance son esenciales para la seguridad del vuelo. Los pilotos deben verificar que el {term-glider} esté dentro de los límites de peso máximo y que el centro de gravedad esté dentro del rango permitido. El GFM/POH proporciona procedimientos específicos para realizar estos cálculos.
 
 == Lastre
 

@@ -81,19 +81,19 @@ image::13/fig-13-04.common-symptoms-of-hyperventilation.png[width=300]
 
 La hipoxia resulta de oxígeno reducido o no suficiente oxígeno. Aunque el tejido celular humano morirá si se le priva de oxígeno por tiempo suficiente, la preocupación principal para los pilotos es la falta de oxígeno al cerebro, que puede reducir la capacidad cognitiva y resultar en errores que amenazan la vida. La hipoxia tiene varios factores causales, incluyendo un suministro insuficiente de oxígeno, transporte inadecuado de oxígeno, o la incapacidad de los tejidos corporales para usar el oxígeno. Las formas de hipoxia se basan en sus causas:
 
-==== Hipoxia hipóxica
+=== Hipoxia hipóxica
 
 La hipoxia hipóxica resulta de oxígeno insuficiente disponible para el cuerpo en su conjunto. La reducción en la presión parcial de oxígeno a gran altitud puede hacer que un piloto experimente este tipo de hipoxia. A medida que una aeronave no presurizada asciende durante el vuelo, el porcentaje de oxígeno atmosférico permanece constante, pero un número reducido de moléculas de oxígeno entra en los pulmones y pasa entre las membranas dentro del sistema respiratorio.
 
-==== Hipoxia hémica
+=== Hipoxia hémica
 
 La hipoxia hémica ocurre cuando la sangre no puede absorber suficiente oxígeno. Las causas de esta forma de hipoxia incluyen volumen sanguíneo reducido por sangrado severo o ciertas enfermedades sanguíneas, como anemia. El envenenamiento por monóxido de carbono causa este tipo de hipoxia. La hemoglobina, la molécula sanguínea que transporta oxígeno, se vuelve químicamente incapaz de unir moléculas de oxígeno si se expone al monóxido de carbono. La hipoxia hémica también puede ocurrir después de una donación de sangre. Mientras que el volumen sanguíneo se normaliza rápidamente después de una donación, restaurar la hemoglobina perdida puede tomar varias semanas. Aunque los efectos de la {term-stall} de sangre parecen leves al nivel del suelo, la donación de sangre puede crear un riesgo de vuelo durante el período de recuperación.
 
-==== Hipoxia estancada
+=== Hipoxia estancada
 
 La hipoxia estancada o isquemia resulta cuando la sangre rica en oxígeno en los pulmones no se mueve a los tejidos que lo necesitan. Un brazo o pierna quedándose dormido debido a flujo sanguíneo restringido es una forma de hipoxia estancada. Este tipo de hipoxia también puede resultar de shock, el corazón fallando en bombear sangre efectivamente, o una arteria constreñida. Durante el vuelo, fuerzas G excesivas pueden causar hipoxia estancada. Las temperaturas frías también pueden reducir la circulación y disminuir el suministro de sangre a las extremidades.
 
-==== Hipoxia histotóxica
+=== Hipoxia histotóxica
 
 Cuando ocurre la hipoxia histotóxica, el cuerpo transporta suficiente oxígeno a las células, pero ellas no pueden hacer uso de él. Este deterioro de la respiración a nivel celular puede resultar del consumo de alcohol, exposición a ciertas drogas o narcóticos, o exposición a venenos.
 
@@ -111,7 +111,7 @@ La privación de oxígeno causa deterioro del cerebro y otros órganos vitales. 
 
 A medida que la hipoxia empeora, el campo de visión del piloto comienza a estrecharse, y la interpretación de instrumentos puede volverse difícil. Incluso con todos estos síntomas, los efectos de la hipoxia pueden dar a un piloto una falsa sensación de seguridad.
 
-==== Tratamiento de la Hipoxia
+=== Tratamiento de la Hipoxia
 
 El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que la altitud aumenta por encima de 10,000 pies, los síntomas de hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
 

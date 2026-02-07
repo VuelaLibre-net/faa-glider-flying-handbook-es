@@ -152,7 +152,7 @@ Las opciones posibles para manejar emergencias dependen de la altitud sobre el t
 
 Una actitud excesivamente baja de la nariz durante un giro pronunciado puede resultar en un aumento significativo de la velocidad y {term-stall} de altitud, lo que indica un {term-spiral}. Si el piloto intenta recuperarse de esta situación aplicando solo presión hacia atrás del elevador, el factor de carga límite puede excederse, causando falla estructural. Para recuperarse de un {term-spiral}, el piloto debe primero reducir el ángulo de alabeo con uso coordinado del timón y {term-aileron}, y luego suavemente aumentar el cabeceo a la actitud apropiada.
 
-==== Errores comunes
+=== Errores comunes
 
 Los errores comunes durante picados en espiral incluyen:
 
