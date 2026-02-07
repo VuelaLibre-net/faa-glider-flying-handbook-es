@@ -19,13 +19,13 @@ Ejemplos de errores del piloto de remolque incluyen comenzar el {term-takeoff} a
 
 Una situación peligrosa puede ocurrir durante el {term-takeoff} si el piloto del {term-glider} vuela alto sobre el avión de remolque y pierde de vista el avión de remolque. Si la tensión en la línea de remolque tira la cola del avión de remolque hacia arriba, el piloto de remolque puede quedarse sin autoridad de elevador hacia arriba. Además del momento de cabeceo hacia abajo que experimenta el avión de remolque, también está perdiendo velocidad del aire. El {term-glider} elevándose como cometa crea una gran cantidad de {term-drag} que frena el avión de remolque. Puede tomar 1,500 pies o más para que el avión de remolque se recupere una vez que la cuerda se rompe o el piloto del {term-glider} se libera.
 
-=== Despliegue involuntario de spoilers
+==== Despliegue involuntario de spoilers
 
 Las emergencias relacionadas con spoilers a menudo resultan del fallo del piloto para bloquear los spoilers en la posición cerrada antes del {term-takeoff}. A medida que el {term-glider} acelera por la pista, o poco después de que está en el aire, el flujo de aire despliega los spoilers, aumentando enormemente la {term-drag} del {term-glider}. El piloto puede no notar los spoilers abiertos, pero la {term-drag} aumentada puede hacer imposible que el piloto de remolque ascienda y despeje obstáculos. Una liberación por parte del piloto de remolque deja al {term-glider} bajo del suelo y en una configuración de alta {term-drag}. Si el piloto del {term-glider} no reconoce la situación y cierra los spoilers, un {term-landing} inseguro se vuelve probable. Si las condiciones permiten un ascenso continuo, el piloto de remolque puede mover el timón para indicar que algo está mal con el {term-glider}. El piloto del {term-glider} debe diferenciar entre el piloto de remolque balanceando las {term-wing}s indicando liberar inmediatamente, y el piloto de remolque moviendo el timón indicando que algo está mal con el {term-glider}, evitando una liberación innecesaria.
 
 Si el tiempo lo permite, el piloto de remolque puede usar la radio y advertir al piloto del {term-glider} para cerrar los spoilers. Sin usar radio, el piloto de remolque puede usar la señal de «Movimiento de Timón» para que el piloto del {term-glider} revise el {term-glider}. El piloto del {term-glider} no debe confundir esta señal con la señal de «Balanceo de Alas» para que el piloto del {term-glider} libere la línea de remolque. Este error dejaría al piloto del {term-glider} a baja altitud con los spoilers abiertos y haría un {term-landing} seguro muy difícil.
 
-=== Fallas mecánicas
+=== Fallos mecánicos
 
 Las fallas mecánicas del equipo incluyen fallas del gancho de remolque, fallas mecánicas o del airframe del avión de remolque, y fallas del airframe del {term-glider}. El piloto de remolque mece las {term-wing}s del avión de remolque para solicitar una liberación inmediata por parte del piloto del {term-glider}. <<fig-08-01, panel derecho>> El piloto del {term-glider} puede terminar deliberadamente el remolque o lanzamiento en cualquier momento que parezca más seguro que continuar. Por ejemplo, si el piloto del {term-glider} descubre atascamiento de controles una vez que la presión de aire se acumula en las superficies, liberar la línea de remolque parece menos riesgoso que continuar. Si ocurre una falla mecánica, el piloto del {term-glider} debe evaluar la situación y determinar el mejor curso de acción. Las opciones incluyen permanecer en el {term-aerotow}, planear liberarse en un punto futuro, o liberarse inmediatamente.
 
@@ -85,7 +85,7 @@ Cuando la emergencia ocurre a 800 pies o más sobre el suelo, el piloto del {ter
 
 Si ocurre una emergencia por encima de la altitud del {term-pattern}, el piloto del {term-glider} debe maniobrar lejos del avión de remolque, y liberar la línea de remolque si aún está unida. El piloto del {term-glider} debe girar hacia el aeródromo o aeropuerto mientras evalúa la situación y luego decidir si buscar ascenso o hacer un retorno inmediato al aeródromo o aeropuerto para aterrizar. Los pilotos deben recordar su obligación cuando sueltan objetos (como una línea de remolque) de una aeronave de acuerdo al Título 14 del Código de Regulaciones Federales parte 91, sección 91.15, y no crear un peligro para personas y propiedad en tierra.
 
-==== Línea floja
+=== Línea floja
 
 La línea floja es una reducción de la tensión en la línea de remolque. Si la holgura es lo suficientemente severa, podría enredar el {term-glider} o causar daño al {term-glider} o avión de remolque. Las siguientes situaciones pueden resultar en una línea floja:
 
@@ -140,15 +140,15 @@ image::08/fig-08-10.ground-lanzamiento-remolque-linea-break.png[width=300]
 
 Si falla el mecanismo de liberación del remolque del {term-glider}, el piloto debe volar a velocidades no menores que la velocidad de aire de mejor relación {term-lift-force}/{term-drag} (L/D). El piloto debe volar sobre y luego pasar el equipo de lanzamiento en tierra. Este método permite que se active la liberación hacia atrás del gancho de remolque del {term-glider} o que falle el eslabón débil de la línea de remolque. El equipo de lanzamiento en tierra también usa un mecanismo de liberación de emergencia en el evento de que falle la liberación del remolque del {term-glider}. Los tornos deben tener una guillotina para cortar la línea de remolque, si es necesario. Si se usa un vehículo motorizado para un lanzamiento en tierra, también debe tener alguna forma de mecanismo de liberación de respaldo.
 
-== Procedimientos de Emergencia en Despegue de Auto-Lanzamiento
+=== Procedimientos de Emergencia en Despegue Autolanzable
 
 Antes del {term-takeoff}, el piloto debe formular planes de emergencia para cualquier tipo de falla que pueda ocurrir. Un conocimiento completo de los datos de rendimiento de la aeronave, procedimientos normales de {term-takeoff} y {term-landing}, y procedimientos de emergencia como se describe en el GFM/POH ayudan a lograr el manejo exitoso de cualquier emergencia.
 
-El mal manejo de los sistemas de la aeronave a través de falta de conocimiento puede causar dificultad seria. Por ejemplo, si los spoilers o frenos de picado permanecen abiertos durante el {term-takeoff} y ascenso o se abren inadvertidamente, el {term-glider} de auto-lanzamiento puede no generar suficiente potencia excedente para continuar ascendiendo. Otras situaciones de emergencia pueden incluir incendio en vuelo, falla estructural, encuentros con turbulencia severa, {term-wind-shear} de viento, falla de cabina, y encuentro inadvertido con condiciones meteorológicas instrumentales (IMC).
+El mal manejo de los sistemas de la aeronave a través de falta de conocimiento puede causar dificultad seria. Por ejemplo, si los spoilers o frenos de picado permanecen abiertos durante el {term-takeoff} y ascenso o se abren inadvertidamente, el planeader de auto-lanzamiento puede no generar suficiente potencia excedente para continuar ascendiendo. Otras situaciones de emergencia pueden incluir incendio en vuelo, falla estructural, encuentros con turbulencia severa, {term-wind-shear} de viento, falla de cabina, y encuentro inadvertido con condiciones meteorológicas instrumentales (IMC).
 
 Las opciones posibles para manejar emergencias dependen de la altitud sobre el terreno, viento y condiciones meteorológicas. Como parte de la planificación previa al vuelo, los pilotos deben revisar los efectos de la {term-density-altitude} en el rendimiento del {term-glider}, la longitud de la pista de {term-takeoff}, áreas de {term-landing} cerca del aeródromo, y tráfico aéreo potencial que podría afectar las decisiones de {term-approach} y {term-landing} del piloto. Las opciones de emergencia pueden incluir aterrizar adelante en la pista restante, aterrizar fuera de campo, o regresar al aeródromo para aterrizar en una pista disponible. Los procedimientos de emergencia apropiados se pueden encontrar en el GFM/POH para el {term-glider} de auto-lanzamiento específico.
 
-=== Picados en Espiral
+== Espirales Picadas (Spiral Dives)
 
 Una actitud excesivamente baja de la nariz durante un giro pronunciado puede resultar en un aumento significativo de la velocidad y {term-stall} de altitud, lo que indica un {term-spiral}. Si el piloto intenta recuperarse de esta situación aplicando solo presión hacia atrás del elevador, el factor de carga límite puede excederse, causando falla estructural. Para recuperarse de un {term-spiral}, el piloto debe primero reducir el ángulo de alabeo con uso coordinado del timón y {term-aileron}, y luego suavemente aumentar el cabeceo a la actitud apropiada.
 
@@ -160,7 +160,7 @@ Los errores comunes durante picados en espiral incluyen:
 * Aplicación de control áspera, abrupta o descoordinada durante la recuperación.
 * Secuencia incorrecta de aplicaciones de control.
 
-=== Barrenas
+== Barrenas (Spins)
 
 Durante una {term-spin}, el {term-glider} sigue una trayectoria de corcho en espiral hacia abajo. Una entrada de {term-spin} puede ocurrir después de una {term-stall} agravada de uno o ambos {term-wing}s que resulta en rotación alrededor del eje vertical. A medida que el {term-glider} rota alrededor del eje vertical, el {term-wing} exterior desarrolla más {term-lift-force} y menos {term-drag} que el {term-wing} interior perdida, creando un movimiento de balanceo, guiñada y cabeceo. <<fig-08-11>> El piloto puede no darse cuenta de que se ha excedido el {term-aoa} crítico hasta que el {term-glider} guiñe hacia el {term-wing} bajante.
 
@@ -183,19 +183,19 @@ Antes de cualquier vuelo, y especialmente uno con {term-spin}s intencionales pla
 
 Antes de iniciar una {term-spin}, los pilotos deben revisar el área de vuelo arriba y debajo del {term-glider} para otro tráfico aéreo y no hacer {term-spin} si existe algún conflicto. Despejar el área puede ocurrir mientras se frena el {term-glider} para la entrada de {term-spin}. Todo entrenamiento de {term-spin} debe iniciar a una altitud lo suficientemente alta para una recuperación completada en o por encima de 1,500 pies AGL y dentro de la distancia de planeo de un área de {term-landing}. Los siguientes párrafos describen cuatro fases de una {term-spin}.
 
-==== Fase de Entrada
+=== Fase de Entrada
 
 En la fase de entrada, el piloto proporciona los elementos necesarios para la {term-spin}. El procedimiento de entrada de demostración de {term-spin} comienza muy parecido a una {term-stall}. Sin embargo, a medida que el {term-glider} se aproxima a una {term-stall}, el piloto suavemente aplica timón completo en la dirección seleccionada para la rotación de {term-spin} y elevador completo hacia atrás (arriba) hasta el límite de recorrido. El piloto debe mantener los alerones en la posición neutral durante el procedimiento de {term-spin} a menos que el GFM/POH especifique lo contrario.
 
-==== Fase incipiente
+=== Fase Incipiente
 
 La fase incipiente comienza cuando el {term-glider} entra en {term-stall} y comienza la rotación. A medida que se desarrolla una {term-incipient-spin}, la velocidad del aire indicada debe leer cerca o por debajo de la velocidad de {term-stall}. Esta fase puede durar hasta que la {term-spin} se desarrolle completamente, lo que puede tomar hasta dos vueltas para la mayoría de los {term-glider}es. Los instructores comúnmente usan una {term-incipient-spin} para introducción al entrenamiento de {term-spin} y comienzan la recuperación antes de la primera rotación de 360°. En esta fase, las fuerzas aerodinámicas y las fuerzas inerciales no han logrado un balance.
 
-==== Fase desarrollada
+=== Fase Desarrollada
 
 La fase desarrollada ocurre cuando la tasa de rotación angular del {term-glider}, la velocidad del aire y la velocidad vertical se estabilizan con el {term-glider} en una trayectoria de vuelo casi vertical. El equilibrio ocurre en esta fase ya que las fuerzas aerodinámicas y las fuerzas inerciales se balancean y la actitud, ángulos y movimientos auto-sostenidos alrededor del eje vertical se vuelven constantes o repetitivos.
 
-==== Fase de Recuperación
+=== Fase de Recuperación
 
 Esta fase puede durar desde un cuarto de vuelta hasta varias vueltas. Para lograr la recuperación de {term-spin}, los pilotos deben seguir los procedimientos recomendados por el fabricante. En ausencia de los procedimientos de recuperación de {term-spin} recomendados por el fabricante, los pilotos deben seguir los siguientes pasos para recuperación general de {term-spin}:
 
@@ -227,7 +227,7 @@ Los errores comunes al encontrar/practicar {term-spin}s incluyen:
 * Falla en recuperar antes del descenso por debajo de la altitud segura.
 * Falla en recuperar con un área de {term-landing} dentro de la distancia de planeo.
 
-=== Procedimientos de Aterrizaje Fuera de Campo
+== Procedimientos de Aterrizaje Fuera de Campo
 
 Los {term-landing}s fuera de campo pueden ocurrir en las cercanías del aeropuerto de lanzamiento debido a deterioro rápido del clima, un cambio significativo en la dirección del viento, cantidades inesperadas de aire descendente, desorientación, falta de conciencia situacional, fallas de remolque y otras emergencias. En estas situaciones, un {term-off-field-landing} precautorio puede presentar menos riesgo que una {term-approach} de regreso al aeropuerto. Si el piloto pierde de vista el aeropuerto o si el planeo de regreso al aeropuerto se queda corto por cualquier razón, el intento de regresar al aeropuerto puede resultar en daño al {term-glider} o lesión al piloto.
 
@@ -247,13 +247,13 @@ La negación representa la falla de planificación de {term-off-field-landing} m
 
 Al planificar un {term-off-field-landing}, volar con viento en cola ofrece más alcance y un área mayor para buscar que volar contra el viento. Después de la selección de una zona de {term-landing}, la conciencia del viento permite al piloto planificar la orientación y dirección de una {term-approach} de {term-landing} contra el viento para acortar el rodaje de {term-landing}. Los pilotos deben visualizar el viento fluyendo sobre y alrededor del área de {term-landing} prevista incluyendo cómo la turbulencia de baja altitud puede existir en el área a sotavento de colinas, edificios y otras obstrucciones.
 
-Los pilotos deben usar un enfoque metódico a un {term-off-field-landing} basado en un conjunto de altitudes de decisión. El piloto debe seleccionar un área de {term-landing} general no más baja de 2,000 pies sobre el nivel del terreno (AGL) y seleccionar el campo de {term-landing} previsto no más bajo de 1,500 pies AGL. A 1,000 pies AGL, el piloto debe comprometerse a volar la {term-approach} y {term-landing}.
+Los pilotos deben usar un enfoque metódico a un {term-off-field-landing} basado en un conjunto de altitudes de decisión. El piloto debe seleccionar un área de {term-landing} general no más bajo de 2,000 pies sobre el nivel del terreno (AGL) y seleccionar el campo de {term-landing} previsto no más bajo de 1,500 pies AGL. A 1,000 pies AGL, el piloto debe comprometerse a volar la {term-approach} y {term-landing}.
 
 Los pilotos deben considerar la seguridad en lugar de una recuperación fácil como la máxima prioridad al seleccionar un sitio de {term-landing}. Durante una {term-approach} de {term-off-field-landing}, el piloto probablemente no conocerá la elevación precisa del sitio de {term-landing}. Dado que esto hace al {term-altimeter} menos útil, el piloto debe volar la {term-approach} y evaluar el progreso reconociendo y manteniendo el ángulo que trae el {term-glider} al punto de apuntamiento previsto para el sitio de {term-landing}. Cuando se aterriza con viento en cola (debido a pendiente o entrada unidireccional al campo seleccionado debido a terreno u obstáculos), el piloto debe usar un ángulo de {term-approach} menos empinado.
 
 Una buena {term-approach} despeja cada obstáculo visible, incluyendo despejar cualquier poste y cable por un margen seguro. Desde el aire, los cables pueden no aparecer hasta justo en frente del piloto, mientras que las torres que sostienen los cables aparecen desde una distancia mayor. El piloto debe asumir que los cables corren entre postes telefónicos, estructuras de soporte y edificios. El piloto debe planear sobrevolar cualquier cable que pueda estar presente, incluso si no los ve realmente.
 
-El piloto debe seleccionar un campo de longitud adecuada y uno sin pendiente visible, cuando sea posible. Cualquier pendiente visible desde el aire se vuelve empinada cuando está cerca del suelo. El color puede ayudar en la evaluación de la pendiente. Los puntos altos a menudo aparecen más claros en color que los puntos bajos porque la humedad del suelo tiende a acumularse en los puntos bajos y oscurece el color del suelo. Si el {term-landing} ocurrirá en una pendiente, aterrizar cuesta arriba funciona mejor que cuesta abajo. Con una ligera pendiente cuesta abajo, el {term-glider} permanecerá en el aire más tiempo y experimentará un rodaje de {term-landing} más largo, lo que puede resultar en una colisión con objetos en el extremo lejano del campo seleccionado.
+El piloto debe seleccionar un campo de longitud adecuada y uno sin pendiente visible, cuando sea posible. Cualquier pendiente visible desde el aire se vuelve empinada cuando está cerca del suelo. El color puede ayudar en la evaluación de la pendiente. Los puntos altos a menudo aparecen más claros en color que los puntos bajos porque la humedad del suelo tiende a acumularse en los puntos bajos y oscurecer el color del suelo. Si el {term-landing} ocurrirá en una pendiente, aterrizar cuesta arriba funciona mejor que cuesta abajo. Con una ligera pendiente cuesta abajo, el {term-glider} permanecerá en el aire más tiempo y experimentará un rodaje de {term-landing} más largo, lo que puede resultar en una colisión con objetos en el extremo lejano del campo seleccionado.
 
 Un piloto familiarizado con los colores de la vegetación estacional local puede identificar cultivos y otra vegetación desde el aire. Los cultivos altos generalmente presentan más peligro que los cultivos bajos. Los pilotos también deben evitar discontinuidades como líneas o cambios de cultivo ya que estas discontinuidades a menudo indican la presencia de una cerca, zanja, tubo de riego, o algún otro obstáculo o maquinaria que podría dañar un {term-glider}.
 
@@ -277,7 +277,7 @@ El piloto también debe considerar cómo los obstáculos afectan la longitud del
 
 La {term-drag} aerodinámica funciona mejor que los frenos de rueda a velocidades de vuelo. Los pilotos que mantienen el {term-glider} en el aire durante el flare y tocan a la velocidad segura más baja aterrizarán dentro de una distancia más corta. Después del toque, usar el freno de rueda inmediatamente detendrá el {term-glider} y ayudará a prevenir colisión con cualquier obstáculo no visto.
 
-==== Después del Aterrizaje Fuera de Campo
+=== Después del Aterrizaje Fuera de Campo
 
 ==== Aterrizaje fuera de campo sin lesión
 
@@ -308,9 +308,9 @@ Los errores comunes al planificar/ejecutar {term-landing}s fuera de campo incluy
 * Falta de planeación para obstáculos que causan un ángulo de {term-approach} no apropiado.
 * Desaceleración inadecuada una vez que el {term-glider} ha hecho contacto con la superficie.
 
-== Fallas del Sistema y Equipos
+== Mal funcionamiento de Sistemas y Equipos
 
-=== Fallas de Superficies de Control
+=== Sistemas de Control de Vuelo Primarios
 
 Las fallas de {term-aileron}, timón, elevador o de superficies de control secundarias como flaps y {term-spoiler}s/frenos de picado pueden ocurrir por una variedad de razones. El instrumento de tensión de vuelo y/o el {term-altimeter}, por ejemplo, pueden proporcionar la primera indicación de una malfunción. Para el entrenamiento de falla de superficie de control, los instructores usan un control inhibido o restringido para representar una falla completa. Para determinar la mejor técnica para manejar la falla, los pilotos deben evaluar la severidad de la falla de superficie de control antes de cualquier otra acción.
 
@@ -342,27 +342,17 @@ Los resbalones laterales coordinados, sin el uso de timón, pueden lograr giros.
 
 Si el piloto descubre alerones y timón duros o congelados durante el {term-aerotow}, el piloto del {term-glider} debe liberarse del avión de remolque de manera segura y estabilizar el {term-glider} en el aire. Si el elevador se congela durante el {term-aerotow}, el piloto del {term-glider} debe liberarse de la línea de remolque lo antes posible mientras mantiene el control del {term-glider} usando trim, si está disponible. En cualquiera de estos casos, el piloto del {term-glider} debe encontrar una solución usando trim del elevador (si está disponible), balanceo de cabeceo, o yugo para ajustar el cabeceo del {term-glider}.
 
-=== Fallas del Sistema de Trim
+=== Sistemas de Control de Vuelo Secundarios
 
 Las fallas del sistema de trim en un {term-glider} incluyen el timón del sistema de trim viajando al límite del recorrido, un trim del elevador que se mueve a posiciones no deseadas, o un ajuste de trim suelto y difícil de ajustar. En un caso donde el trim del elevador se haya movido completamente al límite del recorrido, el piloto del {term-glider} debe usar el ajuste del yugo para mantener la actitud de cabeceo de vuelo con las manos libres. El ajuste de trim del yugo es similar a usar el ajuste de fricción de trim del control del elevador en una aeronave de {term-wing} fija. El ajuste de trim del yugo aparece como un perno de ajuste de fricción y sirve como un ajuste de fricción en el sistema de control. Ajustar el yugo tiene un efecto similar al del ajuste de trim del elevador, pero el piloto debe mover el yugo a la posición de cabeceo deseada y luego apretar el perno del ajuste de fricción. El piloto debe ejercer la fuerza necesaria para vencer la fricción en la posición deseada para mover el elevador. Para un nuevo ajuste de trim, el piloto debe aflojar el perno del yugo, mover el yugo a la nueva posición, y luego apretar el perno del ajuste de fricción nuevamente.
 
-=== Fallas del Sistema de Spoiler/Freno de Picado
+=== Mal funcionamiento de Instrumentos de Vuelo
 
-Los spoilers y frenos de picado pueden no extenderse completamente debido a cables sueltos, {term-stall} de tensión hidráulica, carga de hielo, o daño mecánico a los spoilers. El piloto del {term-glider} puede notar que el {term-glider} no desacelera tan rápido como de costumbre después del despliegue completo de los spoilers o frenos de picado. En este caso, el piloto debe aterrizar con el acortamiento máximo de rodaje de {term-landing} disponible y estar preparado para no poder salir de la pista en la distancia de rodaje de {term-landing} esperada.
-
-La falla del sistema de spoiler o freno de picado para retraerse requiere que el piloto del {term-glider} evalúe la velocidad necesaria para {term-landing}. Si los spoilers o frenos de picado permanecen desplegados durante el vuelo, el piloto puede necesitar planificar una {term-approach} empinada, usar alta velocidad de {term-approach}, o ambos para compensar la alta {term-drag} creada por los spoilers o frenos de picado.
-
-=== Fallas del Sistema de Liberación
-
-Si el gancho de remolque falla en liberar la línea de remolque (o cualquier línea de remolque adjunta), el piloto del {term-glider} debe considerar romper el eslabón débil de la línea de remolque o mantener la línea adjunta durante el {term-landing} de acuerdo con el procedimiento específico del {term-glider}. Los {term-glider}es equipados con un gancho de remolque tipo Tost tienen menos probabilidades de experimentar fallas de liberación del gancho de remolque que los {term-glider}es equipados con ganchos de remolque tipo Schweizer, pero un fallo del mecanismo de liberación puede ocurrir en cualquier momento. Los pilotos deben considerar mantener la línea de remolque adjunta si el gancho de remolque se atasca para evitar que la línea de remolque haga contacto con el empenaje y cause más problemas. Los pilotos deben asegurar el {term-wing} del {term-glider} y mantener la línea de remolque adjunta a menos que el GFM/POH indique lo contrario. En algunos {term-glider}es, el piloto debe mantener la línea de remolque adjunta porque el procedimiento de {term-approach} para un gancho de remolque atascado requiere que el piloto use la línea de remolque para el acortamiento de {term-landing} adicional y una parada positiva. Si el piloto del {term-glider} mantiene la línea de remolque adjunta, debe mantener la línea tensa durante el acortamiento del {term-landing}. Para aterrizar con la línea de remolque adjunta, el piloto debe hacer la {term-approach} {term-final} usando un ángulo de {term-approach} más empinado de lo normal para evitar el campo hasta el punto deseado de toque en la pista. Una vez que el {term-glider} toca y rueda en el suelo, el piloto del {term-glider} debe desplegar los spoilers o frenos de picado y mantener la línea de remolque tensa sobre el hombro o colgando hasta que el {term-glider} se detenga. Los frenos de rueda o frenos de picado proveen energía de frenado mientras que la tensión mantenida en la línea provee la desaceleración adicional necesaria para un {term-landing} con línea adjunta.
-
-=== Fallas de Instrumentos
-
-Un piloto debe continuar volando la aeronave, independientemente de qué instrumento o instrumentos fallen. El piloto debe usar todos los recursos de cabina disponibles y usar métodos alternativos para obtener la información necesaria. Los instrumentos primarios de vuelo no deben ocupar tanto espacio mental de un piloto que el piloto pierda de vista otras tareas, particularmente el vuelo de la aeronave. El piloto debe usar todos los instrumentos disponibles para confirmar la información de cualquier instrumento dudoso.
+Un piloto debe continuar volando la aeronave, independientemente de qué instrumento o instrumentos fallen. El piloto debe usar todos los recursos de cabina disponibles y usar métodos alternos para obtener la información necesaria. Los instrumentos primarios de vuelo no deben ocupar tanto espacio mental de un piloto que el piloto pierda de vista otras tareas, particularmente el vuelo de la aeronave. El piloto debe usar todos los instrumentos disponibles para confirmar la información de cualquier instrumento dudoso.
 
 ==== Falla del Altímetro
 
-Las fallas del {term-altimeter} pueden ocurrir si la abertura estática del sistema pitot/estática se bloquea con agua, suciedad, nieve, hielo o insectos. La altura indicada del {term-altimeter} puede permanecer en la lectura previa si el puerto estático se congela. Por ejemplo, si el piloto establece la altitud del {term-altimeter} a 0 en el campo de vuelo, sube a 2,000 pies AGL y el sistema pitot-estático se congela, la altura indicada del {term-altimeter} permanece en 2,000 pies a pesar de que el {term-glider} suba o baje a otra altitud. El piloto puede usar el GPS y las presiones atmosféricas de superficie para proporcionar información de altitud cuando ocurre una falla del {term-altimeter}.
+Las fallas del {term-altimeter} pueden ocurrir si la abertura estática del sistema pitot/estática se bloquea con agua, suciedad, nieve, hielo o insectos. La altura indicada del {term-altimeter} puede permanecer en la lectura previa si el puerto estático se congela. Por ejemplo, si el piloto establece la altitud del {term-altimeter} a 0 en el campo de vuelo, sube a 2,000 pies AGL y el sistema pitot-estático se congela, la altura indicada del {term-altimeter} permanece en 2,000 pies a pesar de que el {term-glider} sube o baje a otra altitud. El piloto puede usar el GPS y las presiones atmosféricas de superficie para proporcionar información de altitud cuando ocurre una falla del {term-altimeter}.
 
 ==== Falla del Indicador de Velocidad del Aire
 
@@ -376,11 +366,11 @@ Una falla del sistema vacío o de instrumentos de giro reduce significativamente
 
 Para algunos {term-glider}es, la batería proporciona potencia para el sistema de radio, transpondedor, y/o el sistema de liberación eléctrica del remolque. Una falla de la batería significa que el piloto pierde toda la potencia a estos sistemas. El piloto de un {term-glider} con una falla de la batería en vuelo debe usar señales de remolque si todavía está en remolque. El piloto del {term-glider} también debe usar señales de {term-landing} estándar de la FAA para indicar al personal de tierra el estado del {term-glider}. Para aterrizar con la batería muerta, el piloto del {term-glider} debe usar una velocidad del aire ligeramente más alta para mantener el control suficiente en caso de encontrar una ráfaga desconocida. Usar una velocidad del aire un poco más alta proporciona al piloto mayor autoridad del elevador y {term-aileron} a expensas de una distancia de rodaje de {term-landing} ligeramente más larga.
 
-=== Malfunciones de la Cabina
+=== Mal funcionamiento de la Cubierta (Canopy) del Planeador
 
 La ventana o cubierta de cabina puede astillarse o romperse en el aire. Si se rompe una ventana o cubierta en vuelo, el piloto debe reducir la velocidad del aire para prevenir daño estructural adicional. Con las ventanas de cabina rotas, el piloto debe usar anteojos de vuelo o anteojos de sol, si es posible, para evitar viento directo a los ojos. El piloto debe prestar atención particular a los controles de vuelo para asegurar que la palanca de control y timón no se muevan de manera no deseada o al alcance inesperado debido a carga de viento.
 
-=== Problemas de Lastre
+=== Mal funcionamiento del Lastre de Agua
 
 El {term-water-ballast} generalmente se encuentra en el {term-glider} solo durante condiciones meteorológicas cálidas, pero el piloto debe tener cuidado con los efectos del {term-weight} extra si el piloto aterriza antes de liberar todo el lastre. Además, el piloto debe recordar liberar todo el lastre antes de intentar remolque o lanzamientos en tierra.
 
@@ -388,11 +378,25 @@ El {term-water-ballast} no tiene efecto sobre la velocidad de {term-stall} de un
 
 El piloto también debe tener en cuenta el procedimiento de {term-approach} a falla del remolque para el {term-glider}. En caso de falla del remolque a baja altitud durante el remolque o lanzamiento en tierra, el piloto debe tener la opción de librarse del lastre antes del toque. El piloto debe planificar la {term-approach} para permitir tiempo para descartar el lastre. Los {term-glider}es modernos con {term-water-ballast} tienen controles de la cabina para liberar el lastre.
 
-=== Fallas del Tren de Aterrizaje
+=== Mal funcionamiento del Tren de Aterrizaje Retráctil
 
 Las fallas del tren de {term-landing} pueden ocurrir por muchas razones y en muchas formas. Después de una extensión normal, los pilotos deben verificar visualmente que las ruedas de {term-landing} están extendidas y trabadas por debajo de las {term-wing}s. Las fallas pueden ocurrir por engranaje roto, tornillos o cables; fallas de sensores; u operación incorrecta del piloto. Si un sistema de engranaje no opera correctamente, el piloto debe usar cualquier método alternativo disponible (si existe uno) para extender el engranaje. En caso de una falla de engranaje, el piloto debe aterrizar el {term-glider} de la manera menos riesgosa posible con las superficies de control funcionando normalmente y aterrizando usando cualquier engranaje disponible. Si el piloto necesita aterrizar con engranaje parcialmente extendido o engranaje retráctil que permanece parcialmente o completamente retráctil, el piloto debe seguir los procedimientos del fabricante para {term-landing}s con engranaje extendido parcialmente o con engranaje arriba.
 
-== Motoveletas
+== Mal funcionamiento de Sistemas de Vuelo Misceláneos
+
+=== Mal funcionamiento del Gancho de Remolque
+
+Si el gancho de remolque falla en liberar la línea de remolque (o cualquier línea de remolque adjunta), el piloto del {term-glider} debe considerar romper el eslabón débil de la línea de remolque o mantener la línea adjunta durante el {term-landing} de acuerdo con el procedimiento específico del {term-glider}. Los {term-glider}es equipados con un gancho de remolque tipo Tost tienen menos probabilidades de experimentar fallas de liberación del gancho de remolque que los {term-glider}es equipados con ganchos de remolque tipo Schweizer, pero un fallo del mecanismo de liberación puede ocurrir en cualquier momento. Los pilotos deben considerar mantener la línea de remolque adjunta si el gancho de remolque se atasca para evitar que la línea de remolque haga contacto con el empenaje y cause más problemas. Los pilotos deben asegurar el {term-wing} del {term-glider} y mantener la línea de remolque adjunta a menos que el GFM/POH indique lo contrario. En algunos {term-glider}es, el piloto debe mantener la línea de remolque adjunta porque el procedimiento de {term-approach} para un gancho de remolque atascado requiere que el piloto use la línea de remolque para el acortamiento de {term-landing} adicional y una parada positiva. Si el piloto del {term-glider} mantiene la línea de remolque adjunta, debe mantener la línea tensa durante el acortamiento del {term-landing}. Para aterrizar con la línea de remolque adjunta, el piloto debe hacer la {term-approach} {term-final} usando un ángulo de {term-approach} más empinado de lo normal para evitar el campo hasta el punto deseado de toque en la pista. Una vez que el {term-glider} toca y rueda en el suelo, el piloto del {term-glider} debe desplegar los spoilers o frenos de picado y mantener la línea de remolque tensa sobre el hombro o colgando hasta que el {term-glider} se detenga. Los frenos de rueda o frenos de picado proveen energía de frenado mientras que la tensión mantenida en la línea provee la desaceleración adicional necesaria.
+
+=== Mal funcionamiento del Sistema de Oxígeno
+
+El sistema de oxígeno a bordo puede experimentar fallas incluyendo reguladores que no suministran oxígeno, fugas en las líneas de suministro, o indicadores de flujo defectuosos. Si ocurre una falla del sistema de oxígeno a altitud, el piloto debe iniciar un descenso inmediato a una altitud más baja donde el oxígeno suplementario no sea necesario. El piloto debe seguir los procedimientos de emergencia del GFM/POH para fallas del sistema de oxígeno.
+
+=== Mal funcionamiento del Paracaídas de Frenado
+
+Algunos {term-glider}es de alto rendimiento están equipados con paracaídas de frenado para ayudar en la reducción de velocidad durante el {term-landing}. Si el paracaídas de frenado no se despliega correctamente o se atasca después del despliegue, el piloto debe usar spoilers/frenos de picado y frenos de rueda para compensar. Si el paracaídas se despliega inadvertidamente durante el vuelo, el piloto debe seguir los procedimientos del fabricante para recuperación, que típicamente involucran deshacerse del paracaídas si es posible o aterrizar con él desplegado.
+
+== Planeadores Autolanzables
 
 Las motoveletas tienen los mismos requisitos que los {term-glider}es para equipos de emergencia. El capítulo 7 proporciona detalles sobre los requisitos del título 14 del Código de Regulaciones Federales (14 CFR), parte 91, sección 91.207 (b), (c) y (d) para equipos de emergencia. Los incendios eléctricos representan las principales emergencias encontradas con los aviones propulsados. Los circuitos eléctricos de aeronave generalmente se protegen con disyuntores o fusibles. <<fig-08-13>>
 
@@ -400,23 +404,74 @@ Las motoveletas tienen los mismos requisitos que los {term-glider}es para equipo
 .Disyuntores de motovela
 image::08/fig-08-13.autolanzable-planeador-circuit-breakers.png[width=300]
 
-=== Falla del Motor
+=== Incapacidad para Rearrancar un Motor de Planeador Autolanzable/Sustentador en Vuelo
 
 Las emergencias de motor representan la amenaza más obvia durante el vuelo en motovela. El capítulo 10 proporciona información sobre decisiones de travesía cuando las altitudes de planeo no son suficientes. Las secciones siguientes de este capítulo brindan información sobre {term-landing}s fuera de campo.
 
 Un piloto debe cerrar el suministro de combustible y encender el sistema eléctrico después de una falla del motor para evitar daño al motor o sistema eléctrico e incendio. Para el reinicio, algunos planes de emergencia de motovela requieren que el piloto encienda la potencia y motor. En motoveletas equipadas con hélice y motor de arranque eléctrico, el piloto necesita energía eléctrica para encender el motor.
 
-==== Incendio eléctrico
+=== Mal funcionamiento de la Hélice del Planeador Autolanzable
+
+La hélice del planeader autolanzable puede experimentar fallas incluyendo puesta en bandera (feathering) inadvertida, vibración excesiva, o daño por impacto de objetos. Si la hélice no puede ser controlada correctamente, el piloto debe tratar la situación como una falla de motor y planificar un {term-landing} de emergencia apropiado. La vibración severa de la hélice puede indicar daño estructural y requiere reducción inmediata de la velocidad del aire.
+
+=== Mal funcionamiento del Sistema Eléctrico del Planeador Autolanzable
+
+Las fallas del sistema eléctrico pueden afectar el funcionamiento de la radio, transpondedor, indicadores de instrumentos, y sistemas de liberación del remolque. En caso de falla eléctrica total, el piloto debe usar señales de remolque estándar si está en remolque, y señales de {term-landing} estándar para comunicarse con el personal de tierra. El piloto debe planificar un {term-landing} en el campo más cercano apropiado.
+
+== Fuego en Vuelo
+
+=== Incendio eléctrico
 
 Para un incendio eléctrico, el piloto debe cerrar la válvula de combustible, apagar la batería, y apagar todos los equipos de panel. Esto incluye transponder, radio, instrumentos eléctricos y cualquier equipos de panel adicionales. El piloto debe luego abrir las ventanas de cabina y usar los extintores de fuego, si están disponibles, para extinguir el fuego. El piloto debe terminar el vuelo y aterrizar tan pronto como sea posible.
 
-== Equipo de Emergencia y Equipo de Supervivencia
+== Equipo de Emergencia y Supervivencia
 
 Los pilotos de {term-glider}es deben mantener equipo de supervivencia a bordo cuando vuelan en remolque o en travesía. El piloto debe tener el equipo necesario para lidiar con la exposición, incluso en climas cálidos. Las siguientes secciones describen equipo de emergencia y equipo de supervivencia básico para un piloto de {term-glider}. El contenido de esta lista representa equipo mínimo; cada piloto debe evaluar sus propias necesidades para el equipo en función de las consideraciones de vuelo individuales, tales como las limitaciones de la aeronave y la duración del vuelo, así como las condiciones de vuelo esperadas, incluyendo clima, terreno, y temperatura.
 
 Los pilotos de {term-glider}es deben usar ropa protectora apropiada para el vuelo para todas las estaciones. Sin embargo, el clima caluroso en la superficie puede cambiar dramáticamente cuando la temperatura disminuye con la altitud. En verano, el piloto podría encontrar temperaturas muy frías a 10,000 pies MSL. Si el piloto aterriza fuera de campo sin equipo de supervivencia, el piloto necesita estar preparado para esperar en cualquier lugar en un ambiente de clima frío hasta que llegue el personal de rescate.
 
 Un piloto debe preparar una lista de verificación para {term-landing}s fuera de campo y revisar esta lista antes de cada vuelo de remolque o lanzamiento. Esta lista de verificación debe incluir todas las consideraciones de seguridad para un vuelo exitoso, incluyendo el uso de arnés de hombro y cinturón de seguridad, un lugar seguro para los artículos sueltos, y equipo de emergencia apropiado. El piloto debe revisar el GFM/POH para el {term-glider} para obtener información específica sobre los procedimientos de emergencia del fabricante.
+
+=== Listas de Verificación de Equipo de Supervivencia
+
+La lista de verificación de equipo de supervivencia debe incluir los elementos esenciales para la supervivencia en caso de {term-off-field-landing}. Los elementos básicos incluyen:
+
+* Equipo de protección contra el clima (toldo, saco de dormir, calentadores)
+* Agua y alimentos no perecederos
+* Ropa adecuada para el clima esperado
+* Dispositivos de comunicación (teléfono celular, radio, ELT, dispositivo de localización personal)
+* Equipo de navegación (GPS, brújula, mapas)
+* Kit médico básico
+* Equipo de señales (espejo, bengalas, globos)
+* Herramientas multiusos
+
+=== Comida y Agua
+
+Los pilotos deben llevar suficiente agua para mantener la hidratación en caso de espera prolongada para rescate. La deshidratación puede ocurrir rápidamente incluso en climas moderados. Los alimentos no perecederos de alta energía proporcionan energía necesaria para mantener la temperatura corporal y la claridad mental.
+
+=== Ropa
+
+La ropa apropiada para las condiciones esperadas es esencial. Incluso en climas cálidos, las temperaturas pueden descender significativamente con la altitud o durante la noche. Capas de ropa permiten ajustarse a las condiciones cambiantes. Se recomienda ropa impermeable y protección solar.
+
+=== Comunicación
+
+Los pilotos deben llevar teléfonos celulares, si es posible. El piloto debe asegurarse de que el teléfono celular funcione y esté completamente cargado antes del vuelo. Los pilotos también pueden usar radios de mano para comunicación con la torre de control o Centro de Ruta de Vuelo de la FAA, o con otros pilotos de {term-glider}es o el avión de remolque. Algunos {term-glider}es tienen dispositivos de localización personal que usan la señal satelital de 406 MHz y tecnología GPS para rastrear y retransmitir la ubicación del piloto en el evento de un {term-off-field-landing} que requiera asistencia de emergencia. Los dispositivos de comunicación y rastreo por satélite permiten comunicación incluso fuera de cobertura celular.
+
+Un Transmisor de Localización de Emergencia (ELT) tiene un transmisor de radio que transmite en las frecuencias de emergencia internacionalmente designadas de 121.5 MHz y 243.0 MHz. Los satélites del Sistema de Búsqueda y Salvamento de Satélite (SARSAT) proporcionan cobertura casi mundial que permite la detección y localización de señales de ELT en tierra, en el aire o en el mar. Los ELTs de 406 MHz se operan mediante cambios de G o pueden ser activados manualmente por el piloto. Los ELTs antiguos de 121.5 MHz tienen un interruptor de tres posiciones con posiciones de ON, OFF y AUTO. En la posición AUTO, el ELT se activa automáticamente si siente fuerzas G mayores que lo normal.
+
+Si el ELT se activa inadvertidamente, el piloto debe apagarlo inmediatamente para evitar búsquedas y rescates innecesarios. Cuando el piloto apaga el ELT, el piloto debe contactar a la torre de control o Centro de Ruta de Vuelo más cercano de la FAA para notificarles del ELT inadvertido.
+
+=== Equipo de Navegación
+
+El equipo de navegación de respaldo incluye brújula, mapas apropiados del área de vuelo, y GPS de mano si está disponible. Estos elementos ayudan al piloto a determinar su ubicación exacta para reportarla a los equipos de rescate y para planificar una ruta a pie si es necesario evacuar la zona del {term-off-field-landing}.
+
+=== Equipo Médico
+
+Los pilotos de {term-glider}es deben considerar llevar un kit médico que incluye vendajes, vendajes triangulares, esparadrapo, y otros artículos médicos para atender heridas. El piloto debe asegurarse de tener suministros de primeros auxilios para el {term-glider}, y los pilotos deben revisar los contenidos del kit de primeros auxilios para asegurar que todos los suministros estén presentes, en buenas condiciones, y no vencidos. Los pilotos deben considerar llevar cualquier medicamento o suministro especial que necesiten para una condición médica existente.
+
+=== Estiba
+
+El equipo de supervivencia debe estar estibado de manera segura en la cabina pero ser fácilmente accesible en caso de emergencia. Los artículos deben estar protegidos contra daño por impacto y organizados de manera que el piloto pueda localizar rápidamente lo necesario. Se debe evitar que objetos sueltos se conviertan en proyectiles durante turbulencia o impacto.
 
 === Paracaídas
 
@@ -432,30 +487,12 @@ Los extintores de fuego en la cabina permiten que el piloto actúe inmediatament
 
 El piloto debe recordar usar el extintor durante 10 segundos o menos ya que los extintores pequeños agotan su capacidad de extinción después de ese período de tiempo. El piloto debe apuntar el extintor en la base del fuego y no en las llamas mismas. El piloto debe apagar el sistema eléctrico antes de usar el extintor en un incendio eléctrico. El piloto debe usar el extintor mientras sostiene la respiración para no inhalar humo, gases, o productos químicos de extinción.
 
-=== Transmisor de Localización de Emergencia (ELT)
-
-Un Transmisor de Localización de Emergencia (ELT) tiene un transmisor de radio que transmite en las frecuencias de emergencia internacionalmente designadas de 121.5 MHz y 243.0 MHz. Los satélites del Sistema de Búsqueda y Salvamento de Satélite (SARSAT) proporcionan cobertura casi mundial que permite la detección y localización de señales de ELT en tierra, en el aire o en el mar. Los ELTs de 406 MHz se operan mediante cambios de G o pueden ser activados manualmente por el piloto. Los ELTs antiguos de 121.5 MHz tienen un interruptor de tres posiciones con posiciones de ON, OFF y AUTO. En la posición AUTO, el ELT se activa automáticamente si siente fuerzas G mayores que lo normal.
-
-Si el ELT se activa inadvertidamente, el piloto debe apagarlo inmediatamente para evitar búsquedas y rescates innecesarios. Cuando el piloto apaga el ELT, el piloto debe contactar a la torre de control o Centro de Ruta de Vuelo más cercano de la FAA para notificarles del ELT inadvertido.
-
-=== Dispositivos de Comunicación
-
-Los pilotos deben llevar teléfonos celulares, si es posible. El piloto debe asegurarse de que el teléfono celular funcione y esté completamente cargado antes del vuelo. Los pilotos también pueden usar radios de mano para comunicación con la torre de control o Centro de Ruta de Vuelo de la FAA, o con otros pilotos de {term-glider}es o el avión de remolque. Algunos {term-glider}es tienen dispositivos de localización personal que usan la señal satelital de 406 MHz y tecnología GPS para rastrear y retransmitir la ubicación del piloto en el evento de un {term-off-field-landing} que requiera asistencia de emergencia. Los dispositivos de comunicación y rastreo por satélite permiten comunicación incluso fuera de cobertura celular.
-
-=== Kit médico
-
-Los pilotos de {term-glider}es deben considerar llevar un kit médico que incluye vendajes, vendajes triangulares, esparadrapo, y otros artículos médicos para atender heridas. El piloto debe asegurarse de tener suministros de primeros auxilios para el {term-glider}, y los pilotos deben revisar los contenidos del kit de primeros auxilios para asegurar que todos los suministros estén presentes, en buenas condiciones, y no vencidos. Los pilotos deben considerar llevar cualquier medicamento o suministro especial que necesiten para una condición médica existente.
-
-=== Equipo de Supervivencia
-
-El clima cálido y seco en la superficie a menudo oculta lo que sucede si un piloto aterriza fuera de campo y queda varado en clima frío por horas o días. El piloto debe considerar llevar equipo para protección del clima, alimentos y agua, un cuchillo multiusos y equipo para señales. Equipo de señales incluye espejos, dispositivos de señales eléctricos, bengalas y pirotecnia, globos de señales, y otras formas de equipo de señales.
-
 == Resumen del Capítulo
 
 Los procedimientos anormales y de emergencia son aquellos escenarios y procedimientos para los cuales el piloto de {term-glider} debe entrenarse. Los pilotos de remolque y de {term-glider} deben evitar situaciones que pongan al otro piloto en riesgo. Los errores de piloto y las fallas mecánicas ocasionan anomalías y situaciones de emergencia. Los pilotos deben entender procedimientos de emergencia para {term-aerotow}, lanzamientos en tierra, vuelo con motor y operaciones de auto-lanzamiento.
 
 Los pilotos de {term-glider}es deben entender las técnicas de recuperación de picados en espiral y {term-spin}s. Además, los pilotos de {term-glider}es deben estar preparados para {term-landing}s fuera de campo porque pueden ocurrir en cualquier momento durante un vuelo. Un {term-off-field-landing} exitoso requiere que el piloto identifique temprano la necesidad de aterrizar, planifique y ejecute un {term-landing} apropiado, y luego pueda contactar a otros para ayuda si es necesario.
 
-Los pilotos de {term-glider}es deben entender procedimientos de emergencia para fallas de superficies de control, sistemas de trim, sistemas de spoiler/freno de picado, sistemas de liberación, instrumentos, y cabina. Los pilotos también deben estar preparados para manejar cualquier problema de lastre y fallas del tren de {term-landing}. Los incendios eléctricos presentan una amenaza especial para las motoveletas.
+Los pilotos de {term-glider}es deben entender procedimientos de emergencia para fallas de superficies de control, sistemas de trim, instrumentos, cabina, lastre y tren de {term-landing}. Los incendios eléctricos presentan una amenaza especial para las motoveletas.
 
 Los pilotos de {term-glider}es también deben tener equipo de supervivencia a bordo y estar preparados para las condiciones climáticas que se encuentren.

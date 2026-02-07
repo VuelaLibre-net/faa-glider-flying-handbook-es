@@ -1,5 +1,5 @@
 [[cap12]]
-= Remolque aéreo
+= Remolque Aéreo
 
 == Introducción
 
@@ -24,7 +24,9 @@ El equipo del avión de remolque en los Estados Unidos típicamente usa uno de d
 .Gancho de remolque Schweizer (izquierda) y gancho de remolque Tost (derecha)
 image::12/fig-12-02.schweizer-remolque-gancho-left-and-a-tost.png[width=300]
 
-=== Gancho de Remolque Schweizer
+=== Gancho de Remolque
+
+==== Gancho de Remolque Schweizer
 
 Antes del uso, el piloto de remolque debe inspeccionar visualmente el gancho de remolque y el brazo de liberación por daños, grietas, deformación y libertad de movimiento en el perno de pivote. La inspección debe asegurar que el gancho enganche adecuadamente el brazo de liberación. El piloto también debe inspeccionar el espaciador de goma para condición general y verificar la condición del cable de liberación. Dentro del avión, el piloto debe verificar que la palanca de liberación manual no roce contra el asiento de la aeronave ni ninguna otra obstrucción y verificar la seguridad del ensamblaje de la manija de liberación y la conexión del cable. El piloto también debe realizar una inspección funcional. Si la inspección visual o funcional revela un problema, el piloto debe restringir el avión de remolque de sus deberes de remolque y reparar el ensamblaje de remolque.
 
@@ -35,7 +37,7 @@ Las siguientes verificaciones funcionales deben realizarse:
 * Volver a adjuntar la línea de remolque y aplicar un tirón moderado hacia atrás.
 * Inspeccionar el ensamblaje de liberación para asegurar que permanezca completamente cerrado.
 
-=== Gancho de Remolque Tost
+==== Gancho de Remolque Tost
 
 Antes de usar, el piloto de remolque debe asegurar que el gancho de liberación se abra completamente cuando un ayudante tire de la liberación hasta su máxima extensión desde dentro del avión. Los ganchos de liberación deben tocar el anillo del gancho de remolque. Dentro del avión, el piloto debe verificar que la palanca de liberación manual no roce contra el asiento de la aeronave ni ninguna otra obstrucción. El piloto debe verificar la seguridad del ensamblaje de la manija de liberación y la conexión del cable. Cuando no se tira de la palanca de liberación manual, el gancho de remolque debe regresar a la posición completamente cerrada. El piloto debe verificar el gancho por suciedad o corrosión y confirmar que el extremo del avión de la cuerda de remolque tenga un anillo Tost. Si el mecanismo de liberación no funciona correctamente, debe ocurrir reparación de fábrica antes de cualquier remolque.
 
@@ -56,13 +58,13 @@ image::12/fig-12-03.schweizer-remolque-anillo-and-a-tost-remolque.png[width=300]
 
 El piloto de remolque solo debe adjuntar un anillo de línea de remolque compatible al enganche de remolque. Mientras que un anillo de remolque Schweizer no cabrá en un enganche de remolque Tost, el piloto de remolque podría adjuntar erróneamente un anillo de remolque Tost a un enganche de remolque Schweizer. Si eso sucede, el anillo Tost podría no liberarse cuando el piloto de remolque acciona el mecanismo de liberación.
 
-== Inspección de la Cuerda de Remolque
+=== Inspección de la Cuerda de Remolque
 
 Aunque el piloto del {term-glider} tiene la responsabilidad primaria de la selección e inspección de la línea de remolque adecuada, el piloto de remolque debe confirmar que la línea de remolque y cualquier eslabón débil requerido cumplan con los requisitos de fuerza de las Regulaciones de la Administración Federal de Aviación (FAA) y sean aceptables para uso. Vea el capítulo 6, Operaciones de Pre-vuelo y en Tierra, respecto a la selección e inspección de la línea de remolque. Los pilotos deben considerar reemplazar la cuerda de remolque después de un período específico de uso y exposición al sol o a los elementos.
 
 La {term-density-altitude} afecta el rendimiento del avión. Un aumento en la temperatura del aire o humedad, o disminución en la presión atmosférica disminuye significativamente la potencia de salida y la eficiencia de la hélice.
 
-== Informe de Aborto
+=== Informe de Aborto
 
 Usando los datos de {term-takeoff} computados o el punto de {term-takeoff} real para las condiciones dadas, el piloto de remolque debe elegir un punto de aborto físico en la pista <<fig-12-04>> e informar al piloto del {term-glider} sobre el punto de aborto y los procedimientos de aborto. Si el avión de remolque no está en el aire para el punto de aborto elegido, el {term-glider} debe liberarse, o ser liberado, permitiendo que el avión de remolque realice un {term-takeoff} normal.
 
@@ -72,7 +74,7 @@ image::12/fig-12-04.a-physical-abort-point-on-the-pista-should-be.png[width=300]
 
 14 CFR parte 91, sección 91.309 (a)(5) establece, «El piloto de la aeronave de remolque y el {term-glider} han acordado un curso general de acción, incluyendo señales de {term-takeoff} y liberación, velocidades de aire, y procedimientos de emergencia para cada piloto.» Si existe alguna duda sobre el cumplimiento de esta regla a través de informes o procedimientos operativos estándar publicados y acordados, el piloto de remolque y el piloto del {term-glider} deben asegurarse de aclarar todos los aspectos del remolque inminente.
 
-== En el Aeropuerto
+=== En el Aeropuerto
 
 El piloto de remolque debe mantener una conciencia de la dirección de la ráfaga de hélice del avión de remolque. Soplar al personal de lanzamiento y dosel de {term-glider}es con viento y escombros crea una molestia y peligro. Siempre que sea posible, el piloto de remolque debe orientar la ráfaga de hélice lejos de cualquier operación en tierra. Antes de tomar la pista activa para la conexión de la línea de remolque y {term-takeoff}, si aplica, el piloto de remolque puede monitorear y anunciar intenciones en la Frecuencia Común de Asesoría de Tráfico (CTAF).
 
@@ -117,7 +119,7 @@ Un piloto de {term-glider} considerado comunica la intención de realizar cualqu
 
 Durante el remolque, un instructor de {term-glider}es puede demostrar y enseñar procedimientos de recuperación de línea floja. Esta maniobra normalmente involucra un ascenso a un lado del avión de remolque seguido de un pequeño picado para crear holgura en la línea de remolque. El instructor luego pedirá al estudiante que tome los controles y quite la holgura de la línea de remolque sin romper la cuerda. El piloto de remolque no debe confundir esta maniobra con una liberación. El Capítulo 8 de este manual, Procedimientos Anormales y de Emergencia, contiene más información respecto a procedimientos de línea floja.
 
-== Posiciones de Remolque, Giros y Liberación
+== Posiciones de Remolque, Virajes y Liberación
 
 === Posiciones de Remolque de Planeadores
 
@@ -127,7 +129,7 @@ Las operaciones de remolque de {term-glider}es normalmente usan la posición de 
 .Ascenso de {term-aerotow}
 image::12/fig-12-07.remolque-aereo-climb-out.png[width=300]
 
-=== Giros en Remolque
+=== Virajes en Remolque
 
 El piloto de remolque puede iniciar giros al alcanzar una altitud segura. El piloto debe considerar separación, terreno y {term-wind-gradient}. La turbulencia y la velocidad diferencial de {term-wing}s del {term-glider} durante giros son peligros potenciales. Los pilotos de remolque deben hacer todos los giros suave y gradualmente. El piloto de remolque espera que el piloto del {term-glider} intente igualar la trayectoria de vuelo del avión de remolque. Debido a la longitud de la envergadura, el {term-glider} típicamente rueda más lentamente que el avión de remolque. Dado que los ángulos de alabeo del avión de remolque y el {term-glider} deben coincidir para volar la misma trayectoria, el piloto de remolque normalmente usa un máximo de 15–20° de alabeo.
 
@@ -151,6 +153,8 @@ Si el piloto del {term-glider} se libera con holgura en la línea de remolque, e
 
 == Descenso, Aproximación y Aterrizaje
 
+=== Descenso
+
 Durante el descenso, un piloto de remolque debe ejercitar el manejo adecuado del motor. Las buenas prácticas de conservación del motor incluyen tanto una reducción gradual de potencia como velocidades de descenso conservadoras. Los estudios indican que la velocidad alta del aire puede afectar el motor más que la reducción de potencia. El piloto puede usar una espiral pronunciada, flaps completos o giros resbalados para obtener una tasa de descenso adecuada mientras reduce la potencia en incrementos y sin un gran aumento en la velocidad del aire. Cerrar los flaps de la cubierta del motor, si están equipados, frena aún más la tasa de enfriamiento del motor. Cada modelo de avión requiere técnicas ligeramente diferentes para mantener el motor de enfriarse demasiado rápido mientras desciende.
 
 El descenso y las actitudes de vuelo descendente aumentan el potencial de una colisión aérea. El piloto de remolque debe considerar desarrollar y usar corredores de descenso específicos que eviten otro tráfico de {term-glider}es y propulsados.
@@ -169,7 +173,7 @@ La regulación no prohibe aterrizar con la línea de remolque adjunta; sin embar
 
 Si se libera la línea de remolque antes del {term-landing}, el piloto normalmente deja caer la línea de remolque cerca del área de lanzamiento de {term-glider}es durante una {term-approach} corta a la pista. El área de caída de la línea de remolque debe tener dimensiones definidas. El personal de tierra debe recibir un informe del área de caída antes de que tenga lugar la operación y mantenerse alejado del área de caída durante las operaciones de remolque. Si se ve a un individuo en el área de caída, el piloto de remolque debe hacer una pasada sin dejar caer la línea de remolque.
 
-== Remolque aéreo de travesía
+== Remolque Aéreo de Travesía
 
 Un {term-aerotow} de travesía seguro y exitoso requiere planificación. El piloto de remolque debe planificar para el máximo consumo de combustible para el avión de remolque usado. El piloto debe estudiar la ruta de vuelo en cartas seccionales, planear para cualquier desviación potencial y cumplir con cualquier requisito de espacio aéreo.
 

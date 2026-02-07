@@ -9,7 +9,7 @@ El rendimiento del {term-glider} depende del diseño, el clima, el viento y otro
 
 Para un vuelo específico de {term-glider}, algunos factores que afectan el rendimiento incluyen {term-density-altitude}, viento y {term-weight}.
 
-== Altitud de densidad
+=== Altitud de densidad
 
 En general, un aumento en la {term-density-altitude} se refiere a aire más delgado, mientras que una disminución en la {term-density-altitude} se refiere a aire más espeso. Las condiciones que resultan en alta {term-density-altitude} incluyen elevación alta, baja presión atmosférica, alta temperatura, alta humedad, o alguna combinación de estos factores. La elevación más baja, alta presión atmosférica, baja temperatura y baja humedad reducen la {term-density-altitude}. Dado que las altas altitudes de densidad pueden existir a elevaciones más bajas en días calurosos, los pilotos deberían considerar la {term-density-altitude} basada en condiciones actuales antes de un vuelo.
 
@@ -21,11 +21,11 @@ image::05/fig-05-01.densidad-altitud-grafico.png[width=300]
 
 Muchos gráficos de rendimiento usan entradas de {term-pressure-altitude} y temperatura sin requerir que el piloto calcule la {term-density-altitude}. Sin embargo, si el piloto quiere saber la {term-density-altitude}, un gráfico de {term-density-altitude} o una computadora de vuelo pueden proporcionar esa información.
 
-== Presión atmosférica
+=== Presión atmosférica
 
 La presión atmosférica en una ubicación dada cambia de día a día. El siguiente informe METAR de aeródromo meteorológico indica una presión local de A2953, o ajuste altimétrico de 29.53 inHg. Cuando se considera solo la presión barométrica, la lectura de presión más baja que lo normal resulta en una {term-density-altitude} más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de {term-takeoff} y ascenso y aumenta la longitud de pista necesaria durante el {term-landing} tanto para el {term-glider} como para el avión de remolque. Por otro lado, si la presión barométrica sube, la {term-density-altitude} más baja mejora el rendimiento de {term-takeoff} y ascenso, y la longitud de pista necesaria para el {term-landing} disminuye.
 
-== Temperatura
+=== Temperatura
 
 Los cambios de temperatura tienen un efecto significativo en la {term-density-altitude}. El aire calentado se expande, las moléculas se mueven más separadas, haciendo el aire menos denso. Una {term-density-altitude} más alta reduce el rendimiento de {term-takeoff} y ascenso del {term-glider} y avión de remolque y aumenta la longitud de pista requerida para el {term-landing}.
 
@@ -33,7 +33,7 @@ Considere el siguiente METAR para dos aeropuertos con el mismo ajuste altimétri
 
 La {term-density-altitude} calculada para Love Field es 1,774 pies; para Denver, 7,837 pies, Denver experimenta casi el doble de la cantidad de aumento comparado con Love Field. Los efectos de la altitud y temperatura pueden sorprender a un piloto que no considera los problemas de rendimiento relacionados.
 
-== Viento
+=== Viento
 
 El viento también afecta el rendimiento del {term-glider}. El viento en proa durante el lanzamiento o {term-landing} resulta en una carrera en tierra más corta, mientras que el viento en cola causa una carrera en tierra más larga. <<fig-05-02>> Los vientos cruzados durante el lanzamiento o {term-landing} requieren procedimientos adecuados de {term-crosswind} o entrada de control para seguir a lo largo de la pista.
 
@@ -75,7 +75,7 @@ Un fuerte gradiente de cortante de viento puede afectar un {term-glider} durante
 .Efecto del gradiente de velocidad del viento en un {term-glider}
 image::05/fig-05-06.effect-of-viento-velocity-gradiente-on-a.png[width=300]
 
-== Peso
+=== Peso
 
 El {term-weight} de un {term-glider} afecta la aceleración durante el lanzamiento. Un {term-glider} al {term-weight} máximo de {term-takeoff} toma más tiempo para alcanzar la velocidad de vuelo. Después del {term-takeoff}, un avión de remolque con un {term-glider} pesado ascenderá más lentamente. Aumentar el {term-weight} de un {term-glider} motorizado causa que acelere más lentamente y ascienda más lentamente. <<fig-05-07>>
 
@@ -200,11 +200,13 @@ Los problemas asociados con un CG delante del límite publicado hacen difícil l
 
 Los problemas asociados con un CG detrás del límite posterior crean una condición de pesadez de cola. La pesadez de cola puede hacer el control de cabeceo del {term-glider} difícil o imposible.
 
-=== Lastre de ajuste
+== Lastre
+
+=== Lastre de ajuste (Trim Ballast)
 
 Los {term-weight}s de lastre de ajuste removibles, a menudo hechos de metal, se adjuntan a un receptáculo de lastre incorporado en la estructura del {term-glider}. Estos {term-weight}s compensan un piloto de asiento delantero que pesa menos que lo necesario para mantener el CG dentro de límites de operación aceptables.
 
-=== Lastre de rendimiento
+=== Lastre de rendimiento (Agua)
 
 Añadir {term-weight} mejora el rendimiento de alta velocidad en {term-glider}es. Aumentar el {term-weight} de operación del {term-glider} aumenta la velocidad óptima para volar durante vuelo de crucero con {term-wing}s {term-round-out}s. La mayor velocidad sobre el suelo resultante proporciona una ventaja en vuelo a vela de travesía y en carreras de {term-glider}es.
 

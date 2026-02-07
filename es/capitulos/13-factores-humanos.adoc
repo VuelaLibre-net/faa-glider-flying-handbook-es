@@ -9,7 +9,7 @@ El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-01
 .Disciplinas de factores humanos
 image::13/fig-13-01.human-factor-disciplines.png[width=300]
 
-== Reconociendo actitudes peligrosas
+== Reconocimiento de Actitudes Peligrosas
 
 Las actitudes peligrosas llevan a comportamientos peligrosos que incluyen complacencia, indisciplina y sobreconfianza, que todos aumentan el riesgo de un accidente de {term-glider}.
 
@@ -33,7 +33,7 @@ A veces los pilotos sienten que su experiencia les ha enseñado una manera más 
 
 Los pilotos interesados en más información sobre un enfoque disciplinado a la seguridad aeronáutica pueden referirse al Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2), que describe técnicas estructuradas que los pilotos pueden usar que incluyen cómo establecer o revisar mínimos personales y cómo conducir un análisis de seguridad disciplinado y exhaustivo antes del vuelo.
 
-=== Sobreconfianza
+=== Exceso de Confianza
 
 Un nivel realista de confianza permite a un piloto sentirse bien sobre una operación de vuelo particular. Esa confianza viene de la experiencia, entrenamiento, competencia, preparación adecuada para un vuelo y disciplina continua.
 
@@ -47,13 +47,9 @@ Todos los pilotos cometen errores, y muchos pilotos pueden tener lagunas en el c
 
 Un tipo de error involuntario involucra la falla en realizar una acción prevista dentro de tolerancias aceptables. Por otro lado, una opinión incorrecta, mal juicio, razonamiento deficiente, actitud descuidada o conocimiento insuficiente puede causar un error más serio. Por ejemplo, un piloto con buenas habilidades de palanca y timón pero nuevo en el planeo de cresta podría volar hacia fuerte descenso en el lado de sotavento de una cresta y escapar por poco de golpear el terreno. La falta de conocimiento y el mal juicio del piloto podrían llevar a este tipo de error.
 
-=== Intencional
-
 Si un piloto sabiamente hace algo mal, ese piloto se desvió intencionalmente de prácticas, procedimientos, estándares o reglamentos seguros. En aviación, un error intencional sugiere una falta grave y subyacente de preocupación por la seguridad. El piloto debe reflexionar sobre la razón del error, buscar consejo o asesoramiento, y no volar a menos que sea capaz de prevenir ese comportamiento.
 
-== Factores fisiológicos/médicos que afectan el rendimiento del piloto
-
-=== Fatiga
+== Fatiga
 
 La fatiga involucra una reducción o deterioro en cualquiera de los siguientes: capacidad cognitiva, toma de decisiones, tiempo de reacción, coordinación, velocidad, fuerza y equilibrio. La fatiga reduce el estado de alerta y a menudo reduce la capacidad de una persona para enfocarse y mantener la atención en una tarea. <<fig-13-02>> La fatiga emocional existe y puede afectar el rendimiento mental y físico. La falta de sueño, el estrés y el exceso de trabajo pueden causar o agravar la fatiga.
 
@@ -69,7 +65,7 @@ image::13/fig-13-03.many-human-performance-factors-rise-and-fall-daily.png[width
 
 El mejor remedio para la fatiga involucra dormir lo suficiente de manera regular. Los pilotos deben rastrear sus horas y calidad de sueño para la conciencia de fatiga. Las contramedidas a la fatiga como la cafeína pueden funcionar por una duración corta, pero muchas contramedidas pueden empeorar la fatiga a largo plazo. Los pilotos deben ejercer precaución si usan medicación para combatir la fatiga ya que una persona fatigada puede tener problemas para obtener el descanso necesario después de usar medicación. Un piloto experimentando problemas de fatiga continuos o fatiga crónica debe dejar de volar un {term-glider}, consultar a un médico y resolver el problema antes de volar de nuevo.
 
-=== Hiperventilación
+== Hiperventilación
 
 La hiperventilación resulta cuando una persona respira a una tasa aumentada o respira más profundamente, lo que reduce el nivel de dióxido de carbono en la sangre. La reducción de dióxido de carbono en la sangre puede elevar el pH sanguíneo y llevar a efectos de salud indeseables.
 
@@ -81,7 +77,7 @@ La hiperventilación puede ocurrir como resultado de estrés emocional, miedo o 
 .Síntomas comunes de hiperventilación
 image::13/fig-13-04.common-symptoms-of-hyperventilation.png[width=300]
 
-=== Hipoxia
+== Hipoxia
 
 La hipoxia resulta de oxígeno reducido o no suficiente oxígeno. Aunque el tejido celular humano morirá si se le priva de oxígeno por tiempo suficiente, la preocupación principal para los pilotos es la falta de oxígeno al cerebro, que puede reducir la capacidad cognitiva y resultar en errores que amenazan la vida. La hipoxia tiene varios factores causales, incluyendo un suministro insuficiente de oxígeno, transporte inadecuado de oxígeno, o la incapacidad de los tejidos corporales para usar el oxígeno. Las formas de hipoxia se basan en sus causas:
 
@@ -101,7 +97,7 @@ La hipoxia estancada o isquemia resulta cuando la sangre rica en oxígeno en los
 
 Cuando ocurre la hipoxia histotóxica, el cuerpo transporta suficiente oxígeno a las células, pero ellas no pueden hacer uso de él. Este deterioro de la respiración a nivel celular puede resultar del consumo de alcohol, exposición a ciertas drogas o narcóticos, o exposición a venenos.
 
-==== Síntomas de Hipoxia
+=== Síntomas de Hipoxia
 
 La privación de oxígeno causa deterioro del cerebro y otros órganos vitales. Los primeros síntomas de hipoxia pueden incluir euforia y una sensación de despreocupación. Con la privación de oxígeno aumentada, las extremidades se vuelven menos responsivas y el vuelo se vuelve menos coordinado. Los síntomas de hipoxia varían con el individuo, pero los síntomas comunes incluyen:
 
@@ -129,7 +125,7 @@ Dado que los individuos experimentan la hipoxia de manera diferente, experimenta
 .Cámara de altitud CAMI
 image::13/fig-13-06.cami-altitud-chamber.png[width=300]
 
-=== Malestar del Oído Interno
+== Malestar del Oído Interno
 
 La presión interna de la cavidad del oído medio cambia más lentamente que la presión fuera del oído. Una diferencia de presión puede desarrollarse durante un ascenso o descenso, que puede resultar en {term-stall} temporal de audición, malestar, dolor y distracción de las tareas de vuelo.
 
@@ -137,13 +133,13 @@ Cuando un {term-glider} asciende, la presión del aire del oído medio puede exc
 
 El malestar durante un descenso termina cuando suficiente aire fluye al oído medio a través de la trompa de Eustaquio. Sin embargo, la presión más baja en el oído medio tiende a constreñir las paredes de la trompa de Eustaquio y prevenir el flujo de aire al oído medio. Un piloto puede intentar la maniobra de Valsalva para corregir esta situación. El piloto debe pellizcar las fosas nasales, cerrar la boca y los labios, y soplar lentamente y suavemente en la boca y nariz para forzar aire por la trompa de Eustaquio hacia el oído medio.
 
-=== Buceo con Escafandra
+== Buceo (Scuba Diving)
 
 El buceo con escafandra somete al cuerpo a presión aumentada, que disuelve más nitrógeno en los tejidos y fluidos corporales. La reducción de la presión atmosférica que acompaña volar puede producir problemas físicos para los buceadores de escafandra cuando pequeñas burbujas de nitrógeno se forman dentro del cuerpo a medida que el gas sale de solución. Estas burbujas pueden causar una condición dolorosa y potencialmente incapacitante llamada los dolores de descompresión.
 
 El entrenamiento de buceo enfatiza cómo prevenir los dolores al subir a la superficie de un cuerpo de agua. Sin embargo, el nitrógeno en exceso puede permanecer en los fluidos tisulares por varias horas después de terminar una inmersión. Un piloto que bucea con escafandra puede experimentar los dolores desde tan bajo como 8,000 pies MSL, con severidad creciente a medida que aumenta la altitud. Como se indica en el Manual de Información Aeronáutica (AIM), el tiempo mínimo recomendado entre buceo con escafandra en inmersiones sin parada de descompresión y volar es de 12 horas, mientras que el tiempo mínimo recomendado entre buceo con parada de descompresión y volar es de 24 horas.
 
-=== Desorientación espacial
+== Desorientación Espacial
 
 La mayoría de los {term-glider}es usados para entrenamiento primario tienen instrumentación básica solamente, y los pilotos de {term-glider}es normalmente no se entrenan para vuelo únicamente por referencia a instrumentos. Los pilotos de {term-glider}es deben evitar el vuelo en baja visibilidad o en cualquier condición que haga difícil discernir el horizonte. Estas condiciones aumentan la probabilidad de que el piloto sucumba a una ilusión y experimente una {term-stall} de control. <<fig-13-07>> Los pilotos de {term-glider}es que vuelan en visibilidad marginal deben establecer y cumplir con mínimos personales para visibilidad.
 
@@ -153,7 +149,7 @@ image::13/fig-13-07.flying-in-haze-or-other-restrictions-to.png[width=300]
 
 El vuelo en un {term-glider} propulsado puede ocurrir de noche o en condiciones instrumentales siempre que el {term-glider} cumpla con los requisitos de 14 CFR parte 91, sección 91.205, y el piloto cumpla con los requisitos aplicables de 14 CFR parte 61, sección 61.57. Los pilotos tienen menos pistas visuales disponibles para juzgar la actitud de vuelo de noche o en condiciones instrumentales. Ambos regímenes presentan potencial adicional para ilusiones, errores de navegación, colisiones y {term-stall} de control. Además, cualquier emergencia de noche se vuelve mucho más difícil de manejar. Los pilotos de {term-glider}es que vuelan en estas condiciones normalmente tienen calificaciones en otras categorías de aeronaves que incluyen entrenamiento y pruebas para condiciones de noche o instrumentales. Un piloto de {term-glider} sin entrenamiento adicional, certificación, recencia y competencia debe evitar operaciones de noche o instrumentales.
 
-=== Deshidratación
+== Deshidratación
 
 Los pilotos de {term-glider}es a menudo vuelan por largos períodos de tiempo en temperaturas de verano calurosas o a altas altitudes que pueden causar deshidratación. Aunque los efectos de la deshidratación pueden desarrollarse lentamente, la {term-stall} de fluidos por transpiración y respiración puede resultar en fatiga y progresar a mareo, debilidad, náuseas, hormigueo de manos y pies, calambres abdominales y sed extrema. <<fig-13-08>>
 
@@ -163,9 +159,11 @@ image::13/fig-13-08.symptoms-of-dehydration.png[width=300]
 
 Los pilotos deben llevar agua en cada vuelo para prevenir la deshidratación. Algunos pilotos de {term-glider}es usan un sombrero con {term-wing} para sombra y para mantener la cabeza fresca. Los pilotos deben asegurar que el {term-wing} del sombrero no interfiera con la capacidad de escanear otros {term-glider}es y tráfico aéreo.
 
+== Golpe de Calor
+
 El golpe de calor resulta cuando el cuerpo no puede controlar la temperatura alta excesiva. El inicio de esta condición puede imitar la deshidratación, pero también puede llevar a colapso. Para prevenir estos síntomas, el piloto debe llevar un suministro amplio de agua y usarlo en intervalos frecuentes en cualquier vuelo largo, incluso si no tiene sed. Usar ropa de color claro, porosa y un sombrero proporciona protección del sol. Ventilar la cabina también ayuda a remover calor excesivo.
 
-=== Clima frío
+== Clima Frío
 
 Prepararse para frío extremo puede parecer extraño cuando existen temperaturas cómodas al nivel del suelo en días de planeo de onda. Sin embargo, al volar a altas altitudes, el interior del {term-glider} puede ponerse frío. Un {term-glider} a gran altitud puede encontrar temperaturas de -30° a -60 °C. Al planear, el sol a través del dosel puede mantener la parte superior del cuerpo del piloto caliente por un tiempo, pero las piernas y pies sombreados pueden enfriarse rápidamente o sufrir congelación. Después de una hora o dos a tales temperaturas, incluso la parte superior del cuerpo puede volverse bastante fría. La ropa en capas, suelta ayuda a aislar el calor corporal. Ya sean guantes de lana o guantes ajustados con manoplas sobre ellos pueden proteger las manos. Dos o tres pares de calcetines en capas con seda en el interior y lana en el exterior más una bota aislada pueden ayudar a mantener los pies cómodos. Los fabricantes de ropa producen ropa y calcetines con elementos de calefacción internos y baterías de litio recargables que el piloto puede encender y regular. Estos hacen una gran adición al guardarropa de un piloto de {term-glider}.
 
@@ -173,19 +171,21 @@ Las temperaturas bajas pueden causar otras condiciones desagradables o peligrosa
 
 El cuerpo se deshidrata más rápidamente en frío extremo y abstenerse de beber agua puede causar deshidratación incluso en condiciones frías. Debido a que el clima frío causa que los riñones excreten líquido a una tasa más rápida, el piloto debe hacer una parada al baño antes del {term-takeoff} y considerar un sistema de alivio para el vuelo.
 
-== Manejo de la Cabina y Equipo
+== Gestión de Cabina y Equipo
 
 Antes del lanzamiento, el piloto debe informar a cualquier pasajero sobre el uso de cinturones de seguridad, arneses de hombros y procedimientos de emergencia. El piloto debe verificar la seguridad de cualquier lastre de trim, organizar los artículos llevados a bordo, y guardar y asegurar apropiadamente todos los demás artículos. La colocación de cartas, tabletas y ayudas de travesía debe permitir al piloto alcanzarlos fácilmente.
 
+=== Paracaídas
+
 Los pilotos pueden usar un paracaídas para emergencias. Un empacador de paracaídas certificado y apropiadamente calificado debe reempacar un paracaídas de nailon dentro de los 180 días precedentes. La información de fecha de empaque usualmente se encuentra en una tarjeta contenida en un pequeño bolsillo en el cuerpo del paracaídas. Refiérase a 14 CFR, parte 91, sección 91.307 para más información.
 
-=== Oxígeno suplemental
+=== Oxígeno Suplementario
 
-Los vuelos de planeo de gran altitud requieren el uso de oxígeno suplemental. En algunas partes del país, el planeo ocurre rutinariamente hasta una {term-cloud-base} de 16,000 a 18,000 pies en {term-thermal}s. El vuelo usando ondas de montaña puede llevar a vuelo a altitudes de más de 30,000 pies en los Estados Unidos.
+Los vuelos de planeo de gran altitud requieren el uso de oxígeno suplementario. En algunas partes del país, el planeo ocurre rutinariamente hasta una {term-cloud-base} de 16,000 a 18,000 pies en {term-thermal}s. El vuelo usando ondas de montaña puede llevar a vuelo a altitudes de más de 30,000 pies en los Estados Unidos.
 
 La respiración suministra oxígeno a la sangre y remueve dióxido de carbono. En cada respiración a 18,000 pies, el piloto respira solo la mitad de oxígeno que al nivel del mar. La reacción automática del piloto sin un suministro adecuado de oxígeno involucraría respirar dos veces más rápido. Esta hiperventilación, o respiración excesiva, resultaría en eliminar demasiado dióxido de carbono de la sangre.
 
-14 CFR, parte 91, sección 91.211, dicta los requisitos de tiempo y altitud para el uso de oxígeno suplemental. Antes del uso de oxígeno suplemental, el sistema debe verificarse por disponibilidad y flujo de oxígeno. El piloto puede usar la lista de verificación PRICE:
+14 CFR, parte 91, sección 91.211, dicta los requisitos de tiempo y altitud para el uso de oxígeno suplementario. Antes del uso de oxígeno suplementario, el sistema debe verificarse por disponibilidad y flujo de oxígeno. El piloto puede usar la lista de verificación PRICE:
 
 * P = Presión (Pressure)
 * R = Regulador (Regulator)
@@ -237,7 +237,7 @@ Este Manual se enfoca en el individuo y no en sistemas de gestión de seguridad 
 
 === Toma de Decisiones Aeronáuticas (ADM)
 
-Un piloto toma numerosas decisiones aeronáuticas involucrando la gestión de riesgos antes de que comience un vuelo. Un medio estructurado involucra usar una Herramienta de Evaluación de Riesgo de Vuelo o FRAT. Los pilotos pueden consultar el Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2) para una muestra de FRAT y pueden usar una para mejorar la seguridad del vuelo.
+Un piloto toma numerosas decisiones aeronáuticas involucrando la gestión de riesgos antes de que comience un vuelo. Un medio estructurado involucra usar una Herramienta de Evaluación de Riesgos de Vuelo o FRAT. Los pilotos pueden consultar el Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2) para una muestra de FRAT y pueden usar una para mejorar la seguridad del vuelo.
 
 Las regulaciones de la FAA establecen requisitos mínimos de seguridad específicos para algunas condiciones, pero eso no significa que cada piloto tenga la capacidad de volar en esas condiciones. Como se mencionó anteriormente, los pilotos pueden establecer sus propias reglas más estrictas para las condiciones personales, de equipo y ambientales que podrían llevarles a decidir no volar en un día dado. El Manual de Gestión de Riesgos de la FAA (FAA-H-8083-2) tiene un capítulo explicando la racionalidad de mínimos personales en más detalle y cómo establecer y mantener estos mínimos.
 

@@ -9,7 +9,7 @@ Un vuelo de travesía ocurre cuando el piloto vuela el {term-glider} más allá 
 
 Si se planea usar {term-thermal}s, el piloto debe considerar la disponibilidad y fuerza de las {term-thermal}s, si permanecerán activas, las posibilidades de {term-landing} y qué aeropuertos a lo largo de la ruta tienen una pista compatible con las condiciones de viento predominantes. El piloto también debe considerar qué efecto tendrá el viento en la distancia de planeo y la mejor velocidad para volar en descenso entre {term-thermal}s. Mientras que la parte principal de este capítulo describe volar de travesía usando {term-thermal}s, la preparación aumentada para vuelos de travesía también involucra otras fuentes de {term-lift-force}, y este capítulo proporciona una breve descripción de planeo de travesía usando {term-lift-force} de cresta u onda.
 
-== Preparándose para Vuelos de Travesía
+=== Preparándose para Vuelos de Travesía en Planeador
 
 Las habilidades adecuadas de planeo indican la preparación del piloto para el planeo de travesía. Hasta que el piloto haya volado varios vuelos de más de 2 horas y pueda localizar y utilizar {term-thermal}s consistentemente, el piloto debe enfocarse en mejorar esas habilidades antes de intentar vuelos de travesía.
 
@@ -46,7 +46,7 @@ image::11/fig-11-02.sample-vuelo-vela-forecast.png[width=300]
 
 En el ejemplo de pronóstico de planeo mostrado arriba, la línea para Altura del Índice Térmico -3 representa la diferencia entre la temperatura ambiental y la temperatura a un nivel particular determinada siguiendo la adiabática seca a través de la temperatura máxima pronosticada hasta ese nivel. Un valor negativo de magnitud creciente indica {term-lift-force} {term-thermal} más fuerte. Un valor de -3 o menor generalmente indica actividad {term-thermal} favorable para planeo de travesía. Los pilotos de planeo deben consultar con la WFO del NWS en su área de planeo para más información sobre el pronóstico de planeo.
 
-== Finalizando los Planes
+=== Finalizando Planes
 
 Los pilotos pueden tener objetivos específicos para su próximo vuelo de travesía y deben planificar basándose en el área y diferentes escenarios meteorológicos. Si se planea un vuelo de 300 millas náuticas (MN) en ruta cerrada, el piloto debe considerar varias rutas posibles de ida y vuelta o triángulo con anticipación. En el día de la salida, el piloto puede seleccionar la mejor opción pre-planeada basándose en la perspectiva meteorológica. Dado que numerosos detalles {term-final}es necesitan atención en la mañana del vuelo, el conteo de los artículos usados durante el vuelo debe tener lugar el día anterior.
 
@@ -63,7 +63,7 @@ Los pilotos inexperimentados y experimentados por igual deben usar listas de ver
 
 Estar mejor organizado antes del vuelo conduce a menos estrés durante el vuelo y mejora la seguridad del vuelo.
 
-== Equipo personal y especial
+== Equipo Personal y Especial
 
 Muchos artículos no requeridos para planeo local aseguran la comodidad del piloto en vuelos largos de travesía. Un suministro adecuado de agua potable previene la deshidratación. Algunos pilotos usan un sistema de bebida con mochila con una manguera fácilmente accesible y válvula de mordida. Este sistema se guarda fácilmente al lado del piloto y permite sorbos frecuentes de agua. Los pilotos también deben tener comida a bordo ya que los vuelos de travesía pueden durar hasta 8 horas o más. Los pilotos también deben tener un sistema de alivio en vuelos más largos.
 
@@ -97,7 +97,9 @@ Finalmente, los pilotos deben considerar usar un bloc de notas o tablero de rodi
 
 Los pilotos de aviones navegan por pilotaje (volando por referencia a puntos de referencia en tierra) o navegación estimada (calculando un rumbo desde la velocidad verdadera y el viento, y luego estimando el tiempo necesario para volar a un destino). Los pilotos de {term-glider}es generalmente usan pilotaje ya que a menudo se desvían de una línea de curso sobre una larga distancia y no vuelan una velocidad durante ningún período de tiempo. A veces, los pilotos de {term-glider}es pueden usar una combinación de los dos métodos.
 
-== Un ejemplo de vuelo de travesía
+== Navegación
+
+=== Un Vuelo de Travesía de Muestra
 
 Para fines de entrenamiento, un piloto podría planificar una ruta triangular comenzando en el Aeropuerto de Portales (PRZ), con puntos de giro en el Aeropuerto de Benger (X54) y el pueblo de Circle Back. La preparación pre-vuelo incluye dibujar las líneas de curso para las tres patas usando un sistema electrónico o carta. <<fig-11-06>>
 
@@ -129,13 +131,13 @@ A veces un piloto determina un curso aproximado mientras está en el aire. Supon
 
 El cielo hacia Portales indica condiciones de {term-lift-force} favorables. Sin embargo, el área a lo largo del nuevo curso incluye colinas de arena, un área que puede no tener buenas opciones para {term-landing}s fuera de campo. El piloto decide tomar tiempo para ganar altitud en {term-thermal}s hasta más allá de este punto y hasta estar dentro de la distancia de planeo de sitios de {term-landing} adecuados.
 
-== Navegación usando GPS
+=== Navegación Usando GPS
 
 Un sistema GPS hace la navegación más fácil. Una unidad GPS muestra distancia y rumbo a un punto especificado, generalmente encontrado desplazándose a través de una base de datos interna de puntos de referencia. Muchas unidades GPS también calculan y muestran continuamente la velocidad sobre el suelo. Dada la información de TAS, el GPS puede calcular el componente de viento de frente.
 
 Al usar una unidad GPS, el piloto debe continuar enfocándose en volar el {term-glider}, encontrar {term-lift-force} y escanear el tráfico. Como cualquier instrumento electrónico, una unidad GPS puede fallar, y el piloto debe tener un sistema de respaldo.
 
-== Técnicas de Travesía
+== Técnicas de Vuelo de Travesía
 
 Para planeo seguro de travesía, el piloto siempre debe permanecer dentro del alcance de planeo de un área de {term-landing} adecuada. El área de {term-landing} puede ser un aeropuerto u otro lugar adecuado para aterrizar fuera de campo. Si se sigue esta práctica, incluso con altas tasas de descenso entre {term-thermal}s, el piloto nunca debería necesitar una {term-thermal} para obtener el alcance a un área de {term-landing} adecuada.
 
@@ -165,13 +167,13 @@ Un vuelo de travesía inicial común consiste en un vuelo de distancia recta de 
 
 Los pilotos ganan habilidades de travesía a través de la práctica pero también deben continuar revisando la teoría mientras ganan esa experiencia. Una teoría o técnica que inicialmente tuvo poco sentido toma mucha más significancia después de varios vuelos de travesía. La auto-crítica post-vuelo, que puede ocurrir en cualquier momento antes del siguiente vuelo, también mejora las habilidades del piloto.
 
-== Planeando más rápido y más lejos
+== Volando Más Rápido y Más Lejos
 
 Una velocidad promedio de travesía de 20 o 30 millas por hora parece adecuada para un vuelo de 32 millas, pero esa velocidad promedio no acomoda vuelos más largos. Volar a velocidades promedio de travesía más altas permite distancias de vuelo de planeo aumentadas.
 
 En el contexto del planeo de travesía, volar más rápido significa lograr una velocidad promedio sobre el suelo más rápida. El secreto para un vuelo de travesía más rápido radica en pasar menos tiempo ascendiendo y más tiempo planeando. Esto ocurre cuando se usan mejores {term-thermal}s y se pasa más tiempo en aire ascendente y menos tiempo en aire descendente. La teoría del {term-maccready-ring} y/o la teoría de velocidad para volar determinan las velocidades óptimas entre {term-thermal}s. El uso apropiado del anillo de velocidad MacCready o director de velocidad electrónico equivalente muestra la velocidad apropiada.
 
-=== Bandas de Altitud
+=== Bandas de Altura
 
 En la mayoría de los días de planeo, un rango de altitud llamado banda de altitud describe dónde existe la fuerza {term-thermal} máxima. Las bandas de altitud dan el rango de altitud óptimo en el cual ascender y planear en un día dado. Por ejemplo, una {term-thermal} puede tener {term-lift-force} de 200 a 300 pies por minuto entre 3,000 y 5,000 pies AGL que luego se debilita antes de terminar a 6,000 pies AGL. En este caso, existe una banda de altitud de 2,000 pies entre 3,000 pies y 5,000 pies AGL. Permanecer dentro de la banda de altitud da los mejores (más rápidos) ascensos. En un vuelo largo de travesía, el piloto debe termalizar mientras está dentro de la banda de altitud y evitar detenerse por {term-thermal}s débiles a menos que necesite altitud adicional en ese momento.
 
@@ -223,9 +225,9 @@ image::11/fig-11-15.advantage-of-proper-velocidad-to-fly-under-a-nube.png[width=
 
 En un vuelo real de travesía, el piloto puede usar una combinación de vuelo de delfín y ascenso y planeo clásico. En el ejemplo anterior los pilotos decidieron no detenerse y circular en las {term-thermal}s débiles espaciadas estrechamente, pero podrían detenerse y circular si encuentran áreas de {term-lift-force} fuerte.
 
-== Situaciones especiales
+== Situaciones Especiales
 
-=== Desviaciones de Curso
+=== Desviaciones de Rumbo
 
 Los pilotos podrían considerar la desviación en un vuelo de travesía de planeo como la norma en lugar de la excepción. Incluso con {term-cumulus}s de buen tiempo espaciados uniformemente en todos los cuadrantes, el piloto podría decidir desviarse hacia {term-lift-force} más fuerte. Las desviaciones de 10° o menos añaden poco a la distancia total y los pilotos no deben dudar en volar hacia tal mejor {term-lift-force}. Incluso desviaciones hasta 30° pueden funcionar bien si conducen hacia mejor {term-lift-force} o evitan descenso sospechado adelante. Cuanto antes comience la desviación, menos distancia extra cubrirá el {term-glider} durante la desviación. <<fig-11-16>>
 
@@ -237,7 +239,7 @@ El piloto podría usar desviaciones de 45° o incluso 90° para evitar condicion
 
 Generalmente, los pilotos de {term-glider}es que encuentran un área grande de aire estable o aire descendente terminarán aterrizando antes de que las condiciones VFR desaparezcan. La termalización cesa a medida que el cielo se nubla y sombrea la superficie de la tierra. Sin embargo, los pilotos deben desviarse o tener una opción para aterrizar en lugar de volar hacia techos descendentes o chubascos adelante. La {term-lift-force} de cresta podría permanecer, pero las bases de nubes pueden oscurecer esa fuente de {term-lift-force} también. Las tormentas eléctricas a lo largo del curso pueden generar flujos de salida y afectar los vientos de superficie por muchas millas alrededor de la tormenta. El piloto debe evitar aterrizar cerca de una tormenta eléctrica. Las tormentas eléctricas adelante a menudo justifican grandes desviaciones de curso de hasta 180° (es decir, retirarse a la seguridad).
 
-=== Procedimientos de Extraviado
+=== Procedimientos de Pérdida de Orientación
 
 Un sistema GPS funcionando hace casi imposible perderse. Sin embargo, los sistemas GPS pueden fallar, y los pilotos deben tener un plan de respaldo si eso ocurre. Las siguientes acciones aumentan la probabilidad de reorientación sin usar GPS.
 
@@ -245,7 +247,7 @@ Si se pierde después de alguna búsqueda inicial, el piloto debe permanecer cal
 
 Una vez localizado un {term-aiming-point} conocido en la carta y en el suelo, el piloto puede confirmar la ubicación encontrando algunos otros puntos de referencia cercanos. Por ejemplo, si se ve un pueblo específico abajo, una carretera adyacente debería curvarse como la que se muestra en la carta. Los aeropuertos y las pistas de aeropuerto proporcionan pistas valiosas si se avista un aeropuerto, que incluyen orientación de pista y marcas o la ubicación de un pueblo o ciudad relativa al aeropuerto. Si todavía se está perdido y cerca de un área de {term-landing} adecuada, el piloto debe permanecer en esa área hasta estar cierto de la ubicación. Si los esfuerzos previos fallan, una llamada de radio a otros pilotos de planeo en el área con una descripción de lo que yace abajo y cerca puede traer ayuda de otro piloto. Finalmente, un {term-landing} seguro proporciona la oportunidad de determinar la ubicación en tierra.
 
-== Vuelo de Travesía en un Planeador de Auto-Lanzamiento
+== Vuelo de Travesía en un Planeador Autolanzable
 
 Aunque más complejo y costoso, un {term-glider} de auto-lanzamiento puede dar al piloto libertad adicional. Primero, un {term-glider} de auto-lanzamiento permite al piloto volar desde aeropuertos sin un avión de remolque o piloto de remolque. Segundo, el piloto puede usar el motor para evitar {term-landing}s fuera de campo y extender el vuelo. En teoría, cuando se está bajo en un {term-glider} de auto-lanzamiento, el piloto simplemente arranca el motor y asciende a la siguiente fuente de {term-lift-force}. Sin embargo, esta práctica tiene sus propios riesgos y ha llevado a muchos accidentes debido a falla del motor o procedimientos de arranque incorrectos.
 
@@ -261,7 +263,7 @@ El vuelo de travesía también puede realizarse bajo potencia con un {term-glide
 
 Otro tipo de {term-glider} tiene un motor sustentador. Aunque este tipo de motor no tiene suficiente potencia para auto-lanzamiento, puede mantener el {term-glider} en el aire si la {term-lift-force} falla. Sin embargo, los motores sustentadores solo pueden producir suficiente potencia para superar la tasa de descenso del {term-glider}. Las tasas de descenso más altas pueden abrumar la capacidad de muchas plantas de potencia sustentadoras. Los motores sustentadores típicamente eliminan la necesidad de una recuperación que consume tiempo al {term-final} de una travesía, y operan con menos complejidad que sus contrapartes de auto-lanzamiento. Los pilotos volando un {term-glider} con motor sustentador tienen preocupaciones similares a los pilotos volando {term-glider}es de auto-lanzamiento respecto a terreno inadecuado y altitudes de decisión de altura.
 
-== Operaciones de Planeadores de Alto Rendimiento y Consideraciones
+== Operaciones y Consideraciones de Planeadores de Alto Rendimiento
 
 Se han realizado vuelos extendidos de travesía en {term-glider}es relativamente de bajo rendimiento. Sin embargo, en cualquier día de planeo dado, el mismo piloto puede volar un {term-glider} con una relación de planeo de 40:1 más lejos y más rápido que uno con relación de 20:1.
 
@@ -271,13 +273,13 @@ La experiencia requerida para volar un {term-glider} de alto rendimiento no nece
 
 Muchos {term-glider}es de alto rendimiento tienen flaps. Los pilotos pueden usar unos pocos grados de {term-flap} positivo al termalizar, 0° para planeos a velocidad relativamente baja, y ajustes de {term-flap} negativo para planeos a velocidades más altas. El GFM/POH y la polar del {term-glider} proporcionan ajustes de {term-flap} recomendados para diferentes velocidades, así como velocidades máximas permitidas para diferentes ajustes de {term-flap}. Algunos {term-glider}es de alto rendimiento no tienen frenos de aire y usan ajustes de {term-flap} positivo grandes para el {term-landing}.
 
-== Lastre de Agua
+=== Lastre de Agua
 
 El {term-water-ballast} puede maximizar la velocidad promedio de travesía en un día con {term-thermal}s fuertes. La ganancia en velocidad entre {term-thermal}s supera el tiempo perdido debido a ascensos ligeramente más lentos con {term-water-ballast}. Los pilotos no deben planear usar lastre en un día con {term-thermal}s débiles. Si las {term-thermal}s fuertes se vuelven débiles, el piloto puede descargar el {term-water-ballast}.
 
 El agua se expande al pasar del estado líquido al estado sólido. La fuerza del {term-water-ballast} congelándose puede partir las pieles de {term-wing}s compuestas. Si se anticipa volar en un vuelo de travesía y pasar tiempo a niveles con temperaturas por debajo de 0 °C, el piloto debe añadir el anticongelante recomendado por el GFM/POH al lastre antes de la salida.
 
-== Vuelo de Travesía Usando Otras Fuentes de Sustentación
+== Vuelo de Travesía Usando Otras Fuentes de Ascendencia
 
 La {term-lift-force} de cresta u onda proporciona {term-lift-force} más consistente que las {term-thermal}s, permitiendo tramos largos y rectos de cientos de millas a alta velocidad.
 

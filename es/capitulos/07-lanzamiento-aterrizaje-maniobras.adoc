@@ -207,7 +207,7 @@ Los errores comunes en el ascenso por {term-aerotow} incluyen:
 * Entrada inadvertida en la estela del avión de remolque.
 * Falla en mantener la alineación del {term-glider} durante giros en {term-aerotow}.
 
-==== Línea floja
+=== Línea Floja
 
 La mayoría de los casos de línea floja son menores, no requieren acción correctiva por parte del piloto del {term-glider} y se resuelven usando una trayectoria de vuelo estabilizada. Si es lo suficientemente severa, la línea floja o la tensión reducida en la línea de remolque podrían enredar el {term-glider} y resultar en daño al {term-glider} o avión de remolque. Por lo tanto, si el piloto pierde de vista ya sea la cuerda o el avión de remolque, debe realizarse una liberación inmediata. Las siguientes situaciones pueden resultar en una línea floja:
 
@@ -232,7 +232,7 @@ Los errores comunes respecto a la recuperación de línea floja incluyen:
 * Falla en tomar acción correctiva ante la primera indicación de línea floja.
 * Procedimiento incorrecto para corregir línea floja causando estrés excesivo en la línea de remolque, avión de remolque y el {term-glider}.
 
-=== Boxear la Estela
+==== Boxear la Estela (Boxing the Wake)
 
 El avión de remolque genera dos tipos de turbulencia de estela. La lavada de la hélice genera una ligera sacudida mientras los torbellinos de las puntas de {term-wing} inducen un fuerte movimiento de balanceo. Boxear la estela demuestra la capacidad del piloto para maniobrar el {term-glider} alrededor de la estela del avión de remolque con precisión y seguridad durante el {term-aerotow}. <<fig-07-15>> Un piloto puede maniobrar ya sea en sentido horario o antihorario alrededor de la estela. El ejemplo siguiente usa un ejemplo en sentido horario.
 
@@ -318,7 +318,7 @@ image::07/fig-07-19.en-vuelo-senales-for-ground-lanzamiento.png[width=300]
 
 La relación entre la actitud de cabeceo y la velocidad del aire para un {term-glider} atado durante un remolque en tierra presenta una experiencia de vuelo única. Siempre que el mecanismo de remolque tenga suficiente potencia para satisfacer las demandas de energía del lanzamiento, una mayor desviación de la fuerza de remolque de horizontal a vertical resulta en una aceleración a una velocidad más alta del {term-glider} si el piloto cabecea hacia arriba. Durante el lanzamiento, tirar hacia atrás de la palanca tiende a aumentar la velocidad del aire, y empujar hacia adelante tiende a reducir la velocidad del aire.
 
-==== Velocidades de Remolque en Tierra
+=== Velocidades de Remolque
 
 Las velocidades de remolque en tierra apropiadas aseguran un lanzamiento seguro. <<fig-07-20>> compara varios perfiles de {term-takeoff} que resultan cuando las velocidades de remolque varían por encima o por debajo de la velocidad correcta.
 
@@ -328,7 +328,7 @@ image::07/fig-07-20.ground-lanzamiento-remolque-speeds.png[width=300]
 
 Cada {term-glider} certificado para operaciones de lanzamiento en tierra tiene una velocidad máxima de remolque en tierra indicada en una placa. Esta velocidad generalmente aplica tanto a lanzamientos con automóvil como con cabrestante. El piloto del {term-glider} debe mantenerse en o por debajo de esta velocidad durante el remolque en tierra para prevenir daño estructural al {term-glider}.
 
-==== Lanzamiento con Automóvil
+=== Lanzamiento por Automóvil
 
 Antes del primer lanzamiento, el piloto y el conductor del vehículo deben determinar las velocidades de remolque terrestre apropiadas del vehículo considerando la velocidad del viento en superficie, el {term-wind-gradient} esperado para el ascenso, y el aumento de velocidad del {term-glider} durante el lanzamiento. El piloto y el conductor deben acordar una velocidad máxima de remolque terrestre del vehículo como un factor de seguridad.
 
@@ -357,7 +357,7 @@ El cálculo de velocidad de remolque funciona de la siguiente manera:
 
 * La velocidad de remolque calculada con automóvil resulta en………………..50 mph
 
-==== Lanzamiento con Torno
+=== Lanzamiento por Torno (Winch)
 
 Durante los lanzamientos con cabrestante, el operador del cabrestante aplica potencia completa suave y rápidamente hasta que el {term-glider} alcanza un ángulo de 30° sobre el horizonte. En este punto, el operador comienza a reducir la potencia, alcanzando aproximadamente 20% de potencia cuando el {term-glider} alcanza un punto a unos 60° sobre el horizonte. Cuando el {term-glider} alcanza el punto de 70° sobre el horizonte, el operador reduce la potencia a ralentí. <<fig-07-22>> El operador del cabrestante monitorea el {term-glider} continuamente durante el ascenso por cualquier señal para aumentar o disminuir la potencia, lo que resultaría en un cambio en la velocidad del {term-glider}.
 
@@ -438,6 +438,8 @@ Los errores comunes en la preparación y arranque del motor incluyen:
 * RPM excesivamente altas después del arranque.
 * Falla en asegurar el despeje adecuado de la hélice.
 
+=== Rodaje
+
 Los diseños de {term-glider}es de auto-lanzamiento usan diferentes sistemas de tren de {term-landing}. Algunos diseños usan configuraciones de tren de {term-landing} de triciclo o de rueda de cola comúnmente encontradas en aviones. Otros tipos de {term-glider}es de auto-lanzamiento descansan sobre una rueda de tren de {term-landing} principal en el centro del {term-fuselage} y usan ruedas estabilizadoras o patines en las {term-wing}s para evitar que las puntas de {term-wing} contacten el suelo.
 
 Debido a la larga envergadura y la baja altura de punta de {term-wing} del suelo de los {term-glider}es, el piloto de {term-glider} de auto-lanzamiento debe considerar el diseño del aeropuerto y la configuración de la pista. Algunas calles de rodaje y rampas de aeropuerto pueden no acomodar la larga envergadura del {term-glider} o limitar la maniobrabilidad. Además, el piloto debe considerar la capacidad de {term-crosswind} del {term-glider} durante operaciones de taxi. El piloto debe manipular los controles de vuelo para evitar que cualquier {term-crosswind} levante un {term-wing} o haga que la cola se eleve. Una regla general con un viento de cuarto de frente es posicionar los controles para ascender hacia el viento, mientras que un viento de cuarta de cola requiere posicionar los controles para descender lejos del viento. El rodaje en terreno blando requiere potencia adicional. Los {term-glider}es de auto-lanzamiento con ruedas estabilizadoras en las puntas de {term-wing} pueden perder control direccional si una rueda de punta de {term-wing} se atasca, y los caminadores de {term-wing}s pueden sostener las {term-wing}s {term-round-out}s durante operaciones de taxi a baja velocidad en terreno blando.
@@ -452,7 +454,7 @@ Los errores comunes en el rodaje de un {term-glider} de auto-lanzamiento incluye
 * Posicionamiento incorrecto de controles para condiciones de viento.
 * Falla en considerar la envergadura y espacio requerido para maniobrar durante el rodaje.
 
-=== Chequeo previo al {term-takeoff}
+=== Chequeo Pre-despegue
 
 El fabricante proporciona una lista de verificación antes del {term-takeoff}. Como se muestra en la <<fig-07-27>>, la complejidad de muchos {term-glider}es de auto-lanzamiento hace que una lista de verificación de {term-takeoff} escrita sea un elemento de seguridad esencial. Los elementos previos al {term-takeoff} en un {term-glider} de auto-lanzamiento pueden incluir verificar la cantidad y presión de combustible, temperatura y presión de aceite, y otros sistemas de la aeronave según aplique, conducir una prueba de motor, y ajustar el acelerador/rpm, paso de hélice y flaps de capó. El piloto también debe asegurar que los cinturones de seguridad y arneses de hombro estén asegurados, puertas y ventanas cerradas y bloqueadas, cabinas cerradas y bloqueadas, {term-spoiler}s cerrados y bloqueados, {term-altimeter} ajustado, radio de comunicación ajustado a la frecuencia adecuada para asesoría de tráfico, e instrumentos de vuelo ajustados para {term-takeoff}.
 
@@ -470,7 +472,7 @@ Los errores comunes en el chequeo previo al {term-takeoff} incluyen:
 * Falla en revisar procedimientos de emergencia de {term-takeoff}.
 * Procedimientos de radio y comunicaciones incorrectos.
 
-=== Despegue normal
+=== Despegue Normal
 
 Después de completar la lista de verificación previa al {term-takeoff}, el piloto debe verificar el tráfico y prepararse para el {term-takeoff}. El piloto debe hacer una verificación {term-final} de tráfico conflictivo, luego rodar hacia la pista activa y alinear el {term-glider} con la línea central. Si opera desde un aeropuerto con una torre de control operativa, el piloto debe solicitar y recibir una autorización de control de tráfico aéreo (ATC) antes de rodar y antes de usar cualquier pista para {term-takeoff}.
 
@@ -549,7 +551,7 @@ Los errores comunes durante procedimientos de ascenso y apagado incluyen:
 * Falla en mantener control positivo de la aeronave mientras se realizan procedimientos de apagado del motor.
 * Falla en seguir procedimientos apropiados de extensión y reinicio del motor.
 
-== Patrones de Tráfico del Aeródromo de Planeadores y Operaciones
+== Circuitos de Tráfico y Operaciones en el Aeródromo
 
 Los aeródromos de {term-glider}es y operadores de aeropuertos dentro de los Estados Unidos deben cumplir con los procedimientos recomendados por la Administración Federal de Aviación (FAA) establecidos en Circulares Asesoras (AC), el Manual de Información Aeronáutica (AIM) y los reglamentos actuales de la FAA. Estas publicaciones sirven como buenas referencias para ayudar a asegurar operaciones seguras de {term-glider}es.
 
@@ -574,25 +576,25 @@ Los pilotos deben completar la lista de verificación de {term-landing} antes de
 * **L**anding area—buscar viento, otras aeronaves y personal
 * **L**and the glider—aterrizar el {term-glider}
 
-=== Aproximación y Aterrizaje Normal
+== Aproximación Normal y Aterrizaje
 
 La planificación para una {term-approach} comienza a cierta distancia de la zona de {term-landing}. Antes de la entrada al IP y {term-downwind}, el piloto debe considerar el ángulo de {term-approach}, distancia del área de {term-landing}, espaciado para acomodar otras aeronaves, y velocidad de {term-approach} deseada. Los pilotos normalmente usan la velocidad de {term-approach} recomendada en el GFM/POH, pero pueden usar 1.5 VSO en ausencia de una velocidad de {term-approach} recomendada. El piloto debe usar spoilers/{term-spoiler}s según sea necesario para disipar exceso de altitud mientras mantiene la velocidad de {term-approach} deseada. Durante la entrada al {term-pattern}, los pilotos deben manejar la compensación y hacer giros coordinados limitados a no más de 45° de alabeo, y el piloto no debe conducir un giro de 360° una vez establecido en el {term-downwind}.
 
-==== Tramo de Viento en Cola
+=== Tramo de Viento en Cola
 
 Cuando se aproxima al IP, el piloto debe maniobrar el {term-glider} para entrar en el {term-downwind}. La distancia lateral de un {term-downwind} al área de {term-landing} debe ser tal que el piloto del {term-glider} pueda mirar hacia abajo al centro de la línea de {term-landing} en un ángulo de 30 a 45 grados. Esta imagen visual equivale a una distancia lateral al área de {term-landing} de 800 a 1,200 pies, lo que permite al {term-glider} volar dentro de cualquier {term-pattern} de avión y da una mejor vista del área de {term-landing}. La distancia exacta depende de los vientos, otras condiciones meteorológicas, el tipo de {term-glider} y la topografía del sitio. En un tramo típico de viento en cola, el {term-glider} debe descender para llegar a la altura del punto de toque entre 500 y 600 pies AGL. El piloto puede usar los spoilers/{term-spoiler}s para llegar a esta altitud. El piloto también debe monitorear la posición del {term-glider} con referencia al área de toque. Si el viento empuja el {term-glider} lejos o hacia el área de toque, el piloto debe establecer un ángulo de corrección de viento, detener la deriva, y planear acortar o alargar el viento en cola según sea necesario. En el {term-downwind}, la velocidad sobre el suelo aumenta con cualquier viento en cola y acorta el tiempo transcurrido para alcanzar el punto en el cual girar a base.
 
-==== Tramo de Base
+=== Tramo de Base
 
 El tramo de base normalmente comienza con el punto de toque no más de 45° sobre el hombro del piloto mirando hacia atrás al área de toque si está bajo una condición de viento nulo. Sin embargo, los pilotos deben ajustar la longitud del viento en cola basada en la relación de planeo del {term-glider} volado. Cada piloto de {term-glider} debe evaluar las condiciones de {term-landing}, configurar el {term-glider} para {term-landing} bajo esas condiciones, y girar a base mientras mantiene el punto de toque previsto dentro del fácil alcance de planeo. Realizar un resbalón o extender dispositivos de {term-drag} puede disipar exceso de altitud, pero nada en un {term-glider} no motorizado compensará altitud insuficiente.
 
 Una vez establecido en el tramo de base, el piloto debe escanear y detectar cualquier aeronave en {term-approach} {term-final} larga. Si usa radio, el piloto del {term-glider} puede transmitir posición para giro a {term-final}. El piloto debe ajustar el giro para corregir la deriva por viento encontrada en el tramo de base y salir en un rumbo que se alinee con el área de {term-landing}. El piloto también debe ajustar los spoilers/{term-spoiler}s y/o resbalón según sea necesario para posicionar el {term-glider} en el ángulo de {term-approach} deseado. Los pilotos nuevos deben aprender a escanear apropiadamente por otra aeronave operando en el {term-pattern}. Los pilotos también deben revisar la revisión actual de la Circular Asesora de la FAA (AC) 90-48, Pilots' Role in Collision Avoidance.
 
-==== Aproximación {term-final}
+=== Aproximación {term-final}
 
 El giro hacia la {term-approach} {term-final} no debe exceder un ángulo de inclinación de 45° y el piloto debe usar un ángulo de {term-approach} apropiado para iniciar el descenso {term-final}. El piloto normalmente hace un giro coordinado de base a {term-final} para alinearse con la línea central del área de toque. El piloto debe ajustar los spoilers/{term-spoiler}s, según sea necesario, para volar el ángulo de {term-approach} deseado hacia un punto específico en el suelo y establecer una {term-stabilized-approach} a la velocidad de {term-approach} recomendada.
 
-==== Aproximación estabilizada
+=== Aproximación estabilizada
 
 Una {term-stabilized-approach} requiere que el piloto juzgue ciertas pistas visuales y luego mantenga una velocidad de descenso {term-final} constante, ángulo de {term-approach} y configuración. Los pilotos de {term-glider}es deben planificar un viento en cola y tramo de base que les permita girar de base a {term-final} en posición para continuar en una {term-stabilized-approach}. La {term-approach} {term-final} con spoilers/{term-spoiler}s extendidos aproximadamente medio abiertos (no necesariamente medio recorrido de la palanca de control de spoiler/{term-spoiler}) crea una {term-approach} ideal para la mayoría de los {term-glider}es. El piloto puede dedicar atención significativa hacia pistas visuales externas para afinar la {term-approach}. El piloto no debe mirar fijamente a un solo lugar, sino escanear de un punto a otro, como desde el punto de apuntamiento hasta el horizonte, a cualquier objeto a lo largo de la superficie de {term-landing}, a un área bien corta de la superficie de {term-landing}, y de vuelta al punto de apuntamiento. Esto hace más fácil percibir cualquier desviación de la trayectoria de planeo deseada y determinar si el {term-glider} está procediendo directamente hacia el punto de apuntamiento. El piloto también debe mirar periódicamente el indicador de velocidad del aire y corregir cualquier desviación de velocidad del aire.
 
@@ -616,7 +618,7 @@ Durante la instrucción y práctica, un piloto de {term-glider} adquiere la habi
 
 El {term-flare}, toque y rodaje de {term-landing} son mucho más fáciles de lograr cuando están precedidos por una {term-approach} {term-final} estabilizada, lo que reduce la posibilidad de un incidente de {term-landing}. Por lo tanto, el piloto debe detectar y corregir desviaciones de la trayectoria de planeo deseada temprano para que la magnitud de las correcciones sea pequeña. El piloto debe hacer ajustes apropiados y suaves en los spoilers/{term-spoiler}s para asegurar el control adecuado de la trayectoria de planeo y debe evitar bombear los spoilers/{term-spoiler}s de completamente abiertos a completamente cerrados. Si se desarrolla exceso de velocidad de un picado repentino al {term-final} de la {term-approach}, el {term-glider} puede flotar una distancia considerable que podría impedir tocar en el área de {term-landing} deseada.
 
-==== Redondeo y Flare
+=== Redondeo y Flare
 
 Cuando el {term-glider} se aproxima a aproximadamente 5 pies sobre el suelo en un descenso normal, el piloto comienza una transición lenta y suave desde una actitud de {term-approach} normal a una actitud de {term-landing}, redondeando gradualmente la trayectoria de vuelo a una que es paralela y unas pocas pulgadas sobre la pista. El piloto aplica gradualmente presión hacia atrás en el elevador para aumentar lentamente la actitud de cabeceo y el {term-aoa}, lo que aumenta a una tasa que permite que el {term-glider} continúe asentándose lentamente a medida que disminuye la velocidad hacia adelante. Este es un proceso continuo hasta que el {term-glider} toca el suelo.
 
@@ -628,7 +630,7 @@ El toque es el asentamiento suave del {term-glider} sobre la superficie de {term
 
 Los pilotos deben evitar estrellar el {term-glider} contra el suelo usando poco o ningún flare. Este tipo de {term-landing} pone cargas excesivas en el tren de {term-landing} y las {term-wing}s. Forzar el {term-glider} al suelo a velocidades excesivas puede introducir oscilaciones inducidas por el piloto, tales como cabeceos. Un buen {term-landing} de {term-glider} en la mayoría de los {term-glider}es con una rueda principal y rueda de cola (o patín) ocurre en la rueda principal con la rueda de cola apenas tocando ligeramente o la rueda de cola apenas ligeramente fuera de la superficie. La rueda principal puede soportar el impacto de los {term-landing}s, pero la rueda de cola puede no hacerlo. Los pilotos deben seguir siempre las recomendaciones del GFM/POH del fabricante.
 
-==== Rodaje después del {term-landing}
+=== Rodaje después del {term-landing}
 
 El proceso de {term-landing} nunca debe considerarse completo hasta que el {term-glider} se haya llevado a una parada completa. Pueden ocurrir accidentes debido a que los pilotos abandonan su vigilancia y fallan en mantener control positivo después de poner el {term-glider} en el suelo. La {term-stall} de control direccional puede llevar a un giro ajustado descontrolado exacerbado en el suelo, o un giro en tierra. La combinación de fuerza centrífuga actuando sobre el centro de gravedad (CG) y la fricción del suelo de la rueda principal resistiéndola durante el giro en tierra puede hacer que el {term-glider} se incline o se ladille lo suficiente para que la punta del {term-wing} exterior contacte el suelo. El control direccional apropiado necesita establecerse temprano después del toque. El timón sirve el mismo propósito en el suelo que en el aire—controla la guiñada del {term-glider}. La efectividad del timón depende del flujo de aire, lo que depende de la velocidad del {term-glider}.
 
@@ -636,7 +638,7 @@ Las largas y bajas puntas de {term-wing} del {term-glider} son susceptibles al d
 
 Los {term-landing}s en vientos altos con ráfagas o condiciones turbulentas ocurren usando una velocidad de {term-approach} más alta para mejorar la controlabilidad, proporcionar un margen seguro por encima de la velocidad de {term-stall}, y permitir mejor penetración en el viento de frente en {term-approach} {term-final}. Como regla general, los pilotos añaden la mitad del factor de ráfaga reportado (la diferencia entre el viento sostenido y las ráfagas reportadas) a la velocidad de {term-approach} normal recomendada.
 
-==== Oscilaciones de Cabeceo Inducidas por el Piloto Durante el Aterrizaje
+=== Oscilaciones de Cabeceo Inducidas por el Piloto Durante el Aterrizaje
 
 El sobrecontrol del elevador durante el flare de {term-landing} puede hacer que el {term-glider} se eleve bien por encima de la superficie de {term-landing} incluso mientras la velocidad del aire disminuye hacia la velocidad de {term-stall}. Si el piloto empuja la palanca hacia adelante después de elevarse, el {term-glider} descenderá rápidamente hacia el suelo. Si el piloto tira la palanca de control hacia atrás para arrestar el descenso, el {term-glider} puede elevarse nuevamente o experimentar un {term-landing} duro o de nariz primero dependiendo de la velocidad del aire. Las ráfagas de viento y la turbulencia aumentan la probabilidad de este tipo de PIO.
 
@@ -644,7 +646,7 @@ Para prevenir los PIOs durante el flare después de elevarse, el piloto debe est
 
 Los spoilers/{term-spoiler}s proporcionan {term-drag} significativa y {term-lift-force} reducida cuando están completamente desplegados. Una extensión repentina mientras aterriza resulta en una alta tasa de descenso y posible contacto duro con la pista. Esto puede llevar a un rebote en el aire y una serie de PIOs. Si una ráfaga de viento o retracción repentina de los spoilers/{term-spoiler}s hace que el {term-glider} se eleve, el piloto debe ajustar los spoilers/{term-spoiler}s suavemente para restablecer un flare apropiado.
 
-=== Resbalón frontal
+=== Resbalón (Forward Slip)
 
 Un resbalón frontal permite al piloto empinizar el camino de {term-approach} sin aumentar la velocidad. Mientras que los dispositivos de {term-drag} han reducido la necesidad de resbalones frontales, los pilotos deben saber cómo usarlos para {term-landing}s cortos/en campo o aproximaciones sobre obstáculos.
 
@@ -660,7 +662,7 @@ Se distingue un resbalón lateral, del resbalón frontal, porque ocurre con el e
 .Resbalón frontal y resbalón lateral
 image::07/fig-07-34.forward-slip-and-sideslip.png[width=300]
 
-==== Errores comunes
+=== Errores comunes
 
 Los errores comunes al realizar un resbalón incluyen:
 

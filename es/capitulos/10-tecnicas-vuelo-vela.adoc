@@ -9,7 +9,7 @@ A principios de los años 1920, los pilotos de planeo descubrieron cómo permane
 
 Como nota, los pilotos de {term-glider}es se refieren al aire ascendente como {term-lift-force}, que difiere de la {term-lift-force} generada por las {term-wing}s. Este capítulo se refiere a la {term-lift-force} como el aire ascendente dentro de una corriente ascendente y al descenso como el aire descendente en corrientes descendentes.
 
-== Planeo de Térmicas
+== Vuelo Térmico
 
 El planeo de {term-thermal}s exitoso requiere varios pasos: localizar la {term-thermal}, entrar en la {term-thermal}, centrar dentro de la {term-thermal} y salir de la {term-thermal}.
 
@@ -33,7 +33,7 @@ A medida que cualquier {term-thermal} asciende desde la superficie y alcanza el 
 
 La falta de {term-cu} no significa necesariamente falta de {term-thermal}s. Si el aire en altura está lo suficientemente frío y la temperatura de la superficie se calienta suficientemente, las {term-thermal}s se forman incluso sin suficiente humedad para la formación de {term-cumulus}s. Estas {term-thermal}s secas o «{term-thermal}s azules» pueden ser tan fuertes como sus contrapartes con {term-cumulus}. Los pilotos de {term-glider}es a veces encuentran estas {term-thermal}s por casualidad mientras planean. Sin embargo, pueden existir otros indicadores y pueden hacer que la búsqueda de {term-thermal}s sea menos aleatoria.
 
-== Otros indicadores de {term-thermal}s
+=== Otros indicadores de {term-thermal}s
 
 Otro {term-glider} circulando puede indicar la presencia de una {term-thermal}. Las aves circulando también pueden indicar actividad {term-thermal}. Las {term-thermal}s tienden a transportar varios aerosoles, como polvo, hacia arriba con ellas. Cuando una {term-thermal} alcanza una inversión, perturba el aire estable por encima, se extiende horizontalmente y deposita algunos de los aerosoles en ese nivel. Dependiendo del ángulo del sol (y del tipo de gafas de sol del piloto), las cúpulas de neblina pueden indicar {term-thermal}s secas. Si el aire contiene suficiente humedad, las cúpulas de neblina a menudo se forman justo antes de los primeros mechones de {term-cu}.
 
@@ -47,7 +47,7 @@ image::10/fig-10-03.rayos-sol-concentrados-area-menor-ladera.png[width=300]
 
 Existen otros marcadores sutiles en el suelo. Un campo abierto rodeado de sombra usualmente resulta en un espacio donde el aire se calienta repentinamente. Un pueblo rodeado de campos verdes resulta en un aumento de temperatura ya que las superficies del pueblo absorben más calor que la tierra de cultivo circundante. Del mismo modo, un campo amarillento cosechado se calienta más que un campo húmedo adyacente con vegetación verde. Las áreas húmedas tienden a usar la radiación del sol para evaporar la humedad en lugar de calentar el suelo. Un campo con un afloramiento rocoso podría producir mejores {term-thermal}s ya que las rocas no pueden retener humedad. Los afloramientos rocosos a lo largo de una pendiente nevada se calientan mucho más eficientemente que los campos de nieve circundantes. Mientras que buscar características más pequeñas funciona a altitudes más bajas, los pilotos pueden usar su conocimiento del calentamiento del suelo cuando están a mayores altitudes evitando áreas como un valle con muchos lagos.
 
-== Viento
+=== Viento
 
 El viento influye en la estructura y ubicación de las {term-thermal}s. La {term-wind-shear} fuerte puede romper las {term-thermal}s y tapar efectivamente su altura. Los vientos fuertes en la superficie y en altura a menudo rompen las {term-thermal}s, haciéndolas turbulentas y difíciles o imposibles de usar. Por otro lado, como se discutió en el Capítulo 9, Vuelo a Vela y Meteorología, los vientos moderadamente fuertes sin demasiada {term-wind-shear} de viento a veces organizan las {term-thermal}s en largas calles, que pueden proporcionar {term-lift-force} cuando se encuentran a lo largo de una ruta de travesía. <<fig-10-04>>
 
@@ -73,13 +73,13 @@ El aire fresco y estable también puede desplazarse con el viento. Los pilotos d
 .Agujero azul en un campo de {term-cumulus}s a sotavento de un lago
 image::10/fig-10-06.blue-hole-in-a-campo-of-cumulo-viento-en-cola-of.png[width=300]
 
-== La imagen completa
+=== La imagen completa
 
 Con un cielo lleno de {term-cu} y si planeando en la parte superior de la {term-lift-force} más fuerte, el piloto debería enfocarse en las {term-cu} y hacer elecciones basadas en las mejores nubes. A altitudes más bajas, los pilotos de {term-glider}es pueden encontrar difícil asociar {term-thermal}s con nubes arriba. Si eso sucede, el piloto debería usar las {term-cu} para encontrar áreas que parecen generalmente activas y luego enfocarse más en indicadores basados en el suelo, como remolinos de polvo, una ladera con sol sobre ella o un ave circulando. Cuando se está abajo, el piloto puede aceptar ascensos débiles. A menudo la {term-thermal} cicla de nuevo y recompensa la paciencia.
 
 Al buscar {term-lift-force} usando la mejor velocidad para volar, la velocidad de L/D máxima más correcciones por descenso y cualquier viento, permite a un piloto de {term-glider} cubrir la mayor cantidad de terreno para una {term-stall} de altitud dada. Vea el Capítulo 5, Rendimiento del Planeador, para revisar el desplazamiento de la polar del {term-glider} por vientos y descenso.
 
-== Entrando en una Térmica
+=== Entrando en una Térmica
 
 Curiosamente, el descenso aumentado a menudo indica una {term-thermal} cercana. A continuación, el piloto siente una fuerza G positiva sutil u obvia, dependiendo de la fuerza de la {term-thermal}. La indicación «de asiento» de {term-lift-force} ocurre más rápido que lo que muestra cualquier {term-variometer}, que se retrasa ligeramente. El piloto debería reducir la velocidad a entre L/D y mínimo descenso y notar la tendencia de la aguja del {term-variometer} (debería ser una subida) o el {term-variometer} de audio pasando del zumbido a pitidos más rápidos. En el momento correcto en la {term-lift-force} anticipada y en un escenario perfecto, el piloto entra en un giro coordinado en el ángulo de alabeo y velocidad correctos para centrarse dentro de la {term-thermal}.
 
@@ -93,7 +93,7 @@ image::10/fig-10-07.effect-of-planeador-being-allowed-to-inclinacion.png[width=3
 
 A medida que un {term-glider} encuentra {term-lift-force} en un lado, el {term-wing} en la {term-lift-force} más fuerte comenzará a levantarse, y algunos {term-glider}es tenderán a resbalar lateralmente como lo indica la cinta de guiñada. El piloto de {term-glider} debería aplicar presión de {term-aileron} para bajar el {term-wing} que asciende no solo para nivelar las {term-wing}s, sino para alabeonar más para comenzar el giro hacia las columnas de aire ascendente.
 
-== Dentro de una Térmica
+=== Dentro de una Térmica
 
 El ascenso óptimo ocurre cuando el piloto usa el ángulo de alabeo y velocidad apropiados después de entrar en una {term-thermal}. Bajo condiciones ideales, los pilotos usan el ángulo de alabeo más poco profundo posible a la {term-min-sink-speed}. Sin embargo, el tamaño de la {term-thermal} y la turbulencia asociada usualmente no favorecen esta combinación.
 
@@ -139,7 +139,7 @@ Los nuevos pilotos de {term-glider}es deberían desarrollar proficiencia en cent
 
 Otros {term-glider}es también pueden ayudar a los pilotos a centrar una {term-thermal}. Si un {term-glider} cercano parece estar ascendiendo mejor, el piloto puede ajustar el giro para volar dentro del mismo círculo. De manera similar, si se nota un ave planeando cerca, un giro hacia el ave planeando puede llevar a un mejor ascenso. Las aves planeadoras tienen un radio de giro mucho más apretado que un {term-glider}, por lo que pueden permanecer en el centro más fuerte de la {term-lift-force} mientras el piloto de {term-glider} circula alrededor de ellas.
 
-== Evitación de Colisiones
+=== Prevención de Colisiones
 
 La evitación de colisiones toma prioridad sobre la eficiencia aerodinámica cuando se comparte una {term-thermal} con otros {term-glider}es. El primer {term-glider} en una {term-thermal} establece la dirección del giro, y todos los demás {term-glider}es que se unan a la {term-thermal} deberían girar en la misma dirección. Idealmente, dos {term-glider}es en una {term-thermal} a la misma altura o casi deberían posicionarse uno frente al otro para que puedan mantener separación visual. <<fig-10-12>> Un piloto debería entrar en una {term-thermal} de una manera que no interfiera con los {term-glider}es que ya están en la {term-thermal}. Tirar hacia arriba para perder velocidad excesiva en el medio de una {term-thermal} concurrida crearía un peligro para otros {term-glider}es. La técnica segura involucra perder velocidad antes de llegar a la {term-thermal}. Anunciar la entrada a los otros {term-glider}(es) por radio (si está equipado) puede mejorar la evitación de colisiones.
 
@@ -149,15 +149,15 @@ image::10/fig-10-12.proper-positioning-with-two-planeadores-at-the.png[width=300
 
 Diferentes tipos de {term-glider}es en la misma {term-thermal} pueden tener diferentes velocidades de mínimo descenso, lo que hace más difícil para cada {term-glider} permanecer directamente frente al otro. Cada piloto debería permanecer en contacto visual con el otro {term-glider}. La comunicación por radio puede ayudar a evitar una colisión, pero demasiada conversación obstruye la frecuencia y puede impedir la transmisión del mensaje de otro piloto. Los pilotos no deberían volar directamente arriba o debajo de otro {term-glider} en una {term-thermal} ya que las diferencias en rendimiento, o incluso cambios menores en velocidad, pueden llevar a cambios de altitud inesperados. Si un piloto pierde de vista a otro {term-glider} en una {term-thermal} y no puede verificar la posición del otro {term-glider} mediante una llamada de radio, el piloto debería dejar la {term-thermal}. Después de 10 o 20 segundos, el piloto puede regresar para unirse de nuevo a la {term-thermal} en una mejor posición para ver el otro tráfico. Las prácticas inseguras de planeo de {term-thermal}s hacen una colisión aérea más probable, lo que podría resultar en fatalidades.
 
-== Saliendo de una Térmica
+=== Saliendo de una Térmica
 
 Al salir de una {term-thermal}, los métodos apropiados pueden preservar alguna altitud. El piloto debería aumentar la velocidad según sea necesario para penetrar cualquier descenso a menudo encontrado en el borde de la {term-thermal} y salir de la {term-thermal} de una manera que no dificulte o ponga en peligro a otros {term-glider}es. Mientras circula, el piloto escanea los 360° completos del cielo. Esto permite que el piloto verifique continuamente otros tráficos en las cercanías y decida a dónde ir para el siguiente ascenso. Los pilotos experimentados a menudo deciden a dónde ir siguiente mientras todavía están en {term-lift-force}.
 
-== Gestionando expectativas
+=== Gestión de Expectativas
 
 Los pilotos de {term-glider}es deberían adaptarse rápidamente a lo que sea que el aire tenga para ofrecer en el momento. Mientras que las técnicas de planeo de {term-thermal}s se vuelven naturales con la práctica, los pilotos deberían esperar aterrizar temprano si no pueden encontrar {term-lift-force} suficiente como parte de la experiencia normal de vuelo.
 
-== Planeo de Cresta/Ladera
+== Vuelo de Ladera
 
 El planeo eficiente de ladera (también llamado planeo de cresta o carrera de cresta) involucra volar en la corriente ascendente a lo largo del lado de barlovento de una cresta. Aunque el concepto parece simple, el planeo de cresta presenta peligros significativos y demandas sobre el {term-glider} y el piloto. La planificación exhaustiva pre-vuelo y la planificación de ruta incluyen la selección de cresta basada en los vientos actuales.
 
@@ -215,7 +215,13 @@ Al volar cerca de la cresta, use velocidad extra por seguridad—la velocidad ex
 .Al volar cerca de una cresta, los pilotos usan velocidad extra para más control y para pasar rápidamente a través del descenso
 image::10/fig-10-19.when-flying-close-to-a-ladera-pilots-use-extra.png[width=300]
 
-=== Procedimientos para Vuelo Seguro
+=== Trampas
+
+Dado que existen trampas o peligros durante el planeo de cresta, los pilotos de {term-glider}es deberían obtener instrucción cuando aprendan por primera vez a planeo de cresta o ladera. Los pilotos deberían acercarse al lado de barlovento de la cresta en un ángulo de 45°, para que pueda ocurrir una salida rápida lejos de la cresta en ausencia de {term-lift-force}.
+
+Al acercarse a la cresta desde sotavento, acérquese a la cresta en diagonal. Si se encuentra descenso excesivo, este método permite un giro rápido lejos de la cresta.
+
+=== Procedimientos para un Vuelo Seguro
 
 Varios procedimientos mejoran el planeo seguro de ladera y permiten que muchos {term-glider}es usen la misma cresta simultáneamente. Los párrafos siguientes y la <<fig-10-20>> explican los procedimientos.
 
@@ -240,6 +246,8 @@ Con viento soplando en un ángulo a la cresta, las cuencas o espolones, formacio
 [[fig-10-21]]
 .Evite el descenso en el lado de sotavento de los espolones desviándose alrededor de ellos
 image::10/fig-10-21.avoid-sink-on-the-viento-en-cola-lateral-of-spurs.png[width=300]
+
+=== Sustentación de Ladera y Vuelo Térmico
 
 Las combinaciones de {term-thermal}s con {term-lift-force} de ladera pueden ocurrir, y el planeo de cresta puede proporcionar {term-lift-force} cuando las {term-thermal}s se apagan temporalmente. Un piloto encontrando una {term-thermal} a lo largo de la cresta puede hacer una serie de giros en S con cada giro contra el viento. El {term-glider} puede derivar de vuelta a la {term-thermal} después de cada giro si es necesario. El piloto de {term-glider} nunca debería continuar el giro hacia la cresta. La velocidad ayuda a controlar cualquier encuentro con descenso fuerte que puede ocurrir en los lados de la {term-thermal}. La maniobra toma práctica, pero cuando se hace apropiadamente, el piloto puede hacer un ascenso rápido en la {term-thermal} a un punto bien por encima de la cima de la cresta, donde pueden comenzar giros de 360° de termalización. Incluso cuando está bien por encima de la cresta, el piloto debería usar precaución y asegurar que el {term-glider} no derive hacia el descenso de sotavento durante un ascenso lento. Antes de intentar un giro en S, el piloto debería asegurar que no interferiría con otro tráfico a lo largo de la cresta. <<fig-10-22>>
 
@@ -299,7 +307,7 @@ La {term-density-altitude} y la velocidad verdadera aumentan a medida que el {te
 .A 10,000' MSL, se necesita un 44 por ciento más de espacio para completar un giro debido a la {term-density-altitude}
 image::10/fig-10-28.at-10000-msl-44-percent-more-room-is-needed-to.png[width=300]
 
-== Planeo de Ondas
+== Vuelo de Onda
 
 Casi todos los vuelos de {term-glider}es de gran altitud usan ondas de sotavento de montaña como la fuente primaria de {term-lift-force}. Como se cubrió en el Capítulo 9, Vuelo a Vela y Meteorología, los sistemas de ondas de sotavento pueden contener turbulencia de rotor separada y flujo suave de onda. El uso de ondas de sotavento para planeo de travesía ha permitido vuelos que exceden 1,500 millas, con velocidades promedio de más de 100 mph. <<fig-10-29>>
 
@@ -307,7 +315,7 @@ Casi todos los vuelos de {term-glider}es de gran altitud usan ondas de sotavento
 .Nubes de rotor y de gorro con lenticulares arriba
 image::10/fig-10-29.rotor-and-cap-nubes-with-lenticulars-above.png[width=300]
 
-=== Preparación pre-vuelo
+=== Preparación Pre-vuelo
 
 Áreas especiales dentro de los Estados Unidos continentales permiten operaciones de {term-glider}es en el espacio aéreo Clase A por encima de 18,000 pies MSL bajo reglas de vuelo visual (VFR). El Control de Tráfico Aéreo (ATC) puede abrir una «ventana de onda» a una altitud específica en horarios específicos. Cada ventana de onda tiene su propio conjunto de procedimientos acordados por el ATC a través de una Carta de Acuerdo. Los pilotos de {term-glider}es deberían entender las disposiciones especiales en la carta de acuerdo antes de volar dentro de una ventana de onda.
 
@@ -419,7 +427,7 @@ Algunos de los peligros y precauciones asociados con el planeo de onda incluyen:
 Los vuelos bajo una nube de rotor pueden encontrar altas tasas de descenso y los pilotos deberían acercarse a esas áreas con precaución.
 ====
 
-== Planeo de Zonas de Convergencia
+=== Vuelo en Zonas de Convergencia
 
 Los pilotos pueden detectar más fácilmente una zona de {term-convergence} en presencia de nubes {term-cumulus}. Pueden aparecer como una sola {term-cloud-street} bien definida recta o curva. El borde de un campo de {term-cumulus}s puede marcar {term-convergence} entre una masa de aire relativamente húmeda o inestable de mesoescala y una más seca o estable. A menudo, los {term-cumulus}s a lo largo de líneas de {term-convergence} tienen una base más baja en un lado.
 
@@ -429,7 +437,7 @@ La mejor técnica de planeo para este tipo de {term-lift-force} depende de la na
 
 La {term-lift-force} de zona de {term-convergence} a veces puede volverse turbulenta, especialmente si el aire se mezcla de diferentes fuentes, como a lo largo de un frente de brisa marina. La aspereza general podría indicar una línea de {term-convergence}. Cuando {term-thermal}s estrechas, ásperas y fuertes existen dentro de la línea de {term-convergence}, el piloto puede trabajar estas áreas como cualquier otra {term-thermal} difícil usando ángulos de alabeo más pronunciados y más velocidad para maniobrabilidad.
 
-== Fuentes combinadas de corrientes ascendentes
+=== Fuentes Combinadas de Ascendencia
 
 Las fuentes de {term-lift-force} se categorizan en cuatro tipos: {term-thermal}, ladera, onda y {term-convergence}. A menudo, existe más de un tipo de {term-lift-force} al mismo tiempo, como {term-thermal}s con {term-lift-force} de ladera, {term-thermal}s que conducen a una onda existente, zonas de {term-convergence} que mejoran {term-thermal}s, ondas {term-thermal}s, y {term-lift-force} de onda y ladera. En terreno montañoso, los cuatro tipos de {term-lift-force} pueden existir en un solo día. El piloto de {term-glider} necesita permanecer mentalmente ágil para tomar ventaja de varios tipos y ubicaciones de aire ascendente durante el vuelo.
 

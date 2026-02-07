@@ -1,11 +1,18 @@
 [[cap06]]
 = Pre-vuelo y operaciones en tierra
 
+[abstract]
+--
+Este capítulo cubre los procedimientos de pre-vuelo y operaciones en tierra para planeadores, incluyendo el montaje, almacenamiento, amarre, manejo en tierra, inspección del equipo de lanzamiento, inspección pre-vuelo del planeador, listas de verificación pre-lanzamiento, y el cuidado y mantenimiento preventivo del planeador.
+--
+
 == Introducción
 
 La operación segura de un {term-glider} depende del montaje cuidadoso y el pre-vuelo. Las técnicas de montaje apropiadas, seguidas por una inspección cercana del {term-glider} usando listas de verificación contenidas en el Manual de Vuelo del Planeador/Manual de Operaciones del Piloto (GFM/POH), proporcionan esa seguridad. Los pilotos deberían conducir los procedimientos de lanzamiento sistemática y consistentemente para cada vuelo usando métodos apropiados y trabajo en equipo. Los estudiantes y pilotos no familiarizados con el montaje de {term-glider}es deberían buscar instrucción de un instructor de vuelo de {term-glider}.
 
 == Montaje y almacenamiento
+
+=== Transporte en remolque
 
 El personal preparándose para montar un {term-glider} debería considerar los siguientes elementos: ubicación, número de ayudantes, herramientas, piezas y listas de verificación que detallan los procedimientos de montaje apropiados. El GFM/POH debería contener listas de verificación para montar y hacer pre-vuelo a un {term-glider}. Si no, el personal debería desarrollar una y seguirla. Los pilotos de {term-glider}es deberían evitar distracciones que puedan ocurrir durante el montaje y verificar los documentos requeridos a bordo del {term-glider}.
 
@@ -40,7 +47,7 @@ image::06/fig-06-03.componentes-of-a-planeador-stored-and-transported.png[width=
 
 Al remolcar un remolque, aplican las precauciones estándar de remolque de vehículos motorizados y la experiencia.
 
-== Amarre y aseguramiento
+=== Amarre y aseguramiento
 
 Al amarrar en aeropuertos compartidos por aeronaves motorizadas, la explosión de la hélice puede causar daño a un {term-glider} inadecuadamente asegurado. El personal debería amarrar un {term-glider} con el canopy cerrado y asegurado antes de dejarlo desatendido. Si es posible, el punto de amarre debería enfrentar el viento. Los amarres permanentes a menudo usan correas, cuerdas o cadenas para las {term-wing}s y cola y no se ajustan para variaciones en el viento. Los pilotos deberían llevar un kit de amarre apropiado para un viaje de travesía si no existe un amarre permanente en el destino.
 
@@ -156,7 +163,7 @@ Después de limpiar, se puede aplicar una capa de cera o sellador a {term-glider
 
 Un propietario o piloto puede realizar reparaciones menores en un {term-glider} de fibra de vidrio como arreglar un rasguño o una astilla. Las personas deberían consultar a un experto en fibra de vidrio antes de hacer cualquier reparación menor y usar piezas y materiales aprobados al conducir estas reparaciones.
 
-== Mantenimiento preventivo
+=== Mantenimiento preventivo
 
 Los pilotos pueden conducir mantenimiento preventivo en su {term-glider}. El mantenimiento preventivo no involucra operaciones de ensamblaje complejas. Para la lista de actividades de mantenimiento permisibles realizadas por el piloto y para más información sobre mantenimiento preventivo, referirse al Apéndice A de 14 CFR Parte 43, Alteraciones Mayores, Reparaciones Mayores y Mantenimiento Preventivo.
 

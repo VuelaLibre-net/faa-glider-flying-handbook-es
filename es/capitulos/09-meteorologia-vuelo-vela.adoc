@@ -13,7 +13,7 @@ Sin la atmósfera, no existirían el viento, las nubes, la precipitación ni la 
 .Masa atmosférica por altitud
 image::09/fig-09-01.atmosferica-masa-by-altitud.png[width=300]
 
-== Composición
+=== Composición
 
 Dos gases, nitrógeno (N2) y oxígeno (O2), comprenden el 99 por ciento del volumen de la atmósfera total en promedio. El volumen restante contiene varios gases traza y pequeñas cantidades de agua, hielo, polvo y otras partículas. Mientras que la proporción de nitrógeno a oxígeno permanece igual hasta aproximadamente 260,000 pies, la cantidad de vapor de agua (H2O) en el aire puede variar. Por ejemplo, el contenido de vapor de agua sobre áreas tropicales y océanos representa hasta el 4 por ciento de la atmósfera por volumen y desplaza parte del gas nitrógeno y oxígeno. Por el contrario, el vapor de agua en la atmósfera sobre desiertos y a altas altitudes consiste en mucho menos del 1 por ciento del volumen total. <<fig-09-02>>
 
@@ -23,27 +23,27 @@ image::09/fig-09-02.the-composicion-of-the-atmosfera.png[width=300]
 
 Aunque el vapor de agua existe en la atmósfera en pequeñas cantidades en comparación con el nitrógeno y oxígeno, tiene un impacto significativo en el tiempo meteorológico. Los estados físicos adicionales del vapor de agua como líquido y sólido contribuyen a la formación de nubes, precipitación, niebla y hielo.
 
-== Mediciones atmosféricas
+=== Mediciones Atmosféricas
 
 Las mediciones de temperatura, densidad y presión proporcionan información sobre la atmósfera. Estas variables cambian con el tiempo, y combinadas con diferencias verticales y horizontales, las mediciones y tendencias comprenden datos para informes meteorológicos y pronósticos.
 
-== Temperatura
+==== Temperatura
 
 Las personas a menudo describen la temperatura del aire en términos de si el aire se siente caliente o frío. En aviación, las mediciones cuantitativas usan la escala Celsius (°C) o la escala Fahrenheit (°F). La temperatura de la atmósfera depende de la energía cinética promedio de las moléculas. Las moléculas que se mueven rápidamente tienen alta energía cinética y temperaturas más altas. Por el contrario, las moléculas que se mueven lentamente tienen menor energía cinética y temperaturas más bajas.
 
-== Densidad
+==== Densidad
 
 La densidad de cualquier sustancia da su masa por unidad de volumen. La baja densidad del aire significa un número menor de moléculas de aire (o moléculas menos masivas en promedio) en un volumen especificado, mientras que la alta densidad del aire significa un mayor número de moléculas de aire (o moléculas más masivas en promedio) en un volumen especificado.
 
-== Presión
+==== Presión
 
 Las moléculas en un volumen de aire no solo poseen una cierta temperatura y densidad, sino que también chocan con otras moléculas de gas y empujan objetos cercanos. Las colisiones resultan en presión medible o una fuerza por unidad de área. Dado que la fuerza creada por moléculas de gas en movimiento actúa igualmente en todas las direcciones, las mediciones localizadas de presión de gas usando equipo calibrado deberían ser iguales entre sí. Las unidades comunes de medida para presión incluyen libras por pulgada cuadrada (lb/in²), pulgadas de mercurio (\"Hg) y las unidades equivalentes de milibares (mb) o hectopascales (hPa).
 
-== Ley de los Gases Ideales
+=== Ley de los Gases Ideales
 
 ¿Cómo se relacionan la temperatura, presión y densidad entre sí? El aire seco se comporta casi como un gas ideal, lo que significa que obedece la ley de los gases ideales P/DT = R, donde P es presión, D es densidad, T es temperatura y R es una constante. En general, la densidad, presión y temperatura de una parcela de aire cambian de manera predecible de acuerdo con las variables en la fórmula.
 
-== Atmósfera estándar
+=== Atmósfera Estándar
 
 Para proporcionar una referencia común usada para temperatura y presión, los científicos establecieron la Atmósfera Estándar Internacional (ISA). Esta atmósfera estándar usa una distribución vertical representativa de variables de temperatura y presión para calibraciones de {term-altimeter} de presión. Las condiciones estándar también son un punto de partida para la mayoría de los datos de rendimiento de aeronaves. Al nivel del mar, la atmósfera estándar consiste en una presión barométrica de 29.92 \"Hg, 1,013.2 mb o 14.7 lb/in², y una temperatura de 15 °C o 59 °F.
 
@@ -53,7 +53,7 @@ Dado que la temperatura normalmente disminuye con la altitud a una tasa predecib
 .Temperaturas de la atmósfera estándar
 image::09/fig-09-03.standard-atmosfera-temperatures.png[width=300]
 
-== Capas de la Atmósfera
+=== Capas de la Atmósfera
 
 Los científicos dividen la atmósfera de la tierra en cinco capas: troposfera, estratosfera, mesosfera, termosfera y exosfera. <<fig-09-04>> La tasa de cambio en temperatura a medida que aumenta la altitud define estas capas. La capa más baja, llamada troposfera, exhibe una disminución promedio de temperatura desde la superficie de la tierra hasta aproximadamente 36,000 pies sobre el nivel medio del mar (MSL). La troposfera se extiende a una altitud más alta sobre los trópicos y una altitud más baja sobre las regiones polares. También varía estacionalmente, siendo más alta durante el verano y más baja durante el invierno.
 
@@ -83,9 +83,11 @@ El frente de brisa marina puede ocurrir solo bajo ciertas condiciones sinóptica
 
 Los pilotos interpretando pronósticos deben comenzar con la macroescala, que identifica patrones de gran escala que pueden producir buenas condiciones de planeo. Esto varía de sitio a sitio y depende de si el objetivo es vuelo de {term-thermal}, cresta u onda. Luego, las características de mesoescala deben considerarse. Esto puede incluir elementos como la nubosidad y la estructura de temperatura de la masa de aire detrás de un frente frío, así como la cantidad de lluvia producida por el frente. Desarrollar un entendimiento de los tipos de {term-lift-force} y los entornos en los que se forman, puede ayudar a un piloto a predecir condiciones meteorológicas locales que afectan los vuelos de {term-glider}es.
 
+== Térmicas
+
 Las {term-thermal}s son la forma más común de aire ascendente usada para sostener el vuelo de {term-glider}es. Los párrafos en esta sección exploran temas relacionados con {term-thermal}s, incluyendo estructura {term-thermal}, estabilidad atmosférica y masas de aire propicias para vuelo en {term-thermal}s.
 
-== Forma y Estructura de la Térmica
+=== Forma y Estructura de la Térmica
 
 La convección describe una forma de transferencia de calor que involucra el movimiento o flujo de masa en un fluido (gas o líquido). Las corrientes de convección ascendentes de aire o «{term-thermal}s» son un medio por el cual la atmósfera transfiere energía {term-thermal} verticalmente. Las {term-thermal}s no necesariamente se desarrollan en un día cálido y soleado. Diferencias sutiles en la atmósfera hacen la diferencia entre un día cálido y soleado con muchas {term-thermal}s y un día cálido y soleado que no produce {term-thermal}s. Los pilotos de {term-glider}es que entienden las condiciones que crean {term-thermal}s pueden usar sus propias habilidades de pronóstico para predecir actividad {term-thermal}.
 
@@ -133,7 +135,7 @@ Una inversión ocurre cuando la troposfera se calienta a medida que aumenta la a
 
 Aunque la humedad en forma de vapor de agua constituye un pequeño porcentaje de la atmósfera, puede afectar la tasa de lapso de temperatura de una parcela de aire ascendente. Una parcela de aire ascendente se enfría a la TAS hasta que alcanza su punto de rocío, momento en el cual el vapor de agua en la parcela comienza a condensarse. El proceso de condensación libera calor, referido como calor latente, dentro de la parcela de aire ascendente. Por lo tanto, una parcela de aire saturado ascendiente se enfría a una tasa más baja que la TAS. Esta tasa de lapso adiabática saturada (TASat), varía sustancialmente con la altitud. A altitudes más bajas, se aproxima a 1.2 °C por cada 1,000 pies, mientras que a altitudes medias aumenta a 2.2 °C por cada 1,000 pies. Por encima de aproximadamente 30,000 pies, existe poco vapor de agua para condensarse, y la TASat se aproxima a la TAS.
 
-== Masas de Aire Propicias para Vuelo de Térmicas
+=== Masas de Aire Propicias para Vuelo de Térmicas
 
 Generalmente, las mejores masas de aire para {term-thermal}s son aquellas con aire frío en altura, con condiciones lo suficientemente secas para permitir que la radiación de calentamiento del sol caliente la superficie y para limitar la formación extensiva de nubes {term-cumulus}. Este aire frío en altura puede originarse después del paso de un frente frío del Pacífico en el Oeste de los Estados Unidos o de regiones continentales polares como el interior de Canadá en el Este de los Estados Unidos. En ambos casos, la alta presión construyéndose en la región a menudo incluye una inversión en altura, que evita que los {term-cumulus}s crezcan en chubascos de lluvia o tormentas eléctricas. Sin embargo, a medida que la alta presión se construye después del segundo o tercer día, la inversión a menudo desciende hasta el punto en que las {term-thermal}s adecuadas para planeo ya no se forman. Esto puede llevar a condiciones cálidas y soleadas, pero muy estables. Los frentes que llegan demasiado juntos también pueden causar planeo postfrontal pobre, ya que las nubes altas del siguiente frente evitan que la superficie se caliente lo suficiente. Los frentes fríos muy superficiales desde la dirección noreste (con aire frío solo de uno o dos mil pies de profundidad) a menudo tienen un efecto estabilizador a lo largo de las llanuras directamente al este de las Montañas Rocosas. Esto se debe al aire de bajo nivel fresco socavando el aire más cálido en altura que fluye desde el oeste.
 
@@ -143,7 +145,7 @@ En el sudoeste desértico, la Gran Cuenca y el oeste intermontañoso, las buenas
 .Flujo típico del monzón de Norteamérica
 image::09/fig-09-11.typical-north-american-monsoon-flow.png[width=300]
 
-=== Calles de Nubes
+==== Calles de Nubes (Cloud Streets)
 
 Las nubes {term-cumulus} a menudo aparecen distribuidas aleatoriamente a través del cielo, especialmente sobre terreno relativamente plano. Bajo las condiciones correctas, sin embargo, las nubes {term-cumulus} pueden alinearse en una banda larga, llamada {term-cloud-street}. Una {term-cloud-street} individual puede extenderse 50 millas o más mientras que un campo entero de calles de nubes puede extenderse cientos de millas. El espaciado entre calles es típicamente tres veces la altura de las nubes. Las calles de nubes se alinean paralelas a la dirección del viento e indican el patrón de aire ascendente y descendente. Los pilotos de {term-glider}es a menudo pueden volar muchas millas con poca o ninguna circulación, a veces logrando relaciones de planeo que exceden ampliamente el valor en aire quieto volando cerca y paralelo a las nubes mientras evitan el espacio entre las nubes. Así, las calles de nubes marcan una ubicación ideal para volar un vuelo de travesía a favor del viento.
 
@@ -165,7 +167,7 @@ image::09/fig-09-13.nube-street-termica-onda.png[width=300]
 
 Las llamadas ondas {term-cumulus} pueden existir donde las nubes {term-cumulus} no se organizan en calles. Las ondas {term-cumulus} requieren una inversión o capa estable y viento creciente por encima de las nubes {term-cumulus}. Sin embargo, la {term-wind-shear} direccional no es necesaria. Las ondas {term-cumulus} también pueden ser de corta duración y difíciles de trabajar por cualquier período de tiempo. Una excepción ocurre cuando la nube {term-cumulus} se ancla a alguna característica, como una línea de cresta o una corta cordillera de montañas. Como nota {term-final}, las ondas {term-thermal}s también pueden formarse sin nubes. Sin nubes, la posible influencia de una cresta o montaña en crear la {term-lift-force} de onda se vuelve difícil de determinar.
 
-== Tormentas eléctricas
+== Tormentas Eléctricas
 
 Los pronosticadores a veces usan el término «convección profunda» para referirse a la convección que asciende a altos niveles, lo que usualmente significa tormentas eléctricas, y usan el término «actividad convectiva» para referirse a tormentas eléctricas. La tremenda cantidad de energía asociada con nubes cumulonimbus proviene de la liberación de calor latente a medida que ocurre la condensación dentro de la nube creciente. Mientras una atmósfera inestable puede proporcionar grandes condiciones para la formación de {term-thermal}s, una atmósfera que es húmeda e inestable puede crear nubes cumulonimbus (Cb) o nubes de tormenta. Las nubes Cb son el marcador estándar reconocido de tormentas eléctricas. Cuando el Cb se construye suficientemente, cambia de estado de tormenta de lluvia a estado de tormenta eléctrica. No todas las formaciones grandes de {term-cumulus}s precipitantes están acompañadas por rayos y truenos, pero la presencia de estas nubes indica que existen condiciones peligrosas o pueden intensificarse.
 
@@ -220,7 +222,7 @@ Los rayos son completamente impredecibles. El rayo en una tormenta eléctrica pu
 
 Las tormentas eléctricas severas a veces pueden generar tornados de unos pocos cientos a unos pocos miles de pies de ancho con vientos que pueden exceder 200 mph. Los tornados que no alcanzan el suelo se llaman nubes embudo. Los pilotos deberían considerar cualquier información de vigilancia o advertencia de tornado y mantenerse bien alejados de nubes embudo y tornados.
 
-== Meteorología para Vuelo de Cresta
+== Meteorología para Vuelo de Ladera
 
 El viento se desvía horizontalmente, verticalmente, o alguna combinación de ambas cuando encuentra topografía. El vuelo de cresta o ladera se basa en corrientes ascendentes producidas por el levantamiento mecánico del aire a medida que encuentra la ladera de barlovento de una colina, cresta o montaña.
 
@@ -264,7 +266,7 @@ El aire húmedo ascendiendo desde el contacto con una pendiente que se enfría s
 .Nube de gorro
 image::09/fig-09-20.cap-nube.png[width=300]
 
-== Ondas de Montaña
+=== Ondas de Montaña
 
 El viento soplando sobre montañas o crestas puede producir ondas, las más poderosas de las cuales han elevado {term-glider}es a más de 49,000 pies en los Estados Unidos. Con vientos fuertes y generalizados en altura y atmósfera estable, las ondas de montaña pueden extenderse a sotavento a lo largo de toda la longitud de una cordillera de montañas. Los pilotos se refieren a estas ondas como ondas de montaña, ondas de sotavento, ondas de sotavento de montaña u ondas estacionarias. Los pilotos han logrado vuelos de múltiples etapas de más de 2,000 kilómetros en ondas de montaña. Nótese que por breves períodos en algunas partes del mundo, las ondas de montaña alcanzan la estratosfera y reciben un impulso del vórtice polar. Los pilotos en un {term-glider} presurizado experimental alcanzaron altitudes por encima de 76,000 pies en 2018 usando este fenómeno en Argentina.
 
@@ -274,7 +276,7 @@ Las ondas de montaña difieren fundamentalmente de la {term-lift-force} de lader
 
 Las colinas pequeñas aisladas o montañas cónicas no forman ondas de sotavento clásicas. En algunos casos, forman ondas emanando en un ángulo al flujo de viento como ondas de agua creadas por la estela de un barco. Un pico individual puede requerir solo una milla o dos en la dimensión perpendicular al viento para que se formen ondas de sotavento de alta amplitud, aunque la {term-lift-force} de onda producida de esta manera ocurre en un área relativamente pequeña.
 
-=== Mecanismo de Formación de Ondas
+==== Mecanismo de Formación de Ondas
 
 El aire estable puede soportar la formación de ondas cuando una perturbación causa movimiento vertical del aire y el viento causa desplazamiento horizontal. Como se ilustra en la <<fig-09-21>> en la línea discontinua 1, la parcela de aire seco no saturado (representada por el punto rojo) se encuentra en reposo en su nivel de equilibrio. Después del desplazamiento hacia arriba de la parcela (línea discontinua 2), la parcela elevada, ahora más fría que el aire circundante, acelera hacia abajo hacia su nivel de equilibrio. Rebasa el nivel debido al momentum y sigue bajando. La línea discontinua 3 muestra que la parcela, ahora más caliente que el aire circundante y a una altitud más baja que en la línea discontinua 1, se mueve hacia arriba nuevamente. El proceso continúa con el movimiento eventualmente amortiguándose. El número de oscilaciones depende del desplazamiento inicial de la parcela y la estabilidad del aire. En la parte inferior de la figura, se ha añadido viento, ilustrando el patrón de onda que hace la parcela a medida que oscila verticalmente. Si no hubiera viento, una parcela desplazada verticalmente solo oscilaría arriba y abajo, mientras se amortigua en un punto sobre el suelo.
 
@@ -324,7 +326,7 @@ El vuelo de onda requiere planificación y equipo apropiado. Además, el vuelo e
 .Los Premios Lennie se otorgan por completar y documentar un vuelo de onda
 image::09/fig-09-25.lennie-awards-are-given-for-completing-and.png[width=300]
 
-== Convergencia
+==== Ascendencia de Convergencia
 
 La {term-lift-force} de {term-convergence} ocurre cuando dos masas de aire opuestas se encuentran, y el aire se mueve hacia arriba en respuesta a los vientos opuestos. El aire no necesita encontrarse de frente para subir. Dondequiera que el aire se amontone de esta manera, conduce a {term-convergence} y aire ascendente.
 
@@ -364,7 +366,7 @@ Para vuelos bajo reglas de vuelo visual (VFR), las regulaciones federales requie
 
 Para detalles adicionales sobre los servicios y productos meteorológicos disponibles, los pilotos de {term-glider}es deberían referirse a la versión actual del Manual de Conocimientos Aeronáuticos del Piloto, FAA-H-8083-25, Capítulo 12, Servicios Meteorológicos de Aviación y el Manual de Meteorología de Aviación, FAA-H-8083-28. Estas fuentes incluyen una abundancia de información. Un piloto familiarizado con los informes meteorológicos y pronósticos relevantes y disponibles puede analizar peligros meteorológicos y mitigar cualquier riesgo asociado. Los pilotos que entienden el tiempo pueden experimentar vuelo seguro en una variedad de condiciones.
 
-=== Informe meteorológico pre-vuelo
+=== Informe Meteorológico Pre-vuelo
 
 La FAA entrega servicios de vuelo a pilotos en los Estados Unidos continentales, Alaska, Hawái y Puerto Rico. Los servicios se proporcionan por teléfono al 1-800-WX-BRIEF, en internet a través del Portal Web de Servicios de Vuelo para Pilotos, y en persona (solo Alaska) en 17 Estaciones de Servicios de Vuelo (FSS). Los servicios incluyen, pero no se limitan a: informes meteorológicos pre-vuelo, planificación de vuelo y servicios de asesoramiento en vuelo.
 
@@ -374,11 +376,11 @@ Los informadores meteorológicos en realidad no predicen el tiempo; simplemente 
 .Pronóstico de planeo
 image::09/fig-09-30.vuelo-vela-forecast.png[width=300]
 
-=== Información relacionada con el tiempo
+=== Información Relacionada con el Tiempo
 
 Los pilotos también pueden encontrar información relacionada con el tiempo en Internet, incluyendo sitios dirigidos hacia la aviación. Los pilotos deberían verificar la actualidad y fuente de la información meteorológica proporcionada por cualquier sitio de Internet para asegurar que la información esté actualizada y sea precisa. Por ejemplo, una fuente de información precisa incluye el sitio web del NWS.
 
-=== Interpretación de Cartas Meteorológicas, Informes y Pronósticos
+== Interpretación de Cartas Meteorológicas, Informes y Pronósticos
 
 Saber cómo interpretar y entender la información meteorológica requiere conocimiento y práctica. Las cartas meteorológicas y los informes registran condiciones atmosféricas observadas en ciertas ubicaciones en tiempos específicos. El NWS recopila datos de fuentes automatizadas o de observadores entrenados usando instrumentos electrónicos, computadoras y observaciones personales así como observaciones de radiosonda o sondeos generados por modelo para producir los productos meteorológicos que los pilotos usan para determinar si un vuelo puede conducirse de manera segura. Esta misma información puede ser usada por los pilotos de planeo para determinar si existe {term-lift-force} suficiente para un vuelo planeado, dónde encontrarla y cuánto tiempo debería durar la {term-lift-force}.
 
