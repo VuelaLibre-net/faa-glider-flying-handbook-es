@@ -15,7 +15,7 @@ image::02/fig-02-01.componentes-of-a-planeador.png[width=600]
 
 El {term-fuselage} contiene los controles del {term-glider}, así como un asiento para cada ocupante. Las {term-wing}s y el empenaje se unen al {term-fuselage}. Los fabricantes típicamente usan compuestos, fibra de vidrio o fibra de carbono; sin embargo, en el pasado los fabricantes usaban madera, tela sobre tubos de acero, aluminio, o una combinación de estos materiales para construir un {term-fuselage}.
 
-== Alas
+== Introducción
 
 Cuando el aire fluye sobre las {term-wing}s de un {term-glider}, las {term-wing}s producen {term-lift-force} que permite a la aeronave mantenerse en el aire. Los diseños de {term-wing}s de {term-glider}es producen {term-lift-force} máxima con {term-drag} mínima.
 
@@ -31,7 +31,7 @@ image::02/fig-02-02.the-alerones-change-the-camber-or-curvature-of.png[width=300
 Los alerones se unen al borde de salida exterior de cada {term-wing}. Cuando el piloto mueve el control del {term-aileron} a la derecha del centro, el {term-aileron} derecho se deflecta hacia arriba <<fig-02-02>> y el {term-aileron} izquierdo se deflecta hacia abajo. En vuelo y con aire fluyendo sobre las {term-wing}s, estas deflexiones resultan en aumento de {term-lift-force} en el {term-wing} izquierda y disminución de {term-lift-force} en el {term-wing} derecha. El aumento de {term-lift-force} en el {term-wing} izquierda y la disminución de {term-lift-force} en el {term-wing} derecha aplican una fuerza para inclinar el {term-glider} hacia la derecha. Mover el control del {term-aileron} a la izquierda del centro deflecta el {term-aileron} derecho hacia abajo y el {term-aileron} izquierdo hacia arriba. Esto aplica una fuerza para inclinar el {term-glider} hacia la izquierda.
 --
 
-== Dispositivos de {term-lift-force}/{term-drag}
+=== Dispositivos de sustentación/resistencia
 
 Los {term-glider}es pueden usar otros dispositivos que modifican la {term-lift-force}/{term-drag} del {term-wing}. Estos dispositivos de alta {term-drag} incluyen spoilers, frenos de picado y flaps. <<fig-02-03>> Los spoilers se extienden desde la superficie superior de las {term-wing}s, alteran el flujo de aire y causan que el {term-glider} descienda más rápidamente. Los frenos de picado se extienden desde ambas superficies superior e inferior del {term-wing} y aumentan la {term-drag}. Algunos {term-glider}es de alto rendimiento tienen limitaciones de velocidad para los frenos de picado para prevenir daños estructurales.
 
@@ -82,11 +82,13 @@ image::02/fig-02-08.remolque-gancho-locations.png[width=600]
 
 Mientras que los aviones de remolque proporcionan el medio más común para lanzar un {term-glider} en los Estados Unidos, los {term-glider}es autolanzables con motores incorporados se han vuelto más comunes.
 
-== Planeadores autolanzables
+== Planta de potencia
+
+=== Planeadores autolanzables
 
 Hay dos tipos de {term-glider}es autolanzables: {term-motorglider}s de turismo y {term-glider}es autolanzables de alto rendimiento.
 
-=== Motoveleros de turismo
+==== Motoveleros de turismo
 
 Los {term-motorglider}s de turismo tienen un motor montado en la nariz y una hélice de plegado completo. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de aviones, están certificados en la categoría de {term-glider}.
 
@@ -94,7 +96,7 @@ Los {term-motorglider}s de turismo tienen un motor montado en la nariz y una hé
 .Un Grob G109B {term-motorglider} de turismo
 image::02/fig-02-09.a-grob-g109b-touring-motor-planeador.png[width=600]
 
-=== Planeadores de alto rendimiento
+==== Planeadores de alto rendimiento
 
 Los {term-glider}es autolanzables de alto rendimiento tienen motores que se retraen en el {term-fuselage} para {term-drag} mínima. <<fig-02-10>> La hélice puede plegarse, o simplemente alinearse con el motor. Esta configuración preserva una configuración aerodinámica suave de baja {term-drag}.
 
@@ -102,7 +104,7 @@ Los {term-glider}es autolanzables de alto rendimiento tienen motores que se retr
 .Un {term-glider} DG-808B de 18 metros de alto rendimiento en autolanzamiento
 image::02/fig-02-10.a-dg-808b-18-meter-high-performance-planeador-in.png[width=600]
 
-=== Planeadores con motores sustentadores
+=== Planeadores con motor sustentador
 
 Algunos {term-glider}es tienen motores sustentadores propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor sustentador para permanecer en el aire; sin embargo, los motores sustentadores no proporcionan suficiente potencia para lanzar el {term-glider} y pueden no tener suficiente potencia para compensar el aire descendente. <<fig-02-11>>
 
