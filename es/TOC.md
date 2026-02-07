@@ -11,7 +11,7 @@
   - Introducción
     - Diseño del Planeador
   - El Fuselaje
-  - Introducción
+    - Introducción
     - Alerones
     - Dispositivos de Sustentación/Resistencia
   - Empenaje
@@ -120,7 +120,7 @@
     - Boxear la Estela (Boxing the Wake)
     - Liberación del Remolque Aéreo
   - Procedimientos de Despegue por Lanzamiento Terrestre
-    - Ganchos de CG
+    - Ganchos de Centro de Gravedad (CG)
     - Señales
     - Velocidades de Remolque
     - Lanzamiento por Automóvil
@@ -269,7 +269,7 @@
     - Gancho de Remolque
     - Inspección del Anillo de Remolque
     - Inspección de la Cuerda de Remolque
-    - Informe de Aborto
+    - Briefing de Aborto
     - En el Aeropuerto
   - Señales en Tierra
   - Despegue y Ascenso
