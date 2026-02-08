@@ -58,6 +58,10 @@ Existe un subnivel "Introduction" bajo "The Fuselage" que carece de indentación
 **Posible interpretación:**  
 Probablemente debería estar indentado como subsección de "The Fuselage", o bien el primer "Introduction" del capítulo debería agrupar el contenido inicial incluyendo "Glider Design".
 
+### Capítulo 12: Figuras con numeración duplicada
+
+La numeración de la figura 12-9 se repite en dos capturas.
+
 **Estado en la traducción:**  
 ⚠️ Se ha optado por omitir el segundo "Introducción" redundante para mantener coherencia estructural.
 

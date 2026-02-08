@@ -196,16 +196,18 @@ Si se suelta el {term-tow-rope} antes del {term-landing}, el piloto normalmente 
 Un remolque de travesía seguro y exitoso requiere planificación. El piloto remolcador debe planificar para el consumo máximo de combustible para el {term-towplane} usado. El piloto debe estudiar la ruta de vuelo en cartas seccionales, planificar para cualquier desviación potencial, y cumplir con cualquier requisito de espacio aéreo.
 
 [[fig-12-09]]
-.Remolque de travesía.
-image::12/fig-12-09.on-a-travesia-remolque-the-remolque-piloto-and.png[width=600]
+.Cross-country tow.
+image::12/fig-12-09.cross-country-tow.png[width=600]
 
+[float-group]
+--
+[[fig-12-10]]
+.En un remolque de travesía, el piloto remolcador y el piloto de planeador deben tener comunicación de dos vías usando ya sea radios montadas en panel o radios portátiles.
+image::12/fig-12-10.two-way-communication-during-a-cross-country-tow.png[width=300,float=right]
 Dado que puede ocurrir una rotura del {term-tow-rope} sin aviso, el piloto remolcador debe planificar la ruta sobre terreno adecuado para un {term-landing} de {term-glider}. El piloto remolcador debe considerar la preparación física y mental de ambos pilotos para hacer el vuelo. En un vuelo particularmente largo, los pilotos pueden planificar paradas de descanso en el camino. Ambos pilotos deben permanecer hidratados y tener un sistema de orina, si es necesario. El uso apropiado del {term-trim} de la aeronave ayuda a mantener el vuelo dentro de la velocidad máxima de remolque del {term-glider} y ayuda a reducir la fatiga del piloto.
 
-La radio de dos vías proporciona comunicación esencial entre el {term-glider} y el {term-towplane} durante remolques de travesía. Los pilotos deben asegurar que las radios portátiles (si se usan) o las baterías del {term-glider} tengan carga suficiente antes del vuelo y realizar una prueba de radio como parte de las actividades previas al vuelo. <<fig-12-09>>
-
-[[fig-12-09]]
-.En un remolque de travesía, el piloto remolcador y el piloto de planeador deben tener comunicación de dos vías usando ya sea radios montadas en panel o radios portátiles.
-image::12/fig-12-09.on-a-travesia-remolque-the-remolque-piloto-and.png[width=600]
+La radio bidireccional proporciona comunicación esencial entre el {term-glider} y el {term-towplane} durante remolques de travesía. Los pilotos deben asegurar que las radios portátiles (si se usan) o las baterías del {term-glider} tengan carga suficiente antes del vuelo y realizar una prueba de radio como parte de las actividades previas al vuelo. <<fig-12-10>>
+--
 
 == Emergencias
 
@@ -215,7 +217,7 @@ El desarrollo de un plan de emergencia asegura el manejo exitoso de emergencias.
 
 Durante el {term-takeoff} y ascenso inicial, los pilotos deben recordar que la posición y la altitud determinan sus acciones en cualquier emergencia de baja altitud.
 
-####Fallo de Potencia del {term-towplane} en la Pista durante la Carrera de {term-takeoff}
+==== Fallo de Potencia del {term-towplane} en la Pista durante la Carrera de {term-takeoff}
 
 El siguiente plan aplica en caso de que el {term-towplane} tenga un fallo de potencia en la pista durante la carrera de {term-takeoff}:
 
@@ -245,11 +247,11 @@ Un {term-glider} ascendiendo excesivamente alto durante el {term-takeoff} levant
 
 ==== Fallo de Suelta del {term-glider}
 
-Si el piloto de {term-glider} no puede soltar, debe informar al piloto remolcador por medio de la radio de la aeronave o con la siguiente señal en el aire. El {term-glider} se moverá hacia el lado izquierdo del {term-towplane} y alabeará sus {term-wing}s. <<fig-12-10>> El piloto remolcador debe esperar unos segundos para asegurar que el alabeo de {term-wing}s señala un fallo de suelta. Una vez que el piloto remolcador determina que el {term-glider} no puede soltar, el {term-towplane} debe regresar al aeródromo y soltar al {term-glider} a una altitud segura sobre el campo.
+Si el piloto de {term-glider} no puede soltar, debe informar al piloto remolcador por medio de la radio de la aeronave o con la siguiente señal en el aire. El {term-glider} se moverá hacia el lado izquierdo del {term-towplane} y alabeará sus {term-wing}s. <<fig-12-11>> El piloto remolcador debe esperar unos segundos para asegurar que el alabeo de {term-wing}s señala un fallo de suelta. Una vez que el piloto remolcador determina que el {term-glider} no puede soltar, el {term-towplane} debe regresar al aeródromo y soltar al {term-glider} a una altitud segura sobre el campo.
 
-[[fig-12-10]]
+[[fig-12-11]]
 .Fallo de suelta del planeador.
-image::12/fig-12-10.planeador-soltado-fallo.png[width=600]
+image::12/fig-12-11.planeador-soltado-fallo.png[width=600]
 
 ==== Ni el {term-towplane} ni el {term-glider} Pueden Soltar
 
@@ -267,11 +269,11 @@ El piloto remolcador podría notar que el {term-glider} tiene un problema aún n
 
 ==== Suelta Inmediata
 
-El piloto remolcador alabea las {term-wing}s del {term-towplane} para indicar que el piloto de {term-glider} debe soltar inmediatamente. Esto podría ocurrir durante una emergencia crítica del {term-towplane} como fallo de motor o incendio. <<fig-12-11>>
+El piloto remolcador alabea las {term-wing}s del {term-towplane} para indicar que el piloto de {term-glider} debe soltar inmediatamente. Esto podría ocurrir durante una emergencia crítica del {term-towplane} como fallo de motor o incendio. <<fig-12-12>>
 
-[[fig-12-11]]
+[[fig-12-12]]
 .El avión remolcador indica que el piloto de planeador debe soltar inmediatamente.
-image::12/fig-12-11.the-towplane-indicates-the-planeador-piloto.png[width=600]
+image::12/fig-12-12.immediate-release-of-the-glider.png[width=600]
 
 == Resumen del Capítulo
 
