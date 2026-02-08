@@ -36,7 +36,7 @@ Este proyecto tiene como objetivo proporcionar una traducción de calidad del ma
 
 ## Estado del Proyecto
 
-**Versión actual: 0.1.3-dev**
+**Versión actual: 0.1.3**
 
 Esta versión está en fase **inicial de desarrollo**. Se ha completado la importación de todas las imágenes del manual original, pero el proyecto requiere trabajo significativo antes de estar listo para producción:
 
