@@ -1,6 +1,6 @@
 # Manual de Vuelo sin Motor
 
-![Versión](https://img.shields.io/badge/version-0.1.3-blue)
+![Versión](https://img.shields.io/badge/version-0.1.4-blue)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <p align="center">
@@ -36,7 +36,7 @@ Este proyecto tiene como objetivo proporcionar una traducción de calidad del ma
 
 ## Estado del Proyecto
 
-**Versión actual: 0.1.3-dev**
+**Versión actual: 0.1.4-dev**
 
 Esta versión está en fase **inicial de desarrollo**. Se ha completado la importación de todas las imágenes del manual original, pero el proyecto requiere trabajo significativo antes de estar listo para producción:
 
