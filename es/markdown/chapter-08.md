@@ -36,7 +36,7 @@ Si el tiempo lo permite, el piloto del remolcador puede usar la radio y advertir
 
 Las fallas mecánicas de equipos incluyen fallas del gancho de remolque, fallas mecánicas o estructurales del avión remolcador, y fallas estructurales del planeador. El piloto del remolcador balancea las alas del avión remolcador para solicitar una liberación inmediata por parte del piloto del planeador. [Figura 8-1, panel derecho] El piloto del planeador puede terminar deliberadamente el remolque o lanzamiento en cualquier momento que parezca más seguro que continuar. Por ejemplo, si el piloto del planeador descubre atascamiento de controles una vez que la presión del aire se acumula en las superficies, soltar el cable de remolque parece menos arriesgado que continuar. Si ocurre una falla mecánica, el piloto del planeador debe evaluar la situación y determinar el mejor curso de acción. Las opciones incluyen permanecer en el remolque aéreo, planear soltar en un punto futuro, o soltar inmediatamente.
 
-> **Figure 8-1:** Señales del avión remolcador y planeador debido a falla del mecanismo de liberación (paneles izquierdo y central) y señal del avión remolcador ordenando liberación del planeador (panel derecho).
+> **Figura 8-1:** Señales del avión remolcador y planeador debido a falla del mecanismo de liberación (paneles izquierdo y central) y señal del avión remolcador ordenando liberación del planeador (panel derecho).
 
 #### Falla de la Liberación de Remolque
 
@@ -45,13 +45,13 @@ La falla de la liberación de remolque puede ocurrir en el avión remolcador o e
 Los aviones de remolque a menudo usan una variante del enganche de remolque de planeador Schweizer o Tost. [Figura 8-2] y [Figura 8-3] El enganche se conecta al fuselaje del avión remolcador debajo del timón. Los anillos específicos que unen los cables de remolque a estos tipos de enganche pueden verse en la Figura 8-4. El auxiliar de alas debe conocer el método correcto de sujeción. Si el avión remolcador tiene el enganche de remolque Schweizer, el anillo de remolque puede rotar hacia adelante y atrapar la manga que bloquea el enganche de remolque en su lugar si el planeador vuela demasiado alto sobre el avión remolcador durante el remolque. Esto puede impedir que el piloto del remolcador libere el cable de remolque. [Figura 8-5]
 
 
-> **Figure 8-2:** Un enganche de remolque Schweizer.
+> **Figura 8-2:** Un enganche de remolque Schweizer.
 
-> **Figure 8-3:** Un enganche de remolque Tost.
+> **Figura 8-3:** Un enganche de remolque Tost.
 
-> **Figure 8-4:** Ejemplos de anillos de remolque Schweizer y Tost.
+> **Figura 8-4:** Ejemplos de anillos de remolque Schweizer y Tost.
 
-> **Figure 8-5:** Un enganche de remolque Schweizer bajo tensión hacia arriba.
+> **Figura 8-5:** Un enganche de remolque Schweizer bajo tensión hacia arriba.
 
 
 La falla del mecanismo de liberación tanto en el avión remolcador como en el planeador ocurre muy raramente. Si ocurre, la radio o señales de remolque entre el piloto del planeador y el piloto del remolcador deben confirmar la situación. Una opción tiene al planeador y avión remolcador aterrizando sin liberarse uno del otro. Una vez que comienza el descenso al aeródromo o aeropuerto en este escenario, el piloto del planeador debe moverse y mantener la posición de remolque bajo y usar aerofrenos para evitar adelantar al avión remolcador. El piloto del remolcador debe planificar una aproximación poco pronunciada que evite obstáculos y permita que el planeador toma de contacto primero. El avión remolcador podría experimentar un aterrizaje duro si el piloto del planeador usa el freno de rueda excesivamente y reduce la velocidad del avión remolcador por debajo de su velocidad de vuelo. El piloto del planeador debe usar los aerofrenos para mantenerse en la pista y usar el freno de rueda solo cuando sea necesario para evitar adelantar al avión remolcador.
@@ -64,7 +64,7 @@ Las siguientes secciones discuten cinco situaciones de falla de remolque para la
 
 Si una falla de remolque o liberación deliberada ocurre antes del despegue del avión remolcador, el avión remolcador ya sea continúa el despegue o aborta el despegue. Si el avión remolcador aborta el despegue, el piloto del remolcador debe maniobrar el avión remolcador al lado izquierdo de la pista. Para un planeador todavía en la pista, el piloto del planeador debe tirar de la liberación, desacelerar usando el freno de rueda, y maniobrar al lado derecho de la pista. Si el planeador se vuelve aéreo, el piloto del planeador debe tirar de la liberación del cable de remolque, aterrizar hacia adelante, y estar preparado para maniobrar al lado derecho de la pista. [Figura 8-6, panel 1] Tirar de la liberación del cable de remolque en cualquier caso asegura que la cuerda permanezca despejada del planeador. Dado que los procedimientos locales varían, tanto el piloto del planeador como el piloto del remolcador deben conocer cualquier procedimiento específico del aeródromo o aeropuerto.
 
-> **Figure 8-6:** Situaciones para rotura de cable de remolque, liberación no comandada, o pérdida de potencia del avión remolcador.
+> **Figura 8-6:** Situaciones para rotura de cable de remolque, liberación no comandada, o pérdida de potencia del avión remolcador.
 
 
 #### Falla de Remolque después del Despegue — Planeador Incapaz de Regresar al Aeropuerto
@@ -109,9 +109,9 @@ El cable flojo es una reducción de tensión en el cable de remolque. Si el floj
 
 • Planeador se zambulle hacia el avión remolcador [Figura 8-8]
 
-> **Figure 8-7:** Banco del planeador más pronunciado que el del avión remolcador, causando flojedad en el cable de remolque.
+> **Figura 8-7:** Banco del planeador más pronunciado que el del avión remolcador, causando flojedad en el cable de remolque.
 
-> **Figure 8-8:** Un método de generar cable de remolque flojo.
+> **Figura 8-8:** Un método de generar cable de remolque flojo.
 
 Cuando el avión remolcador precede al planeador en una corriente ascendente, el piloto del planeador percibe al avión remolcador como ascendiendo más rápido y más alto que el planeador. Entonces, cuando el planeador entra en la corriente ascendente, asciende más alto y más rápido que lo que hizo el avión remolcador. Como resultado, el piloto del planeador cabecea el planeador hacia abajo para recuperar la altitud de remolque adecuada, gana velocidad aerodinámica más rápidamente que el avión remolcador, y crea un cable de remolque flojo.
 
@@ -136,13 +136,13 @@ Una falla del mecanismo de lanzamiento puede interrumpir un lanzamiento terrestr
 El gradiente de viento (un aumento súbito en la velocidad del viento con la altura) puede tener un efecto notable en los lanzamientos terrestres. Un gradiente de viento significativo o súbito puede aumentar la velocidad aerodinámica indicada y exceder la velocidad máxima de remolque terrestre. [Figura 8-9] Al encontrar un gradiente de viento, el piloto debe empujar hacia adelante en la palanca para reducir la tensión en el cable de remolque, lo que reduce la velocidad aerodinámica indicada. La única manera de que el planeador reanude el ascenso sin exceder la velocidad aerodinámica máxima de lanzamiento terrestre implica señalar al operador de lanzamiento para reducir la velocidad de remolque. Después de la reducción de la velocidad de remolque, el piloto puede reanudar el ascenso normal. Si se lanza usando un torno con control de tensión automático, el piloto del planeador usa cambios de cabeceo convencionales para controlar la velocidad aerodinámica y asciende a una tasa más alta si la velocidad del viento aumenta en un gradiente.
 
 
-> **Figure 8-9:** Gradientes de viento en lanzamiento terrestre.
+> **Figura 8-9:** Gradientes de viento en lanzamiento terrestre.
 
 ### Procedimientos de Emergencia
 
 Un cable de remolque roto puede causar una emergencia durante un lanzamiento terrestre. [Figura 8-10] Cuando ocurre una falla del cable de remolque, el piloto del planeador debe tirar de la palanca de liberación, bajar inmediatamente la nariz del planeador, y mantener una velocidad aerodinámica segura. Las características distintivas del lanzamiento terrestre incluyen actitud de cabeceo alta de nariz y una altitud relativamente baja por una porción significativa del lanzamiento y ascenso. Si ocurre una rotura del cable de remolque y el piloto del planeador no responde prontamente, la actitud de nariz alta del planeador puede resultar en una pérdida.
 
-> **Figure 8-10:** Rotura de cable de remolque en lanzamiento terrestre.
+> **Figura 8-10:** Rotura de cable de remolque en lanzamiento terrestre.
 
 Si el mecanismo de liberación de remolque del planeador falla, el piloto debe volar a velocidades aerodinámicas no menores que la velocidad aerodinámica de mejor relación sustentación/arrastre (L/D). El piloto debe volar sobre y luego más allá del equipo de lanzamiento terrestre. Este método permite que el gancho de remolque del planeador libere hacia atrás o que el eslabón fusible del cable de remolque falle. El equipo de lanzamiento terrestre también usa un mecanismo de liberación de emergencia en caso de que falle la liberación de remolque del planeador. Los tornos deben tener una guillotina para cortar el cable de remolque, si es necesario. Si se usa un vehículo motorizado para un lanzamiento terrestre, también debe tener alguna forma de mecanismo de liberación de respaldo.
 
@@ -170,7 +170,7 @@ Errores comunes durante las caídas en espiral incluyen:
 
 Durante una barrena, el planeador sigue una trayectoria de tornillo hacia abajo. Una entrada en barrena puede ocurrir después de una pérdida agravada de una o ambas alas que resulta en rotación alrededor del eje vertical. A medida que el planeador rota alrededor del eje vertical, el ala exterior desarrolla más sustentación y menos arrastre que el ala interior en pérdida, creando un movimiento de balanceo, guiñada y cabeceo. [Figura 8-11] El piloto puede no darse cuenta de que el ángulo de ataque crítico ha sido excedido hasta que el planeador guiña hacia el ala bajante.
 
-> **Figure 8-11:** Autorrotación del planeador en barrena.
+> **Figura 8-11:** Autorrotación del planeador en barrena.
 
 Muchos planeadores necesitan un esfuerzo considerable para entrar en barrena y requieren buen juicio y técnica para entrar intencionalmente en barrena. Sin embargo, estos mismos planeadores pueden entrar en barrena accidentalmente si el piloto maneja incorrectamente los controles en giros, pérdidas, y vuelo a velocidades aerodinámicas mínimas controlables. Este hecho explica por qué los pilotos deben practicar pérdidas y desarrollar la habilidad para reconocerlas y recuperarse de ellas.
 
@@ -298,7 +298,7 @@ El procedimiento de aproximación recomendado debe incluir los siguientes tramos
 
 Este procedimiento de aproximación proporciona la oportunidad de ver el área de aterrizaje prevista desde todos los lados. Los pilotos deben usar cada oportunidad mientras vuelan un aproximación fuera de campo para inspeccionar el área de aterrizaje y buscar obstáculos u otros peligros. [Figura 8-12]
 
-> **Figure 8-12:** Aproximación de aterrizaje fuera de campo.
+> **Figura 8-12:** Aproximación de aterrizaje fuera de campo.
 
 El piloto también debe considerar cómo los obstáculos afectan la longitud del área de aterrizaje disponible para el toma de contacto, rodaje, y detención del planeador. Volar sobre un obstáculo de 50 pies de altura significa que el planeador sobrevolará los primeros 500 pies aproximadamente del área de aterrizaje durante el descenso a redondeo y aterrizaje. Si el campo seleccionado tiene obstáculos en el camino de aproximación final, el campo también debe permitir el descenso, redondeo, y rodaje de aterrizaje después de despejar el obstáculo.
 
@@ -348,7 +348,7 @@ Si la brújula funciona mal o no funciona en absoluto, el piloto debe verificar 
 
 #### Cúpula se Abre Inesperadamente
 
-Las emergencias relacionadas con la carlinga a menudo resultan del fallo del piloto para bloquear la cúpula en posición cerrada antes del despegue. Si la cúpula se abre en vuelo, el piloto debe enfocarse en volar el planeador. El piloto debe mantener velocidad aerodinámica adecuada mientras selecciona un área de aterrizaje adecuada. Una cúpula abierta causa mayor resistencia que la normal, y el piloto debe planificar un camino de descenso más pronunciado que el normal.
+Las emergencias relacionadas con la cúpula a menudo resultan del fallo del piloto para bloquear la cúpula en posición cerrada antes del despegue. Si la cúpula se abre en vuelo, el piloto debe enfocarse en volar el planeador. El piloto debe mantener velocidad aerodinámica adecuada mientras selecciona un área de aterrizaje adecuada. Una cúpula abierta causa mayor resistencia que la normal, y el piloto debe planificar un camino de descenso más pronunciado que el normal.
 
 Si la cúpula se abre mientras está en remolque aéreo, el piloto debe mantener una actitud de vuelo normal y posición de remolque. El piloto del planeador no debe intentar cerrar la cúpula o liberarse prematuramente. Después de continuar ascendiendo con el avión remolcador a varios miles de pies sobre el suelo y liberar el cable de remolque, el piloto puede intentar cerrar la cúpula solo si es capaz de mantener el control del planeador. Si se vuela con un pasajero a bordo y las condiciones lo permiten, el piloto puede dirigir al pasajero a cerrar y bloquear la cúpula.
 
@@ -392,7 +392,7 @@ cámara, o cojín de asiento trasero no asegurado.
 
 • Una falla estructural del planeador debido a sobre-esfuerzo o flutter.
 
-Si el piloto detecta irregularidad o falla del elevador temprano en el rodaje de despegue, la liberación del cable de remolque (o reducción de potencia a ralentí en un planeador de auto-lanzamiento), puede permitir la evitación de obstáculos. El piloto debe usar los frenos firmemente para detener el planeador tan pronto como sea posible.
+Si el piloto detecta irregularidad o falla del elevador temprano en el rodaje de despegue, la liberación del cable de remolque (o reducción de potencia a ralentí en un planeador autolanzable), puede permitir la evitación de obstáculos. El piloto debe usar los frenos firmemente para detener el planeador tan pronto como sea posible.
 
 En un lanzamiento de remolque aéreo, el piloto del planeador debe considerar el efecto que el planeador tiene en la seguridad del piloto del remolcador y si el piloto del planeador tiene un paracaídas. Si la irregularidad de control del elevador se hace evidente después del despegue y si está cerca del suelo con una actitud de cabeceo plana o ligeramente de nariz baja, el piloto debe liberar el cable de remolque. Si existe control de elevador suficiente durante el ascenso, permanecer adjunto y lograr una alta altitud le da al piloto tiempo para abandonar el planeador y desplegar un paracaídas, si está disponible.
 
@@ -478,7 +478,7 @@ Para vuelos de alta altitud, como un vuelo de onda, la botella de oxígeno de ey
 
 Algunos planeadores tienen un paracaídas de frenado para añadir resistencia durante la aproximación al aterrizaje y mejorar una aproximación pronunciado. El paracaídas de frenado se estiba en la punta trasera (cono de cola) del fuselaje o en un compartimiento especial en la base del timón. Si el paracaídas se despliega accidental o inadvertidamente durante el lanzamiento, el piloto normalmente lo eyecta.
 
-Durante una aproximación, un paracaídas de frenado empacado inadecuadamente o húmedo puede fallar en desplegarse. Si esto sucede, el piloto puede usar el timón para hacer un derrape lateral brevemente o usar el timón para guiñar el planeador para intentar el despliegue. Cualquier técnica puede aumentar la fuerza de arrastre en el componente que jala el paracaídas fuera del compartimiento. Si ninguna técnica despliega el paracaídas de frenado, el cúpula del paracaídas puede desplegarse espontáneamente. Si esto ocurre, el piloto tiene la opción de eyectar el paracaídas.
+Durante una aproximación, un paracaídas de frenado empacado inadecuadamente o húmedo puede fallar en desplegarse. Si esto sucede, el piloto puede usar el timón para hacer un derrape lateral brevemente o usar el timón para guiñar el planeador para intentar el despliegue. Cualquier técnica puede aumentar la fuerza de arrastre en el componente que jala el paracaídas fuera del compartimiento. Si ninguna técnica despliega el paracaídas de frenado, la cúpula del paracaídas puede desplegarse espontáneamente. Si esto ocurre, el piloto tiene la opción de eyectar el paracaídas.
 
 Otra falla involucra la falla del paracaídas de frenado en inflarse. Si esto sucede, la cúpula "fluye" como una cinta retorciéndose de nylon, proporcionando solo una fracción del arrastre esperado. La inflación completa, aunque improbable después de que ocurre el flujo, aumentaría el arrastre sustancialmente. En lugar de enfrentar cualquier aumento repentino de arrastre y si hay duda sobre el estado del despliegue, el piloto puede eyectar el paracaídas. Independientemente del tipo de falla, el piloto debe revisar las opciones de aproximación y aterrizaje para las condiciones del paracaídas de frenado.
 
@@ -532,7 +532,7 @@ El piloto no debe reiniciar ningún disyuntor si está presente humo o el olor d
 
 Reiniciar un disyuntor en vuelo puede aumentar el riesgo de una sobrecarga eléctrica e incendio. [Figura 8-13] Si el humo eléctrico llena la cabina, el piloto debe considerar ventilar la cabina e ir directamente al aeropuerto adecuado más cercano y aterrizar. El transceptor de aviación instalado en el panel de instrumentos puede no funcionar, pero el piloto puede usar una radio portátil de aviación de dos vías operada por batería si está disponible. El piloto también puede recibir instrucciones de aterrizaje a través de señales luminosas de control de tráfico aéreo (ATC). El piloto debe revisar 14 CFR parte 91, sección 125, y el Manual de Información Aeronáutica (AIM) sección 4-2-13, Señales Luminosas de Control de Tráfico.
 
-> **Figure 8-13:** Disyuntores del planeador autolanzable.
+> **Figura 8-13:** Disyuntores del planeador autolanzable.
 
 ### Incendio en Vuelo
 

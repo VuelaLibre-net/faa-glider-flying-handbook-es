@@ -8,19 +8,19 @@ source: "FAA Glider Flying Handbook (FAA-H-8083-13B)"
 
 ## Introducción
 
-Un planeador moderno, como el que se muestra a continuación [Figure 1-1], puede volar alto y realizar vuelos de larga distancia con un piloto experto al mando.
+Un planeador moderno, como el que se muestra a continuación [Figura 1-1], puede volar alto y realizar vuelos de larga distancia con un piloto experto al mando.
 
 > **Figura 1-1:** Un planeador DG Flugzeugbau GmbH serie 800B.
 
 El Código de Regulaciones Federales (14 CFR parte 1, sección 1.1) establece que "planeador significa una aeronave más pesada que el aire, que se mantiene en vuelo por la reacción dinámica del aire contra sus superficies sustentadoras y cuyo vuelo libre no depende principalmente de un motor". El término "planeador" también designa la habilitación que se coloca en el certificado de piloto una vez que el solicitante completa exitosamente la instrucción de planeador requerida, tiene la experiencia necesaria, aprueba cualquier prueba de conocimientos requerida y aprueba la prueba práctica apropiada.
 
-Para que un planeador vuele, necesita un medio para elevarse al aire. Los planeadores primitivos solo podían lanzarse desde la cima de una colina. [Figure 1-2] y [Figure 1-3].
+Para que un planeador vuele, necesita un medio para elevarse al aire. Los planeadores primitivos solo podían lanzarse desde la cima de una colina. [Figura 1-2] y [Figura 1-3].
 
 > **Figura 1-2:** Otto Lilienthal (el Rey del Planeador) en vuelo a mediados de la década de 1890.
 
 > **Figura 1-3:** Orville Wright (izquierda) y Dan Tate (derecha) lanzaron el planeador Wright 1902 desde la ladera este de Big Hill, Kill Devil Hills, Carolina del Norte, el 17 de octubre de 1902. Wilbur Wright estaba volando el planeador.
 
-Después del desarrollo del vuelo propulsado, un avión podía remolcar un planeador hasta la altitud, y este se convirtió en un medio común para lanzar un planeador. Mientras que los diseños de planeadores antiguos solo descendían después del remolque y la suelta, los diseños posteriores podían soltarse y aprovechar el aire ascendente natural para continuar ganando altitud. Algunos planeadores que requieren remolque hasta la altitud también tienen un motor (sustainer) para usar en vuelo. El piloto puede arrancar y detener la planta motriz mientras está en vuelo, y en algunos modelos, el piloto puede retraer el sistema de hélice en el cuerpo del planeador para aumentar la eficiencia aerodinámica. Un motovelero de autolanzamiento puede despegar y ascender a altitudes de vuelo a vela sin remolque. [Figure 1-4]
+Después del desarrollo del vuelo propulsado, un avión podía remolcar un planeador hasta la altitud, y este se convirtió en un medio común para lanzar un planeador. Mientras que los diseños de planeadores antiguos solo descendían después del remolque y la suelta, los diseños posteriores podían soltarse y aprovechar el aire ascendente natural para continuar ganando altitud. Algunos planeadores que requieren remolque hasta la altitud también tienen un motor (sustainer) para usar en vuelo. El piloto puede arrancar y detener la planta motriz mientras está en vuelo, y en algunos modelos, el piloto puede retraer el sistema de hélice en el cuerpo del planeador para aumentar la eficiencia aerodinámica. Un motovelero de autolanzamiento puede despegar y ascender a altitudes de vuelo a vela sin remolque. [Figura 1-4]
 
 > **Figura 1-4:** Un motovelero ASH 26 E de autolanzamiento con la hélice extendida.
 

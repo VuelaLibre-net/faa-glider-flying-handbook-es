@@ -12,15 +12,15 @@ Este capítulo trata sobre la aerodinámica relacionada con los planeadores. Un 
 
 Un planeador maniobra alrededor de tres ejes de rotación: vertical, transversal y longitudinal. Cada eje es perpendicular a los otros dos, y los tres ejes se intersectan en un punto central llamado centro de gravedad (CG), que varía según la carga del planeador. Cualquier objeto en el suelo se equilibrará en cualquier orientación si se sostiene desde el CG o un punto directamente arriba o debajo del CG.
 
-La guiñada describe el movimiento alrededor del eje vertical, representado por una línea recta imaginaria trazada a través del CG. [Figure 3-1] En vuelo, mover el timón hacia la izquierda o derecha hace que el planeador guañe. El eje transversal corre paralelo a una línea de punta de ala a punta de ala. Tirar de la palanca hacia atrás o empujarla hacia adelante cambia la inclinación del planeador y controla su movimiento alrededor del eje transversal. El alabeo describe el movimiento alrededor del eje longitudinal causado por el desplazamiento de los alerones en direcciones opuestas. Este eje corre paralelo a una línea trazada desde la nariz hasta la cola.
+La guiñada describe el movimiento alrededor del eje vertical, representado por una línea recta imaginaria trazada a través del CG. [Figura 3-1] En vuelo, mover el timón hacia la izquierda o derecha hace que el planeador guañe. El eje transversal corre paralelo a una línea de punta de ala a punta de ala. Tirar de la palanca hacia atrás o empujarla hacia adelante cambia la inclinación del planeador y controla su movimiento alrededor del eje transversal. El alabeo describe el movimiento alrededor del eje longitudinal causado por el desplazamiento de los alerones en direcciones opuestas. Este eje corre paralelo a una línea trazada desde la nariz hasta la cola.
 
-> **Figure 3-1:** Tres ejes de rotación, cada uno perpendicular a los otros dos y todos intersectando en el CG.
+> **Figura 3-1:** Tres ejes de rotación, cada uno perpendicular a los otros dos y todos intersectando en el CG.
 
 ### Fuerzas del Vuelo
 
 Tres fuerzas actúan sobre un planeador sin motor mientras está en vuelo: sustentación, resistencia y peso. El empuje es otra fuerza del vuelo que permite a los planeadores autolanzables despegar por sí mismos y mantenerse en el aire cuando las condiciones de vuelo a vela disminuyen.
 
-> **Figure 3-2:** Componentes vectoriales de la sustentación, empuje, resistencia y peso (gravedad).
+> **Figura 3-2:** Componentes vectoriales de la sustentación, empuje, resistencia y peso (gravedad).
 
 Las leyes de Newton y el principio de Bernoulli explican la sustentación desde diferentes perspectivas. La tercera ley de Newton describe la interacción general entre la atmósfera y el ala, mientras que el principio de Bernoulli analiza el efecto del aire cambiando de velocidad al moverse alrededor del ala. Juntas, estos modelos proporcionan una explicación válida de la sustentación.
 
@@ -36,15 +36,15 @@ El Principio de Bernoulli establece que a medida que aumenta la velocidad de un 
 
 Existe una relación matemática entre la sustentación, el coeficiente de sustentación, la velocidad del aire, la densidad del aire y el tamaño del ala.
 
-> **Figure 3-3:** Muestra la relación.
+> **Figura 3-3:** Muestra la relación.
 
 (Este número adimensional es la relación entre la presión de sustentación y la presión dinámica y el área. Es específico para una forma particular de perfil alar, y, por debajo de la pérdida, es proporcional al ángulo de ataque.)
 
-> **Figure 3-3:** Ecuación de Sustentación.
+> **Figura 3-3:** Ecuación de Sustentación.
 
-La ecuación de sustentación muestra que la sustentación total cambia a medida que cambian los factores en el lado derecho de la ecuación. Por ejemplo, la sustentación varía directamente con el coeficiente de sustentación. Un piloto debe comprender el concepto de ángulo de ataque (AOA) para entender cómo varía el coeficiente de sustentación. El ángulo de ataque es el ángulo agudo entre la línea de cuerda del ala y el viento relativo desarrollado por el movimiento del planeador a través del aire. [Figure 3-4] El coeficiente de sustentación aumenta linealmente hasta alcanzar un ángulo crítico, en el punto en que la sustentación disminuye aunque el ángulo de ataque aumenta. Una vez que se alcanza el ángulo crítico, cualquier aumento adicional en el ángulo de ataque perturba el flujo de aire suave sobre la parte superior del ala y causa una disminución en la sustentación o una pérdida. La sustentación también varía con el cuadrado de la velocidad o velocidad del aire. Duplicar la velocidad del aire cuadriplica la cantidad de sustentación. A medida que la densidad del aire disminuye con el aumento de la altitud o el aumento de la temperatura, la sustentación disminuye.
+La ecuación de sustentación muestra que la sustentación total cambia a medida que cambian los factores en el lado derecho de la ecuación. Por ejemplo, la sustentación varía directamente con el coeficiente de sustentación. Un piloto debe comprender el concepto de ángulo de ataque (AOA) para entender cómo varía el coeficiente de sustentación. El ángulo de ataque es el ángulo agudo entre la línea de cuerda del ala y el viento relativo desarrollado por el movimiento del planeador a través del aire. [Figura 3-4] El coeficiente de sustentación aumenta linealmente hasta alcanzar un ángulo crítico, en el punto en que la sustentación disminuye aunque el ángulo de ataque aumenta. Una vez que se alcanza el ángulo crítico, cualquier aumento adicional en el ángulo de ataque perturba el flujo de aire suave sobre la parte superior del ala y causa una disminución en la sustentación o una pérdida. La sustentación también varía con el cuadrado de la velocidad o velocidad del aire. Duplicar la velocidad del aire cuadriplica la cantidad de sustentación. A medida que la densidad del aire disminuye con el aumento de la altitud o el aumento de la temperatura, la sustentación disminuye.
 
-> **Figure 3-4:** Ángulo de ataque.
+> **Figura 3-4:** Ángulo de ataque.
 
 Al describir la sustentación como un vector, la sustentación total actúa a través de un punto conocido como el centro de sustentación (CL). Este punto ocurre detrás del centro de gravedad. Por lo tanto, la sustentación crea un momento de cabeceo en el planeador, que la cola debe contrarrestar. El vector de sustentación total actúa perpendicular a la trayectoria de vuelo a través del CL y perpendicular al eje transversal.
 
@@ -56,23 +56,23 @@ La fuerza que resiste el movimiento del planeador consiste en la resistencia par
 
 #### Resistencia Parásita
 
-La resistencia parásita incluye la resistencia del aire a cualquier objeto que se mueve a través de ella creada por la fricción de la superficie, la forma del objeto y los patrones de interferencia dentro del flujo de aire alrededor del objeto. Aunque los diseños de alas de planeadores generan resistencia inducida y parásita mínima, otras partes del planeador pueden crear resistencia parásita significativa. La resistencia parásita aumenta con el cuadrado de la velocidad. En términos simples, si la velocidad del planeador se duplica, la resistencia parásita aumenta cuatro veces. [Figure 3-5]
+La resistencia parásita incluye la resistencia del aire a cualquier objeto que se mueve a través de ella creada por la fricción de la superficie, la forma del objeto y los patrones de interferencia dentro del flujo de aire alrededor del objeto. Aunque los diseños de alas de planeadores generan resistencia inducida y parásita mínima, otras partes del planeador pueden crear resistencia parásita significativa. La resistencia parásita aumenta con el cuadrado de la velocidad. En términos simples, si la velocidad del planeador se duplica, la resistencia parásita aumenta cuatro veces. [Figura 3-5]
 
-> **Figure 3-5:** Resistencia parásita versus velocidad.
+> **Figura 3-5:** Resistencia parásita versus velocidad.
 
 #### Resistencia Inducida
 
-A medida que el ángulo de ataque aumenta, más flujo de aire circula alrededor de la punta del ala desde la superficie inferior a la superior, lo que crea vórtices de punta de ala más grandes. [Figure 3-6]. El panel 4 de la Figura 3-6, representa el ala moviéndose horizontalmente en vuelo nivelado. El vector de sustentación vertical se desarrolla perpendicular a la trayectoria de vuelo y al viento relativo que se aproxima. Dado que los vórtices de punta de ala causan una divergencia descendente del viento relativo promedio desde la trayectoria de vuelo, el vector de sustentación total, que es perpendicular al viento relativo promedio, se inclina hacia atrás. Esta inclinación hacia atrás del vector de sustentación total crea resistencia inducida como subproducto de la sustentación. Los factores que aumentan el ángulo entre la sustentación total y los vectores de sustentación vertical, como la baja velocidad del aire y el alto ángulo de ataque, aumentan la resistencia inducida.
+A medida que el ángulo de ataque aumenta, más flujo de aire circula alrededor de la punta del ala desde la superficie inferior a la superior, lo que crea vórtices de punta de ala más grandes. [Figura 3-6]. El panel 4 de la Figura 3-6, representa el ala moviéndose horizontalmente en vuelo nivelado. El vector de sustentación vertical se desarrolla perpendicular a la trayectoria de vuelo y al viento relativo que se aproxima. Dado que los vórtices de punta de ala causan una divergencia descendente del viento relativo promedio desde la trayectoria de vuelo, el vector de sustentación total, que es perpendicular al viento relativo promedio, se inclina hacia atrás. Esta inclinación hacia atrás del vector de sustentación total crea resistencia inducida como subproducto de la sustentación. Los factores que aumentan el ángulo entre la sustentación total y los vectores de sustentación vertical, como la baja velocidad del aire y el alto ángulo de ataque, aumentan la resistencia inducida.
 
-> **Figure 3-6:** Resistencia inducida por la producción de sustentación.
+> **Figura 3-6:** Resistencia inducida por la producción de sustentación.
 
 A medida que un planeador vuela más rápido, las alas pueden generar la misma cantidad de sustentación con un ángulo de ataque reducido. El aumento de velocidad con un ángulo de ataque menor reduce la inclinación hacia atrás del vector de sustentación total y reduce la resistencia inducida.
 
 #### Resistencia Total
 
-La curva de resistencia total representa la combinación de resistencia parásita e inducida y varía con la velocidad del aire. [Figure 3-7]
+La curva de resistencia total representa la combinación de resistencia parásita e inducida y varía con la velocidad del aire. [Figura 3-7]
 
-> **Figure 3-7:** Resistencia parásita, resistencia inducida y resistencia total versus velocidad del aire.
+> **Figura 3-7:** Resistencia parásita, resistencia inducida y resistencia total versus velocidad del aire.
 
 ### Efecto Suelo
 
@@ -88,9 +88,9 @@ Los planeadores sin motor utilizan una fuente externa, como un avión de remolqu
 
 ## Análisis Vectorial del Planeo sin Motor
 
-¿Qué propulsa un planeador sin motor en un descenso continuo en la masa de aire circundante? Un diagrama vectorial con la trayectoria de vuelo como un eje y un segundo eje perpendicular a la trayectoria de vuelo representa cómo las fuerzas de peso, sustentación y resistencia se equilibran entre sí durante un descenso en línea recta sin motor. [Figure 3-8] El peso (W) siempre apunta hacia el suelo (centro de la Tierra). La sustentación (L) se desarrolla perpendicular a la trayectoria de vuelo. La resistencia siempre actúa hacia atrás a lo largo de la trayectoria de vuelo. Aunque el peso no se alinea con ningún eje en el diagrama, el vector de peso puede descomponerse en dos componentes perpendiculares, uno hacia adelante a lo largo de la trayectoria de vuelo oponiéndose a la resistencia (Wf) y el otro perpendicular a la trayectoria de vuelo oponiéndose a la sustentación (Wp). Como se muestra en la figura, Wp equilibra la sustentación, mientras que Wf equilibra la resistencia durante un descenso no acelerado. Así, la gravedad es el motor externo que tira del planeador hacia adelante actuando sobre Wf.
+¿Qué propulsa un planeador sin motor en un descenso continuo en la masa de aire circundante? Un diagrama vectorial con la trayectoria de vuelo como un eje y un segundo eje perpendicular a la trayectoria de vuelo representa cómo las fuerzas de peso, sustentación y resistencia se equilibran entre sí durante un descenso en línea recta sin motor. [Figura 3-8] El peso (W) siempre apunta hacia el suelo (centro de la Tierra). La sustentación (L) se desarrolla perpendicular a la trayectoria de vuelo. La resistencia siempre actúa hacia atrás a lo largo de la trayectoria de vuelo. Aunque el peso no se alinea con ningún eje en el diagrama, el vector de peso puede descomponerse en dos componentes perpendiculares, uno hacia adelante a lo largo de la trayectoria de vuelo oponiéndose a la resistencia (Wf) y el otro perpendicular a la trayectoria de vuelo oponiéndose a la sustentación (Wp). Como se muestra en la figura, Wp equilibra la sustentación, mientras que Wf equilibra la resistencia durante un descenso no acelerado. Así, la gravedad es el motor externo que tira del planeador hacia adelante actuando sobre Wf.
 
-> **Figure 3-8:** Las fuerzas a lo largo de la trayectoria de vuelo de un planeador sin motor y su perpendicular.
+> **Figura 3-8:** Las fuerzas a lo largo de la trayectoria de vuelo de un planeador sin motor y su perpendicular.
 
 Un descenso sin motor convierte la energía potencial de altura del planeador sobre el suelo en energía cinética de movimiento de manera continua. El ángulo de trayectoria de vuelo o ángulo de descenso (ɣ) es el mismo que el ángulo entre Wp y W. Wf, Wp y W podrían formar tres lados de un triángulo rectángulo. La trigonometría da los componentes Wf y Wp del peso usando las fórmulas mostradas dentro de las cajas de equilibrio de fuerzas en la Figura 3-8. Un ángulo de trayectoria de vuelo más pronunciado (ɣ) aumenta el componente hacia adelante del peso (Wf) y disminuye el componente perpendicular del peso (Wp).
 
@@ -100,15 +100,15 @@ Un punto específico aparece en la Figura 3-7 arriba. El punto mostrado, (L/DMAX
 
 ### Planta del Ala
 
-La forma (planta) de las alas afecta la cantidad de sustentación y resistencia producidas. Las cuatro plantas de ala más comunes utilizadas en planeadores son elíptica, rectangular, en flecha y con flecha hacia adelante. [Figure 3-9]
+La forma (planta) de las alas afecta la cantidad de sustentación y resistencia producidas. Las cuatro plantas de ala más comunes utilizadas en planeadores son elíptica, rectangular, en flecha y con flecha hacia adelante. [Figura 3-9]
 
-> **Figure 3-9:** Plantas de alas de planeadores
+> **Figura 3-9:** Plantas de alas de planeadores
 
 ### Alargamiento
 
 Dividir la envergadura (de punta de ala a punta de ala) por la cuerda media del ala determina el alargamiento para un planeador. Las alas de los planeadores tienen un alto alargamiento, como se muestra en la Figura 3-10, que genera sustentación significativa a bajos ángulos de ataque con resistencia inducida mínima.
 
-> **Figure 3-10:** Alargamiento
+> **Figura 3-10:** Alargamiento
 
 ### Winglets
 
@@ -122,25 +122,25 @@ La raíz del ala se refiere a la porción del ala más cercana al fuselaje. La t
 
 Las ráfagas verticales, un cambio súbito en el CG, o la deflexión de los controles por parte del piloto pueden desplazar al planeador de su orientación en vuelo. La estabilidad estática y dinámica definen cómo reacciona el planeador después de un desplazamiento. La estabilidad estática describe la dirección inicial de la respuesta. Un planeador con estabilidad estática positiva se mueve inicialmente de regreso hacia su orientación original después de un cambio. Un planeador con estabilidad estática negativa aumentaría el desplazamiento después de un cambio. Un planeador con estabilidad estática neutra tiende a mantener cualquier nueva orientación. El nivel de estabilidad alrededor de cada eje de un planeador resulta de su diseño y carga.
 
-Un planeador con estabilidad estática positiva oscilará más allá de su actitud de cabeceo original y sufrirá una serie de oscilaciones. Si ese planeador tiene estabilidad dinámica positiva, el tamaño de cualquier oscilación se amortiguará con el tiempo. El mismo planeador con estabilidad dinámica negativa experimentaría oscilaciones que aumentan en amplitud con el tiempo. Ese planeador con estabilidad dinámica neutra experimentaría una serie de oscilaciones constantes con el tiempo. [Figure 3-11]
+Un planeador con estabilidad estática positiva oscilará más allá de su actitud de cabeceo original y sufrirá una serie de oscilaciones. Si ese planeador tiene estabilidad dinámica positiva, el tamaño de cualquier oscilación se amortiguará con el tiempo. El mismo planeador con estabilidad dinámica negativa experimentaría oscilaciones que aumentan en amplitud con el tiempo. Ese planeador con estabilidad dinámica neutra experimentaría una serie de oscilaciones constantes con el tiempo. [Figura 3-11]
 
-> **Figure 3-11:** Tres tipos de estabilidad dinámica.
+> **Figura 3-11:** Tres tipos de estabilidad dinámica.
 
-Los planeadores tienen un CG delante del centro de sustentación: el único punto a través del cual actúa la suma de toda la sustentación. Este diseño requiere una fuerza de cola hacia abajo opuesta para mantener el control y crear estabilidad estática positiva para el cabeceo. [Figure 3-12] Por ejemplo, si un piloto desplaza la nariz del planeador hacia arriba y suelta los controles, el planeador perderá velocidad del aire. La reducción resultante en la fuerza descendente proporcionada por la cola hace que la nariz del planeador caiga de regreso hacia su posición original. Este diseño resulta en estabilidad longitudinal inicial positiva (estabilidad alrededor del eje transversal). Cuando un planeador positivamente estable dinámicamente oscila en cabeceo, la amplitud de las oscilaciones disminuye a través de cada ciclo y eventualmente se detiene en la velocidad donde la fuerza descendente en la cola compensa la tendencia a bajar la nariz.
+Los planeadores tienen un CG delante del centro de sustentación: el único punto a través del cual actúa la suma de toda la sustentación. Este diseño requiere una fuerza de cola hacia abajo opuesta para mantener el control y crear estabilidad estática positiva para el cabeceo. [Figura 3-12] Por ejemplo, si un piloto desplaza la nariz del planeador hacia arriba y suelta los controles, el planeador perderá velocidad del aire. La reducción resultante en la fuerza descendente proporcionada por la cola hace que la nariz del planeador caiga de regreso hacia su posición original. Este diseño resulta en estabilidad longitudinal inicial positiva (estabilidad alrededor del eje transversal). Cuando un planeador positivamente estable dinámicamente oscila en cabeceo, la amplitud de las oscilaciones disminuye a través de cada ciclo y eventualmente se detiene en la velocidad donde la fuerza descendente en la cola compensa la tendencia a bajar la nariz.
 
-> **Figure 3-12:** El estabilizador horizontal compensa la tendencia natural de un planeador a cabecear hacia abajo.
+> **Figura 3-12:** El estabilizador horizontal compensa la tendencia natural de un planeador a cabecear hacia abajo.
 
 El POH del planeador lista un rango aceptable para el CG, y el piloto normalmente calcula la ubicación del CG antes del vuelo para verificar que el planeador volará según lo diseñado. Un planeador con un CG trasero requiere menos fuerza de cola hacia abajo, lo que hace que las oscilaciones de cabeceo sean más difíciles de amortiguar. A medida que la velocidad del aire disminuye en un planeador cargado por detrás del límite de CG permisible, la nariz del planeador podría elevarse incontrolablemente y conducir a una pérdida o barrena irrecuperable. Un CG hacia adelante aumenta la resistencia inducida y reduce el rendimiento. Un planeador con un CG por delante del límite hacia adelante publicado puede no proporcionar suficiente control de cabeceo para levantar la nariz durante un aterrizaje. El Capítulo 5, Rendimiento del Planeador, contiene una discusión adicional sobre la carga apropiada de un planeador y la importancia del CG.
 
 ### Estabilidad Lateral
 
-La estabilidad lateral describe la tendencia del planeador a retornar al vuelo con alas niveladas después de un desplazamiento. [Figure 3-13] Por ejemplo, debido a una ráfaga de viento, el planeador puede comenzar a rodar. El ángulo de ataque aumenta ligeramente en un ala a medida que se mueve hacia abajo, lo que causa que la sustentación aumente en ese ala. En el ala ascendente, el efecto opuesto disminuye la sustentación. Esta diferencial de sustentación tiende a amortiguar el movimiento de rolido pero no devuelve el planeador a nivel de alas.
+La estabilidad lateral describe la tendencia del planeador a retornar al vuelo con alas niveladas después de un desplazamiento. [Figura 3-13] Por ejemplo, debido a una ráfaga de viento, el planeador puede comenzar a rodar. El ángulo de ataque aumenta ligeramente en un ala a medida que se mueve hacia abajo, lo que causa que la sustentación aumente en ese ala. En el ala ascendente, el efecto opuesto disminuye la sustentación. Esta diferencial de sustentación tiende a amortiguar el movimiento de rolido pero no devuelve el planeador a nivel de alas.
 
-> **Figure 3-13:** Estabilidad lateral.
+> **Figura 3-13:** Estabilidad lateral.
 
-El diedro del ala, el ángulo hacia arriba de las alas desde la horizontal, añade a la estabilidad lateral. A medida que el planeador rueda, el ala descendente tiene un componente de sustentación vertical mayor que el ala ascendente. Esta diferencia en el componente de sustentación vertical entre cada ala tiende a rodar el planeador de regreso hacia el vuelo nivelado. [Figure 3-14]
+El diedro del ala, el ángulo hacia arriba de las alas desde la horizontal, añade a la estabilidad lateral. A medida que el planeador rueda, el ala descendente tiene un componente de sustentación vertical mayor que el ala ascendente. Esta diferencia en el componente de sustentación vertical entre cada ala tiende a rodar el planeador de regreso hacia el vuelo nivelado. [Figura 3-14]
 
-> **Figure 3-14:** Ángulo de diedro.
+> **Figura 3-14:** Ángulo de diedro.
 
 ### Flutter
 
@@ -158,9 +158,9 @@ Durante los primeros momentos de la carrera de despegue, a medida que el flujo d
 
 ## Vuelo de Giro
 
-Cualquier objeto en movimiento continúa en línea recta hasta que una fuerza cause un cambio de dirección. Un piloto crea fuerza de giro usando los alerones para rodar el planeador de modo que la dirección del vector de sustentación total se incline. Cuando un planeador rueda lejos del nivel de alas, la sustentación se divide en dos componentes. El componente vertical se opone al peso, mientras que el otro actúa horizontalmente para oponerse a la fuerza centrífuga. [Figure 3-15]
+Cualquier objeto en movimiento continúa en línea recta hasta que una fuerza cause un cambio de dirección. Un piloto crea fuerza de giro usando los alerones para rodar el planeador de modo que la dirección del vector de sustentación total se incline. Cuando un planeador rueda lejos del nivel de alas, la sustentación se divide en dos componentes. El componente vertical se opone al peso, mientras que el otro actúa horizontalmente para oponerse a la fuerza centrífuga. [Figura 3-15]
 
-> **Figure 3-15:** Fuerzas en un giro inclinado.
+> **Figura 3-15:** Fuerzas en un giro inclinado.
 
 Al usar el componente horizontal de la sustentación para girar el planeador, ocurrirá una reducción en el componente vertical de la sustentación a menos que el piloto aumente la presión hacia atrás en la palanca de control, aumentando el ángulo de ataque y la sustentación total producida por las alas. Aumentar la sustentación total puede restaurar el componente vertical de la sustentación al requerido para contrarrestar el peso. De lo contrario, la tasa de descenso en la masa de aire aumenta.
 
@@ -176,11 +176,11 @@ El factor de carga aumenta rápidamente a medida que el ángulo de inclinación 
 
 2. Por encima de cierta velocidad del aire, conocida como velocidad de maniobra o V*A*, un piloto puede generar suficiente sustentación para crear una sobrecarga peligrosa en la estructura del planeador.
 
-En un giro a velocidad constante, el piloto tira hacia atrás de la palanca para proporcionar la sustentación extra necesaria para mantener una velocidad vertical constante en la masa de aire. La carga y la velocidad de pérdida aumentan significativamente a medida que los ángulos de inclinación exceden los 30 grados. [Figure 3-16] y [Figure 3-17]
+En un giro a velocidad constante, el piloto tira hacia atrás de la palanca para proporcionar la sustentación extra necesaria para mantener una velocidad vertical constante en la masa de aire. La carga y la velocidad de pérdida aumentan significativamente a medida que los ángulos de inclinación exceden los 30 grados. [Figura 3-16] y [Figura 3-17]
 
-> **Figure 3-16:** Las cargas colocadas en un planeador mientras se mantiene una tasa constante de descenso con respecto al aire circundante aumentan a medida que el ángulo de inclinación aumenta.
+> **Figura 3-16:** Las cargas colocadas en un planeador mientras se mantiene una tasa constante de descenso con respecto al aire circundante aumentan a medida que el ángulo de inclinación aumenta.
 
-> **Figure 3-17:** Un ángulo de inclinación de 60° causa un aumento del 41 por ciento en la velocidad de pérdida del planeador.
+> **Figura 3-17:** Un ángulo de inclinación de 60° causa un aumento del 41 por ciento en la velocidad de pérdida del planeador.
 
 ### Tasa de Giro
 
@@ -188,9 +188,9 @@ La tasa de giro se refiere a la cantidad de tiempo que le toma a un planeador gi
 
 ### Radio de Giro
 
-La distancia horizontal que una aeronave usa para completar un giro depende del radio de giro. El radio de giro en cualquier ángulo de inclinación dado varía directamente con el cuadrado de la velocidad del aire. Por lo tanto, si la velocidad del aire del planeador se duplicara, el radio del giro sería cuatro veces mayor. El radio de giro también depende del ángulo de inclinación de un planeador. Si el ángulo de inclinación aumenta y la velocidad del aire permanece igual, el radio de giro disminuye. [Figure 3-18] Cuando se vuela en térmicas, un radio de giro más pequeño permite que un planeador vuele más cerca del núcleo de ascenso más rápido de la térmica y gane altitud más rápidamente.
+La distancia horizontal que una aeronave usa para completar un giro depende del radio de giro. El radio de giro en cualquier ángulo de inclinación dado varía directamente con el cuadrado de la velocidad del aire. Por lo tanto, si la velocidad del aire del planeador se duplicara, el radio del giro sería cuatro veces mayor. El radio de giro también depende del ángulo de inclinación de un planeador. Si el ángulo de inclinación aumenta y la velocidad del aire permanece igual, el radio de giro disminuye. [Figura 3-18] Cuando se vuela en térmicas, un radio de giro más pequeño permite que un planeador vuele más cerca del núcleo de ascenso más rápido de la térmica y gane altitud más rápidamente.
 
-> **Figure 3-18:** El radio de giro de un planeador comparado con el ángulo de inclinación.
+> **Figura 3-18:** El radio de giro de un planeador comparado con el ángulo de inclinación.
 
 ### Coordinación del Giro
 
@@ -206,9 +206,9 @@ Un piloto normalmente coordina las entradas de timón y alerón durante un giro.
 
 #### Resbalón hacia Adelante (Forward Slip)
 
-Durante un resbalón hacia adelante, la trayectoria horizontal del planeador sobre el suelo permanece sin cambios. [Figure 3-19] Este resbalón usa vuelo descoordinado para disipar energía lo cual aumenta la tasa de descenso sin aumentar la velocidad hacia adelante del planeador. Los pilotos a veces usan resbalones hacia adelante durante una aproximación de aterrizaje sobre obstáculos o para aterrizajes de campo corto cuando es necesario disipar altitud que ya no se necesita para un margen de seguridad durante la aproximación.
+Durante un resbalón hacia adelante, la trayectoria horizontal del planeador sobre el suelo permanece sin cambios. [Figura 3-19] Este resbalón usa vuelo descoordinado para disipar energía lo cual aumenta la tasa de descenso sin aumentar la velocidad hacia adelante del planeador. Los pilotos a veces usan resbalones hacia adelante durante una aproximación de aterrizaje sobre obstáculos o para aterrizajes de campo corto cuando es necesario disipar altitud que ya no se necesita para un margen de seguridad durante la aproximación.
 
-> **Figure 3-19:** Una comparación de un resbalón hacia adelante con un resbalón lateral.
+> **Figura 3-19:** Una comparación de un resbalón hacia adelante con un resbalón lateral.
 
 Para entrar en un resbalón desde vuelo recto, el piloto baja el ala en el lado hacia el cual ocurre el resbalón usando los alerones. Simultáneamente, el piloto guiña la nariz de la aeronave en la dirección opuesta aplicando suficiente timón opuesto para que el eje longitudinal del planeador ya no se alinee con su trayectoria de vuelo. El piloto debe guiñar el planeador de modo que mantenga la trayectoria original sobre el suelo y levantar la nariz suficientemente para evitar que la velocidad del aire aumente. En vientos cruzados, iniciar un resbalón bajando el ala en el lado de barlovento del planeador proporciona un control de trayectoria más estable. El piloto discontinúa un resbalón nivelando las alas y liberando suave y simultáneamente la presión del timón, mientras reajusta la actitud de cabeceo para un planeo normal.
 
@@ -220,9 +220,9 @@ Durante aterrizajes con viento cruzado, un resbalón lateral puede contrarrestar
 
 ### Pérdidas
 
-Una pérdida ocurre cuando el ángulo entre la línea de cuerda y el viento relativo excede el AOA crítico. [Figure 3-20] Una pérdida resulta en una reducción en la sustentación, aunque las alas todavía soportan algo del peso de la aeronave durante una pérdida. Las pérdidas pueden ocurrir a cualquier velocidad del aire y en cualquier actitud de vuelo.
+Una pérdida ocurre cuando el ángulo entre la línea de cuerda y el viento relativo excede el AOA crítico. [Figura 3-20] Una pérdida resulta en una reducción en la sustentación, aunque las alas todavía soportan algo del peso de la aeronave durante una pérdida. Las pérdidas pueden ocurrir a cualquier velocidad del aire y en cualquier actitud de vuelo.
 
-> **Figure 3-20:** Una pérdida ocurre cuando el ángulo de ataque excede el ángulo de ataque crítico.
+> **Figura 3-20:** Una pérdida ocurre cuando el ángulo de ataque excede el ángulo de ataque crítico.
 
 Muchos factores afectan la velocidad de pérdida de un planeador, incluyendo peso, factor de carga debido a maniobras, contaminación del ala y ubicación del CG. A medida que el peso o el factor de carga del planeador aumenta, el vuelo a cualquier velocidad del aire dada depende de un AOA aumentado: más cerca del ángulo de ataque crítico. Un factor de carga mayor o peso del planeador hace que el planeador alcance el ángulo crítico a una velocidad mayor. La distribución del peso también afecta la velocidad de pérdida. Por ejemplo, un CG hacia adelante requiere más fuerza de cola hacia abajo para equilibrar la aeronave. Esto requiere que las alas produzcan más sustentación que con el CG más atrás. Por lo tanto, un CG más hacia adelante también aumenta la velocidad de pérdida.
 
@@ -230,15 +230,15 @@ Los factores ambientales también afectan la velocidad de pérdida. La acumulaci
 
 ### Barrenas
 
-Una barrena se desarrolla a partir de una pérdida agravada que resulta en que el planeador descienda en una trayectoria helicoidal o de sacacorchos. Una barrena puede desarrollarse como una maniobra de vuelo compleja y descoordinada en la que un ala se estanca más que la otra. Al entrar en una barrena, el ala más completamente estancada usualmente cae antes que la otra, y la nariz de la aeronave guiña en la dirección del ala baja. En este escenario de barrena, el ala ascendente experimenta más sustentación y menos resistencia. [Figure 3-21] El ala opuesta se mueve hacia abajo y hacia atrás debido a menos sustentación y resistencia aumentada.
+Una barrena se desarrolla a partir de una pérdida agravada que resulta en que el planeador descienda en una trayectoria helicoidal o de sacacorchos. Una barrena puede desarrollarse como una maniobra de vuelo compleja y descoordinada en la que un ala se estanca más que la otra. Al entrar en una barrena, el ala más completamente estancada usualmente cae antes que la otra, y la nariz de la aeronave guiña en la dirección del ala baja. En este escenario de barrena, el ala ascendente experimenta más sustentación y menos resistencia. [Figura 3-21] El ala opuesta se mueve hacia abajo y hacia atrás debido a menos sustentación y resistencia aumentada.
 
-> **Figure 3-21:** Los coeficientes relativos de sustentación y resistencia para cada ala durante una barrena, que generan sustentación diferencial y resistencia e inducen rolido y guiñada.
+> **Figura 3-21:** Los coeficientes relativos de sustentación y resistencia para cada ala durante una barrena, que generan sustentación diferencial y resistencia e inducen rolido y guiñada.
 
 Las barrenas pueden ocurrir después de que un planeador se estanca en vuelo descoordinado con flujo de aire desigual sobre las alas. Cualquier barrena resultante usualmente ocurre en la dirección de la aplicación del timón. La entrada, forma del ala y CG usualmente determinan el tipo de barrena que resulta de un estancamiento del ala descoordinado. Los pilotos de planeadores deben comprender las características de pérdida para cualquier planeador que vuele, y las técnicas de recuperación de barrena como se describe en el GFM, si es aplicable, o en el Capítulo 8, Procedimientos Anormales y de Emergencia.
 
 La clasificación de barrenas incluye tres categorías, como se muestra en la Figura 3-22. La entrada, forma del ala y CG usualmente determinan el tipo de barrena que resulta de un estancamiento del ala descoordinado. El tipo más común de barrena es la barrena erguida o erecta, que mantiene un movimiento ligeramente con nariz hacia abajo de rolido y guiñada en la misma dirección. Un segundo tipo de barrena, una barrena invertida, involucra a la aeronave girando boca abajo con la guiñada y el rolido ocurriendo en direcciones opuestas. En un tercer tipo de barrena, la barrena plana, el planeador guiña alrededor del eje vertical en una actitud de cabeceo casi nivel con el horizonte. Una barrena plana a menudo tiene una tasa de rotación muy alta con una recuperación difícil o imposible. Un planeador correctamente cargado no debe entrar en una barrena plana. Las barrenas planas también pueden ser invertidas.
 
-> **Figure 3-22:** Tres tipos de barrenas.
+> **Figura 3-22:** Tres tipos de barrenas.
 
 Una pérdida y entrada en barrena cerca del suelo puede resultar fatal porque un piloto puede no tener altitud adecuada para recuperarse. Por lo tanto, los pilotos deben evitar errores que podrían llevar a un accidente de pérdida/barrena. Por ejemplo, durante la fase de aproximación y aterrizaje con viento en cola en el tramo base, un piloto podría intentar apretar el giro hacia final usando el timón, o hacer un giro pronunciado para evitar sobrepasar el curso de aproximación final. Un giro en derrape podría llevar a que el ala inferior exceda su AOA crítico antes que el ala superior y podría resultar en una barrena. Un giro excesivamente pronunciado también podría resultar en una pérdida acelerada y barrena.
 

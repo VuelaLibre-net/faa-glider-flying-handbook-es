@@ -14,7 +14,9 @@
 :term-flap: flap
 :term-spoiler: aerofreno
 :term-airbrake: aerofreno
-:term-divebrake: aerofreno
+:term-spoiler: aerofreno tipo spoiler
+:term-divebrake: aerofreno tipo dive brake
+:term-dive-brake: aerofreno tipo dive brake
 :term-trim: compensador
 :term-canopy: carlinga
 :term-fuselage: fuselaje
@@ -31,7 +33,7 @@
 :term-thermal: térmica
 :term-lift: ascendencia
 :term-lift-force: sustentación
-:term-sink: descendencia
+:term-sink: descendencia (hundimiento)
 :term-ridge-lift: ascendencia de ladera
 :term-wave-lift: onda de montaña
 :term-convergence: convergencia
@@ -45,7 +47,7 @@
 :term-aspect-ratio: alargamiento
 :term-washout: torsión alar
 :term-dihedral: diedro
-:term-flutter: flameo
+:term-flutter: flameo (flutter)
 :term-pio: PIO (oscilación inducida por el piloto)
 
 // Instrumentos
@@ -148,6 +150,8 @@
 :term-aerotow: remolque aéreo
 :term-winch-launch: lanzamiento con torno
 :term-auto-tow: remolque con automóvil
+:term-self-launch: autolanzable
+:term-thermalling: vuelo en térmica
 :term-tow-rope: cable de remolque
 :term-weak-link: eslabón fusible
 :term-release: gancho de suelta

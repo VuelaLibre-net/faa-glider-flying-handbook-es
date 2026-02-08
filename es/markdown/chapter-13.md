@@ -78,9 +78,7 @@ La hiperventilación resulta cuando una persona respira a una tasa aumentada o r
 
 La hiperventilación puede ocurrir como resultado de estrés emocional, miedo o dolor. Los pilotos de planeador que encuentran turbulencia extrema o inesperada o áreas fuertes de descendencia sobre terreno accidentado o agua pueden aumentar inconscientemente su tasa respiratoria o volumen de respiración. Cuando se vuela a altitudes más altas, ya sea con o sin oxígeno, puede ocurrir una tendencia a respirar más rápido de lo normal.
 
-> **Figura 13-4:** lista los síntomas comunes de hiperventilación. El tratamiento para la hiperventilación involucra restaurar el nivel apropiado de
-
-dióxido de carbono. Disminuir conscientemente la tasa respiratoria o hablar en voz alta puede revertir los efectos de la hiperventilación. La recuperación usualmente ocurre rápidamente una vez que la tasa respiratoria vuelve a la normalidad. En casos raros, la hiperventilación puede causar inconsciencia.
+La Figura 13-4 lista los síntomas comunes de hiperventilación. El tratamiento para la hiperventilación involucra restaurar el nivel apropiado de dióxido de carbono. Disminuir conscientemente la tasa respiratoria o hablar en voz alta puede revertir los efectos de la hiperventilación. La recuperación usualmente ocurre rápidamente una vez que la tasa respiratoria vuelve a la normalidad. En casos raros, la hiperventilación puede causar inconsciencia.
 
 
 > **Figura 13-4:** Síntomas comunes de hiperventilación.
@@ -253,9 +251,7 @@ Los accidentes relacionados con factores humanos usualmente no involucran una so
 
 Esta lista presenta diferentes peligros y respuestas de pilotos. ¿Estos pilotos consideraron cuidadosamente las consecuencias de sus decisiones?
 
-• Circunstancia: Mi sistema de oxígeno tiene una fuga lenta. Decisión: Las condiciones de vela son perfectas, y no necesitaré
-
-oxígeno para hoy.
+• Circunstancia: Mi sistema de oxígeno tiene una fuga lenta. Decisión: Las condiciones de vela son perfectas, y no necesitaré oxígeno para hoy.
 
 • Circunstancia: Se pronostican vientos altos más tarde hoy. Decisión: Puedo volar y regresar antes de que cambie el viento.
 

@@ -82,7 +82,7 @@ El 14 CFR parte 91, sección 91.309 (a)(5) establece, "El piloto de la aeronave 
 
 ### En el Aeropuerto
 
-El piloto remolcador debe mantener conciencia de la dirección de la estela de la hélice del avión remolcador. El impacto de la estela de la hélice en el personal de lanzamiento y las carlingas de los planeadores crea una molestia y un peligro. Siempre que sea posible, el piloto remolcador debe orientar la estela de la hélice lejos de cualquier operación en tierra. Antes de entrar en la pista activa para el enganche del cable de remolque y despegue, si es aplicable, el piloto remolcador puede monitorear y anunciar intenciones en la Frecuencia Común de Asesoramiento de Tráfico (CTAF).
+El piloto remolcador debe mantener conciencia de la dirección de la estela de la hélice del avión remolcador. El impacto de la estela de la hélice en el personal de lanzamiento y las cúpulas de los planeadores crea una molestia y un peligro. Siempre que sea posible, el piloto remolcador debe orientar la estela de la hélice lejos de cualquier operación en tierra. Antes de entrar en la pista activa para el enganche del cable de remolque y despegue, si es aplicable, el piloto remolcador puede monitorear y anunciar intenciones en la Frecuencia Común de Asesoramiento de Tráfico (CTAF).
 
 ## Señales de Tierra
 
