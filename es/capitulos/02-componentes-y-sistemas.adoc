@@ -73,7 +73,7 @@ Cuando el piloto desvía los controles de cabeceo desde la posición neutra, el 
 [[fig-02-07]]
 .Una aleta compensadora anti-servo.
 image::02/fig-02-07.an-anti-servo-tab.png[width=300,float=right]
-Los diseños de {term-glider}es con cola convencional incorporan el {term-tailplane} montado en la parte inferior del {term-fin}. Los {term-glider}es con cola en T tienen el {term-tailplane} montado en la parte superior del {term-fin} formando una "T". Los empenajes en V tienen dos superficies de cola montadas para formar una "V" que combina los movimientos del {term-elevator} y el timón.
+Los diseños de {term-glider}es con cola convencional incorporan el {term-tailplane} montado en la parte inferior del {term-fin}. Los {term-glider}es con cola en T tienen el {term-tailplane} montado en la parte superior del {term-fin} formando una «T». Los empenajes en V tienen dos superficies de cola montadas para formar una «V» que combina los movimientos del {term-elevator} y el timón.
 --
 
 == Dispositivos de Gancho de Remolque
@@ -110,7 +110,7 @@ image::02/fig-02-10.a-dg-808b-18-meter-high-performance-planeador-in.png[width=6
 
 === Motores de sostenimiento
 
-Algunos {term-glider}es tienen motores de sostenimiento (también denominados "turbo") propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor de sostenimiento para permanecer en el aire; sin embargo, los motores de sostenimiento no proporcionan suficiente potencia para lanzar el {term-glider} y pueden no tener suficiente potencia para compensar el aire descendente. <<fig-02-11>>
+Algunos {term-glider}es tienen motores de sostenimiento (también denominados «turbo») propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor de sostenimiento para permanecer en el aire; sin embargo, los motores de sostenimiento no proporcionan suficiente potencia para lanzar el {term-glider} y pueden no tener suficiente potencia para compensar el aire descendente. <<fig-02-11>>
 
 [[fig-02-11]]
 .Un Schleicher ASG-29 E con mástil de motor de sostenimiento de gasolina extendido.

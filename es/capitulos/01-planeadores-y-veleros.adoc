@@ -11,7 +11,7 @@ Un {term-glider} moderno, como el que se muestra a continuación <<fig-01-01>>, 
 .Un planeador DG Flugzeugbau GmbH serie 800B.
 image::01/fig-01-01.a-dg-flugzeugbau-gmbh-800b-series-planeador.png[width=400]
 
-El Código de Regulaciones Federales (14 CFR parte 1, sección 1.1) establece que "{term-glider} significa una aeronave más pesada que el aire, que se mantiene en vuelo por la reacción dinámica del aire contra sus superficies sustentadoras y cuyo vuelo libre no depende principalmente de un motor". El término "{term-glider}" también designa la habilitación que se coloca en el certificado de piloto una vez que el solicitante completa exitosamente la instrucción de {term-glider} requerida, tiene la experiencia necesaria, aprueba cualquier prueba de conocimientos requerida y aprueba la prueba práctica apropiada.
+El Código de Regulaciones Federales (14 CFR parte 1, sección 1.1) establece que «{term-glider} significa una aeronave más pesada que el aire, que se mantiene en vuelo por la reacción dinámica del aire contra sus superficies sustentadoras y cuyo vuelo libre no depende principalmente de un motor». El término «{term-glider}» también designa la habilitación que se coloca en el certificado de piloto una vez que el solicitante completa exitosamente la instrucción de {term-glider} requerida, tiene la experiencia necesaria, aprueba cualquier prueba de conocimientos requerida y aprueba la prueba práctica apropiada.
 
 Para que un {term-glider} vuele, necesita un medio para elevarse al aire. Los {term-glider}es primitivos solo podían lanzarse desde la cima de una colina. <<fig-01-02>> y <<fig-01-03>>.
 
@@ -49,7 +49,7 @@ Los Estándares de Certificación de Aviador de la FAA (ACS) o Estándares de Pr
 
 === Elegibilidad Médica
 
-Una persona puede ejercer los privilegios de una habilitación de {term-glider} o los de un instructor autorizado en un {term-glider} sin tener un certificado médico. Sin embargo, 14 CFR parte 61, sección 61.53 establece que "...una persona no debe actuar como piloto al mando, o en cualquier otra capacidad como miembro requerido de la tripulación de vuelo, mientras esa persona sepa o tenga razones para saber de cualquier condición médica que haría a la persona incapaz de operar la aeronave de manera segura".
+Una persona puede ejercer los privilegios de una habilitación de {term-glider} o los de un instructor autorizado en un {term-glider} sin tener un certificado médico. Sin embargo, 14 CFR parte 61, sección 61.53 establece que «...una persona no debe actuar como piloto al mando, o en cualquier otra capacidad como miembro requerido de la tripulación de vuelo, mientras esa persona sepa o tenga razones para saber de cualquier condición médica que haría a la persona incapaz de operar la aeronave de manera segura».
 
 === Programa FAA WINGS
 

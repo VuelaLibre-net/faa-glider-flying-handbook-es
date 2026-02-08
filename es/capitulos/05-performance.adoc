@@ -43,7 +43,7 @@ El viento también afecta el rendimiento del {term-glider}. El viento en cara du
 .Efecto del viento aparente en la distancia de despegue y ángulo de ascenso.
 image::05/fig-05-02.apparent-viento-effect-on-despegue-distance-and.png[width=600]
 
-Debido a la disminución de fricción del suelo entre el viento y el suelo, la velocidad del viento a menudo aumenta con la altitud. Este "gradiente de viento" durante un lanzamiento en tierra podría resultar en un exceso de la velocidad máxima de lanzamiento. <<fig-05-03>>
+Debido a la disminución de fricción del suelo entre el viento y el suelo, la velocidad del viento a menudo aumenta con la altitud. Este «gradiente de viento» durante un lanzamiento en tierra podría resultar en un exceso de la velocidad máxima de lanzamiento. <<fig-05-03>>
 
 [[fig-05-03]]
 .Un gradiente de viento puede afectar la velocidad indicada durante un remolque terrestre.

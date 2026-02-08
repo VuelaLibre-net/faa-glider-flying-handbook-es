@@ -244,7 +244,7 @@ Una pulgada de presión es igual a aproximadamente 1,000 pies de altitud.
 
 .25 × 1,000 pies = 250 pies
 
-En este escenario, el piloto, aunque bajo, podría volar un ángulo de {term-approach} visual exitoso a la zona de {term-landing}. El piloto debe ajustar el ángulo visual a la zona de {term-landing} para compensar la altitud más baja. Sin embargo, el riesgo de un accidente aumenta debido a la altitud incorrecta de entrada al circuito. Por ejemplo, el {term-glider} podría golpear un obstáculo en la trayectoria de vuelo si no es visto por el piloto. Si el piloto no reajusta el {term-altimeter}, el siguiente auxiliar de memoria ilustra lo que puede suceder "De alto a bajo—cuidado abajo."
+En este escenario, el piloto, aunque bajo, podría volar un ángulo de {term-approach} visual exitoso a la zona de {term-landing}. El piloto debe ajustar el ángulo visual a la zona de {term-landing} para compensar la altitud más baja. Sin embargo, el riesgo de un accidente aumenta debido a la altitud incorrecta de entrada al circuito. Por ejemplo, el {term-glider} podría golpear un obstáculo en la trayectoria de vuelo si no es visto por el piloto. Si el piloto no reajusta el {term-altimeter}, el siguiente auxiliar de memoria ilustra lo que puede suceder «De alto a bajo—cuidado abajo».
 
 ==== Efecto de la Temperatura No Estándar
 
@@ -367,7 +367,7 @@ Como se explica en el siguiente capítulo, el {term-water-ballast} aumenta la ve
 
 == Brújula Magnética
 
-La mayoría de los {term-glider}es no están sujetos a regulación para aeronaves propulsadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para "aeronaves civiles". Por esta razón, algunos {term-glider}es no tienen brújula a menos que sea requerido según las Hojas de Datos del Certificado de Tipo (TCDS - Type Certificate Data Sheets) de la aeronave.
+La mayoría de los {term-glider}es no están sujetos a regulación para aeronaves propulsadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para «aeronaves civiles». Por esta razón, algunos {term-glider}es no tienen brújula a menos que sea requerido según las Hojas de Datos del Certificado de Tipo (TCDS - Type Certificate Data Sheets) de la aeronave.
 
 == Indicadores de Resbale/Derrape Excesivo
 
@@ -382,7 +382,7 @@ image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=600]
 
 === {Term-inclinometer}
 
-Un {term-inclinometer} también proporciona indicación de deslizamiento/deslizamiento excesivo. El {term-inclinometer} responde a la fuerza centrífuga y la gravedad. El {term-inclinometer} consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el {term-glider} vuela de manera coordinada, la bola permanece centrada en la parte inferior del tubo de vidrio. El {term-inclinometer} difiere de la lanita durante el vuelo no coordinado. La bola se mueve hacia el interior del giro para indicar un deslizamiento y hacia el exterior del giro para indicar un deslizamiento excesivo. <<fig-04-28>> La frase, "pisa la bola" explica cómo un piloto debería responder para restaurar el {term-coordinated-flight}. Durante una {term-spin}, el {term-inclinometer} no proporciona información de dirección de rotación, y los pilotos no deben usar el {term-inclinometer} para guía.
+Un {term-inclinometer} también proporciona indicación de deslizamiento/deslizamiento excesivo. El {term-inclinometer} responde a la fuerza centrífuga y la gravedad. El {term-inclinometer} consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el {term-glider} vuela de manera coordinada, la bola permanece centrada en la parte inferior del tubo de vidrio. El {term-inclinometer} difiere de la lanita durante el vuelo no coordinado. La bola se mueve hacia el interior del giro para indicar un deslizamiento y hacia el exterior del giro para indicar un deslizamiento excesivo. <<fig-04-28>> La frase, «pisa la bola» explica cómo un piloto debería responder para restaurar el {term-coordinated-flight}. Durante una {term-spin}, el {term-inclinometer} no proporciona información de dirección de rotación, y los pilotos no deben usar el {term-inclinometer} para guía.
 
 == Instrumentos Giroscópicos
 
@@ -403,7 +403,7 @@ image::04/fig-04-29.the-g-meter.png[width=600]
 
 Una colisión en el aire presenta un riesgo para todos los pilotos, y los pilotos de {term-glider}es tienen escenarios adicionales de colisión en el aire a considerar cuando vuelan en {term-thermal}s, vuelan en calles de nubes, o vuelan a lo largo de laderas. Periódicamente, ocurren colisiones en el aire o casi colisiones en vuelos de club, durante competiciones, y entre {term-glider}es y aviones de remolque después del desenganche.
 
-Los sistemas FLARM (el nombre inspirado en "flight alarm" - alarma de vuelo) pueden advertir a los pilotos de colisiones inminentes con otros {term-glider}es equipados con FLARM y dar la ubicación de {term-glider}es cercanos no amenazantes equipados con FLARM. La Figura 4-30 muestra el interior de un {term-glider} ASW 19 con una unidad FLARM encima del panel de instrumentos. FLARM transmite y recibe información, modela las características de vuelo únicas de los {term-glider}es, y permanece silencioso a menos que detecte una amenaza real. Sin embargo, solo puede proporcionar información sobre otras aeronaves con un sistema FLARM operativo.
+Los sistemas FLARM (el nombre inspirado en «flight alarm» - alarma de vuelo) pueden advertir a los pilotos de colisiones inminentes con otros {term-glider}es equipados con FLARM y dar la ubicación de {term-glider}es cercanos no amenazantes equipados con FLARM. La Figura 4-30 muestra el interior de un {term-glider} ASW 19 con una unidad FLARM encima del panel de instrumentos. FLARM transmite y recibe información, modela las características de vuelo únicas de los {term-glider}es, y permanece silencioso a menos que detecte una amenaza real. Sin embargo, solo puede proporcionar información sobre otras aeronaves con un sistema FLARM operativo.
 
 [[fig-04-30]]
 .Unidad FLARM en la parte superior del panel de instrumentos.
@@ -423,7 +423,7 @@ La Administración Federal de Aviación (FAA - Federal Aviation Administration) 
 
 • CÓDIGO SQUAWK: El código de 4 dígitos establecido en el transpondedor, como 1202.
 
-• IDENT o SQUAWK IDENT: Un controlador puede dirigir a un piloto a "ident" o "squawk ident" para verificar la ubicación de la aeronave
+• IDENT o SQUAWK IDENT: Un controlador puede dirigir a un piloto a «ident» o «squawk ident» para verificar la ubicación de la aeronave
 
 en la pantalla de radar. Cuando se le indica, el piloto presiona el botón en el transpondedor marcado IDENT. Esto
 
