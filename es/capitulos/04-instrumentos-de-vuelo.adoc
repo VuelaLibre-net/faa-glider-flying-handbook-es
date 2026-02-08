@@ -9,7 +9,7 @@ Los instrumentos que muestran velocidad aerodinámica, altitud y velocidad verti
 
 Este capítulo describe los instrumentos y sistemas básicos del {term-glider}. Los pilotos que vuelen {term-glider}es con instrumentos electrónicos avanzados deben consultar la documentación del fabricante para una descripción completa del funcionamiento y buscar instrucción según sea necesario.
 
-== Instrumentos Pitot-Estática
+== Instrumentos pitot-estática
 
 El sistema pitot-estática utiliza dos medidas diferentes de presión de aire:
 
@@ -19,7 +19,7 @@ El sistema pitot-estática utiliza dos medidas diferentes de presión de aire:
 
 a través de tuberías.
 
-=== Líneas de Presión de Impacto y Estática
+=== Líneas de presión de impacto y estática
 
 La presión de aire de impacto del movimiento hacia adelante del {term-glider} aumenta la presión de aire en el tubo pitot, que se monta ya sea en la nariz o en el {term-fin} para permitir una exposición ininterrumpida al flujo de aire entrante. Los puertos estáticos del {term-glider} a menudo se montan ya sea en el {term-fin} o en el costado del {term-fuselage}. <<fig-04-01>>
 
@@ -39,7 +39,7 @@ La presión estática (presión del aire en reposo) proviene del movimiento de a
 
 Los pilotos verifican las aberturas tanto del tubo pitot como del puerto estático durante la inspección de prevuelo para asegurar que las obstrucciones no bloqueen el flujo libre de aire. Un mecánico certificado debe limpiar cualquier bloqueo. Soplar en estas aberturas podría dañar los instrumentos de vuelo.
 
-=== Indicador de Velocidad Aerodinámica: Anemómetro
+=== Indicador de velocidad aerodinámica: anemómetro
 
 [group-flex]
 --
@@ -59,7 +59,7 @@ Como se muestra en la Figura 4-4, el indicador de velocidad aerodinámica contie
 .Operación del indicador de velocidad aerodinámica.
 image::04/fig-04-05.velocidad-aire-indicador-operation.png[width=500]
 
-==== Los Efectos de la Altitud en el anemómetro
+==== Los efectos de la altitud en el anemómetro
 
 [group-flex]
 --
@@ -70,7 +70,7 @@ image::04/fig-04-06.effects-of-altitud-on-the-velocidad-aire-indicador.png[width
 El indicador de velocidad aerodinámica muestra la presión dinámica (presión pitot menos presión estática) calibrada a una velocidad aerodinámica a la presión estándar al nivel del mar. Debido a la menor densidad del aire a medida que aumenta la altitud, la acumulación de presión en el diafragma disminuye y la indicación se vuelve menor que al nivel del mar. El error se vuelve mayor a medida que aumenta la altitud. <<fig-04-06>>
 --
 
-==== Tipos de Velocidad Aerodinámica
+==== Tipos de velocidad aerodinámica
 
 Los pilotos trabajan con varios números de velocidad aerodinámica incluyendo velocidad aerodinámica indicada (IAS), velocidad aerodinámica calibrada (CAS - Calibrated Airspeed), y velocidad aerodinámica verdadera (TAS - True Airspeed). <<fig-04-07>>
 
@@ -79,7 +79,7 @@ Los pilotos trabajan con varios números de velocidad aerodinámica incluyendo v
 image::04/fig-04-07.three-types-of-velocidad-aire.png[width=600]
 
 
-===== Velocidad Aerodinámica Indicada (IAS)
+===== Velocidad aerodinámica indicada (IAS)
 
 El piloto lee la IAS directamente del anemómetro, sin corrección por error de instalación o error de instrumento. Aunque la densidad del aire afecta la velocidad aerodinámica indicada, un {term-glider} particular en vuelo estable nivelado a un {term-weight} fijo entra en {term-stall} a una presión dinámica específica (velocidad aerodinámica indicada) independientemente de la densidad del aire. <<tab-04-08>>
 
@@ -105,7 +105,7 @@ El piloto lee la IAS directamente del anemómetro, sin corrección por error de 
 | 40 000 pies | 40 nudos | 72 nudos
 |===
 
-====== Velocidad Aerodinámica Calibrada (CAS)
+====== Velocidad aerodinámica calibrada (CAS)
 
 La CAS corrige la IAS por errores de instalación e instrumento. Pueden ocurrir errores significativos a bajas velocidades aerodinámicas. En rangos de velocidad aerodinámica de crucero y superiores, las diferencias entre IAS y CAS se vuelven pequeñas.
 
@@ -113,7 +113,7 @@ Los pilotos deben consultar la tabla de calibración de velocidad aerodinámica 
 
 La suciedad, polvo, hielo o nieve que se acumulan en la abertura del tubo pitot pueden obstruir el paso de aire y prevenir indicaciones correctas. La degradación debida a la edad y la vibración también pueden afectar la sensibilidad del diafragma. Por lo tanto, los indicadores de velocidad aerodinámica deben someterse a calibración periódica.
 
-====== Velocidad Aerodinámica Verdadera (TAS)
+====== Velocidad aerodinámica verdadera (TAS)
 
 La TAS es la velocidad real a la que la aeronave se mueve a través del aire. En aire en calma, la TAS es igual a la velocidad real sobre el terreno. Sin embargo, el indicador de velocidad aerodinámica solo indica TAS bajo condiciones atmosféricas estándar al nivel del mar (29.92 pulgadas de mercurio ["Hg] y 15°C). A una IAS constante, la TAS aumenta a medida que el {term-glider} asciende porque la densidad del aire disminuye con el aumento de altitud.
 
@@ -121,7 +121,7 @@ El indicador de velocidad aerodinámica proporciona un medio conveniente para ge
 
 Un piloto puede determinar la TAS por dos métodos. El primer método y más preciso implica usar una computadora de vuelo. En este método, el piloto corrige la CAS por variación de temperatura y presión usando la escala de corrección de velocidad aerodinámica en la computadora. El segundo método aproxima la TAS aumentando la IAS actual en un 2 por ciento por cada 1 000 pies sobre el nivel del mar.
 
-=== Marcas del Indicador de Velocidad Aerodinámica
+=== Marcas del indicador de velocidad aerodinámica
 
 Los {term-glider}es fabricados después de 1945 tienen indicadores de velocidad aerodinámica que se ajustan a un sistema de marcado codificado por colores estándar. <<fig-04-03>> Este sistema permite al piloto determinar información importante de velocidad aerodinámica rápidamente. Por ejemplo, el arco verde representa el rango de operación normal, mientras que el arco amarillo representa el rango de precaución. Un piloto que observa una aguja de velocidad aerodinámica en el arco amarillo y acercándose rápidamente a la línea roja durante una maniobra debe tomar inmediatamente acción correctiva para reducir la velocidad aerodinámica. En este caso, el piloto debe usar presión de control suave a altas velocidades aerodinámicas para evitar esfuerzos inseguros en la estructura del {term-glider}.
 
@@ -147,7 +147,7 @@ normales.
 
 Este piloto nunca debe exceder intencionalmente esta velocidad.
 
-=== Efecto de la Altitud en V~NE
+=== Efecto de la altitud en V~NE
 
 La velocidad de nunca exceder (V~NE~) disminuye con el aumento de altitud debido a la posibilidad de flutter a velocidades aerodinámicas verdaderas más altas. A altas altitudes, mantener una velocidad en o debajo de la línea roja puede exceder la V~NE~ real. Dado que la disminución de V~NE~ varía según el modelo, el manual de vuelo puede incluir una tabla, como la mostrada en la Figura 4-9, que documenta la disminución de V~NE~ con la altitud. A velocidades aerodinámicas verdaderas altas durante un descenso rápido, la estructura del {term-glider} podría vibrar súbitamente (flutter) y desintegrarse. Los fabricantes de {term-glider}es prueban el flutter y el cumplimiento de las velocidades V~NE~ publicadas en el manual de vuelo para el modelo específico debería prevenirlo.
 
@@ -168,7 +168,7 @@ La velocidad de nunca exceder (V~NE~) disminuye con el aumento de altitud debido
 | 16 500      | 115
 |===
 
-=== Otras Limitaciones de Velocidad Aerodinámica
+=== Otras limitaciones de velocidad aerodinámica
 
 Las placas en la vista del piloto pueden mostrar otras limitaciones importantes de velocidad aerodinámica no marcadas en la cara del indicador de velocidad aerodinámica. <<fig-04-10>>
 
@@ -212,7 +212,7 @@ El {term-weight} de una columna de aire sobre una ubicación dada crea la presi�
 .Presión atmosférica y altitud.
 image::04/fig-04-13.atmosferica-presion-and-altitud.png[width=300]
 
-==== Principios de Operación
+==== Principios de operación
 
 El {term-altimeter} funciona como un barómetro aneroide que mide la presión atmosférica a la elevación actual excepto que el {term-altimeter} indica la presión en pies. El {term-altimeter} indica cambios en la altitud durante un ascenso o descenso a medida que cambia la presión atmosférica. Las Figuras 4-14 y 4-15 ilustran cómo funciona el {term-altimeter}. Algunos {term-altimeter}s tienen una aguja mientras que otros tienen más.
 
@@ -226,7 +226,7 @@ image::04/fig-04-15.inside-the-altimetro.png[width=300]
 
 Las marcas en el dial de un {term-altimeter} típico incluyen números dispuestos en sentido horario de 0 a 9 inclusive, como se muestra en la Figura 4-12. Cuando cambia la presión circundante, la expansión o contracción del elemento aneroide mueve las agujas a través de un tren de engranajes. Las agujas recorren el dial calibrado para indicar la altitud. En el {term-altimeter} con tres agujas mostrado en la Figura 4-12, la aguja más delgada con un extremo en forma de triángulo indica la altitud en decenas de miles de pies; la aguja puntiaguda más corta indica miles de pies; y la aguja puntiaguda larga indica cientos de pies, subdivididos en incrementos de 20 pies.
 
-=== Tipos de Altitud
+=== Tipos de altitud
 
 La altitud corresponde a una distancia vertical sobre algún punto o nivel usado como referencia. La altitud medida desde diferentes niveles de referencia sirve para diferentes propósitos. <<fig-04-16>>
 
@@ -246,7 +246,7 @@ Los pilotos de {term-glider}es deben entender las siguientes altitudes:
 
 • Altitud absoluta—distancia vertical sobre el terreno, sobre el nivel del suelo (AGL - Above Ground Level). El piloto puede usar la altitud absoluta para estimar la distancia de planeo sobre el terreno sin el beneficio de {term-lift}.
 
-==== Efecto de la Presión No Estándar
+==== Efecto de la presión no estándar
 
 En un vuelo hecho desde un área de alta presión a un área de baja presión sin ajustar el {term-altimeter}, el {term-glider} desciende si el piloto mantiene una {term-indicated-altitude} dada. Cuando se vuela desde un área de baja presión a un área de alta presión sin ajustar el {term-altimeter}, el {term-glider} asciende si el piloto mantiene una {term-indicated-altitude} dada. El piloto ajusta este fenómeno ajustando el {term-altimeter}. Un {term-altimeter} correctamente ajustado proporciona una cantidad apropiada de separación vertical entre aeronaves a diferentes altitudes de crucero y puede ayudar a prevenir colisiones en el aire. También permite un cálculo de altitud absoluta más preciso, que le da al piloto de {term-glider} la capacidad de determinar la distancia de planeo con mayor precisión.
 
@@ -278,7 +278,7 @@ Una pulgada de presión es igual a aproximadamente 1 000 pies de altitud.
 
 En este escenario, el piloto, aunque bajo, podría volar un ángulo de {term-approach} visual exitoso a la zona de {term-landing}. El piloto debe ajustar el ángulo visual a la zona de {term-landing} para compensar la altitud más baja. Sin embargo, el riesgo de un accidente aumenta debido a la altitud incorrecta de entrada al circuito. Por ejemplo, el {term-glider} podría golpear un obstáculo en la trayectoria de vuelo si no es visto por el piloto. Si el piloto no reajusta el {term-altimeter}, el siguiente auxiliar de memoria ilustra lo que puede suceder _«De alto a bajo—cuidado abajo»_.
 
-==== Efecto de la Temperatura No Estándar
+==== Efecto de la temperatura no estándar
 
 Las variaciones en la temperatura del aire también afectan el {term-altimeter}. En un día cálido, el aire pesa menos por unidad de volumen que en un día frío. Por ejemplo, el nivel de presión al que el {term-altimeter} indica 10 000 pies ocurre a una altitud más alta en un día cálido que bajo condiciones estándar. En un día frío, la indicación de 10 000 pies se mueve más abajo. El ajuste hecho por el piloto para compensar la presión no estándar no compensa la temperatura no estándar. Si se considera el despeje de terreno u obstáculos durante la selección de una {term-true-altitude} de crucero, particularmente a altitudes más altas, el piloto debe considerar este efecto. Una temperatura más fría que el estándar coloca el {term-glider} más cerca del terreno para una {term-true-altitude} dada, y el piloto debe usar una altitud más alta para proporcionar un despeje de terreno adecuado. <<fig-04-17>>
 
@@ -397,7 +397,7 @@ Cuando la computadora de vuelo detecta ascensos rápidos, sugiere velocidades de
 
 Como se explica en el siguiente capítulo, el {term-water-ballast} aumenta la velocidad óptima para volar. La computadora de vuelo compensa por el {term-water-ballast} transportado, ajustando los cálculos de velocidad para volar de acuerdo con el {term-weight} y rendimiento del {term-glider}. Algunas computadoras de vuelo requieren que el piloto ingrese datos sobre la carga de lastre del {term-glider}. Otras computadoras de vuelo compensan automáticamente por el efecto del {term-water-ballast} midiendo constantemente el rendimiento del {term-glider} y deduciendo el {term-weight} operativo del {term-glider} de estas mediciones. Si las {term-wing}s del {term-glider} se contaminan con insectos, el rendimiento del {term-glider} disminuye. La computadora de vuelo puede ajustarse para tener en cuenta la degradación de rendimiento resultante.
 
-== Brújula Magnética
+== Brújula magnética
 
 La mayoría de los {term-glider}es no están sujetos a regulación para aeronaves propulsadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para «aeronaves civiles». Por esta razón, algunos {term-glider}es no tienen brújula a menos que sea requerido según las Hojas de Datos del Certificado de Tipo (TCDS - Type Certificate Data Sheets) de la aeronave.
 

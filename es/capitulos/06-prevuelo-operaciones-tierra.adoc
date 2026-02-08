@@ -1,5 +1,5 @@
 [[cap06]]
-= Operaciones de Prevuelo y en Tierra
+= Operaciones de prevuelo y en tierra
 
 
 
@@ -7,7 +7,7 @@
 
 La operación segura de un {term-glider} depende de un cuidadoso ensamblaje y prevuelo. Las técnicas de ensamblaje adecuadas, seguidas de una inspección minuciosa del {term-glider} utilizando las listas de verificación contenidas en el Manual de Vuelo del {term-glider}/Manual del Piloto (GFM/POH), garantizan esa seguridad. Los pilotos deben llevar a cabo los procedimientos de lanzamiento de forma sistemática y consistente para cada vuelo, utilizando métodos apropiados y trabajo en equipo. Los estudiantes y pilotos no familiarizados con el ensamblaje del {term-glider} deben buscar instrucción de un instructor de vuelo sin motor.
 
-== Ensamblaje y Almacenamiento
+== Ensamblaje y almacenamiento
 
 El personal que se prepara para ensamblar un {term-glider} debe considerar los siguientes elementos: ubicación, número de ayudantes, herramientas, piezas y listas de verificación que detallen los procedimientos de ensamblaje apropiados. El GFM/POH debe contener listas de verificación para ensamblar e inspeccionar un {term-glider}. Si no es así, el personal debe desarrollar una y seguirla. Los pilotos de {term-glider} deben evitar distracciones que puedan ocurrir durante el ensamblaje y verificar que los documentos requeridos estén a bordo del {term-glider}.
 
@@ -37,7 +37,7 @@ image::06/fig-06-02.folding-the-alas-of-the-planeador-reduces-storage.png[width=
 
 Una vez que un {term-glider} ha sido completamente ensamblado y antes del vuelo, el piloto inspecciona todas las áreas críticas para asegurar la finalización de todas las conexiones de los controles de vuelo. Muchos fabricantes proporcionan una lista de verificación de ensamblaje crítico (CAC) para usar después del ensamblaje. Una verificación de controles positiva (PCC) proporciona un medio adicional de verificación que debe realizarse incluso si el personal apropiado completa un CAC. El piloto debe referirse a una lista de verificación escrita proporcionada por el fabricante o una fuente comercial que reproduzca con precisión las listas de verificación del {term-glider}.
 
-=== Transporte en Remolque
+=== Transporte en remolque
 
 El transporte, almacenamiento o recuperación de {term-glider}es utiliza remolques especialmente diseñados <<fig-06-03>>, y los componentes del {term-glider} deben ajustarse cómodamente en el espacio proporcionado, sin forzarlos, y de una manera que prevenga el rozamiento. Los remolques de {term-glider}es también pueden tener áreas de almacenamiento para asegurar las piezas.
 
@@ -47,7 +47,7 @@ image::06/fig-06-03.componentes-of-a-planeador-stored-and-transported.png[width=
 
 Al remolcar un remolque, se aplican las precauciones y experiencia estándar de remolque de vehículos motorizados.
 
-=== Amarre y Asegurado
+=== Amarre y asegurado
 
 Al amarrar en aeropuertos compartidos con aeronaves propulsadas, la ráfaga de las hélices puede causar daños a un {term-glider} inadecuadamente asegurado. El personal debe amarrar un {term-glider} con la cúpula cerrada y trabada antes de dejarlo desatendido. Si es posible, el punto de amarre debe enfrentarse al viento. Los amarres permanentes a menudo utilizan correas, cuerdas o cadenas para las {term-wing}s y la cola y no se ajustan a las variaciones del viento. Los pilotos deben llevar un kit de amarre apropiado para un viaje de campo si no existe un amarre permanente en el destino. Los pilotos deben consultar el GFH/POH para los procedimientos específicos de amarre.
 
@@ -67,7 +67,7 @@ image::06/fig-06-05.protecting-the-canopy.png[width=600]
 
 Si se transporta un {term-glider} o se estaciona un {term-glider} en clima frío, el personal debe verificar y drenar cualquier {term-water-ballast} restante. Si no se puede drenar el {term-water-ballast}, agregar anticongelante previene la congelación.
 
-== Manejo en Tierra
+== Manejo en tierra
 
 Mover un {term-glider} en tierra requiere procedimientos especiales de manejo, especialmente durante vientos fuertes. Al mover un {term-glider}, todo el personal debe recibir una explicación sobre los procedimientos y señales.
 
@@ -87,7 +87,7 @@ Otro método de remolque utiliza equipos de remolque especialmente diseñados co
 .Un carro de ala (izquierda) listo para su fijación y un carro de cola (derecha) siendo usado para el movimiento del planeador en tierra.
 image::06/fig-06-07.a-ala-dolly-left-ready-for-attachment-and-a-cola.png[width=600]
 
-== Inspección del Equipo de Lanzamiento
+== Inspección del equipo de lanzamiento
 
 Aunque un piloto de {term-glider} puede inspeccionar la cuerda de remolque, el 14 CFR parte 91, sección 91.309(a) le da a la persona que opera una aeronave civil que remolca un {term-glider} la responsabilidad de la {term-drag} de la cuerda de remolque. <<fig-06-08>> Dado que un punto débil podría desarrollarse en cualquier momento, las cuerdas de remolque deben someterse a inspección antes de cada vuelo. La línea de remolque debe estar libre de desgaste excesivo; todos los filamentos deben estar intactos, y la línea debe estar libre de nudos. Un nudo en la línea de remolque reduce su {term-drag} hasta en un 50 por ciento y crea un punto grueso en la línea de remolque más susceptible al desgaste. El anillo al que se une el {term-glider} puede crear un área de alto desgaste. Los operadores pueden reemplazar la cuerda de remolque periódicamente debido a la exposición ultravioleta (UV) del sol o después de un número específico de remolques.
 
@@ -127,7 +127,7 @@ image::06/fig-06-13.schweizer-type-remolque-gancho.png[width=600]
 .Gancho Tost.
 image::06/fig-06-14.tost-gancho.png[width=600]
 
-== Inspección de Prevuelo del {term-glider}
+== Inspección de prevuelo del {term-glider}
 
 Los pilotos deben realizar una inspección exhaustiva del {term-glider} antes del lanzamiento. Si el GFM/POH del {term-glider} no contiene una lista de verificación de prevuelo, el piloto debe desarrollar una lista de verificación utilizando las pautas contenidas en la Figura 6-15.
 
@@ -136,7 +136,7 @@ Los pilotos deben realizar una inspección exhaustiva del {term-glider} antes de
 .Lista de verificación de inspección de prevuelo de un planeador.
 image::06/fig-06-15.a-planeador-pre-vuelo-inspeccion-lista.png[width=600]
 
-== Lista de Verificación Prevuelo
+== Lista de verificación prevuelo
 
 El piloto debe realizar una verificación de controles positiva con la ayuda de un miembro adicional de la tripulación, especialmente si el {term-glider} acaba de ser ensamblado. El piloto mueve la palanca de control y los pedales del timón mientras el miembro de la tripulación proporciona {term-drag}, sosteniendo cada {term-aileron}, el elevador, los {term-airbrake}s, los {term-flap}s y el timón para asegurar conexiones de control correctas y seguras. <<fig-06-16>> Una palanca o pedal que se mueve libremente con las superficies de control correspondientes restringidas indica que las conexiones no están seguras, y el {term-glider} no es aeronavegable. Los pilotos deben ajustar los asientos del piloto o pasajero, así como los controles ajustables, como los pedales del timón, antes de abrocharse el cinturón de seguridad y el arnés de hombros. Se debe tener cuidado para evitar pinzar o sujetar cualquier suministro de oxígeno a bordo.
 
@@ -161,10 +161,10 @@ Después de limpiar, se puede aplicar una capa de cera o sellador a {term-glider
 
 Un propietario o piloto puede realizar reparaciones menores en un {term-glider} de fibra de vidrio como arreglar un rasguño o una astilla. Las personas deben consultar a un experto en fibra de vidrio antes de hacer cualquier reparación menor y usar piezas y materiales aprobados al realizar estas reparaciones. Todos los {term-glider}es, incluyendo aquellos certificados como estándar o experimentales, deben repararse de acuerdo con los procedimientos recomendados por el fabricante y el 14 CFR parte 43.
 
-=== Mantenimiento Preventivo
+=== Mantenimiento preventivo
 
 Los pilotos pueden realizar mantenimiento preventivo en su {term-glider}. El mantenimiento preventivo no involucra operaciones de ensamblaje complejas. Para la lista de actividades de mantenimiento permitidas realizadas por el piloto y para más información sobre mantenimiento preventivo, refiérase al Apéndice A del 14 CFR Parte 43, Alteraciones Mayores, Reparaciones Mayores y Mantenimiento Preventivo encontrado en www.ecfr.gov.
 
-== Resumen del Capítulo
+== Resumen del capítulo
 
 Este capítulo introduce las prácticas de seguridad recomendadas para el ensamblaje, almacenamiento, amarre, asegurado y manejo en tierra de un {term-glider}. La autoridad final para cualquier {term-glider} es el Manual de Vuelo específico o Manual del Piloto (POH) desarrollado por el fabricante de la aeronave y aprobado por la FAA.

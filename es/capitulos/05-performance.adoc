@@ -7,7 +7,7 @@
 
 El performance del {term-glider} depende del diseño, el tiempo meteorológico, el viento y otros fenómenos atmosféricos. Mientras que el diseño del {term-glider} afecta el performance en gran medida, el diseño permanece fijo y conocido por el piloto. Otros factores cambian y afectan el {term-takeoff}, el crucero y el {term-landing}.
 
-== Factores Variables de Performance
+== Factores variables de performance
 
 Para un vuelo específico de {term-glider}, algunos factores que afectan el rendimiento incluyen la {term-density-altitude}, el viento y el {term-weight}.
 
@@ -23,7 +23,7 @@ image::05/fig-05-01.densidad-altitud-grafico.png[width=600]
 
 Muchas gráficas de performance usan entradas de {term-pressure-altitude} y temperatura sin requerir que el piloto calcule la {term-density-altitude}. Sin embargo, si el piloto quiere conocer la {term-density-altitude}, una gráfica de {term-density-altitude} o una computadora de vuelo pueden proporcionar esa información.
 
-==== **Presión Atmosférica**
+==== **Presión atmosférica**
 
 La presión atmosférica en una ubicación dada cambia de día a día. El siguiente ejemplo de Reporte Meteorológico de Aeródromo (METAR) indica una presión local de A2953, o ajuste de {term-altimeter} de 29,53 inHg. Al considerar solo la presión barométrica, la lectura de presión más baja de lo normal resulta en una {term-density-altitude} más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de {term-takeoff} y ascenso y aumenta la longitud de pista necesaria durante el {term-landing} tanto para el {term-glider} como para el avión de remolque. Por otro lado, si la presión barométrica aumenta, la {term-density-altitude} más baja mejora el rendimiento de {term-takeoff} y ascenso, y la longitud de pista necesaria para el {term-landing} disminuye.
 
@@ -103,13 +103,13 @@ La Figura 5-9 anterior muestra que aumentar el {term-weight} de 800 a 1 200 lib
 
 Para volar más rápido con eficiencia, algunos {term-glider}es tienen tanques de agua que permiten al piloto agregar {term-weight} como lastre. El piloto normalmente expulsa el {term-water-ballast} antes de entrar al {term-pattern} o antes si las condiciones requieren una tasa de ascenso más alta. Reducir el {term-weight} del {term-glider} antes del {term-landing} permite al piloto hacer una {term-approach} normal, {term-landing} normal, y reduce la carga sobre el tren de {term-landing}.
 
-== Velocidad de Ascenso
+== Velocidad de ascenso
 
 La velocidad de ascenso para un {term-glider} lanzado en tierra depende de la potencia del equipo de lanzamiento en tierra. Con un torno potente o vehículo de remolque, la velocidad de ascenso puede exceder 2 000 pies por minuto (fpm). Para un {term-aerotow}, la velocidad de ascenso depende de la potencia del avión de remolque. El avión de remolque debe tener suficiente potencia para remolcar el {term-glider} de manera segura, considerando las condiciones existentes, que incluyen el {term-weight} del {term-glider}.
 
 La velocidad de ascenso de los {term-glider}es con auto-lanzamiento puede variar desde tan bajo como 200 fpm hasta 800 fpm o más. El piloto debe consultar el GFM/POH para determinar la velocidad de ascenso bajo las condiciones existentes.
 
-== Manuales de Vuelo y Placas
+== Manuales de vuelo y placas
 
 El GFM/POH proporciona al piloto la información de performance necesaria para operar el {term-glider} de manera segura. Un GFM/POH puede incluir la siguiente información:
 
@@ -135,7 +135,7 @@ La cantidad de información que las placas transmiten al piloto aumenta a medida
 .Placas típicas para planeadores.
 image::05/fig-05-10.typical-placards-for-planeadores.png[width=600]
 
-=== Información de Rendimiento
+=== Información de rendimiento
 
 El GFM/POH proporcionado por el fabricante contiene información de rendimiento del {term-glider}. El GFM/POH lista velocidades específicas de aire como velocidad de {term-stall}, velocidad de mínimo hundimiento, velocidad de mejor L/D, velocidad de maniobras, velocidad de aire turbulento, velocidad máxima de {term-aerotow}, velocidad máxima de lanzamiento en tierra, y la velocidad de nunca exceder (V~NE~). Algunas velocidades de rendimiento aplican solo a {term-glider}es con cierto equipo. Por ejemplo, los {term-glider}es con {term-flap}s alares tienen una velocidad máxima permitida con {term-flap}s extendidos (VFE).
 
@@ -201,7 +201,7 @@ La Condición 1 identifica la velocidad máxima a la cual el piloto puede usar t
 
 La Condición 2 representa la velocidad a la cual el piloto puede usar toda la autoridad del elevador hacia abajo y no crear una carga negativa que dañe el {term-glider}. Por encima de esta velocidad el piloto puede imponer cargas dañinas a la estructura.
 
-==== Ráfagas Verticales Durante Crucero a Alta Velocidad
+==== Ráfagas verticales durante crucero a alta velocidad
 
 En crucero a alta velocidad los pilotos deben prestar atención a las limitaciones de factor de carga. Un encuentro con una ráfaga ascendente abrupta durante crucero nivelado a alta velocidad aumenta el {term-aoa}, dobla las {term-wing}s hacia arriba, aumenta brevemente la carga G, y almacena energía elástica en los largueros del {term-wing}. A medida que las {term-wing}s liberan esta energía, los largueros del {term-wing} saltan hacia abajo y levantan el {term-fuselage} más alto. A medida que el {term-fuselage} alcanza la parte superior de este movimiento, los largueros del {term-wing}, ahora doblados hacia abajo, se mueven hacia arriba nuevamente para liberar la energía almacenada. Dado que puede ocurrir una carga G negativa mientras el {term-fuselage} cae hacia abajo, el cinturón de seguridad y el arnés de hombros pueden prevenir que la cabeza del piloto golpee contra la parte superior del dosel.
 
@@ -209,21 +209,21 @@ Durante estas excursiones, el {term-weight} de la mano y el brazo del piloto pue
 
 Para minimizar la intensificación de ráfagas verticales y evitar oscilaciones inducidas por el piloto a alta velocidad (PIOs), el piloto debe reducir la velocidad cuando vuela a través de aire turbulento. El piloto también puede apoyar ambos brazos y usar ambas manos en la palanca de control para prevenir entradas no deseadas. Algunos diseños de {term-glider}es incorporan un mecanismo de palanca de control de paralelogramo para reducir la probabilidad de PIOs durante crucero a alta velocidad.
 
-== {term-weight} y Balance
+== {term-weight} y balance
 
 El piloto debe entender la gestión adecuada de {term-weight} y balance y las consecuencias de sobrecargar o cargar incorrectamente el {term-glider}.
 
-=== Información de {term-weight} y Balance
+=== Información de {term-weight} y balance
 
 El GFM/POH proporcionado por el fabricante da información sobre el {term-weight} y balance del {term-glider}. Dado que la adición o remoción de equipo, como radios, baterías, instrumentos de vuelo, o reparaciones de estructura afectan la posición del CG, los técnicos de mantenimiento aeronáutico (AMTs) registran los cambios a los datos de {term-weight} y balance en el GFM/POH y el libro de mantenimiento del {term-glider}. También actualizan las placas de {term-weight} y balance.
 
-=== Centro de Gravedad
+=== Centro de gravedad
 
 El balance longitudinal afecta la estabilidad alrededor del eje lateral de un {term-glider}. Para lograr un manejo satisfactorio de la actitud de cabeceo, los fabricantes posicionan el centro de gravedad (CG) de un {term-glider} adecuadamente cargado al frente del centro de {term-lift-force} (CL) y publican los límites de CG del {term-glider} en el GFM/POH.
 
 En la mayoría de los {term-glider}es, el {term-tailplane} y el elevador proporcionan una fuerza hacia abajo para balancear el arreglo del CG y centro de {term-lift-force}. A medida que la velocidad del aire cambia, el piloto ajusta el trim, y la fuerza hacia abajo de la cola equilibra exactamente el CG al frente. Un {term-glider} en esta configuración tiende a reanudar su actitud de cabeceo previa después de una perturbación alrededor del eje lateral. Si ocurre una perturbación que inclina la nariz hacia arriba, la velocidad del aire resultante más lenta y la disminución de la fuerza hacia abajo de la cola baja la nariz y permite que la velocidad del aire retorne hacia su valor pre-perturbación. Por el contrario, si la perturbación coloca la aeronave en una actitud de nariz hacia abajo, el aumento en la velocidad del aire aumenta la fuerza hacia abajo de la cola y levanta la nariz hacia la condición pre-perturbación. Este arreglo crea estabilidad positiva. Sin embargo, si la cola se pierde, esta acción estabilizadora no comenzará hasta que la cola comience a producir fuerza hacia abajo.
 
-==== Problemas Asociados con CG Adelante del Límite Publicado
+==== Problemas asociados con CG adelante del límite publicado
 
 Cargar el {term-glider} con el CG al frente del límite hace difícil levantar la nariz en el {term-takeoff} y requiere presión considerable hacia atrás en los controles para regular la actitud de cabeceo. A bajas velocidades del aire la cola puede entrar en {term-stall} o no proporcionar suficiente fuerza hacia abajo. Cualquier {term-stall} de la cola resulta en un cambio repentino de cabeceo hacia abajo y potencial para una recuperación lenta. El piloto puede no tener suficiente autoridad del elevador para realizar el {term-flare} de {term-landing} debido al pesadez de nariz. La incapacidad de hacer el {term-flare} podría resultar en un {term-landing} fuerte de nariz primero.
 
@@ -233,7 +233,7 @@ Un CG al frente del límite podría ocurrir por estas razones:
 
 • Los pesos de lastre instalados agregados al {term-weight} del piloto exceden el máximo permitido.
 
-==== Problemas Asociados con CG Adelante del Límite Publicado
+==== Problemas asociados con CG adelante del límite publicado
 
 Cargar un {term-glider} con la ubicación del CG detrás del límite trasero crea una condición de pesadez de cola. La pesadez de cola puede hacer que el control de cabeceo del {term-glider} sea difícil o imposible.
 
@@ -247,7 +247,7 @@ Un CG por detrás del límite podría ocurrir por estas razones:
 
 • Acumulación de materia extraña o escombros (agua, hielo, lodo, arena, o nidos) en el {term-fuselage} trasero.
 
-=== Problemas de Ejemplo de {term-weight} y Balance
+=== Problemas de ejemplo de {term-weight} y balance
 
 Algunos fabricantes de {term-glider}es proporcionan información de {term-weight} y balance en una presentación gráfica. Un gráfico bien diseñado proporciona una forma conveniente de determinar si el {term-glider} está dentro de los límites de {term-weight} y balance.
 
@@ -293,7 +293,7 @@ Para el paso final el piloto determina si los valores de {term-weight} total y u
 
 El lastre incluye {term-weight} no estructural agregado a un {term-glider}. En vuelo a vela, el {term-weight} de lastre sirve dos propósitos. El lastre de trim ajusta la ubicación del CG del {term-glider} para permanecer dentro de límites aceptables. El lastre de rendimiento mejora el rendimiento de crucero a alta velocidad.
 
-=== Lastre de Trim
+=== Lastre de trim
 
 Los pesos de lastre de trim removibles, a menudo hechos de metal, se sujetan a un receptáculo de lastre incorporado en la estructura del {term-glider}. Estos pesos compensan un piloto del asiento delantero que pesa menos de lo necesario para mantener el CG dentro de límites operativos aceptables. El {term-weight} de lastre montado bien al frente en la cabina del {term-glider} puede mover el CG dentro de límites permisibles con la mínima adición de {term-weight}.
 
@@ -301,7 +301,7 @@ Cuando cualquier limitación aprobada en la sección de limitaciones del POH o M
 
 El lastre de trim también puede incluir agua en un tanque de cola en el {term-fin}. El agua pesa 8,35 libras por galón. Debido a su ubicación tan atrás, el piloto puede usar una pequeña cantidad de agua en el tanque de cola para compensar el momento de cualquier lastre de rendimiento del tanque principal del {term-wing}. Aunque un tanque de cola generalmente contiene menos de dos galones de agua, un error de cálculo que lleve a exceso de agua en la cola podría resultar en vuelo con un CG por detrás del límite.
 
-=== Lastre de Performance
+=== Lastre de performance
 
 Agregar {term-weight} mejora el rendimiento a alta velocidad en {term-glider}es. Aumentar el {term-weight} operativo del {term-glider} aumenta la velocidad óptima para volar durante el vuelo de crucero nivelado. La {term-groundspeed} resultante más alta proporciona una ventaja en vuelo a vela de travesía y en carreras de {term-glider}es.
 
@@ -351,6 +351,6 @@ El piloto rutinariamente expulsa el {term-water-ballast} antes del {term-landing
 
 Mientras que las ventajas de rendimiento del lastre ocurren durante condiciones fuertes de vuelo a vela, los pilotos deben considerar que el lastre degrada el rendimiento de {term-takeoff}, la tasa de ascenso, y el manejo a baja velocidad. Antes de comprometerse con un lanzamiento con {term-water-ballast} a bordo, el piloto debe revisar las limitaciones de operación para asegurar la seguridad del vuelo.
 
-== Resumen del Capítulo
+== Resumen del capítulo
 
 Los factores que afectan todos los vuelos de {term-glider} incluyen temperatura, presión atmosférica, humedad, viento, y {term-weight} operativo. Los pilotos deben considerar el diseño del {term-glider} y sus características operativas y conocer el rendimiento esperado antes del vuelo. Los pilotos solo deben volar cuando las condiciones de {term-weight} y balance permanezcan dentro de los límites ya que estas condiciones afectan la estabilidad y el control. Los polares del {term-glider} indican las velocidades de rendimiento que los pilotos pueden esperar a diferentes pesos y bajo diferentes condiciones de viento y pueden asistir en maximizar el rendimiento. Los pilotos de {term-glider}es que usan modelos con {term-water-ballast} deben entender cómo verificar la operación adecuada del sistema antes del vuelo y saber cuándo drenar cualquier agua cuando sea necesario o antes del {term-landing}.

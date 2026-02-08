@@ -12,7 +12,7 @@ El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-01
 .Disciplinas de factores humanos.
 image::13/fig-13-01.human-factor-disciplines.png[width=600]
 
-== Reconociendo Actitudes Peligrosas
+== Reconociendo actitudes peligrosas
 
 Las actitudes peligrosas llevan a comportamientos peligrosos que incluyen complacencia, indisciplina y sobreconfianza, lo que todo aumenta el riesgo de un accidente de {term-glider}.
 
@@ -44,11 +44,11 @@ Un nivel realista de confianza permite a un piloto sentirse bien sobre una opera
 
 La sobreconfianza refleja una falta de entendimiento sobre las propias limitaciones del piloto, no entender la aeronave o condiciones que podrían amenazar la seguridad del vuelo, negación de la realidad de las deficiencias del piloto, o el deseo de probar algo. Cualquiera sea la causa, la confianza injustificada puede llevar a un accidente. Los pilotos deben considerar cuidadosamente sus limitaciones al intentar volar en un {term-glider} desconocido o en un entorno desconocido y resistir dejar que la sobreconfianza o el orgullo interfieran con el buen juicio. Los pilotos de {term-glider} que no vuelan regularmente o que no han volado por varios meses deben reconocer los diferentes niveles de seguridad que vienen de tener una revisión de vuelo actual cada dos años, cumplir con los requisitos de recencia de {term-takeoff}s y {term-landing}s, y tener el nivel de pericia necesario dadas las condiciones actuales.
 
-== Error del Piloto
+== Error del piloto
 
 Todos los pilotos cometen errores, y muchos pilotos pueden tener vacíos en el conocimiento. Las evaluaciones de entrenamiento, exámenes de vuelo (escritos u orales), verificaciones operacionales, críticas y auto-evaluaciones del piloto post-vuelo pueden destacar lo que un piloto puede hacer mejor. Una evaluación honesta y justa puede llevar a la corrección de cualquier deficiencia y reducir el potencial de accidentes.
 
-=== Tipos de Errores
+=== Tipos de errores
 
 Un tipo de error involuntario involucra el fallo para realizar una acción prevista dentro de tolerancias aceptables. Por otro lado, una opinión incorrecta, mal juicio, razonamiento deficiente, actitud descuidada o conocimiento insuficiente pueden causar un error más grave. Por ejemplo, un piloto con buenas habilidades de palanca y pedales pero nuevo en vela de cresta podría volar hacia fuerte descendencia en el lado de sotavento de una cresta y escapar por poco de golpear el terreno. La falta de conocimiento y el mal juicio del piloto podrían llevar a este tipo de error.
 
@@ -56,7 +56,7 @@ Un tipo de error involuntario involucra el fallo para realizar una acción previ
 
 Si un piloto sabiamente hace algo mal, ese piloto se desvió intencionalmente de prácticas, procedimientos, estándares o regulaciones seguras. En aviación, un error intencional sugiere una falta seria y subyacente de preocupación por la seguridad. El piloto debe reflexionar sobre la razón del error, buscar consejo o asesoramiento, y no volar a menos que sea capaz de prevenir ese comportamiento.
 
-==== Factores Fisiológicos/Médicos que Afectan el Rendimiento del Piloto
+==== Factores fisiológicos/médicos que afectan el rendimiento del piloto
 
 === Fatiga
 
@@ -114,7 +114,7 @@ La hipoxia estancada o isquemia resulta cuando la sangre rica en oxígeno en los
 
 Cuando ocurre la hipoxia histotóxica, el cuerpo transporta suficiente oxígeno a las células, pero no pueden hacer uso de él. Este deterioro de la respiración a nivel celular puede resultar del consumo de alcohol, exposición a ciertas drogas o narcóticos, o exposición a venenos.
 
-=== Síntomas de Hipoxia
+=== Síntomas de hipoxia
 
 La privación de oxígeno causa deterioro del cerebro y otros órganos vitales. Los primeros síntomas de hipoxia pueden incluir euforia y una sensación de despreocupación. Con la privación de oxígeno aumentada, las extremidades se vuelven menos responsivas y el vuelo se vuelve menos coordinado. Los síntomas de hipoxia varían con el individuo, pero los síntomas comunes incluyen:
 
@@ -134,7 +134,7 @@ La privación de oxígeno causa deterioro del cerebro y otros órganos vitales. 
 
 A medida que empeora la hipoxia, el campo de visión del piloto comienza a estrecharse, y la interpretación de instrumentos puede volverse difícil. Incluso con todos estos síntomas, los efectos de la hipoxia pueden dar a un piloto una falsa sensación de seguridad.
 
-==== Tratamiento de la Hipoxia
+==== Tratamiento de la hipoxia
 
 El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que aumenta la altitud por encima de 10 000 pies, los síntomas de la hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
 
@@ -149,7 +149,7 @@ Dado que los individuos experimentan la hipoxia de manera diferente, experimenta
 .Cámara de altitud CAMI.
 image::13/fig-13-06.cami-altitud-chamber.png[width=600]
 
-=== Malestar del Oído Interno
+=== Malestar del oído interno
 
 La presión interna de la cavidad del oído medio cambia más lentamente que la presión fuera del oído. Una diferencia de presión puede desarrollarse durante un ascenso o descenso, lo que puede resultar en {term-stall} auditiva temporal, malestar, dolor y distracción de las tareas de vuelo.
 
@@ -157,13 +157,13 @@ Cuando un {term-glider} asciende, la presión del aire del oído medio puede exc
 
 El malestar durante un descenso termina cuando suficiente aire fluye hacia el oído medio a través de la trompa de Eustaquio. Sin embargo, la presión más baja en el oído medio tiende a constreñir las paredes de la trompa de Eustaquio y prevenir el flujo de aire al oído medio. Un piloto puede intentar la maniobra de Valsalva para corregir esta situación. El piloto debe pellizcar las fosas nasales, cerrar la boca y labios, y soplar lentamente y suavemente en la boca y nariz para forzar aire hacia arriba por la trompa de Eustaquio hacia el oído medio.
 
-=== Buceo con Tanque
+=== Buceo con tanque
 
 El buceo con tanque somete al cuerpo a presión aumentada, que disuelve más nitrógeno en los tejidos y fluidos corporales. La reducción de presión atmosférica que acompaña al volar puede producir problemas físicos para los buzos con tanque cuando pequeñas burbujas de nitrógeno se forman dentro del cuerpo a medida que el gas sale de solución. Estas burbujas pueden causar una condición dolorosa y potencialmente incapacitante llamada enfermedad por descompresión (bends).
 
 El entrenamiento de buceo enfatiza cómo prevenir la enfermedad por descompresión al subir a la superficie de un cuerpo de agua. Sin embargo, el nitrógeno en exceso puede permanecer en los fluidos tisulares por varias horas después de terminar un buceo. Un piloto que bucea con tanque puede experimentar la enfermedad por descompresión desde tan bajo como 8 000 pies MSL, con severidad creciente a medida que aumenta la altitud. Como se indica en el Manual de Información Aeronáutica (AIM), el tiempo mínimo recomendado entre buceo con tanque sin paradas de descompresión y volar es de 12 horas, mientras que el tiempo mínimo recomendado entre buceo con paradas de descompresión y volar es de 24 horas.
 
-=== Desorientación Espacial
+=== Desorientación espacial
 
 La mayoría de los {term-glider}es usados para entrenamiento primario tienen instrumentación básica solo, y los pilotos de {term-glider} normalmente no entrenan para vuelo solo por referencia a instrumentos. Los pilotos de {term-glider} deben evitar el vuelo en visibilidad baja o en cualquier condición que haga difícil discernir el horizonte. Estas condiciones aumentan la probabilidad de que el piloto sucumba a una ilusión y experimente una {term-stall} de control. <<fig-13-07>> Los pilotos de {term-glider} que vuelan en visibilidad marginal deben establecer y acatar mínimos personales para visibilidad.
 
@@ -184,11 +184,11 @@ image::13/fig-13-08.symptoms-of-dehydration.png[width=600]
 
 Los pilotos deben llevar agua en cada vuelo para prevenir la deshidratación. Algunos pilotos de {term-glider} usan un sombrero con {term-wing} para sombra y para mantener la cabeza fresca. Los pilotos deben asegurar que el {term-wing} del sombrero no interfiera con la capacidad de escanear por otros {term-glider}es y tráfico aéreo.
 
-=== Golpe de Calor
+=== Golpe de calor
 
 El golpe de calor resulta cuando el cuerpo no puede controlar la temperatura excesivamente alta. El inicio de esta condición puede imitar la deshidratación, pero también puede llevar a colapso. Para prevenir estos síntomas, el piloto debe llevar un suministro amplio de agua y usarlo a intervalos frecuentes en cualquier vuelo largo, incluso si no tiene sed. Usar ropa de colores claros y porosa y un sombrero proporciona protección del sol. Ventilar la cabina también ayuda a remover el exceso de calor.
 
-=== Clima Frío
+=== Clima frío
 
 Prepararse para el frío extremo puede parecer extraño cuando existen temperaturas cómodas a nivel del suelo en días de vela de onda. Sin embargo, cuando se vuela a altas altitudes, el interior del {term-glider} puede ponerse frío. Un {term-glider} a gran altitud puede encontrar temperaturas de -30° a -60 °C. Cuando se vuela en vela, el sol a través de la cúpula puede mantener la parte superior del cuerpo del piloto caliente por un tiempo, pero las piernas y pies a la sombra pueden enfriarse rápidamente o sufrir congelación. Después de una o dos horas a tales temperaturas, incluso la parte superior del cuerpo puede volverse bastante fría. La ropa en capas, holgada ayuda a aislar el calor corporal. Ya sea guantes de lana o guantes ajustados con manoplas sobre ellos pueden proteger las manos. Dos o tres pares de calcetines en capas con seda en el interior y lana en el exterior más una bota aislada pueden ayudar a mantener los pies cómodos. Los fabricantes de ropa producen ropa y calcetines con elementos de calefacción internos y baterías de litio recargables que el piloto puede encender y regular. Estos hacen una gran adición al guardarropa de un piloto de {term-glider}.
 
@@ -196,7 +196,7 @@ Las temperaturas bajas pueden causar otras condiciones desagradables o peligrosa
 
 El cuerpo se deshidrata más rápidamente en frío extremo y abstenerse de beber agua puede causar deshidratación incluso en condiciones frías. Debido a que el clima frío hace que los riñones excreten líquido a una tasa más rápida, el piloto debe hacer una parada al baño antes del {term-takeoff} y considerar un sistema de alivio para el vuelo.
 
-== Manejo de la Cabina y Equipo
+== Manejo de la cabina y equipo
 
 Antes del lanzamiento, el piloto debe informar a cualquier pasajero sobre el uso de cinturones de seguridad, arneses de hombro, y procedimientos de emergencia. El piloto debe revisar la seguridad de cualquier lastre de centrado, organizar los artículos llevados a bordo, y estibar y asegurar apropiadamente todos los demás artículos. La colocación de cartas, tabletas y ayudas de travesía debe permitir que el piloto los alcance fácilmente.
 
@@ -204,7 +204,7 @@ Antes del lanzamiento, el piloto debe informar a cualquier pasajero sobre el uso
 
 Los pilotos pueden usar un paracaídas para emergencias. Un empacador de paracaídas certificado y con calificación apropiada debe reempacar un paracaídas de nylon dentro de los 180 días precedentes. La información de fecha de empaque usualmente se encuentra en una tarjeta contenida en un pequeño bolsillo en el cuerpo del paracaídas. Refiérase al 14 CFR, parte 91, sección 91.307 para más información.
 
-=== Oxígeno Suplementario
+=== Oxígeno suplementario
 
 Los vuelos de vela de gran altitud requieren el uso de oxígeno suplementario. En algunas partes del país, la vela ocurre rutinariamente hasta una base de nubes de 16 000 a 18 000 pies en {term-thermal}s. El vuelo usando ondas montañosas puede llevar a vuelo a altitudes de más de 30 000 pies en Estados Unidos.
 
@@ -222,11 +222,11 @@ El 14 CFR, parte 91, sección 91.211, dicta los requisitos de tiempo y altitud p
 
 • E = Botella de emergencia de escape
 
-==== Sistemas de Oxígeno de Aviación
+==== Sistemas de oxígeno de aviación
 
 Un sistema de oxígeno de aviación portátil entrega oxígeno usando componentes ligeros y compactos. Entrega una cantidad calibrada de oxígeno basada en investigación extensiva en fisiología de vuelo humano. Antes de comprar cualquier tipo de sistema de oxígeno, los pilotos deben considerar el tipo de vuelo que hacen. Dos tipos comunes diferentes de sistemas usados hoy incluyen el Sistema de Flujo Continuo y el Sistema de Demanda de Pulso Electrónico (EDS). Los pilotos solo deben usar oxígeno de aviador suministrado en una botella verde con estos sistemas y nunca usar oxígeno médico. El oxígeno médico puede contener agua y podría dejar inoperable un sistema de oxígeno del piloto.
 
-==== Sistema de Flujo Continuo
+==== Sistema de flujo continuo
 
 El sistema de flujo continuo usa un tanque de almacenamiento de alta presión y una válvula reguladora reductora de presión que reduce la presión en el cilindro a aproximadamente la presión atmosférica en la máscara. <<fig-13-09>> El oxígeno fluye continuamente cuando el sistema está encendido siempre que la botella contenga oxígeno suficiente. En algunas instalaciones, el piloto puede ajustar manualmente la cantidad de flujo de oxígeno para altitudes bajas, intermedias y altas; los reguladores automáticos ajustan el flujo de oxígeno por medio de un fuelle, que varía el flujo según la altitud. Al usar el sistema de oxígeno de flujo continuo, el piloto puede usar ya sea una máscara de oxígeno o una cánula nasal. [Figuras 13-10 y 13-11]
 
@@ -252,7 +252,7 @@ image::13/fig-13-12.electronic-pulse-demand-oxigeno-sistema-eds.png[width=600]
 
 El piloto puede ajustar un EDS a diferentes modos y retrasos. Por ejemplo, puede responder con oxígeno a altitudes donde se necesita y conservar oxígeno a altitudes más bajas. También puede ajustarse a modo nocturno o ahora donde responde desde el nivel del mar y hacia arriba. El EDS limita su respuesta a una tasa respiratoria máxima de aproximadamente 20 respiraciones por minuto, eliminando virtualmente cualquier hiperventilación. El piloto lo enciende y no necesita leer escalas ni ajustar ninguna perilla al ascender o descender. Estos dispositivos no necesitan ajuste de {term-altimeter} local ya que responden directamente a la {term-pressure-altitude}, justo como lo hace el cuerpo.
 
-== Gestión de Riesgo
+== Gestión de riesgo
 
 La gestión de riesgo para pilotos incluye la identificación de peligros que plantean un riesgo de vuelo, la evaluación del nivel de riesgo asociado con cada peligro, y la toma de decisiones para manejar y mitigar cualquier riesgo inaceptable.
 
@@ -264,7 +264,7 @@ El compuesto de severidad predicha y probabilidad del efecto potencial de un pel
 
 Este Manual se enfoca en el individuo y no en los sistemas de gestión de seguridad (SMS). El SMS aborda la gestión de riesgo desde una perspectiva organizacional como una actividad continua. Las personas interesadas pueden obtener información sobre SMS del Manual de Gestión de Riesgo (FAA-H-8083-2).
 
-=== Toma de Decisiones Aeronáuticas (ADM)
+=== Toma de decisiones aeronáuticas (ADM)
 
 Un piloto toma numerosas decisiones aeronáuticas involucrando gestión de riesgo antes de que comience un vuelo. Un medio estructurado involucra usar una Herramienta de Evaluación de Riesgo de Vuelo o FRAT. Los pilotos pueden consultar el Manual de Gestión de Riesgo de la FAA (FAA-H-8083-2) para una muestra de FRAT y pueden usar una para mejorar la seguridad del vuelo.
 
@@ -288,7 +288,7 @@ Circunstancias tan mundanas como una fuga lenta de oxígeno, un pronóstico de v
 
 La Circular de Asesoramiento (AC) 60-22, Toma de Decisiones Aeronáuticas, proporciona material introductorio, información de antecedentes y material de referencia sobre ADM. El material en este AC proporciona un enfoque sistemático para la evaluación de riesgo y manejo del estrés en aviación, ilustra cómo las actitudes personales pueden influir en la toma de decisiones, y cómo esas actitudes pueden modificarse para mejorar la seguridad. Este AC también proporciona a los instructores métodos para enseñar técnicas y habilidades de ADM en conjunto con instrucción de vuelo convencional. Los individuos aprendiendo a volar {term-glider}es deben buscar instructores que integren entrenamiento de ADM. El Manual de Gestión de Riesgo de la FAA (FAA-H-8083-2) proporciona una descripción general y ejemplos de lo que hacen los pilotos para hacer sus vuelos seguros y placenteros.
 
-== Análisis de Accidentes Previos
+== Análisis de accidentes previos
 
 La Junta Nacional de Seguridad en el Transporte (NTSB) compila un informe de accidente cada vez que ocurre un accidente de {term-glider} reportable. Las personas interesadas pueden encontrar esta información pública en www.ntsb.gov.
 
@@ -299,6 +299,6 @@ Una persona usando la base de datos de accidentes del NTSB, puede usar su herram
 .Datos de accidentes de planeador de la base de datos del NTSB.
 image::13/fig-13-13.planeador-accidente-data-from-the-ntsb-database.png[width=600]
 
-== Resumen del Capítulo
+== Resumen del capítulo
 
 Este capítulo se enfoca en el subconjunto de factores humanos que los pilotos pueden controlar para prevenir accidentes. Las actitudes peligrosas juegan un papel en los accidentes, y el piloto debe reconocerlas y evitarlas y los tipos de errores a los que llevan. El capítulo discute la fisiología humana relacionada con el vuelo de {term-glider}. Los pilotos deben saber cómo atender sus necesidades físicas antes y durante el vuelo. El capítulo también discute sistemas que los pilotos podrían usar durante el vuelo de {term-glider} incluyendo sistemas de oxígeno. El capítulo discute la gestión de riesgo y la reducción del nivel de riesgo para evitar accidentes. La base de datos del NTSB contiene informes de accidentes que ilustran el concepto de una cadena de accidente. Si bien el vuelo de {term-glider} tiene riesgo inherente asociado, los principios discutidos en este capítulo y a lo largo de este manual pueden reducir el nivel de exposición de un piloto de {term-glider} a ese riesgo.
