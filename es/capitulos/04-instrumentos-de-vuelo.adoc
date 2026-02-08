@@ -1,327 +1,446 @@
 [[cap04]]
-= Instrumentos de vuelo
+= Instrumentos de Vuelo
+
+
 
 == Introducción
 
-Los instrumentos de vuelo proporcionan información sobre la dirección, altitud, velocidad del aire y rendimiento del {term-glider}. Los instrumentos pueden consistir en un conjunto básico típicamente encontrado en aeronaves de entrenamiento o un conjunto más avanzado en un {term-glider} de alto rendimiento usado para vuelos de travesía o competición. Consulte el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25) para descripciones detalladas de diferentes instrumentos.
+Los instrumentos de vuelo proporcionan información sobre la dirección, altitud, velocidad aerodinámica y rendimiento del {term-glider}. Los instrumentos pueden consistir en un conjunto básico típicamente encontrado en aeronaves de entrenamiento o un conjunto más avanzado en un {term-glider} de alto rendimiento utilizado para vuelo de travesía o competición. Consulte el Manual del Piloto de Conocimientos Aeronáuticos (Pilot's Handbook of Aeronautical Knowledge - FAA-H-8083-25) para descripciones detalladas de los diferentes instrumentos.
 
-Los instrumentos que muestran velocidad del aire, altitud y velocidad vertical son parte del sistema pitot-estático. Los instrumentos de rumbo muestran dirección magnética al detectar el campo magnético de la tierra. Los instrumentos de rendimiento, usando principios giroscópicos, muestran la actitud de la aeronave, rumbo y tasa de giro. Los instrumentos electrónicos usando tecnología de computadora y sistema de posicionamiento global (GPS) proporcionan a los pilotos pantallas de mapa móvil, velocidad del aire y altitud electrónicas, condiciones de la masa de aire, y otras funciones relativas a la gestión de vuelo. Ejemplos de instrumentos e indicadores autónomos útiles para el piloto incluyen la cinta de guiñada, el {term-inclinometer} y el indicador de temperatura del aire exterior (OAT).
+Los instrumentos que muestran velocidad aerodinámica, altitud y velocidad vertical son parte del sistema pitot-estática. Los instrumentos de rumbo muestran la dirección magnética al detectar el campo magnético de la tierra. Los instrumentos de rendimiento, utilizando principios giroscópicos, muestran la actitud de la aeronave, rumbo y tasa de giro. Los instrumentos electrónicos que utilizan tecnología de computadora y sistema de posicionamiento global (GPS - Global Positioning System) proporcionan a los pilotos visualizaciones de mapas en movimiento, velocidad aerodinámica y altitud electrónicas, condiciones de la masa de aire, y otras funciones relativas a la gestión del vuelo. Ejemplos de instrumentos e indicadores autónomos útiles para el piloto incluyen la lanita, el {term-inclinometer} y el indicador de temperatura del aire exterior (OAT - Outside Air Temperature).
 
-Este capítulo describe los instrumentos y sistemas básicos del {term-glider}. Los pilotos que vuelan {term-glider}es con instrumentos electrónicos avanzados deben consultar la documentación del fabricante para una descripción completa de la operación y buscar instrucción según sea necesario.
+Este capítulo describe los instrumentos y sistemas básicos del {term-glider}. Los pilotos que vuelen {term-glider}es con instrumentos electrónicos avanzados deben consultar la documentación del fabricante para una descripción completa del funcionamiento y buscar instrucción según sea necesario.
 
-== Instrumentos pitot-estáticos
+== Instrumentos Pitot-Estática
 
-El sistema pitot-estático usa dos mediciones diferentes de presión de aire:
+El sistema pitot-estática utiliza dos medidas diferentes de presión de aire:
 
-. Los puertos estáticos transportan la presión atmosférica ambiente a los instrumentos a través de tuberías.
-. El tubo pitot transporta la presión de aire ambiente más cualquier presión de aire de impacto resultante del movimiento hacia adelante a los instrumentos a través de tuberías.
+1. Las tomas estáticas transportan la presión atmosférica ambiente a los instrumentos a través de tuberías.
 
-La presión de impacto o de aire de presión del movimiento hacia adelante del {term-glider} aumenta la presión de aire en el tubo pitot, que se monta ya sea en la nariz o en el {term-fin} para permitir exposición ininterrumpida al flujo de aire entrante. Los puertos estáticos del {term-glider} a menudo se montan ya sea en el {term-fin} o en el lado del {term-fuselage}. <<fig-04-01>>
+2. El tubo pitot transporta la presión del aire ambiente más cualquier presión de aire de impacto (ram air) resultante del movimiento hacia adelante a los instrumentos
+
+a través de tuberías.
+
+=== Líneas de Presión de Impacto y Estática
+
+La presión de aire de impacto del movimiento hacia adelante del {term-glider} aumenta la presión de aire en el tubo pitot, que se monta ya sea en la nariz o en el {term-fin} para permitir una exposición ininterrumpida al flujo de aire entrante. Los puertos estáticos del {term-glider} a menudo se montan ya sea en el {term-fin} o en el costado del {term-fuselage}. <<fig-4-1>>
+
 
 [[fig-04-01]]
-.Un tubo pitot a menudo se monta en la nariz del {term-glider} o en la aleta vertical
-image::04/fig-04-01.a-pitot-tube-often-mounts-in-the-gliders-nose-or.png[width=300]
+.Un tubo pitot a menudo se monta en la nariz del planeador o en la aleta vertical, con el extremo abierto orientado hacia adelante expuesto directamente al flujo de aire entrante.
+image::04/fig-04-01.a-pitot-tube-often-mounts-in-the-gliders-nose-or.png[width=600]
 
-A medida que aumenta la velocidad del aire, la presión se acumula en el tubo pitot y en el diafragma expansible conectado. La presión aumenta en el tubo pitot y diafragma hasta que alcanza un estado de equilibrio que impide cualquier aumento adicional de presión. Por el contrario, la presión en el sistema disminuye a medida que disminuye la velocidad del aire ya que el aire también puede salir del sistema. <<fig-04-02>>
+A medida que aumenta la velocidad aerodinámica, la presión se acumula en el tubo pitot y en el diafragma expansible conectado. La presión aumenta en el tubo pitot y el diafragma hasta que alcanza un estado de equilibrio que impide cualquier aumento adicional de la presión. Por el contrario, la presión en el sistema disminuye a medida que la velocidad aerodinámica disminuye, ya que el aire también puede fluir fuera del sistema. <<fig-4-2>>
+
 
 [[fig-04-02]]
-.Presión dentro del diafragma en función de la velocidad del aire
-image::04/fig-04-02.presion-inside-the-diaphragm-as-a-function-of.png[width=300]
+.Presión dentro del diafragma en función de la velocidad aerodinámica.
+image::04/fig-04-02.presion-inside-the-diaphragm-as-a-function-of.png[width=600]
 
-La presión estática (presión del aire en reposo) proviene del movimiento de aire dentro y fuera de los puertos estáticos y tuberías. Los {term-glider}es que usan fuentes estáticas montadas al ras a menudo tienen dos ventilas, una en cada lado del {term-fuselage}. Esto compensa la variación de presión estática debido a cambios en la actitud del {term-glider} y turbulencia del aire.
+La presión estática (presión del aire en reposo) proviene del movimiento de aire dentro y fuera de los puertos estáticos y las tuberías. Los {term-glider}es que utilizan fuentes estáticas empotradas a menudo tienen dos ventilaciones, una en cada lado del {term-fuselage}. Esto compensa la variación de presión estática debida a cambios en la actitud del {term-glider} y la turbulencia del aire.
 
-Los pilotos revisan las aberturas tanto del tubo pitot como del puerto estático durante la inspección pre-vuelo para asegurar que obstrucciones no bloqueen el flujo libre de aire. Un mecánico certificado debe limpiar cualquier bloqueo. Soplar en estas aberturas podría dañar los instrumentos de vuelo.
+Los pilotos verifican las aberturas tanto del tubo pitot como del puerto estático durante la inspección de prevuelo para asegurar que las obstrucciones no bloqueen el flujo libre de aire. Un mecánico certificado debe limpiar cualquier bloqueo. Soplar en estas aberturas podría dañar los instrumentos de vuelo.
 
-=== Líneas de presión de impacto y estática
+=== Indicador de Velocidad Aerodinámica
 
-El sistema pitot-estático consta de dos líneas de presión separadas: la línea de presión de impacto (pitot) y la línea de presión estática. La línea de presión de impacto transporta la presión del aire de impacto desde el tubo pitot hasta los instrumentos, mientras que la línea de presión estática transporta la presión atmosférica ambiente desde los puertos estáticos. Estas líneas deben estar libres de fugas y obstrucciones para garantizar lecturas precisas de los instrumentos.
-
-=== Anemómetro (indicador de velocidad)
-
-El indicador de velocidad del aire mide la diferencia entre la presión pitot y la presión estática, y muestra esta diferencia como la velocidad del aire indicada (IAS) del {term-glider}. <<fig-04-03>> Los arcos codificados por color representan rangos de velocidad del aire para diferentes fases de vuelo. Los límites superior e inferior de los arcos corresponden a velocidades definidas. La <<fig-04-04>> muestra la estructura interna de un indicador de velocidad del aire.
+El indicador de velocidad aerodinámica mide la diferencia entre la presión pitot y la presión estática, y muestra esta diferencia como la velocidad aerodinámica indicada (IAS - Indicated Airspeed) del {term-glider}. <<fig-4-3>> Los arcos codificados por colores representan rangos de velocidad aerodinámica para diferentes fases de vuelo. Los límites superior e inferior de los arcos corresponden a velocidades aerodinámicas definidas. La Figura 4-4 muestra la estructura interna de un indicador de velocidad aerodinámica.
 
 [[fig-04-03]]
-.Indicador de velocidad del aire
-image::04/fig-04-03.velocidad-aire-indicador.png[width=300]
+.Indicador de velocidad aerodinámica.
+image::04/fig-04-03.velocidad-aire-indicador.png[width=600]
+
 
 [[fig-04-04]]
-.Anatomía del indicador de velocidad del aire
-image::04/fig-04-04.anatomy-of-the-velocidad-aire-indicador.png[width=300]
+.Anatomía del indicador de velocidad aerodinámica.
+image::04/fig-04-04.anatomy-of-the-velocidad-aire-indicador.png[width=600]
 
-Como se muestra en la <<fig-04-04>>, el indicador de velocidad del aire contiene un diafragma que se expande o contrae en respuesta a la diferencia entre presión pitot y estática. Este movimiento del diafragma impulsa la aguja (puntero de velocidad del aire) en la cara del instrumento. Cuando la presión pitot iguala la presión estática, el indicador lee cero. A medida que la presión pitot se vuelve progresivamente mayor que la presión estática, la aguja se mueve y apunta a la velocidad del aire correspondiente. <<fig-04-05>>
+Como se muestra en la Figura 4-4, el indicador de velocidad aerodinámica contiene un diafragma que se expande o contrae en respuesta a la diferencia entre la presión pitot y la estática. Este movimiento del diafragma acciona la aguja (puntero de la aguja de velocidad aerodinámica) en la cara del instrumento. Cuando la presión pitot es igual a la presión estática, el indicador marca cero. A medida que la presión pitot se vuelve progresivamente mayor que la presión estática, la aguja se mueve y apunta a la velocidad aerodinámica correspondiente. <<fig-4-5>>
 
 [[fig-04-05]]
-.Funcionamiento del indicador de velocidad del aire
-image::04/fig-04-05.velocidad-aire-indicador-operation.png[width=300]
+.Operación del indicador de velocidad aerodinámica.
+image::04/fig-04-05.velocidad-aire-indicador-operation.png[width=600]
 
-==== Efectos de la altitud en el indicador de velocidad del aire
+==== Los Efectos de la Altitud en el Indicador de Velocidad Aerodinámica
 
-El indicador de velocidad del aire muestra presión dinámica (presión pitot menos presión estática) calibrada a una velocidad del aire a presión estándar a nivel del mar. Debido a la menor densidad del aire a medida que aumenta la altitud, la acumulación de presión en el diafragma disminuye y la indicación se vuelve menor que a nivel del mar. El error se vuelve mayor a medida que aumenta la altitud. <<fig-04-06>>
+El indicador de velocidad aerodinámica muestra la presión dinámica (presión pitot menos presión estática) calibrada a una velocidad aerodinámica a la presión estándar al nivel del mar. Debido a la menor densidad del aire a medida que aumenta la altitud, la acumulación de presión en el diafragma disminuye y la indicación se vuelve menor que al nivel del mar. El error se vuelve mayor a medida que aumenta la altitud. <<fig-4-6>>
+
 
 [[fig-04-06]]
-.Efectos de la altitud en el indicador de velocidad del aire
-image::04/fig-04-06.effects-of-altitud-on-the-velocidad-aire-indicador.png[width=300]
+.Efectos de la altitud en el indicador de velocidad aerodinámica.
+image::04/fig-04-06.effects-of-altitud-on-the-velocidad-aire-indicador.png[width=600]
 
-==== Tipos de velocidad del aire
+==== Tipos de Velocidad Aerodinámica
 
-Los pilotos trabajan con varios números de velocidad del aire incluyendo velocidad del aire indicada (IAS), velocidad del aire calibrada (CAS) y velocidad del aire verdadera (TAS). <<fig-04-07>>
+Los pilotos trabajan con varios números de velocidad aerodinámica incluyendo velocidad aerodinámica indicada (IAS), velocidad aerodinámica calibrada (CAS - Calibrated Airspeed), y velocidad aerodinámica verdadera (TAS - True Airspeed). <<fig-4-7>>
 
 [[fig-04-07]]
-.Tres tipos de velocidad del aire
-image::04/fig-04-07.three-types-of-velocidad-aire.png[width=300]
+.Tres tipos de velocidad aerodinámica.
+image::04/fig-04-07.three-types-of-velocidad-aire.png[width=600]
 
-===== Velocidad del aire indicada (IAS)
+===== Velocidad Aerodinámica Indicada (IAS)
 
-El piloto lee la IAS directamente del indicador de velocidad del aire, sin corregir por error de instalación o error de instrumento. Aunque la densidad del aire afecta la velocidad del aire indicada, un {term-glider} particular en vuelo estable con {term-wing}s {term-round-out}s a un {term-weight} fijo se pierde a una presión dinámica específica (velocidad del aire indicada) independientemente de la densidad del aire. <<fig-04-08>>
+El piloto lee la IAS directamente del indicador de velocidad aerodinámica, sin corrección por error de instalación o error de instrumento. Aunque la densidad del aire afecta la velocidad aerodinámica indicada, un {term-glider} particular en vuelo estable nivelado a un {term-weight} fijo entra en {term-stall} a una presión dinámica específica (velocidad aerodinámica indicada) independientemente de la densidad del aire. <<fig-4-8>>
+
 
 [[fig-04-08]]
-.Velocidades de {term-stall} indicadas y velocidades del aire verdaderas a varias altitudes
-image::04/fig-04-08.indicated-perdida-airspeeds-and-true-airspeeds-at.png[width=300]
+.Velocidades indicadas de pérdida y velocidades verdaderas a varias altitudes.
+image::04/fig-04-08.indicated-perdida-airspeeds-and-true-airspeeds-at.png[width=600]
 
-===== Velocidad del aire calibrada (CAS)
+===== Velocidad Aerodinámica Calibrada (CAS)
 
-La CAS corrige la IAS por errores de instalación e instrumento. Pueden ocurrir errores significativos a bajas velocidades del aire. En rangos de velocidad de crucero y superiores, las diferencias entre IAS y CAS se vuelven pequeñas.
+La CAS corrige la IAS por errores de instalación e instrumento. Pueden ocurrir errores significativos a bajas velocidades aerodinámicas. En rangos de velocidad aerodinámica de crucero y superiores, las diferencias entre IAS y CAS se vuelven pequeñas.
 
-===== Velocidad del aire verdadera (TAS)
+Los pilotos deben consultar la tabla de calibración de velocidad aerodinámica para corregir posibles errores de velocidad aerodinámica porque las velocidades aerodinámicas, como las que se encuentran en la cara codificada por colores del indicador de velocidad aerodinámica, en placas, o en el Manual de Vuelo del {term-glider} o Manual de Operaciones del Piloto (GFM/POH - Glider Flight Manual/Pilot's Operating Handbook), generalmente reflejan la CAS. Algunos fabricantes usan IAS en lugar de CAS para denotar las velocidades aerodinámicas.
 
-La TAS es la velocidad real a la que la aeronave se mueve a través del aire. En aire en calma, la TAS iguala la velocidad real sobre el suelo. Sin embargo, el indicador de velocidad del aire solo indica TAS bajo condiciones atmosféricas estándar a nivel del mar (29.92 pulgadas de mercurio y 15°C). A una IAS constante, la TAS aumenta a medida que el {term-glider} asciende porque la densidad del aire disminuye con el aumento de altitud.
+La suciedad, polvo, hielo o nieve que se acumulan en la abertura del tubo pitot pueden obstruir el paso de aire y prevenir indicaciones correctas. La degradación debida a la edad y la vibración también pueden afectar la sensibilidad del diafragma. Por lo tanto, los indicadores de velocidad aerodinámica deben someterse a calibración periódica.
 
-El piloto puede determinar la TAS por dos métodos. El primer y más preciso método implica usar una computadora de vuelo. En este método, el piloto corrige la CAS por variación de temperatura y presión usando la escala de corrección de velocidad del aire en la computadora. El segundo método aproxima TAS aumentando la IAS actual en 2 por ciento por cada 1,000 pies sobre el nivel del mar.
+===== Velocidad Aerodinámica Verdadera (TAS)
 
-=== Marcas del anemómetro
+La TAS es la velocidad real a la que la aeronave se mueve a través del aire. En aire en calma, la TAS es igual a la velocidad real sobre el terreno. Sin embargo, el indicador de velocidad aerodinámica solo indica TAS bajo condiciones atmosféricas estándar al nivel del mar (29.92 pulgadas de mercurio ["Hg] y 15°C). A una IAS constante, la TAS aumenta a medida que el {term-glider} asciende porque la densidad del aire disminuye con el aumento de altitud.
 
-Los {term-glider}es fabricados después de 1945 tienen indicadores de velocidad del aire que conforman un sistema de marcado codificado por color estándar. <<fig-04-03>> Este sistema permite al piloto determinar información importante de velocidad del aire rápidamente. Por ejemplo, el arco verde representa el rango de operación normal, mientras que el arco amarillo representa el rango de precaución. Un piloto que nota una aguja de velocidad del aire en el arco amarillo y acercándose rápidamente a la línea roja mientras maniobra debería tomar acción correctiva inmediatamente para reducir la velocidad del aire. En este caso, el piloto debería usar presión de control suave a altas velocidades del aire para evitar esfuerzos inseguros en la estructura del {term-glider}.
+El indicador de velocidad aerodinámica proporciona un medio conveniente para gestionar la mayoría de los parámetros de vuelo ya que indica la presión dinámica. Si el indicador de velocidad aerodinámica mostrara la TAS, el piloto necesitaría usar una tarjeta de referencia rápida para buscar la velocidad de {term-stall}, la velocidad de mejor relación de planeo (L/D), y la velocidad de mínimo hundimiento para la altitud actual mientras intenta volar. Afortunadamente, el piloto solo necesita recordar un conjunto de números para la mayoría de los parámetros. Por ejemplo, la Figura 4-8 ilustra que para cada {term-glider}, el piloto solo necesita recordar una velocidad de {term-stall} para todas las altitudes.
 
-Una descripción de las marcas estándar en un indicador de velocidad del aire sigue:
+Un piloto puede determinar la TAS por dos métodos. El primer método y más preciso implica usar una computadora de vuelo. En este método, el piloto corrige la CAS por variación de temperatura y presión usando la escala de corrección de velocidad aerodinámica en la computadora. El segundo método aproxima la TAS aumentando la IAS actual en un 2 por ciento por cada 1,000 pies sobre el nivel del mar.
 
-* El arco blanco—rango de operación del {term-flap}.
-* El límite inferior del arco blanco—velocidad de {term-stall} en configuración de {term-landing}.
-* La parte superior del arco blanco—velocidad máxima para uso de flaps completos. Si los flaps se operan a velocidades del aire más altas, podría resultar esfuerzo severo o fallo estructural.
-* El límite inferior del arco verde—velocidad de {term-stall} con los flaps y tren de {term-landing} retraídos.
-* El límite superior del arco verde—velocidad máxima de crucero estructural. Esta es la velocidad máxima para operaciones normales.
-* El arco amarillo—rango de precaución. El piloto debería evitar velocidades dentro de esta área a menos que esté en aire suave.
-* La línea roja—velocidad de nunca exceder. Esta es la velocidad máxima a la que el {term-glider} puede ser operado en aire suave. Este piloto nunca debería exceder intencionalmente esta velocidad.
+=== Marcas del Indicador de Velocidad Aerodinámica
 
-==== Efecto de la altitud en la VNE
+Los {term-glider}es fabricados después de 1945 tienen indicadores de velocidad aerodinámica que se ajustan a un sistema de marcado codificado por colores estándar. <<fig-4-3>> Este sistema permite al piloto determinar información importante de velocidad aerodinámica rápidamente. Por ejemplo, el arco verde representa el rango de operación normal, mientras que el arco amarillo representa el rango de precaución. Un piloto que observa una aguja de velocidad aerodinámica en el arco amarillo y acercándose rápidamente a la línea roja durante una maniobra debe tomar inmediatamente acción correctiva para reducir la velocidad aerodinámica. En este caso, el piloto debe usar presión de control suave a altas velocidades aerodinámicas para evitar esfuerzos inseguros en la estructura del {term-glider}.
 
-La velocidad de nunca exceder (VNE) disminuye con el aumento de la altitud debido a la posibilidad de flutter a velocidades del aire verdaderas más altas. A altas altitudes mantener una velocidad en o debajo de la línea roja puede exceder la VNE real. Dado que la disminución en VNE varía por modelo, el manual de vuelo puede incluir una tabla, como la mostrada en la <<fig-04-09>>, que documenta la disminución en VNE con la altitud. A velocidades del aire verdaderas altas durante un descenso rápido, la estructura del {term-glider} podría flutter repentinamente y desintegrarse. Los fabricantes de {term-glider}es prueban el flutter y el cumplimiento de las velocidades VNE publicadas en el manual de vuelo para la marca y modelo específicos debería prevenirlo.
+Una descripción de las marcas estándar en un indicador de velocidad aerodinámica sigue:
+
+• El arco blanco—rango de operación de {term-flap}s.
+
+• El límite inferior del arco blanco—velocidad de {term-stall} en la configuración de {term-landing}.
+
+• La parte superior del arco blanco—velocidad máxima para el uso de {term-flap}s completos. Si los {term-flap}s se operan a velocidades aerodinámicas más altas, podría resultar una deformación severa
+
+o falla estructural.
+
+• El límite inferior del arco verde—velocidad de {term-stall} con los {term-flap}s alares y el tren de {term-landing} retraídos.
+
+• El límite superior del arco verde—velocidad máxima de crucero estructural. Esta es la velocidad máxima para operaciones
+
+normales.
+
+• El arco amarillo—rango de precaución. El piloto debe evitar velocidades dentro de esta área a menos que esté en aire suave.
+
+• La línea roja—velocidad de nunca exceder (VNE - Never-Exceed Speed). Esta es la velocidad máxima a la que el {term-glider} puede ser operado en aire suave.
+
+Este piloto nunca debe exceder intencionalmente esta velocidad.
+
+=== Efecto de la Altitud en VNE
+
+La velocidad de nunca exceder (VNE) disminuye con el aumento de altitud debido a la posibilidad de flutter a velocidades aerodinámicas verdaderas más altas. A altas altitudes, mantener una velocidad en o debajo de la línea roja puede exceder la VNE real. Dado que la disminución de VNE varía según el modelo, el manual de vuelo puede incluir una tabla, como la mostrada en la Figura 4-9, que documenta la disminución de VNE con la altitud. A velocidades aerodinámicas verdaderas altas durante un descenso rápido, la estructura del {term-glider} podría vibrar súbitamente (flutter) y desintegrarse. Los fabricantes de {term-glider}es prueban el flutter y el cumplimiento de las velocidades VNE publicadas en el manual de vuelo para el modelo específico debería prevenirlo.
 
 [[fig-04-09]]
-.La IAS correspondiente a VNE disminuye con la altitud
-image::04/fig-04-09.ias-corresponding-to-vne-decreases-with-altitud.png[width=300]
+.La IAS correspondiente a VNE disminuye con la altitud.
+image::04/fig-04-09.ias-corresponding-to-vne-decreases-with-altitud.png[width=600]
 
-==== Otras limitaciones de velocidad
+=== Otras Limitaciones de Velocidad Aerodinámica
 
-Las placas en la vista del piloto pueden mostrar otras limitaciones importantes de velocidad del aire no marcadas en la cara del indicador de velocidad del aire. <<fig-04-10>>
+Las placas en la vista del piloto pueden mostrar otras limitaciones importantes de velocidad aerodinámica no marcadas en la cara del indicador de velocidad aerodinámica. <<fig-4-10>>
 
-* Velocidad de maniobra (VA)—una velocidad de diseño estructural usada en determinar los requisitos de {term-drag} para el {term-glider} y sus superficies de control.
-* Velocidad de operación del tren de {term-landing} (VLO)—velocidad máxima para extender o retraer el tren de {term-landing} si se usa un {term-glider} equipado con tren de {term-landing} retráctil.
-* Velocidad de mínimo hundimiento—velocidad del aire que resulta en la menor cantidad de {term-stall} de altitud sobre un tiempo dado.
-* Velocidad de mejor planeo—velocidad del aire que resulta en la menor cantidad de {term-stall} de altitud sobre una distancia dada, sin considerar los efectos del viento.
-* Velocidad máxima de {term-aerotow} o lanzamiento terrestre—velocidad del aire máxima para remolque sin exceder especificaciones de diseño.
+• Velocidad de maniobra (VA)—una velocidad aerodinámica de diseño estructural utilizada para determinar los requisitos de {term-drag} para el {term-glider} y sus superficies de control. Los requisitos de diseño estructural
+
+no cubren múltiples entradas en un eje o entradas de control en más de un eje a la vez a cualquier velocidad, incluso por debajo de VA. Si se encuentra aire turbulento o turbulencia severa durante el vuelo, el piloto debe reducir la velocidad aerodinámica a la velocidad de maniobra o menos para prevenir exceder los límites estructurales. La velocidad de maniobra varía con el {term-weight} del {term-glider} y no aparece como una velocidad aerodinámica específica en el indicador de velocidad aerodinámica. Para {term-glider}es con una limitación de velocidad aerodinámica de aire turbulento publicada (VB), el piloto debe mantenerse por debajo de esa velocidad en aire turbulento para acomodar la intensidad máxima de ráfagas.
+
+• Velocidad de operación del tren de {term-landing} (VLO)—velocidad máxima para extender o retraer el tren de {term-landing} si se usa un {term-glider} equipado con tren de {term-landing} retráctil.
+
+• Velocidad de mínimo hundimiento—velocidad aerodinámica que resulta en la menor cantidad de {term-stall} de altitud sobre un tiempo dado, o que maximiza la ganancia de altitud al aprovechar el aire ascendente.
+
+• {term-best-glide}—velocidad aerodinámica que resulta en la menor cantidad de {term-stall} de altitud sobre una distancia dada, sin considerar los
+efectos del viento.
+
+• Velocidad máxima de {term-aerotow} o lanzamiento en tierra—velocidad aerodinámica máxima para remolque sin exceder las especificaciones de diseño.
+
 
 [[fig-04-10]]
-.Ejemplos de placas de limitación de velocidad colocadas en un {term-glider} y a la vista del piloto
-image::04/fig-04-10.sample-velocidad-limitation-placards-placed-in-a.png[width=300]
+.Ejemplo de placas de limitación de velocidad colocadas en un planeador y a la vista del piloto.
+image::04/fig-04-10.sample-velocidad-limitation-placards-placed-in-a.png[width=600]
 
-=== Altímetro
+=== {term-altimeter}
 
-El {term-altimeter} mide la presión de aire estático del aire circundante. La tubería conecta la entrada de presión estática del {term-altimeter} a los orificios del puerto estático ubicados en el lado del {term-glider}. <<fig-04-11>>
+El {term-altimeter} mide la presión de aire estática del aire circundante. Las tuberías conectan la entrada de presión estática del {term-altimeter} a los orificios del puerto estático ubicados en el costado del {term-glider}. <<fig-4-11>>
 
 [[fig-04-11]]
-.Ventilas estáticas y plomería del {term-altimeter}
-image::04/fig-04-11.static-vents-and-altimetro-plumbing.png[width=300]
+.Puertos estáticos y tubería del altímetro.
+image::04/fig-04-11.static-vents-and-altimetro-plumbing.png[width=600]
 
-Si se usa el ajuste altimétrico local (la presión local corregida al nivel del mar), el {term-altimeter} indica la altura actual del {term-glider} sobre el nivel medio del mar (MSL). <<fig-04-12>> Restando la elevación del terreno de la altitud MSL actual se obtiene la altura sobre el terreno.
+Si se usa el ajuste del {term-altimeter} local (la presión local corregida al nivel del mar), el {term-altimeter} indica la altura actual del {term-glider} sobre el nivel medio del mar (MSL - Mean Sea Level). <<fig-4-12>> Restando la elevación del terreno de la altitud MSL actual se obtiene la altura sobre el terreno.
+
 
 [[fig-04-12]]
-.Altímetro
-image::04/fig-04-12.the-thinnest-hand-with-an-end-shaped-like-a.png[width=300]
+.Altímetro.
+image::04/fig-04-12.the-thinnest-hand-with-an-end-shaped-like-a.png[width=600]
 
-El {term-weight} de una columna de aire sobre una ubicación dada crea presión atmosférica. A nivel del mar, una columna de aire superpuesta ejerce una fuerza equivalente a 14.7 libras por pulgada cuadrada, 1013.2 mb, o 29.92 pulgadas de mercurio bajo condiciones estándar. A una altitud más alta, la columna de aire superpuesta más corta pesa menos y ejerce menos presión. Por lo tanto, la presión atmosférica disminuye con la altitud. A 18,000 pies, la presión atmosférica cae a aproximadamente la mitad de la del nivel del mar. <<fig-04-13>>
+El {term-weight} de una columna de aire sobre una ubicación dada crea la presión atmosférica. Al nivel del mar, una columna de aire sobreyacente ejerce una fuerza equivalente a 14.7 libras por pulgada cuadrada, 1013.2 mb, o 29.92 pulgadas de mercurio bajo condiciones estándar. A una altitud más alta, la columna de aire sobreyacente más corta pesa menos y ejerce menos presión. Por lo tanto, la presión atmosférica disminuye con la altitud. A 18,000 pies, la presión atmosférica cae aproximadamente a la mitad de la del nivel del mar. <<fig-4-13>>
+
 
 [[fig-04-13]]
-.Presión atmosférica y altitud
-image::04/fig-04-13.atmosferica-presion-and-altitud.png[width=300]
+.Presión atmosférica y altitud.
+image::04/fig-04-13.atmosferica-presion-and-altitud.png[width=600]
 
-==== Principios de operación
+==== Principios de Operación
 
-El {term-altimeter} funciona como un barómetro aneroide que mide la presión atmosférica a la elevación actual excepto que el {term-altimeter} indica presión en pies. El {term-altimeter} indica cambios en altitud durante un ascenso o descenso a medida que cambia la presión atmosférica. La <<fig-04-14>> y la <<fig-04-15>> ilustran cómo funciona el {term-altimeter}. Algunos {term-altimeter}s tienen un puntero mientras que otros tienen más.
+El {term-altimeter} funciona como un barómetro aneroide que mide la presión atmosférica a la elevación actual excepto que el {term-altimeter} indica la presión en pies. El {term-altimeter} indica cambios en la altitud durante un ascenso o descenso a medida que cambia la presión atmosférica. Las Figuras 4-14 y 4-15 ilustran cómo funciona el {term-altimeter}. Algunos {term-altimeter}s tienen una aguja mientras que otros tienen más.
 
 [[fig-04-14]]
-.Cómo funciona el {term-altimeter}
-image::04/fig-04-14.how-the-altimetro-functions.png[width=300]
+.Cómo funciona el altímetro.
+image::04/fig-04-14.how-the-altimetro-functions.png[width=600]
 
 [[fig-04-15]]
-.Dentro del {term-altimeter}
-image::04/fig-04-15.inside-the-altimetro.png[width=300]
+.Interior del altímetro.f
+image::04/fig-04-15.inside-the-altimetro.png[width=600]
 
-==== Tipos de altitud
+Las marcas en el dial de un {term-altimeter} típico incluyen números dispuestos en sentido horario de 0 a 9 inclusive, como se muestra en la Figura 4-12. Cuando cambia la presión circundante, la expansión o contracción del elemento aneroide mueve las agujas a través de un tren de engranajes. Las agujas recorren el dial calibrado para indicar la altitud. En el {term-altimeter} con tres agujas mostrado en la Figura 4-12, la aguja más delgada con un extremo en forma de triángulo indica la altitud en decenas de miles de pies; la aguja puntiaguda más corta indica miles de pies; y la aguja puntiaguda larga indica cientos de pies, subdivididos en incrementos de 20 pies.
 
-La altitud corresponde a una distancia vertical sobre algún punto o nivel usado como referencia. La altitud medida desde diferentes niveles de referencia sirve diferentes propósitos. <<fig-04-16>>
+=== Tipos de Altitud
+
+La altitud corresponde a una distancia vertical sobre algún punto o nivel usado como referencia. La altitud medida desde diferentes niveles de referencia sirve para diferentes propósitos. <<fig-4-16>>
 
 [[fig-04-16]]
-.Tipos de altitud
-image::04/fig-04-16.types-of-altitud.png[width=300]
+.Tipos de altitud.
+image::04/fig-04-16.types-of-altitud.png[width=600]
 
-Los pilotos de {term-glider}es deberían entender las siguientes altitudes:
+Los pilotos de {term-glider}es deben entender las siguientes altitudes:
 
-* Altitud indicada—altitud leída directamente del {term-altimeter}. Durante el pre-vuelo, el piloto debería ajustar el {term-altimeter} al ajuste altimétrico local actual. Si la {term-indicated-altitude} se desvía de la elevación conocida del campo en ±75 pies o más, el piloto no debería volar y remitir el {term-altimeter} a una estación de reparación apropiadamente calificada para evaluación y corrección.
-* Altitud verdadera—la distancia vertical del {term-glider} sobre el nivel del mar en condiciones atmosféricas estándar (conocida como MSL).
-* Altitud de presión—{term-indicated-altitude} con el ajuste del {term-altimeter} ajustado a 29.92.
-* Altitud de densidad—{term-pressure-altitude} corregida por variaciones de temperatura no estándar.
-* Altitud absoluta—distancia vertical sobre el terreno, sobre el nivel del suelo (AGL).
+• {term-indicated-altitude}—altitud leída directamente del {term-altimeter}. Durante el prevuelo, el piloto debe ajustar el {term-altimeter} al ajuste del {term-altimeter} local actual. Si la {term-indicated-altitude} se desvía de la elevación conocida del campo en ±75 pies o más, el piloto no debe volar y debe referir el {term-altimeter} a una estación de reparación con calificación apropiada para evaluación y corrección. El piloto puede usar la {term-indicated-altitude} para despeje de terreno y obstáculos. Sin embargo, la {term-true-altitude} y la {term-indicated-altitude} pueden diferir dependiendo de las condiciones de presión y temperatura.
 
-=== Variómetro
+• {term-true-altitude}—la distancia vertical del {term-glider} sobre el nivel del mar en condiciones atmosféricas estándar (conocida como MSL a menudo expresada de esta manera: 10,900 pies MSL, 5,280 pies MSL, o 940 pies MSL). Las elevaciones de aeropuertos, terreno y obstáculos encontradas en las cartas aeronáuticas se expresan como MSL (altitudes verdaderas).
 
-Los instrumentos {term-variometer} miden el ascenso o descenso vertical de la masa de aire local y {term-glider} combinados y muestran esa información como velocidad vertical. El {term-variometer} puede considerarse un simple medidor de flujo que mide el aire fluyendo entre una referencia exterior (puerto estático o de {term-total-energy}) y un matraz de referencia interno. El {term-variometer} depende de la tasa de lapso de presión en la atmósfera para derivar información sobre tasa de ascenso o tasa de descenso. Un {term-variometer} no eléctrico usa un tanque separado aislado (termo o matraz de capacidad) como cámara de referencia para aumentar la sensibilidad y precisión del instrumento. <<fig-04-18>> y <<fig-04-19>>
+• {term-pressure-altitude}—{term-indicated-altitude} con el ajuste del {term-altimeter} ajustado a 29.92. La {term-pressure-altitude} corresponde a la altura sobre el plano de datos estándar, un plano teórico donde la presión de aire es igual a 29.92 inHg. Los pilotos usan la {term-pressure-altitude} para soluciones de computadora para determinar {term-density-altitude}, {term-true-altitude}, y TAS, etc. Cuando vuelan en espacio aéreo clase A, los pilotos ajustan el {term-altimeter} a 29.92.
+
+• {term-density-altitude}—{term-pressure-altitude} corregida por variaciones de temperatura no estándar. En condiciones estándar, la {term-pressure-altitude} es igual a la {term-density-altitude}. En temperaturas por encima del estándar, la densidad excede la {term-pressure-altitude}. Con temperaturas por debajo del estándar, la {term-density-altitude} es menor que la {term-pressure-altitude}. La {term-density-altitude} determina el rendimiento del {term-glider} y afecta la potencia de salida de un avión de remolque o {term-glider} {term-self-launch}.
+
+• Altitud absoluta—distancia vertical sobre el terreno, sobre el nivel del suelo (AGL - Above Ground Level). El piloto puede usar la altitud absoluta para estimar la distancia de planeo sobre el terreno sin el beneficio de {term-lift}.
+
+==== Efecto de la Presión No Estándar
+
+En un vuelo hecho desde un área de alta presión a un área de baja presión sin ajustar el {term-altimeter}, el {term-glider} desciende si el piloto mantiene una {term-indicated-altitude} dada. Cuando se vuela desde un área de baja presión a un área de alta presión sin ajustar el {term-altimeter}, el {term-glider} asciende si el piloto mantiene una {term-indicated-altitude} dada. El piloto ajusta este fenómeno ajustando el {term-altimeter}. Un {term-altimeter} correctamente ajustado proporciona una cantidad apropiada de separación vertical entre aeronaves a diferentes altitudes de crucero y puede ayudar a prevenir colisiones en el aire. También permite un cálculo de altitud absoluta más preciso, que le da al piloto de {term-glider} la capacidad de determinar la distancia de planeo con mayor precisión.
+
+==== Ajuste del {term-altimeter}
+
+Para ajustar el {term-altimeter} para presión no estándar, el piloto ajusta la escala de presión en la ventana del {term-altimeter} (ventana Kollsman) al ajuste de {term-altimeter} local dado o a la elevación del campo. Los ajustes del {term-altimeter} corresponden a la presión de la estación reducida al nivel del mar, expresada en pulgadas de mercurio.
+
+Una estación de reporte toma una medición horaria de la presión atmosférica y corrige este valor a presión a nivel del mar. Estos ajustes del {term-altimeter} reflejan la altura sobre el nivel del mar solo cerca de la estación de reporte. Cuando se vuela por debajo de 18,000 pies MSL, el piloto debe reajustar el {term-altimeter} a medida que el vuelo progresa de una estación a la siguiente. Cuando se vuela a o por encima de 18,000 pies MSL, el piloto ajusta el {term-altimeter} a 29.92.
+
+Cuando se vuela sobre terreno montañoso alto, ciertas condiciones atmosféricas pueden hacer que el {term-altimeter} indique una altitud de 1,000 pies o más por encima de la {term-true-altitude}. Por esta razón, el piloto debe volar con un margen de altitud aumentada—no solo por posible error del {term-altimeter}, sino también por corrientes descendentes, que pueden ocurrir si se encuentran vientos fuertes.
+
+Un vuelo de travesía desde TSA Gliderport, Midlothian, Texas, hasta Winston Airport, Snyder, Texas, vía Stephens County Airport, Breckenridge, Texas, ilustra el uso de los ajustes del {term-altimeter}. Antes del lanzamiento desde TSA Gliderport, el piloto recibe el ajuste de {term-altimeter} local actual de 29.85 y ajusta el {term-altimeter} a este valor. La indicación varía ligeramente de la elevación conocida del aeropuerto de 660 pies debido a un ligero error de calibración del {term-altimeter}.
+
+Cuando está sobre Stephens County Airport, el piloto recibe un ajuste de {term-altimeter} de área actual de 29.94 y aplica este ajuste al {term-altimeter}. Antes de entrar en el {term-pattern} en Winston Airport, el piloto recibe un nuevo ajuste de {term-altimeter} de 29.69 del Sistema Automatizado de Observación Meteorológica (AWOS - Automated Weather Observing System). Si el piloto desea entrar en el {term-pattern} aproximadamente a 1,000 pies sobre el terreno, y si la elevación del campo de Winston Airport es de 2,430 pies MSL, el piloto debe usar una {term-indicated-altitude} de 3,400 pies.
+
+2,430 pies + 1,000 pies = 3,430 pies, redondeado a 3,400 pies
+
+Para ilustrar, suponga que una distracción hizo que el piloto descuidara el ajuste para el ajuste del {term-altimeter} de Winston Airport y continuara usando el ajuste de Stephens County Airport de 29.94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3,400 pies y el {term-altimeter} indicaría aproximadamente 2,680 pies al aterrizar o 250 pies más alto que la elevación del campo.
+
+Ajuste de {term-altimeter} real = 29.94
+
+Ajuste de {term-altimeter} correcto = 29.69
+
+Diferencia =.25
+
+Una pulgada de presión es igual a aproximadamente 1,000 pies de altitud.
+
+.25 × 1,000 pies = 250 pies
+
+En este escenario, el piloto, aunque bajo, podría volar un ángulo de {term-approach} visual exitoso a la zona de {term-landing}. El piloto debe ajustar el ángulo visual a la zona de {term-landing} para compensar la altitud más baja. Sin embargo, el riesgo de un accidente aumenta debido a la altitud incorrecta de entrada al circuito. Por ejemplo, el {term-glider} podría golpear un obstáculo en la trayectoria de vuelo si no es visto por el piloto. Si el piloto no reajusta el {term-altimeter}, el siguiente auxiliar de memoria ilustra lo que puede suceder "De alto a bajo—cuidado abajo."
+
+==== Efecto de la Temperatura No Estándar
+
+Las variaciones en la temperatura del aire también afectan el {term-altimeter}. En un día cálido, el aire pesa menos por unidad de volumen que en un día frío. Por ejemplo, el nivel de presión al que el {term-altimeter} indica 10,000 pies ocurre a una altitud más alta en un día cálido que bajo condiciones estándar. En un día frío, la indicación de 10,000 pies se mueve más abajo. El ajuste hecho por el piloto para compensar la presión no estándar no compensa la temperatura no estándar. Si se considera el despeje de terreno u obstáculos durante la selección de una {term-true-altitude} de crucero, particularmente a altitudes más altas, el piloto debe considerar este efecto. Una temperatura más fría que el estándar coloca el {term-glider} más cerca del terreno para una {term-true-altitude} dada, y el piloto debe usar una altitud más alta para proporcionar un despeje de terreno adecuado. <<fig-4-17>>
+
+
+[[fig-04-17]]
+.Presión y temperatura no estándar.
+image::04/fig-04-17.nonstandard-presion-and-temperatura.png[width=600]
+
+=== {term-variometer}
+
+Los instrumentos {term-variometer} miden el ascenso o descenso vertical de la masa de aire local y del {term-glider} combinados y muestran esa información como velocidad vertical. El {term-variometer} puede considerarse un simple medidor de flujo que mide el aire que fluye entre una referencia exterior (puerto estático o de {term-total-energy}) y un matraz de referencia interno. El {term-variometer} depende de la tasa de lapso de presión en la atmósfera para derivar información sobre la tasa de ascenso o tasa de descenso. Un {term-variometer} no eléctrico usa un tanque aislado separado (termo o matraz de capacidad) como cámara de referencia para aumentar la sensibilidad y precisión del
+
+instrumento. La tubería corre desde la cámara de referencia a través del instrumento {term-variometer} hasta un puerto estático exterior en un {term-uncompensated-variometer}. [Figuras 4-18 y 4-19]
+
 
 [[fig-04-18]]
-.Plomería del {term-uncompensated-variometer}
-image::04/fig-04-18.uncompensated-variometro-plumbing.png[width=300]
+.Tubería de variómetro no compensado.
+image::04/fig-04-18.uncompensated-variometro-plumbing.png[width=600]
+
 
 [[fig-04-19]]
-.Anatomía del diafragma del {term-variometer}
-image::04/fig-04-19.a-variometro-diaphragm-anatomy.png[width=300]
+.Anatomía del diafragma de un variómetro.
+image::04/fig-04-19.a-variometro-diaphragm-anatomy.png[width=600]
 
-Las diferencias de presión entre el aire dentro del sistema {term-variometer}/cámara de referencia y el aire fuera del sistema tienden a igualarse a medida que el aire fluye desde áreas de alta presión a áreas de baja presión. Cuando la presión dentro de la cámara de referencia excede la presión fuera, el aire fluye fuera de la cámara de referencia a través del {term-variometer} mecánico al ambiente exterior, y el {term-variometer} indica un ascenso. Cuando la presión de aire fuera de la cámara de referencia excede la presión dentro, el aire fluye a través del {term-variometer} y hacia la cámara de referencia hasta que la presión se iguala. En este caso, la aguja del {term-variometer} indica condiciones que fuerzan al {term-glider} a perder altura. Las Figuras 4-20 y 4-21 ilustran cómo funciona el {term-variometer} en vuelo nivelado y mientras el {term-glider} asciende.
+Las diferencias de presión entre el aire dentro del sistema {term-variometer}/cámara de referencia y el aire fuera del sistema tienden a igualarse a medida que el aire fluye desde áreas de alta presión a áreas de baja presión. Cuando la presión dentro de la cámara de referencia excede la presión exterior, el aire fluye fuera de la cámara de referencia a través del {term-variometer} mecánico hacia el ambiente exterior, y el {term-variometer} indica un ascenso. Cuando la presión del aire fuera de la cámara de referencia excede la presión interior, el aire fluye a través del {term-variometer} y hacia la cámara de referencia hasta que la presión se iguale. En este caso, la aguja del {term-variometer} indica condiciones que obligan al {term-glider} a perder altura. Las Figuras 4-20 y 4-21 ilustran cómo funciona el {term-variometer} en vuelo nivelado y mientras el {term-glider} asciende. Además, la Figura 4-22 ilustra ciertas maniobras de vuelo que hacen que el {term-variometer} muestre cambios de altitud.
+
 
 [[fig-04-20]]
-.Variómetro no compensado en vuelo nivelado
-image::04/fig-04-20.uncompensated-variometro-in-level-vuelo.png[width=300]
+.Variómetro no compensado en vuelo nivelado.
+image::04/fig-04-20.uncompensated-variometro-in-level-vuelo.png[width=600]
+
 
 [[fig-04-21]]
-.Variómetro no compensado en ascenso
-image::04/fig-04-21.uncompensated-variometro-in-a-ascenso.png[width=300]
+.Variómetro no compensado en ascenso.
+image::04/fig-04-21.uncompensated-variometro-in-a-ascenso.png[width=600]
 
-Además, la <<fig-04-22>> ilustra ciertas maniobras de vuelo que causan que el {term-variometer} muestre cambios en altitud.
 
 [[fig-04-22]]
-.Maniobras de vuelo que muestran cambios de altitud en un {term-uncompensated-variometer}
-image::04/fig-04-22.vuelo-maneuvers-that-pantalla-altitud-changes-on.png[width=300]
+.Maniobras de vuelo que muestran cambios de altitud en un variómetro no compensado.
+image::04/fig-04-22.vuelo-maneuvers-that-pantalla-altitud-changes-on.png[width=600]
 
-Los {term-variometer}s eléctricos ofrecen varias ventajas sobre la variedad no eléctrica. Estas ventajas incluyen tasas de respuesta más rápidas y señales audibles separadas para ascenso y descenso.
+Los {term-variometer}s eléctricos ofrecen varias ventajas sobre los no eléctricos. Estas ventajas incluyen tasas de respuesta más rápidas y señales audibles separadas para ascenso y descenso.
 
-Algunos {term-variometer}s eléctricos usan sensores especiales. A medida que el aire fluye hacia dentro o fuera de la cámara de referencia, enfría sensores en un circuito y altera la {term-drag} eléctrica medida por el sistema. El cambio resultante en {term-drag} corresponde a la tasa de ascenso o descenso. El sistema muestra esa información en el {term-variometer}.
+Algunos {term-variometer}s eléctricos usan sensores especiales. A medida que el aire fluye hacia o fuera de la cámara de referencia, enfría sensores en un circuito y altera la {term-drag} eléctrica medida por el sistema. El cambio resultante en la {term-drag} corresponde a la tasa de ascenso o descenso. El sistema muestra esa información en el {term-variometer}.
 
-Muchos {term-variometer}s eléctricos proporcionan tonos audibles, o pitidos, que indican la tasa de ascenso o tasa de descenso del {term-glider}. Los pilotos usando un {term-variometer} de audio pueden escuchar la tasa de ascenso o descenso, lo que permite más tiempo para enfocar la atención fuera de la aeronave. <<fig-04-23>>
+Muchos {term-variometer}s eléctricos proporcionan tonos audibles, o pitidos, que indican la tasa de ascenso o tasa de descenso del {term-glider}. Los pilotos que usan un {term-variometer} de audio pueden escuchar la tasa de ascenso o descenso, lo que permite más tiempo para enfocar la atención fuera de la aeronave. <<fig-4-23>>
+
 
 [[fig-04-23]]
-.Cuando un {term-variometer} eléctrico se monta en el {term-glider}, la instalación de un {term-variometer} no eléctrico puede proporcionar un respaldo
-image::04/fig-04-23.when-an-electric-variometro-is-mounted-to-the.png[width=300]
+.Cuando se monta un variómetro eléctrico en el planeador, la instalación de un variómetro no eléctrico puede proporcionar un respaldo.
+image::04/fig-04-23.when-an-electric-variometro-is-mounted-to-the.png[width=600]
 
-En el pasado, algunos {term-variometer}s tenían una escala de velocidad de borde giratoria llamada {term-maccready-ring}. Esta escala indica la velocidad óptima de aire para volar cuando se viaja entre {term-thermal}s para máximo rendimiento de travesía. Durante el planeo entre {term-thermal}s, el piloto ajusta la flecha índice a la tasa de ascenso esperada en la siguiente {term-thermal}. En el anillo de velocidad, la aguja del {term-variometer} apunta a la velocidad óptima para volar entre {term-thermal}s. <<fig-04-24>>
+En el pasado, algunos {term-variometer}s tenían una escala de velocidad en el borde giratorio llamada {term-maccready-ring}. Esta escala indica la velocidad aerodinámica óptima para volar cuando se viaja entre {term-thermal}s para máximo rendimiento de travesía. Durante el planeo entre {term-thermal}s, el piloto ajusta la flecha índice a la tasa de ascenso esperada en la siguiente {term-thermal}. En el anillo de velocidad, la aguja del {term-variometer} apunta a la velocidad óptima para volar entre {term-thermal}s. Si el piloto espera una tasa de ascenso baja, el instrumento selecciona una velocidad óptima más baja entre {term-thermal}s. Cuando el piloto espera una {term-lift} fuerte en la siguiente {term-thermal}, el instrumento sugiere una velocidad de crucero óptima más rápida. <<fig-4-24>> Un {term-maccready-ring} tiene valores para un solo piloto, valores con pasajero, y también puede ajustar para lastre ya que más {term-weight} resulta en velocidades de planeo más altas. Las visualizaciones de instrumentos electrónicos se han vuelto más comunes que los anillos MacCready.
 
 [[fig-04-24]]
-.El {term-maccready-ring}
-image::04/fig-04-24.the-maccready-anillo.png[width=300]
+.El anillo MacCready.
+image::04/fig-04-24.the-maccready-anillo.png[width=600]
 
-Los ascensos y descensos inducidos por el piloto resultan en cambios en la velocidad del aire y afectan un {term-uncompensated-variometer} causando cambios en la {term-pressure-altitude}. En aire en calma, cuando el piloto inicia un picado, el {term-variometer} indica un descenso. Cuando el piloto del {term-glider} recupera del picado e inicia un ascenso rápido, el {term-variometer} indica un ascenso. Un {term-glider} con un {term-uncompensated-variometer} da una indicación precisa de aire ascendente y descendente solo si el piloto mantiene una velocidad del aire constante.
+Los ascensos y descensos inducidos por el piloto resultan en cambios de velocidad aerodinámica y afectan un {term-uncompensated-variometer} al causar cambios en la {term-pressure-altitude}. En aire en calma, cuando el piloto inicia un descenso en picado, el {term-variometer} indica un descenso. Cuando el piloto del {term-glider} recupera del descenso e inicia un ascenso rápido, el {term-variometer} indica un ascenso. Un {term-glider} con un {term-uncompensated-variometer} da una indicación precisa de aire ascendente y descendente solo si el piloto mantiene una velocidad aerodinámica constante.
 
 ==== Sistema de {term-total-energy}
 
-Un {term-variometer} con un sistema de {term-total-energy} detecta cambios en la velocidad del aire y tiende a cancelar las indicaciones resultantes de ascenso y descenso ({term-thermal}s de palanca). Esto da a un piloto de {term-glider} una indicación de aire ascendente o descendente a pesar de los cambios en la velocidad del aire.
+Un {term-variometer} con un sistema de {term-total-energy} detecta cambios en la velocidad aerodinámica y tiende a cancelar las indicaciones de ascenso y descenso resultantes ({term-thermal}s del stick). Esto le da a un piloto de {term-glider} una indicación de aire ascendente o descendente a pesar de los cambios en la velocidad aerodinámica.
 
-Un tipo popular de sistema de {term-total-energy} consiste en un pequeño venturi, un par de orificios, o simplemente una ranura en la parte posterior de un pequeño tubo vertical montado en la corriente de aire y conectado a la salida estática del {term-variometer}. <<fig-04-25>>
+Un tipo popular de sistema de {term-total-energy} consiste en un pequeño venturi, un par de orificios, o simplemente una ranura en la parte posterior de un pequeño tubo vertical montado en la corriente de aire y conectado a la salida estática del {term-variometer}. Cuando la velocidad aerodinámica aumenta durante un descenso en picado, más succión del venturi compensa la presión aumentada en la salida estática del {term-variometer}. De manera similar, cuando la velocidad aerodinámica disminuye durante un ascenso, la succión reducida del venturi compensa la reducción de presión en la salida estática del {term-variometer}. El efecto neto reduce las indicaciones de ascenso y descenso causadas por cambios de velocidad aerodinámica. Para maximizar la precisión de este efecto de compensación, el sistema puede usar una sonda de {term-total-energy}, que se sitúa en el flujo de aire no perturbado adelante de la nariz de la aeronave o la aleta de cola. <<fig-4-25>>
 
 [[fig-04-25]]
-.Un sistema de {term-variometer} de {term-total-energy}
-image::04/fig-04-25.a-total-energy-variometro-sistema.png[width=300]
+.Un sistema de variómetro de energía total.
+image::04/fig-04-25.a-total-energy-variometro-sistema.png[width=600]
 
-Otro tipo de diseño de sistema de {term-total-energy} usa un {term-trim} de tipo diafragma colocado en línea desde el tubo pitot a la línea que viene de la cámara de referencia (termo o matraz de capacidad).
+Otro tipo de diseño de sistema de {term-total-energy} usa un {term-trim} de tipo diafragma colocado en línea desde el tubo pitot a la línea que viene de la cámara de referencia (termo o matraz de capacidad). La deflexión del diafragma compensa el efecto que el cambio de velocidad aerodinámica tiene en la presión pitot. En efecto, el diafragma modula los cambios de presión en el matraz de capacidad y enmascara las {term-thermal}s del stick.
 
-Un {term-netto} indica el movimiento vertical de la masa de aire, independientemente de la tasa de ascenso o descenso del {term-glider}. Algunos sistemas de {term-netto} emplean un tubo capilar calibrado que funciona como una pequeña válvula. <<fig-04-26>>
+Un {term-netto} indica el movimiento vertical de la masa de aire, independientemente de la tasa de ascenso o descenso del {term-glider}. Algunos sistemas de {term-netto} emplean un tubo capilar calibrado que funciona como una pequeña válvula. La presión pitot empuja cantidades minúsculas de aire a través de la válvula y hacia la tubería de la cámara de referencia. Esto remueve la tasa de hundimiento conocida del {term-glider} a varias velocidades aerodinámicas de la indicación del {term-variometer}. <<fig-4-26>>
 
 [[fig-04-26]]
-.Un ejemplo de sistema de {term-netto}
-image::04/fig-04-26.an-example-of-a-netto-variometro-sistema.png[width=300]
+.Un ejemplo de un sistema variómetro Netto.
+image::04/fig-04-26.an-example-of-a-netto-variometro-sistema.png[width=600]
 
-Los {term-variometer}s Netto computarizados (electrónicos) emplean un método diferente para remover la tasa de hundimiento del {term-glider}. En este tipo de sistema, sensores tanto para presión pitot como presión estática proporcionan información de velocidad del aire a la computadora. La computadora almacena la tasa de hundimiento conocida del {term-glider} a cada velocidad del aire.
+Los {term-netto}s computarizados (electrónicos) emplean un método diferente para remover la tasa de hundimiento del {term-glider}. En este tipo de sistema, sensores tanto para presión pitot como presión estática proporcionan información de velocidad aerodinámica a la computadora. La computadora almacena la tasa de hundimiento conocida del {term-glider} a cada velocidad aerodinámica. A cualquier velocidad aerodinámica dada, la computadora remueve la tasa de hundimiento del {term-glider}, y el {term-variometer} muestra la tasa de ascenso o descenso de la masa de aire misma.
 
-== Computadores de vuelo electrónicos
+== Computadoras de Vuelo Electrónicas
 
-Dado que los {term-glider}es no motorizados carecen de generador o alternador, los componentes eléctricos, como la computadora de vuelo, si están instalados, extraen energía de la batería recargable o baterías del {term-glider}.
+Dado que los {term-glider}es no propulsados carecen de generador o alternador, los componentes eléctricos, como la computadora de vuelo, si están instalados, extraen energía de la batería o baterías recargables del {term-glider}. Algunos {term-glider}es usan células solares dispuestas detrás del piloto, o en la parte superior de la cubierta del panel de instrumentos, para suministrar energía adicional al sistema eléctrico durante el vuelo en condiciones soleadas.
 
-Los componentes primarios de la mayoría de los sistemas de computadora de vuelo incluyen un {term-variometer} eléctrico, un receptor GPS acoplado y un microprocesador. El {term-variometer} mide tasa de ascenso y descenso. El GPS proporciona información de posición. El microprocesador interpreta información de altitud, velocidad y posición. La salida del microprocesador ayuda al piloto en la toma de decisiones de travesía sugiriendo una velocidad para volar. <<fig-04-27>>
+Los componentes principales de la mayoría de los sistemas de computadora de vuelo incluyen un {term-variometer} eléctrico, un receptor GPS acoplado, y un microprocesador. El {term-variometer} mide la tasa de ascenso y descenso. El GPS proporciona información de posición. El microprocesador interpreta la información de altitud, velocidad y posición. La salida del microprocesador ayuda al piloto en la toma de decisiones de travesía sugiriendo una velocidad para volar. La Figura 4-27 muestra una computadora de vuelo de {term-glider}.
 
 [[fig-04-27]]
-.Pantalla de computadora de vuelo de {term-glider}
-image::04/fig-04-27.planeador-vuelo-computer-pantalla.png[width=300]
+.Pantalla de computadora de vuelo de planeador.
+image::04/fig-04-27.planeador-vuelo-computer-pantalla.png[width=600]
 
 La computadora de vuelo acoplada a GPS puede proporcionar la siguiente información:
 
-* Posición actual
-* Posición anterior
-* Velocidad y tiempo al destino
-* Distancia al destino planificado
-* Altura necesaria para planar al destino
-* Tasa de ascenso o descenso actual
-* La velocidad del aire óptima para volar a la siguiente {term-thermal}
-* La velocidad del aire óptima para volar a una ubicación en el suelo
+• Posición actual
 
-== Brújula magnética
+• Posición anterior
 
-La mayoría de los {term-glider}es no están bajo regulación para aeronaves motorizadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para «aeronaves civiles». Por esta razón, algunos {term-glider}es no tienen brújula a menos que se requiera según las Hojas de Datos de Certificado de Tipo (TCDS) de la aeronave.
+• Velocidad y tiempo al destino
 
-== Indicadores de resbale/derrape
+• Distancia al destino planificado
 
-=== Lana de guiñada (yaw string)
+• Altura necesaria para planear al destino
+f
+• Tasa de ascenso o descenso actual
 
-Una pieza de hilo montada en la corriente de aire libre y fácilmente visible para el piloto, proporciona un indicador efectivo de deslizamiento/{term-skid}. <<fig-04-28>> Durante {term-coordinated-flight}, el hilo apunta directamente hacia atrás. Durante un giro con deslizamiento, la cola (extremo no unido) de la cinta de guiñada se desplaza hacia el exterior del giro. Durante un giro con {term-skid}, la cola de la cinta de guiñada se desplaza hacia el interior del giro. Un piloto que tiene dificultad para sentir y corregir vuelo descoordinado puede aplicar presión al pedal de timón no alineado con la cola de la cinta de guiñada.
+• La velocidad aerodinámica óptima para volar a la siguiente {term-thermal}
+
+• La velocidad aerodinámica óptima para volar a una ubicación en el suelo, como la línea de llegada en una carrera o el aeropuerto de {term-landing} previsto al final de un vuelo de travesía
+
+Los beneficios principales de la computadora de vuelo se dividen en dos áreas: asistencia de navegación y mejora de rendimiento (velocidad).
+
+Las computadoras de vuelo utilizan el concepto de waypoint, que incluye latitud, longitud y altitud. Las carreras de {term-glider}es y los vuelos de travesía de {term-glider}es frecuentemente involucran vuelo alrededor de una serie de waypoints llamados puntos de giro. La ruta puede ser una ruta de ida y vuelta, forma de polígono, o simplemente una serie de waypoints. El piloto de {term-glider} navega de punto a punto, usando fuentes de {term-lift} disponibles para ascender periódicamente para que el vuelo pueda continuar hacia la meta prevista. La computadora de vuelo habilitada con GPS ayuda en la navegación, resumiendo el progreso del vuelo, y registrando el cumplimiento de tareas o metas de vuelo. Al encontrar {term-lift} fuerte, por ejemplo, el piloto puede usar la computadora de vuelo para marcar la ubicación de la {term-thermal}. Si rodeando un punto de giro cercano, el piloto de {term-glider} podría usar la computadora de vuelo para regresar a la {term-thermal} marcada para un ascenso rápido antes de continuar.
+
+Durante la porción de ascenso del vuelo, el {term-variometer} de la computadora de vuelo actualiza constantemente la tasa de ascenso lograda. Durante el crucero, la computadora de vuelo acoplada a GPS ayuda a navegar con precisión al siguiente punto de giro. La computadora de vuelo también sugiere la velocidad de crucero óptima para el {term-glider} volar, basada en la tasa de ascenso esperada en la siguiente {term-thermal}. Durante el planeo final hacia una meta, la computadora de vuelo puede mostrar la altitud del {term-glider}, altitud requerida para alcanzar la meta, distancia a la meta, la fuerza del componente de viento en contra o a favor, y velocidad aerodinámica óptima para volar.
+
+Cuando la computadora de vuelo detecta ascensos rápidos, sugiere velocidades de crucero más altas para mejorar el rendimiento. Cuando la computadora detecta una tasa de ascenso baja, compensa las condiciones más débiles sugiriendo velocidades aerodinámicas más bajas. La computadora de vuelo libera al piloto para buscar otro tráfico aéreo, buscar fuentes de {term-lift}, observar el clima adelante, y trazar una estrategia para la porción restante del vuelo.
+
+Como se explica en el siguiente capítulo, el {term-water-ballast} aumenta la velocidad óptima para volar. La computadora de vuelo compensa por el {term-water-ballast} transportado, ajustando los cálculos de velocidad para volar de acuerdo con el {term-weight} y rendimiento del {term-glider}. Algunas computadoras de vuelo requieren que el piloto ingrese datos sobre la carga de lastre del {term-glider}. Otras computadoras de vuelo compensan automáticamente por el efecto del {term-water-ballast} midiendo constantemente el rendimiento del {term-glider} y deduciendo el {term-weight} operativo del {term-glider} de estas mediciones. Si las {term-wing}s del {term-glider} se contaminan con insectos, el rendimiento del {term-glider} disminuye. La computadora de vuelo puede ajustarse para tener en cuenta la degradación de rendimiento resultante.
+
+== Brújula Magnética
+
+La mayoría de los {term-glider}es no están sujetos a regulación para aeronaves propulsadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para "aeronaves civiles". Por esta razón, algunos {term-glider}es no tienen brújula a menos que sea requerido según las Hojas de Datos del Certificado de Tipo (TCDS - Type Certificate Data Sheets) de la aeronave.
+
+== Indicadores de Resbale/Derrape Excesivo
+
+=== Lanita
+
+Un trozo de hilo montado en la corriente de aire libre y fácilmente visible para el piloto, proporciona un indicador efectivo de deslizamiento/deslizamiento excesivo. <<fig-4-28>> Durante el {term-coordinated-flight}, la lanita apunta directamente hacia atrás. Durante un giro con deslizamiento, la cola (extremo no sujeto) de la lanita se desplaza hacia el exterior del giro. Durante un giro con deslizamiento excesivo (skid), la cola de la lanita se desplaza hacia el interior del giro. Un piloto que tiene dificultad para sentir y corregir el vuelo no coordinado puede aplicar presión al pedal de timón no alineado con la cola de la lanita.
+
 
 [[fig-04-28]]
-.Indicaciones de condición de giro a la izquierda de una cinta de guiñada e {term-inclinometer}
-image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=300]
+.Indicaciones de condición de giro a la izquierda de una lanita e inclinómetro.
+image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=600]
 
-=== Inclinómetro
+=== {term-inclinometer}
 
-Un {term-inclinometer} también proporciona indicación de deslizamiento/{term-skid}. El {term-inclinometer} responde a fuerza centrífuga y gravedad. El {term-inclinometer} consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el {term-glider} vuela de manera coordinada, la bola permanece centrada en el fondo del tubo de vidrio. La frase, «pisar la bola» explica cómo un piloto debería responder para restaurar {term-coordinated-flight}.
+Un {term-inclinometer} también proporciona indicación de deslizamiento/deslizamiento excesivo. El {term-inclinometer} responde a la fuerza centrífuga y la gravedad. El {term-inclinometer} consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el {term-glider} vuela de manera coordinada, la bola permanece centrada en la parte inferior del tubo de vidrio. El {term-inclinometer} difiere de la lanita durante el vuelo no coordinado. La bola se mueve hacia el interior del giro para indicar un deslizamiento y hacia el exterior del giro para indicar un deslizamiento excesivo. <<fig-4-28>> La frase, "pisa la bola" explica cómo un piloto debería responder para restaurar el {term-coordinated-flight}. Durante una {term-spin}, el {term-inclinometer} no proporciona información de dirección de rotación, y los pilotos no deben usar el {term-inclinometer} para guía.
 
-== Instrumentos giroscópicos
+== Instrumentos Giroscópicos
 
-Los {term-glider}es no motorizados usualmente no tienen instrumentos giroscópicos, mientras que los {term-glider}es autolanzables a menudo tienen uno o más instrumentos giroscópicos en el panel. Los instrumentos giroscópicos comunes incluyen el indicador de actitud, indicador de rumbo y coordinador de giro.
+Los {term-glider}es no propulsados usualmente no tienen instrumentos giroscópicos, mientras que los {term-glider}es auto-lanzables a menudo tienen uno o más instrumentos giroscópicos en el panel. Los instrumentos giroscópicos comunes incluyen el indicador de actitud, indicador de rumbo, y coordinador de giro.
 
-Un G-meter montado en el panel registra fuerzas G positivas de ascensos y giros, así como fuerzas G negativas al descender o empujar desde un ascenso. Durante vuelo recto, no acelerado en aire en calma, el G-meter registra un factor de carga de 1 G (1.0 veces la fuerza de la gravedad). <<fig-04-29>>
+== Medidor de G
+
+Un medidor de G montado en el panel registra fuerzas G positivas de ascensos y giros, así como fuerzas G negativas al descender o empujar desde un ascenso. Durante el vuelo recto, no acelerado en aire tranquilo, el medidor de G registra un factor de carga de 1 G (1.0 veces la fuerza de gravedad). Durante el vuelo en aire turbulento, el {term-glider} y el piloto experimentan cargas G mayores o menores que 1 G al encontrar corrientes ascendentes o descendentes.
+
+Cada tipo de {term-glider} puede soportar una carga G máxima positiva especificada y una carga G máxima negativa especificada. Las limitaciones operativas, como se describen en el GFM/POH o en placas, son la fuente definitiva para esta información. Exceder las cargas límite permitidas puede resultar en deformación de la estructura del {term-glider}. En casos extremos, exceder las cargas límite permisibles puede causar falla estructural del {term-glider}. El medidor de G permite al piloto monitorear las cargas G de momento a momento durante el vuelo acrobático y durante el vuelo en aire turbulento. La mayoría de los medidores de G también registran y muestran la carga G máxima positiva y la carga G máxima negativa encontradas durante el vuelo. Las cargas G máximas positivas y negativas registradas pueden reiniciarse ajustando el knob de control del medidor de G. <<fig-4-29>>
+
 
 [[fig-04-29]]
-.El G-meter
-image::04/fig-04-29.the-g-meter.png[width=300]
+.El medidor de G.
+image::04/fig-04-29.the-g-meter.png[width=600]
 
-== Acelerómetro (G-Meter)
+== Sistema de Evitación de Colisiones FLARM
 
-El acelerómetro o G-meter registra las fuerzas G positivas durante ascensos y giros, así como fuerzas G negativas al descender o empujar desde un ascenso. Durante vuelo recto, no acelerado en aire en calma, el G-meter registra un factor de carga de 1 G (1.0 veces la fuerza de la gravedad). Este instrumento es esencial para monitorear las cargas estructurales durante maniobras y evitar exceder los límites de carga de la aeronave.
+Una colisión en el aire presenta un riesgo para todos los pilotos, y los pilotos de {term-glider}es tienen escenarios adicionales de colisión en el aire a considerar cuando vuelan en {term-thermal}s, vuelan en calles de nubes, o vuelan a lo largo de laderas. Periódicamente, ocurren colisiones en el aire o casi colisiones en vuelos de club, durante competiciones, y entre {term-glider}es y aviones de remolque después del desenganche.
 
-== Sistema de prevención de colisiones FLARM
-
-Una colisión en el aire presenta un riesgo para todos los pilotos, y los pilotos de {term-glider}es tienen escenarios adicionales de colisión en el aire a considerar cuando están en {term-thermal}s, volando calles de nubes o corriendo laderas. Los sistemas {term-flarm} (el nombre inspirado en «alarma de vuelo») pueden advertir a los pilotos de colisiones inminentes con otros {term-glider}es equipados con {term-flarm} y dar la ubicación de {term-glider}es cercanos no amenazantes equipados con {term-flarm}. <<fig-04-30>>
+Los sistemas FLARM (el nombre inspirado en "flight alarm" - alarma de vuelo) pueden advertir a los pilotos de colisiones inminentes con otros {term-glider}es equipados con FLARM y dar la ubicación de {term-glider}es cercanos no amenazantes equipados con FLARM. La Figura 4-30 muestra el interior de un {term-glider} ASW 19 con una unidad FLARM encima del panel de instrumentos. FLARM transmite y recibe información, modela las características de vuelo únicas de los {term-glider}es, y permanece silencioso a menos que detecte una amenaza real. Sin embargo, solo puede proporcionar información sobre otras aeronaves con un sistema FLARM operativo.
 
 [[fig-04-30]]
-.Unidad {term-flarm} en la parte superior del panel de instrumentos
-image::04/fig-04-30.flarm-unit-on-superior-of-the-instrumento-panel.png[width=300]
+.Unidad FLARM en la parte superior del panel de instrumentos.
+image::04/fig-04-30.flarm-unit-on-superior-of-the-instrumento-panel.png[width=600]
 
-{term-flarm} obtiene su posición de un sistema de posicionamiento global interno (GPS) y un sensor barométrico y luego transmite estos datos con datos pronosticados sobre la trayectoria de vuelo 3D futura. Su receptor recibe señales de otros dispositivos {term-flarm} típicamente dentro de 3-5 kilómetros y procesa la información recibida.
+FLARM obtiene su posición de un sistema de posicionamiento global (GPS - Global Positioning System) interno y un sensor barométrico y luego transmite estos datos con datos de pronóstico sobre la trayectoria de vuelo 3D futura. Su receptor recibe señales de otros dispositivos FLARM típicamente dentro de 3-5 kilómetros y procesa la información recibida. Los algoritmos de predicción de movimiento predicen conflictos potenciales para hasta otras 50 señales y advierten al piloto usando medios sonoros y visuales. FLARM también puede almacenar información sobre obstáculos aéreos estáticos, como cables, en una base de datos.
 
-== Código de transpondedor
+¿Por qué usar FLARM en un {term-glider}? Los Sistemas Convencionales de Evitación de Colisiones Aéreas (ACAS - Airborne Collision Avoidance Systems) proporcionarían advertencias continuas e innecesarias sobre todas las aeronaves en las cercanías. FLARM solo da alertas selectivas a aeronaves que representan un riesgo de colisión. Consume mucha menos energía que un transpondedor o ADS-B y es relativamente económico de comprar e instalar. Aunque existen versiones para uso en aeronaves ligeras y helicópteros, así como {term-glider}es, el corto alcance de la señal hace que FLARM sea inadecuado para evitar colisiones con aeronaves rápidas.
 
-Los transpondedores son dispositivos electrónicos que responden a la señal de radar de un ATC (control de tráfico aéreo) con un código de cuatro dígitos que identifica a la aeronave en la pantalla del radar. Los pilotos de planeadores deben conocer el uso apropiado de los códigos de transpondedor, especialmente cuando operan en espacio aéreo controlado o durante operaciones de remolque.
+Aunque los {term-glider}es están exentos de llevar transpondedores y transmisores ADS-B out en la mayoría, pero no todo el espacio aéreo, la Soaring Society of America (Sociedad de Planeo de América) alienta fuertemente a los pilotos a instalar este equipo cuando operen cerca de espacio aéreo de alta densidad. Esto aumenta su visibilidad para otros usuarios del Sistema de Espacio Aéreo Nacional (NAS - National Airspace System).
+
+== Código de Transpondedor
+
+La Administración Federal de Aviación (FAA - Federal Aviation Administration) asignó el código de transpondedor 1202 para uso por {term-glider}es no en contacto con control de tráfico aéreo (ATC - Air Traffic Control) a partir del 7 de marzo de 2012. Efectivo el 1 de noviembre de 2021 (JO 7110.66G), la FAA enmendó esta práctica para incluir {term-glider}es en contacto con ATC. Los pilotos de {term-glider}es operando en áreas con un acuerdo con ATC local para usar un código diferente deben contactar al patrocinador del acuerdo para orientación.
 
 === Definiciones
 
-* **Código 1200**: Código VFR estándar para operaciones en espacio aéreo no controlado.
-* **Código 7700**: Indica una emergencia.
-* **Código 7600**: Indica fallo de comunicaciones por radio.
-* **Código 7500**: Indica interferencia ilícita (secuestro).
+• CÓDIGO SQUAWK: El código de 4 dígitos establecido en el transpondedor, como 1202.
 
-== Indicador de temperatura exterior (OAT)
+• IDENT o SQUAWK IDENT: Un controlador puede dirigir a un piloto a "ident" o "squawk ident" para verificar la ubicación de la aeronave
 
-El indicador de temperatura del aire exterior (OAT) se monta con el elemento sensor en contacto con el aire exterior. Los indicadores OAT muestran grados Celsius, grados Fahrenheit, o ambos, y proporcionan al piloto de {term-glider} información sobre temperaturas de congelación que podrían afectar el {term-water-ballast} o los controles de vuelo. <<fig-04-31>>
+en la pantalla de radar. Cuando se le indica, el piloto presiona el botón en el transpondedor marcado IDENT. Esto
+
+causa que el blanco en la pantalla de radar del controlador cambie durante varios segundos. El piloto no debe presionar el botón ident sin dirección de ATC.
+
+• Los aviones de remolque normalmente transmiten (squawk) 1200 a menos que se les indique lo contrario por ATC.
+
+== Indicador de Temperatura del Aire Exterior (OAT)
+
+El indicador de temperatura del aire exterior (OAT - Outside Air Temperature) se monta con el elemento sensor en contacto con el aire exterior. Los indicadores OAT muestran grados Celsius, grados Fahrenheit, o ambos, y proporcionan al piloto de {term-glider} información sobre temperaturas de congelación que podrían afectar el {term-water-ballast} o los controles de vuelo. <<fig-4-31>>
 
 [[fig-04-31]]
-.Indicador de temperatura del aire exterior (OAT)
-image::04/fig-04-31.outside-air-temperatura-oat-gauge.png[width=300]
+.Indicador de temperatura de aire exterior (OAT).
+image::04/fig-04-31.outside-air-temperatura-oat-gauge.png[width=600]
 
-Cuando se vuela un {term-glider} cargado con {term-water-ballast}, el conocimiento de la altura del nivel de congelación puede afectar la seguridad del vuelo. La operación extendida de un {term-glider} cargado con {term-water-ballast} en temperaturas bajo cero puede resultar en válvulas de drenaje congeladas, tanques de lastre rupturados y daño estructural al {term-glider}.
+Cuando se vuela un {term-glider} cargado con {term-water-ballast}, el conocimiento de la altura del nivel de congelación puede afectar la seguridad del vuelo. La operación extendida de un {term-glider} cargado con {term-water-ballast} en temperaturas bajo cero puede resultar en válvulas de drenaje congeladas, tanques de lastre reventados, y daño estructural al {term-glider}.
 
-== Resumen del capítulo
+== Resumen del Capítulo
 
-Este capítulo introdujo el sistema pitot-estático y sus instrumentos asociados incluyendo el indicador de velocidad del aire, el {term-altimeter} y el {term-variometer}. Un {term-glider} tiene varias velocidades V y algunas de estas velocidades corresponden a marcas específicas en el indicador de velocidad del aire independientemente de la altitud. El capítulo también explica lo que un piloto debería saber sobre ajustar un {term-altimeter}, efectos de presión y temperatura no estándar en la {term-indicated-altitude}, y diferentes tipos de altitud. Los {term-variometer}s normalmente indican la suma de la tasa de descenso del {term-glider} añadida a la {term-lift-force} o hundimiento de la masa de aire circundante. Un {term-variometer} compensado remueve indicaciones que resultan de cambios en la velocidad del aire ({term-thermal}s de palanca). Un netto remueve la tasa de hundimiento del {term-glider} y proporciona la velocidad vertical de la masa de aire circundante. Las computadoras de vuelo pueden integrar información de diferentes fuentes, incluyendo desde la memoria, y proporcionar una gran cantidad de información al piloto de {term-glider}. Otros instrumentos descritos en este capítulo incluyen una {term-magnetic-compass}, cinta de guiñada, {term-inclinometer}, giroscopios, G-meter y indicador de temperatura exterior (OAT).
+Este capítulo introdujo el sistema pitot-estática y sus instrumentos asociados incluyendo el indicador de velocidad aerodinámica, el {term-altimeter}, y el {term-variometer}. Un {term-glider} tiene varias velocidades V y algunas de estas velocidades corresponden a marcas específicas en el indicador de velocidad aerodinámica independientemente de la altitud. El capítulo también explica lo que un piloto debe saber sobre ajustar un {term-altimeter}, efectos de presión y temperatura no estándar en la {term-indicated-altitude}, y diferentes tipos de altitud. Los {term-variometer}s normalmente indican la suma de la tasa de hundimiento del {term-glider} sumada a la {term-lift} o descenso de la masa de aire circundante. Un {term-variometer} compensado remueve indicaciones que resultan de cambios en la velocidad aerodinámica ({term-thermal}s del stick). Un netto remueve la tasa de hundimiento del {term-glider} y proporciona la velocidad vertical de la masa de aire circundante. Las computadoras de vuelo pueden integrar información de diferentes fuentes, incluyendo desde la memoria, y proporcionar una gran cantidad de información al piloto de {term-glider}. Otros instrumentos descritos en este capítulo incluyen una brújula magnética, lanita, {term-inclinometer}, giroscopios, medidor de G, e indicador de {term-oat} (OAT). Los pilotos pueden usar sistemas FLARM para evitación de colisiones de corto alcance, sin embargo el sistema solo puede detectar otras aeronaves que usen el sistema FLARM. Un {term-glider} equipado con transpondedor reporta automáticamente posición y altitud a ATC.
