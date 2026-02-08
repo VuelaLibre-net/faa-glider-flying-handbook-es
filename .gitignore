@@ -41,6 +41,9 @@ es/**/stem*.png
 
 # Archivos webp generados para html
 es/imagenes/**/*webp
+# Excepciones: mockups del README
+!es/imagenes/mockup.webp
+!es/imagenes/mockup-*.webp
 
 # Archivos de entorno y configuración local
 # Variables de entorno con credenciales API
