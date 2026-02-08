@@ -41,7 +41,7 @@ image::08/fig-08-01.towplane-and-planeador-senales-due-to-soltado.png[width=600]
 
 La falla de la liberación de remolque puede ocurrir en el {term-towplane} o en el sistema de gancho de remolque del {term-glider}. Si el mecanismo de liberación del {term-glider} falla, el piloto del {term-glider} debe notificar al piloto del remolcador ya sea por radio o señal de remolque como se muestra en el panel izquierdo de la Figura 8-1 anterior, y el {term-glider} debe mantener la posición de remolque alto. El piloto del remolcador debe remolcar el {term-glider} sobre el aeródromo o aeropuerto y liberar el {term-glider} desde el {term-towplane}. El {term-tow-rope} debe caer hacia atrás y debajo del {term-glider}. El diseño de algunos mecanismos de gancho de remolque permite que la línea se libere del {term-glider} por su propio {term-weight}. Después de la liberación por el {term-towplane} y dado que algunos ganchos de {term-glider} no liberan hacia atrás, el piloto del {term-glider} debe tirar de la liberación para aumentar la probabilidad de que el {term-tow-rope} se libere del {term-glider}. En el raro evento de que el piloto del remolcador tampoco pueda liberar, el piloto del remolcador hará guiñar el {term-towplane} repetidamente como se muestra en el panel central de la Figura 8-1 anterior.
 
-Los aviones de remolque a menudo usan una variante del enganche de remolque de {term-glider} Schweizer o Tost. <<fig-8-2>> y <<fig-8-3>> El enganche se conecta al {term-fuselage} del {term-towplane} debajo del timón. Los anillos específicos que unen los {term-tow-rope}s a estos tipos de enganche pueden verse en la Figura 8-4. El auxiliar de {term-wing}s debe conocer el método correcto de sujeción. Si el {term-towplane} tiene el enganche de remolque Schweizer, el anillo de remolque puede rotar hacia adelante y atrapar la manga que bloquea el enganche de remolque en su lugar si el {term-glider} vuela demasiado alto sobre el {term-towplane} durante el remolque. Esto puede impedir que el piloto del remolcador libere el {term-tow-rope}. <<fig-8-5>>
+Los aviones de remolque a menudo usan una variante del enganche de remolque de {term-glider} Schweizer o Tost. <<fig-08-02>> y <<fig-08-03>> El enganche se conecta al {term-fuselage} del {term-towplane} debajo del timón. Los anillos específicos que unen los {term-tow-rope}s a estos tipos de enganche pueden verse en la Figura 8-4. El auxiliar de {term-wing}s debe conocer el método correcto de sujeción. Si el {term-towplane} tiene el enganche de remolque Schweizer, el anillo de remolque puede rotar hacia adelante y atrapar la manga que bloquea el enganche de remolque en su lugar si el {term-glider} vuela demasiado alto sobre el {term-towplane} durante el remolque. Esto puede impedir que el piloto del remolcador libere el {term-tow-rope}. <<fig-08-05>>
 
 
 [[fig-08-02]]
@@ -110,13 +110,13 @@ El cable flojo es una reducción de tensión en el {term-tow-rope}. Si el flojo 
 
 • Descensos de {term-aerotow}
 
-• Giros del {term-glider} dentro del radio de giro del {term-towplane} <<fig-8-7>>
+• Giros del {term-glider} dentro del radio de giro del {term-towplane} <<fig-08-07>>
 
 • Corrientes ascendentes y descendentes
 
 • Recuperación abrupta de una posición de esquina de estela
 
-• {term-glider} se zambulle hacia el {term-towplane} <<fig-8-8>>
+• {term-glider} se zambulle hacia el {term-towplane} <<fig-08-08>>
 
 [[fig-08-07]]
 .Banco del planeador más pronunciado que el del avión remolcador, causando flojedad en el cable de remolque.
@@ -146,7 +146,7 @@ El operador del equipo de lanzamiento maneja un torno controlado por velocidad a
 
 Una falla del mecanismo de lanzamiento puede interrumpir un lanzamiento terrestre. Una desaceleración gradual en la tasa de ascenso o velocidad aerodinámica puede ser una indicación de este tipo de falla. Si se sospecha una falla del mecanismo de lanzamiento, el piloto del {term-glider} debe soltar y aterrizar hacia adelante. Sin embargo, un piloto podría confundir una apertura no intencional de los {term-airbrake}s con una falla del torno si el piloto no nota los {term-airbrake}s abriéndose. El piloto debe verificar rápidamente el estado de los {term-airbrake}s si el rendimiento parece degradado durante el remolque.
 
-El gradiente de viento (un aumento súbito en la velocidad del viento con la altura) puede tener un efecto notable en los lanzamientos terrestres. Un gradiente de viento significativo o súbito puede aumentar la velocidad aerodinámica indicada y exceder la velocidad máxima de remolque terrestre. <<fig-8-9>> Al encontrar un gradiente de viento, el piloto debe empujar hacia adelante en la palanca para reducir la tensión en el {term-tow-rope}, lo que reduce la velocidad aerodinámica indicada. La única manera de que el {term-glider} reanude el ascenso sin exceder la velocidad aerodinámica máxima de lanzamiento terrestre implica señalar al operador de lanzamiento para reducir la velocidad de remolque. Después de la reducción de la velocidad de remolque, el piloto puede reanudar el ascenso normal. Si se lanza usando un torno con control de tensión automático, el piloto del {term-glider} usa cambios de cabeceo convencionales para controlar la velocidad aerodinámica y asciende a una tasa más alta si la velocidad del viento aumenta en un gradiente.
+El gradiente de viento (un aumento súbito en la velocidad del viento con la altura) puede tener un efecto notable en los lanzamientos terrestres. Un gradiente de viento significativo o súbito puede aumentar la velocidad aerodinámica indicada y exceder la velocidad máxima de remolque terrestre. <<fig-08-09>> Al encontrar un gradiente de viento, el piloto debe empujar hacia adelante en la palanca para reducir la tensión en el {term-tow-rope}, lo que reduce la velocidad aerodinámica indicada. La única manera de que el {term-glider} reanude el ascenso sin exceder la velocidad aerodinámica máxima de lanzamiento terrestre implica señalar al operador de lanzamiento para reducir la velocidad de remolque. Después de la reducción de la velocidad de remolque, el piloto puede reanudar el ascenso normal. Si se lanza usando un torno con control de tensión automático, el piloto del {term-glider} usa cambios de cabeceo convencionales para controlar la velocidad aerodinámica y asciende a una tasa más alta si la velocidad del viento aumenta en un gradiente.
 
 
 [[fig-08-09]]
@@ -155,7 +155,7 @@ image::08/fig-08-09.ground-lanzamiento-viento-gradiente.png[width=600]
 
 === Procedimientos de Emergencia
 
-Un {term-tow-rope} roto puede causar una emergencia durante un lanzamiento terrestre. <<fig-8-10>> Cuando ocurre una falla del {term-tow-rope}, el piloto del {term-glider} debe tirar de la palanca de liberación, bajar inmediatamente la nariz del {term-glider}, y mantener una velocidad aerodinámica segura. Las características distintivas del lanzamiento terrestre incluyen actitud de cabeceo alta de nariz y una altitud relativamente baja por una porción significativa del lanzamiento y ascenso. Si ocurre una rotura del {term-tow-rope} y el piloto del {term-glider} no responde prontamente, la actitud de nariz alta del {term-glider} puede resultar en una {term-stall}.
+Un {term-tow-rope} roto puede causar una emergencia durante un lanzamiento terrestre. <<fig-08-10>> Cuando ocurre una falla del {term-tow-rope}, el piloto del {term-glider} debe tirar de la palanca de liberación, bajar inmediatamente la nariz del {term-glider}, y mantener una velocidad aerodinámica segura. Las características distintivas del lanzamiento terrestre incluyen actitud de cabeceo alta de nariz y una altitud relativamente baja por una porción significativa del lanzamiento y ascenso. Si ocurre una rotura del {term-tow-rope} y el piloto del {term-glider} no responde prontamente, la actitud de nariz alta del {term-glider} puede resultar en una {term-stall}.
 
 [[fig-08-10]]
 .Rotura de cable de remolque en lanzamiento terrestre.
@@ -185,7 +185,7 @@ Errores comunes durante las caídas en espiral incluyen:
 
 == {term-spin}s
 
-Durante una {term-spin}, el {term-glider} sigue una trayectoria de tornillo hacia abajo. Una entrada en {term-spin} puede ocurrir después de una {term-stall} agravada de una o ambas {term-wing}s que resulta en rotación alrededor del eje vertical. A medida que el {term-glider} rota alrededor del eje vertical, el {term-wing} exterior desarrolla más {term-lift-force} y menos arrastre que el {term-wing} interior en {term-stall}, creando un movimiento de balanceo, guiñada y cabeceo. <<fig-8-11>> El piloto puede no darse cuenta de que el {term-aoa} crítico ha sido excedido hasta que el {term-glider} guiña hacia el {term-wing} bajante.
+Durante una {term-spin}, el {term-glider} sigue una trayectoria de tornillo hacia abajo. Una entrada en {term-spin} puede ocurrir después de una {term-stall} agravada de una o ambas {term-wing}s que resulta en rotación alrededor del eje vertical. A medida que el {term-glider} rota alrededor del eje vertical, el {term-wing} exterior desarrolla más {term-lift-force} y menos arrastre que el {term-wing} interior en {term-stall}, creando un movimiento de balanceo, guiñada y cabeceo. <<fig-08-11>> El piloto puede no darse cuenta de que el {term-aoa} crítico ha sido excedido hasta que el {term-glider} guiña hacia el {term-wing} bajante.
 
 [[fig-08-11]]
 .Autorrotación del planeador en barrena.
@@ -315,7 +315,7 @@ El procedimiento de {term-approach} recomendado debe incluir los siguientes tram
 
 • {term-approach} final
 
-Este procedimiento de {term-approach} proporciona la oportunidad de ver el área de {term-landing} prevista desde todos los lados. Los pilotos deben usar cada oportunidad mientras vuelan un {term-approach} fuera de campo para inspeccionar el área de {term-landing} y buscar obstáculos u otros peligros. <<fig-8-12>>
+Este procedimiento de {term-approach} proporciona la oportunidad de ver el área de {term-landing} prevista desde todos los lados. Los pilotos deben usar cada oportunidad mientras vuelan un {term-approach} fuera de campo para inspeccionar el área de {term-landing} y buscar obstáculos u otros peligros. <<fig-08-12>>
 
 [[fig-08-12]]
 .Aproximación de aterrizaje fuera de campo.
@@ -551,7 +551,7 @@ El vuelo de noche aumenta el riesgo de accidente. Si una falla del sistema eléc
 
 El piloto no debe reiniciar ningún disyuntor si está presente humo o el olor de humo como se recomienda en CE-10-11R1, Boletín Informativo de Aeronavegabilidad Especial, fechado 14 de enero de 2010, disponible para descarga en el sitio web DRS de la FAA.
 
-Reiniciar un disyuntor en vuelo puede aumentar el riesgo de una sobrecarga eléctrica e incendio. <<fig-8-13>> Si el humo eléctrico llena la cabina, el piloto debe considerar ventilar la cabina e ir directamente al aeropuerto adecuado más cercano y aterrizar. El transceptor de aviación instalado en el panel de instrumentos puede no funcionar, pero el piloto puede usar una radio portátil de aviación de dos vías operada por batería si está disponible. El piloto también puede recibir instrucciones de {term-landing} a través de señales luminosas de control de tráfico aéreo (ATC). El piloto debe revisar 14 CFR parte 91, sección 125, y el Manual de Información Aeronáutica (AIM) sección 4-2-13, Señales Luminosas de Control de Tráfico.
+Reiniciar un disyuntor en vuelo puede aumentar el riesgo de una sobrecarga eléctrica e incendio. <<fig-08-13>> Si el humo eléctrico llena la cabina, el piloto debe considerar ventilar la cabina e ir directamente al aeropuerto adecuado más cercano y aterrizar. El transceptor de aviación instalado en el panel de instrumentos puede no funcionar, pero el piloto puede usar una radio portátil de aviación de dos vías operada por batería si está disponible. El piloto también puede recibir instrucciones de {term-landing} a través de señales luminosas de control de tráfico aéreo (ATC). El piloto debe revisar 14 CFR parte 91, sección 125, y el Manual de Información Aeronáutica (AIM) sección 4-2-13, Señales Luminosas de Control de Tráfico.
 
 [[fig-08-13]]
 .Disyuntores del planeador autolanzable.

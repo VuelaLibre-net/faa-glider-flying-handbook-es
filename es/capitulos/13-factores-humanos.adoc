@@ -5,7 +5,7 @@
 
 == Introducción
 
-El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-1>> Al referirse a factores humanos, los ingenieros a veces se refieren a las 3Ds: diseño, desarrollo y despliegue de sistemas que mejoran la interfaz sistema/humano. El estudio de los factores humanos también involucra entender y prevenir errores humanos que los ingenieros no pueden prevenir usando las 3Ds. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, temas fisiológicos relacionados con la seguridad de la vela, manejo del piloto de un {term-glider} y sus sistemas, y toma de decisiones del piloto como un proceso que puede mitigar el riesgo de vuelo de {term-glider} y prevenir muchos tipos comunes de accidentes. Para más información sobre factores humanos y riesgo, ver el Manual de Gestión de Riesgo (FAA-H-8083-2) o el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25).
+El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-01>> Al referirse a factores humanos, los ingenieros a veces se refieren a las 3Ds: diseño, desarrollo y despliegue de sistemas que mejoran la interfaz sistema/humano. El estudio de los factores humanos también involucra entender y prevenir errores humanos que los ingenieros no pueden prevenir usando las 3Ds. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, temas fisiológicos relacionados con la seguridad de la vela, manejo del piloto de un {term-glider} y sus sistemas, y toma de decisiones del piloto como un proceso que puede mitigar el riesgo de vuelo de {term-glider} y prevenir muchos tipos comunes de accidentes. Para más información sobre factores humanos y riesgo, ver el Manual de Gestión de Riesgo (FAA-H-8083-2) o el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25).
 
 
 [[fig-13-01]]
@@ -58,16 +58,22 @@ Si un piloto sabiamente hace algo mal, ese piloto se desvió intencionalmente de
 
 ==== Factores Fisiológicos/Médicos que Afectan el Rendimiento del Piloto
 
-== Fatiga
+=== Fatiga
 
-La fatiga involucra una reducción o deterioro en cualquiera de los siguientes: capacidad cognitiva, toma de decisiones, tiempo de reacción, coordinación, velocidad, fuerza y balance. La fatiga reduce el estado de alerta y a menudo reduce la capacidad de una persona para enfocar y mantener la atención en una tarea. <<fig-13-2>> Existe fatiga emocional y puede afectar el rendimiento mental y físico. La falta de sueño, el estrés y el exceso de trabajo pueden causar o agravar la fatiga.
+La fatiga involucra una reducción o deterioro en cualquiera de los siguientes: capacidad cognitiva, toma de decisiones, tiempo de reacción, coordinación, velocidad, fuerza y balance. La fatiga reduce el estado de alerta y a menudo reduce la capacidad de una persona para enfocar y mantener la atención en una tarea. <<fig-13-02>> Existe fatiga emocional y puede afectar el rendimiento mental y físico. La falta de sueño, el estrés y el exceso de trabajo pueden causar o agravar la fatiga.
+
+==== Indicadores de fatiga
+
+Dolor, mala concentración, estado de ánimo irritable, pérdida de motivación, pérdida de placer, ataques de pánico, comportamiento evitativo, diarrea/estreñimiento, dolor abdominal, mialgia/artralgia.
+
+==== Estados de fatiga
 
 
 [[fig-13-02]]
 .Muestra de factores que interactúan con la fatiga.
 image::13/fig-13-02.sampling-of-factors-that-interact-with-fatiga.png[width=600]
 
-El estado mental y físico de una persona naturalmente cicla a través de varios niveles de rendimiento cada día. Variables como temperatura corporal, presión arterial, frecuencia cardíaca, química sanguínea, estado de alerta y atención suben y caen en un patrón diario conocido como ritmo circadiano. <<fig-13-3>> La capacidad de una persona para trabajar y descansar sube y cae durante este ciclo. La actividad contraria al ritmo circadiano de una persona puede causar dificultades sutiles y fatiga. Una persona afectada podría no reconocer esta situación. Dado que otra persona podría alertar a un piloto sobre los signos de fatiga, volar un {term-glider} solo cuando se está fatigado crea una situación particularmente peligrosa. Por ejemplo, un piloto de {term-glider} fatigado podría no ver y evitar activamente otro tráfico. Los pilotos deben evitar volar cuando no han tenido un descanso completo de noche, después de trabajar horas excesivas, o después de un día especialmente agotador o estresante.
+El estado mental y físico de una persona naturalmente cicla a través de varios niveles de rendimiento cada día. Variables como temperatura corporal, presión arterial, frecuencia cardíaca, química sanguínea, estado de alerta y atención suben y caen en un patrón diario conocido como ritmo circadiano. <<fig-13-03>> La capacidad de una persona para trabajar y descansar sube y cae durante este ciclo. La actividad contraria al ritmo circadiano de una persona puede causar dificultades sutiles y fatiga. Una persona afectada podría no reconocer esta situación. Dado que otra persona podría alertar a un piloto sobre los signos de fatiga, volar un {term-glider} solo cuando se está fatigado crea una situación particularmente peligrosa. Por ejemplo, un piloto de {term-glider} fatigado podría no ver y evitar activamente otro tráfico. Los pilotos deben evitar volar cuando no han tenido un descanso completo de noche, después de trabajar horas excesivas, o después de un día especialmente agotador o estresante.
 
 [[fig-13-03]]
 .Muchos factores de rendimiento humano suben y caen diariamente.
@@ -75,7 +81,7 @@ image::13/fig-13-03.many-human-performance-factors-rise-and-fall-daily.png[width
 
 El mejor remedio para la fatiga involucra dormir lo suficiente regularmente. Los pilotos deben rastrear sus horas y calidad de sueño para conciencia de fatiga. Las contramedidas a la fatiga como la cafeína, pueden funcionar por una corta duración, pero muchas contramedidas pueden empeorar la fatiga a largo plazo. Los pilotos deben ejercer precaución si usan medicación para combatir la fatiga ya que una persona fatigada puede tener dificultades para descansar después de usar medicación. Un piloto experimentando problemas continuos de fatiga o fatiga crónica, debe dejar de volar un {term-glider}, consultar a un médico, y resolver el problema antes de volar de nuevo.
 
-== Hiperventilación
+=== Hiperventilación
 
 La hiperventilación resulta cuando una persona respira a una tasa aumentada o respira más profundamente, lo que reduce el nivel de dióxido de carbono en la sangre. El dióxido de carbono reducido en la sangre puede elevar el pH sanguíneo y llevar a efectos de salud no deseados.
 
@@ -88,23 +94,23 @@ La Figura 13-4 lista los síntomas comunes de hiperventilación. El tratamiento 
 .Síntomas comunes de hiperventilación.
 image::13/fig-13-04.common-symptoms-of-hyperventilation.png[width=600]
 
-== Hipoxia
+=== Hipoxia
 
 La hipoxia resulta del oxígeno reducido o no suficiente oxígeno. Aunque el tejido celular humano morirá si se le priva de oxígeno por suficiente tiempo, la preocupación principal para los pilotos es la falta de oxígeno al cerebro, que puede reducir la capacidad cognitiva y resultar en errores que amenazan la vida. La hipoxia tiene varios factores causales, incluyendo un suministro insuficiente de oxígeno, transporte inadecuado de oxígeno, o la incapacidad de los tejidos corporales para usar el oxígeno. Las formas de hipoxia se basan en sus causas:
 
-==== Hipoxia Hipóxica
+==== Hipoxia hipóxica
 
 La hipoxia hipóxica resulta del oxígeno insuficiente disponible para el cuerpo en general. La reducción en la presión parcial de oxígeno a gran altitud puede hacer que un piloto experimente este tipo de hipoxia. A medida que una aeronave no presurizada asciende durante el vuelo, el porcentaje de oxígeno atmosférico permanece constante, pero un número reducido de moléculas de oxígeno entran a los pulmones y pasan entre las membranas dentro del sistema respiratorio.
 
-==== Hipoxia Hiperémica
+==== Hipoxia hiperémica
 
 La hipoxia hiperémica ocurre cuando la sangre no puede captar suficiente oxígeno. Las causas de esta forma de hipoxia incluyen volumen sanguíneo reducido por sangrado severo o ciertas enfermedades de la sangre, como anemia. El envenenamiento por monóxido de carbono causa este tipo de hipoxia. La hemoglobina, la molécula de sangre que transporta oxígeno, se vuelve químicamente incapaz de unir moléculas de oxígeno si se expone al monóxido de carbono. La hipoxia hiperémica también puede ocurrir después de una donación de sangre. Mientras que el volumen sanguíneo se normaliza rápidamente después de una donación, restaurar la hemoglobina perdida puede tomar varias semanas. Aunque los efectos de la {term-stall} de sangre parecen leves al nivel del suelo, la donación de sangre puede crear un riesgo de vuelo durante el período de recuperación.
 
-==== Hipoxia Estancada
+==== Hipoxia estancada
 
 La hipoxia estancada o isquemia resulta cuando la sangre rica en oxígeno en los pulmones no se mueve a los tejidos que lo necesitan. Un brazo o pierna durmiéndose debido al flujo sanguíneo restringido es una forma de hipoxia estancada. Este tipo de hipoxia también puede resultar de choque, el corazón fallando en bombear sangre efectivamente, o una arteria constreñida. Durante el vuelo, las fuerzas G excesivas pueden causar hipoxia estancada. Las temperaturas frías también pueden reducir la circulación y disminuir el suministro de sangre a las extremidades.
 
-==== Hipoxia Histotóxica
+==== Hipoxia histotóxica
 
 Cuando ocurre la hipoxia histotóxica, el cuerpo transporta suficiente oxígeno a las células, pero no pueden hacer uso de él. Este deterioro de la respiración a nivel celular puede resultar del consumo de alcohol, exposición a ciertas drogas o narcóticos, o exposición a venenos.
 
@@ -130,20 +136,20 @@ A medida que empeora la hipoxia, el campo de visión del piloto comienza a estre
 
 ==== Tratamiento de la Hipoxia
 
-El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que aumenta la altitud por encima de 10,000 pies, los síntomas de la hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-5>>
+El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que aumenta la altitud por encima de 10,000 pies, los síntomas de la hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
 
 
 [[fig-13-05]]
 .Tiempo de conciencia útil.
 image::13/fig-13-05.time-of-useful-consciousness.png[width=600]
 
-Dado que los individuos experimentan la hipoxia de manera diferente, experimentar los efectos de la hipoxia en una cámara de altitud <<fig-13-6>> puede mejorar el reconocimiento de los propios síntomas de un individuo. La Administración Federal de Aviación (FAA) proporciona esta oportunidad a través de entrenamiento de fisiología de aviación, que ocurre en el Instituto de Medicina Aeroespacial Civil (CAMI) de la FAA en Oklahoma City, Oklahoma, y en muchas instalaciones militares a través de Estados Unidos. Para información sobre el curso de entrenamiento fisiológico de un día de la FAA con demostraciones de cámara de altitud y vértigo, visite el sitio web de la FAA.
+Dado que los individuos experimentan la hipoxia de manera diferente, experimentar los efectos de la hipoxia en una cámara de altitud <<fig-13-06>> puede mejorar el reconocimiento de los propios síntomas de un individuo. La Administración Federal de Aviación (FAA) proporciona esta oportunidad a través de entrenamiento de fisiología de aviación, que ocurre en el Instituto de Medicina Aeroespacial Civil (CAMI) de la FAA en Oklahoma City, Oklahoma, y en muchas instalaciones militares a través de Estados Unidos. Para información sobre el curso de entrenamiento fisiológico de un día de la FAA con demostraciones de cámara de altitud y vértigo, visite el sitio web de la FAA.
 
 [[fig-13-06]]
 .Cámara de altitud CAMI.
 image::13/fig-13-06.cami-altitud-chamber.png[width=600]
 
-== Malestar del Oído Interno
+=== Malestar del Oído Interno
 
 La presión interna de la cavidad del oído medio cambia más lentamente que la presión fuera del oído. Una diferencia de presión puede desarrollarse durante un ascenso o descenso, lo que puede resultar en {term-stall} auditiva temporal, malestar, dolor y distracción de las tareas de vuelo.
 
@@ -151,15 +157,15 @@ Cuando un {term-glider} asciende, la presión del aire del oído medio puede exc
 
 El malestar durante un descenso termina cuando suficiente aire fluye hacia el oído medio a través de la trompa de Eustaquio. Sin embargo, la presión más baja en el oído medio tiende a constreñir las paredes de la trompa de Eustaquio y prevenir el flujo de aire al oído medio. Un piloto puede intentar la maniobra de Valsalva para corregir esta situación. El piloto debe pellizcar las fosas nasales, cerrar la boca y labios, y soplar lentamente y suavemente en la boca y nariz para forzar aire hacia arriba por la trompa de Eustaquio hacia el oído medio.
 
-== Buceo con Tanque
+=== Buceo con Tanque
 
 El buceo con tanque somete al cuerpo a presión aumentada, que disuelve más nitrógeno en los tejidos y fluidos corporales. La reducción de presión atmosférica que acompaña al volar puede producir problemas físicos para los buzos con tanque cuando pequeñas burbujas de nitrógeno se forman dentro del cuerpo a medida que el gas sale de solución. Estas burbujas pueden causar una condición dolorosa y potencialmente incapacitante llamada enfermedad por descompresión (bends).
 
 El entrenamiento de buceo enfatiza cómo prevenir la enfermedad por descompresión al subir a la superficie de un cuerpo de agua. Sin embargo, el nitrógeno en exceso puede permanecer en los fluidos tisulares por varias horas después de terminar un buceo. Un piloto que bucea con tanque puede experimentar la enfermedad por descompresión desde tan bajo como 8,000 pies MSL, con severidad creciente a medida que aumenta la altitud. Como se indica en el Manual de Información Aeronáutica (AIM), el tiempo mínimo recomendado entre buceo con tanque sin paradas de descompresión y volar es de 12 horas, mientras que el tiempo mínimo recomendado entre buceo con paradas de descompresión y volar es de 24 horas.
 
-== Desorientación Espacial
+=== Desorientación Espacial
 
-La mayoría de los {term-glider}es usados para entrenamiento primario tienen instrumentación básica solo, y los pilotos de {term-glider} normalmente no entrenan para vuelo solo por referencia a instrumentos. Los pilotos de {term-glider} deben evitar el vuelo en visibilidad baja o en cualquier condición que haga difícil discernir el horizonte. Estas condiciones aumentan la probabilidad de que el piloto sucumba a una ilusión y experimente una {term-stall} de control. <<fig-13-7>> Los pilotos de {term-glider} que vuelan en visibilidad marginal deben establecer y acatar mínimos personales para visibilidad.
+La mayoría de los {term-glider}es usados para entrenamiento primario tienen instrumentación básica solo, y los pilotos de {term-glider} normalmente no entrenan para vuelo solo por referencia a instrumentos. Los pilotos de {term-glider} deben evitar el vuelo en visibilidad baja o en cualquier condición que haga difícil discernir el horizonte. Estas condiciones aumentan la probabilidad de que el piloto sucumba a una ilusión y experimente una {term-stall} de control. <<fig-13-07>> Los pilotos de {term-glider} que vuelan en visibilidad marginal deben establecer y acatar mínimos personales para visibilidad.
 
 [[fig-13-07]]
 .Volar en bruma u otras restricciones a la visibilidad aumenta la probabilidad de desorientación espacial.
@@ -167,9 +173,9 @@ image::13/fig-13-07.flying-in-haze-or-other-restrictions-to.png[width=600]
 
 El vuelo en un {term-glider} con motor puede ocurrir de noche o en condiciones instrumentales siempre que el {term-glider} cumpla con los requisitos del 14 CFR parte 91, sección 91.205, y el piloto cumpla con los requisitos aplicables del 14 CFR parte 61, sección 61.57. Los pilotos tienen menos señales visuales disponibles para juzgar la actitud de vuelo de noche o en condiciones instrumentales. Ambos regímenes presentan potencial adicional para ilusiones, errores de navegación, colisiones y {term-stall} de control. Además, cualquier emergencia de noche se vuelve mucho más difícil de manejar. Los pilotos de {term-glider} que vuelan en estas condiciones normalmente tienen calificaciones en otras categorías de aeronaves que incluyen entrenamiento y pruebas para condiciones nocturnas o instrumentales. Un piloto de {term-glider} sin entrenamiento adicional, certificación, recencia y pericia debe evitar operaciones nocturnas o instrumentales.
 
-== Deshidratación
+=== Deshidratación
 
-Los pilotos de {term-glider} a menudo vuelan por períodos largos de tiempo en temperaturas de verano calientes o a altas altitudes que pueden causar deshidratación. Aunque los efectos de la deshidratación pueden desarrollarse lentamente, la {term-stall} de fluido por la transpiración y la respiración puede resultar en fatiga y progresar a mareo, debilidad, náuseas, hormigueo de manos y pies, calambres abdominales y sed extrema. <<fig-13-8>>
+Los pilotos de {term-glider} a menudo vuelan por períodos largos de tiempo en temperaturas de verano calientes o a altas altitudes que pueden causar deshidratación. Aunque los efectos de la deshidratación pueden desarrollarse lentamente, la {term-stall} de fluido por la transpiración y la respiración puede resultar en fatiga y progresar a mareo, debilidad, náuseas, hormigueo de manos y pies, calambres abdominales y sed extrema. <<fig-13-08>>
 
 
 [[fig-13-08]]
@@ -178,11 +184,11 @@ image::13/fig-13-08.symptoms-of-dehydration.png[width=600]
 
 Los pilotos deben llevar agua en cada vuelo para prevenir la deshidratación. Algunos pilotos de {term-glider} usan un sombrero con {term-wing} para sombra y para mantener la cabeza fresca. Los pilotos deben asegurar que el {term-wing} del sombrero no interfiera con la capacidad de escanear por otros {term-glider}es y tráfico aéreo.
 
-== Golpe de Calor
+=== Golpe de Calor
 
 El golpe de calor resulta cuando el cuerpo no puede controlar la temperatura excesivamente alta. El inicio de esta condición puede imitar la deshidratación, pero también puede llevar a colapso. Para prevenir estos síntomas, el piloto debe llevar un suministro amplio de agua y usarlo a intervalos frecuentes en cualquier vuelo largo, incluso si no tiene sed. Usar ropa de colores claros y porosa y un sombrero proporciona protección del sol. Ventilar la cabina también ayuda a remover el exceso de calor.
 
-== Clima Frío
+=== Clima Frío
 
 Prepararse para el frío extremo puede parecer extraño cuando existen temperaturas cómodas a nivel del suelo en días de vela de onda. Sin embargo, cuando se vuela a altas altitudes, el interior del {term-glider} puede ponerse frío. Un {term-glider} a gran altitud puede encontrar temperaturas de -30° a -60 °C. Cuando se vuela en vela, el sol a través de la cúpula puede mantener la parte superior del cuerpo del piloto caliente por un tiempo, pero las piernas y pies a la sombra pueden enfriarse rápidamente o sufrir congelación. Después de una o dos horas a tales temperaturas, incluso la parte superior del cuerpo puede volverse bastante fría. La ropa en capas, holgada ayuda a aislar el calor corporal. Ya sea guantes de lana o guantes ajustados con manoplas sobre ellos pueden proteger las manos. Dos o tres pares de calcetines en capas con seda en el interior y lana en el exterior más una bota aislada pueden ayudar a mantener los pies cómodos. Los fabricantes de ropa producen ropa y calcetines con elementos de calefacción internos y baterías de litio recargables que el piloto puede encender y regular. Estos hacen una gran adición al guardarropa de un piloto de {term-glider}.
 
@@ -222,7 +228,7 @@ Un sistema de oxígeno de aviación portátil entrega oxígeno usando componente
 
 ==== Sistema de Flujo Continuo
 
-El sistema de flujo continuo usa un tanque de almacenamiento de alta presión y una válvula reguladora reductora de presión que reduce la presión en el cilindro a aproximadamente la presión atmosférica en la máscara. <<fig-13-9>> El oxígeno fluye continuamente cuando el sistema está encendido siempre que la botella contenga oxígeno suficiente. En algunas instalaciones, el piloto puede ajustar manualmente la cantidad de flujo de oxígeno para altitudes bajas, intermedias y altas; los reguladores automáticos ajustan el flujo de oxígeno por medio de un fuelle, que varía el flujo según la altitud. Al usar el sistema de oxígeno de flujo continuo, el piloto puede usar ya sea una máscara de oxígeno o una cánula nasal. [Figuras 13-10 y 13-11]
+El sistema de flujo continuo usa un tanque de almacenamiento de alta presión y una válvula reguladora reductora de presión que reduce la presión en el cilindro a aproximadamente la presión atmosférica en la máscara. <<fig-13-09>> El oxígeno fluye continuamente cuando el sistema está encendido siempre que la botella contenga oxígeno suficiente. En algunas instalaciones, el piloto puede ajustar manualmente la cantidad de flujo de oxígeno para altitudes bajas, intermedias y altas; los reguladores automáticos ajustan el flujo de oxígeno por medio de un fuelle, que varía el flujo según la altitud. Al usar el sistema de oxígeno de flujo continuo, el piloto puede usar ya sea una máscara de oxígeno o una cánula nasal. [Figuras 13-10 y 13-11]
 
 [[fig-13-09]]
 .Sistema de oxígeno de flujo continuo.

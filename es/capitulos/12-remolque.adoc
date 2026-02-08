@@ -5,7 +5,7 @@
 
 == Introducción
 
-Los pilotos de {term-glider} en Estados Unidos comúnmente despegan usando un {term-aerotow}. <<fig-12-1>> Un {term-aerotow} toma tiempo pero puede ofrecer flexibilidad con respecto a energía, ubicación y altitud. El Capítulo 7: Lanzamiento, Maniobras de Vuelo, {term-landing}s y Procedimientos de Recuperación presenta información desde la perspectiva del piloto de {term-glider}. Este capítulo proporciona gran parte de la misma información pero desde la perspectiva del piloto remolcador.
+Los pilotos de {term-glider} en Estados Unidos comúnmente despegan usando un {term-aerotow}. <<fig-12-01>> Un {term-aerotow} toma tiempo pero puede ofrecer flexibilidad con respecto a energía, ubicación y altitud. El Capítulo 7: Lanzamiento, Maniobras de Vuelo, {term-landing}s y Procedimientos de Recuperación presenta información desde la perspectiva del piloto de {term-glider}. Este capítulo proporciona gran parte de la misma información pero desde la perspectiva del piloto remolcador.
 
 [[fig-12-01]]
 .Los planeadores comúnmente usan aviones remolcadores para despegar y ganar altitud.
@@ -23,7 +23,7 @@ Si bien todos los pilotos siguen el Título 14 del Código de Regulaciones Feder
 
 == Inspecciones de Equipo y Verificaciones Operacionales
 
-El equipo del {term-towplane} en Estados Unidos típicamente usa uno de dos tipos de ganchos de remolque: Tost o Schweizer. <<fig-12-2>> El piloto remolcador debe inspeccionar el gancho de remolque para asegurar su operación adecuada diariamente y antes de cualquier actividad de remolque.
+El equipo del {term-towplane} en Estados Unidos típicamente usa uno de dos tipos de ganchos de remolque: Tost o Schweizer. <<fig-12-02>> El piloto remolcador debe inspeccionar el gancho de remolque para asegurar su operación adecuada diariamente y antes de cualquier actividad de remolque.
 
 === Gancho de Remolque
 
@@ -61,7 +61,7 @@ Las siguientes verificaciones funcionales deben realizarse:
 
 === Inspección del Anillo de Remolque
 
-La inspección del anillo de remolque comienza con una revisión de desgaste. Los pilotos remolcadores deben sacar los anillos de servicio si tienen rasguños o abolladuras. El diseño del anillo de remolque corresponde al tipo de conjunto de enganche de remolque: Schweizer o Tost. <<fig-12-3>> El anillo de remolque Schweizer usa un solo anillo de acero de alta calidad de dos pulgadas de diámetro de un cuarto de pulgada de espesor inspeccionado por partículas magnéticas con buena soldadura. El anillo de remolque Tost consiste en un par de anillos interconectados hechos de acero de alta calidad.
+La inspección del anillo de remolque comienza con una revisión de desgaste. Los pilotos remolcadores deben sacar los anillos de servicio si tienen rasguños o abolladuras. El diseño del anillo de remolque corresponde al tipo de conjunto de enganche de remolque: Schweizer o Tost. <<fig-12-03>> El anillo de remolque Schweizer usa un solo anillo de acero de alta calidad de dos pulgadas de diámetro de un cuarto de pulgada de espesor inspeccionado por partículas magnéticas con buena soldadura. El anillo de remolque Tost consiste en un par de anillos interconectados hechos de acero de alta calidad.
 
 [[fig-12-03]]
 .Anillo de remolque Schweizer y anillo de remolque Tost.
@@ -77,7 +77,7 @@ La {term-density-altitude} afecta el rendimiento del avión. Un aumento en la te
 
 === Informe de Aborto
 
-Usando los datos de {term-takeoff} computados o el punto de {term-takeoff} real para las condiciones dadas, el piloto remolcador debe elegir un punto de aborto físico en la pista <<fig-12-4>> e informar al piloto de {term-glider} sobre el punto de aborto y los procedimientos de aborto. Si el {term-towplane} no está en el aire en el punto de aborto elegido, el {term-glider} debe soltar, o ser soltado, permitiendo al {term-towplane} lograr un {term-takeoff} normal.
+Usando los datos de {term-takeoff} computados o el punto de {term-takeoff} real para las condiciones dadas, el piloto remolcador debe elegir un punto de aborto físico en la pista <<fig-12-04>> e informar al piloto de {term-glider} sobre el punto de aborto y los procedimientos de aborto. Si el {term-towplane} no está en el aire en el punto de aborto elegido, el {term-glider} debe soltar, o ser soltado, permitiendo al {term-towplane} lograr un {term-takeoff} normal.
 
 [[fig-12-04]]
 .Se debe determinar un punto de aborto físico en la pista e informar al piloto de planeador antes de comenzar los procedimientos de remolque.
@@ -97,7 +97,7 @@ En la mayoría de los casos, los pilotos remolcadores usan las Señales Estánda
 
 Cuando esté listo para el {term-takeoff} y si es aplicable, el piloto remolcador debe transmitir el comienzo de un lanzamiento de {term-glider}. Por ejemplo, "Tráfico Tallahassee, N12345 despegando Pista 33, {term-glider} en remolque, Tallahassee." El 14 CFR parte 91, sección 91.309(a)(4) establece, "Antes de realizar cualquier operación de remolque dentro de los límites laterales de las áreas de superficie del espacio aéreo Clase B, Clase C, Clase D, o espacio aéreo Clase E designado para un aeropuerto, o antes de realizar cada vuelo de remolque dentro de tal espacio aéreo controlado si es requerido por ATC, el piloto al mando notifica a la torre de control. Si no existe una torre de control o no está en operación, el piloto al mando debe notificar a la estación de servicio de vuelo de la FAA que sirve a ese espacio aéreo controlado antes de realizar cualquier operación de remolque en ese espacio aéreo;"
 
-En el {term-takeoff}, el piloto remolcador avanza el acelerador suave y rápidamente en un solo movimiento. <<fig-12-5>> Si el {term-towplane} acelera y luego frena, el {term-glider} podría rebasar el {term-tow-rope} y enganchar el cable en el tren de {term-landing}. El piloto de {term-glider} podría no tener capacidad de suelta si eso ocurre.
+En el {term-takeoff}, el piloto remolcador avanza el acelerador suave y rápidamente en un solo movimiento. <<fig-12-05>> Si el {term-towplane} acelera y luego frena, el {term-glider} podría rebasar el {term-tow-rope} y enganchar el cable en el tren de {term-landing}. El piloto de {term-glider} podría no tener capacidad de suelta si eso ocurre.
 
 [[fig-12-05]]
 .El piloto remolcador avanza el acelerador suave y rápidamente en un solo movimiento para que el planeador no rebase el cable de remolque.
@@ -119,7 +119,7 @@ El {term-glider} normalmente se elevará primero. El piloto remolcador debe espe
 
 Después del {term-takeoff}, el piloto remolcador debe encabritar para establecer un ascenso a velocidad constante y esperar que el piloto de {term-glider} establezca una posición directamente detrás del {term-towplane}. Al alcanzar una altitud segura, el piloto remolcador puede iniciar un viraje para mantener la trayectoria de salida deseada usando ángulos de alabeo limitados a 15°–20°.
 
-El piloto remolcador asciende a plena potencia a menos que el POH requiera otra cosa. La mezcla combustible/aire debe ser ajustada de acuerdo con el POH para máxima potencia. Cada modelo específico de {term-glider} tiene una velocidad máxima de {term-aerotow} publicada, y el piloto remolcador debe conocer esta velocidad, que puede estar muy cerca de la velocidad mínima segura del {term-towplane}. <<fig-12-6>>
+El piloto remolcador asciende a plena potencia a menos que el POH requiera otra cosa. La mezcla combustible/aire debe ser ajustada de acuerdo con el POH para máxima potencia. Cada modelo específico de {term-glider} tiene una velocidad máxima de {term-aerotow} publicada, y el piloto remolcador debe conocer esta velocidad, que puede estar muy cerca de la velocidad mínima segura del {term-towplane}. <<fig-12-06>>
 
 [[fig-12-06]]
 .Velocidades máximas de remolque aéreo de muestra.
@@ -137,7 +137,7 @@ Durante el remolque, un instructor de {term-glider} puede demostrar y enseñar p
 
 === Posiciones de Remolque del {term-glider}
 
-Las operaciones de remolque de {term-glider} normalmente usan la posición de remolque alto. Sin embargo, el piloto del {term-glider} podría usar una posición de remolque bajo en algunos casos como un remolque de travesía. Cualquiera de las posiciones coloca al {term-glider} fuera de la estela del {term-towplane}. <<fig-12-7>>
+Las operaciones de remolque de {term-glider} normalmente usan la posición de remolque alto. Sin embargo, el piloto del {term-glider} podría usar una posición de remolque bajo en algunos casos como un remolque de travesía. Cualquiera de las posiciones coloca al {term-glider} fuera de la estela del {term-towplane}. <<fig-12-07>>
 
 [[fig-12-07]]
 .Ascenso en remolque aéreo.
@@ -153,7 +153,7 @@ Al aproximarse a una {term-thermal} y planear una suelta, ambos pilotos deben bu
 
 Los vientos en altura deben evaluarse continuamente para ayudar a determinar el área de suelta del {term-glider}, y el piloto remolcador siempre debe intentar soltar al {term-glider} dentro de la distancia de planeo del aeropuerto considerando los vientos. El piloto remolcador debe discutir el punto de suelta planeado con el piloto del {term-glider}. El uso de un patrón de remolque consistente permite al piloto del {term-glider} planificar un punto de suelta.
 
-Los procedimientos estándar de suelta del {term-glider} incluyen <<fig-12-8>>:
+Los procedimientos estándar de suelta del {term-glider} incluyen <<fig-12-08>>:
 
 1. Algo de tensión en el {term-tow-rope} antes de la suelta permite al piloto remolcador sentir la suelta del {term-glider}. Un piloto remolcador mirando en el espejo puede ver una arruga en el {term-tow-rope} después de que el {term-glider} suelta.
 
@@ -201,7 +201,7 @@ image::12/fig-12-09.on-a-travesia-remolque-the-remolque-piloto-and.png[width=600
 
 Dado que puede ocurrir una rotura del {term-tow-rope} sin aviso, el piloto remolcador debe planificar la ruta sobre terreno adecuado para un {term-landing} de {term-glider}. El piloto remolcador debe considerar la preparación física y mental de ambos pilotos para hacer el vuelo. En un vuelo particularmente largo, los pilotos pueden planificar paradas de descanso en el camino. Ambos pilotos deben permanecer hidratados y tener un sistema de orina, si es necesario. El uso apropiado del {term-trim} de la aeronave ayuda a mantener el vuelo dentro de la velocidad máxima de remolque del {term-glider} y ayuda a reducir la fatiga del piloto.
 
-La radio de dos vías proporciona comunicación esencial entre el {term-glider} y el {term-towplane} durante remolques de travesía. Los pilotos deben asegurar que las radios portátiles (si se usan) o las baterías del {term-glider} tengan carga suficiente antes del vuelo y realizar una prueba de radio como parte de las actividades previas al vuelo. <<fig-12-9>>
+La radio de dos vías proporciona comunicación esencial entre el {term-glider} y el {term-towplane} durante remolques de travesía. Los pilotos deben asegurar que las radios portátiles (si se usan) o las baterías del {term-glider} tengan carga suficiente antes del vuelo y realizar una prueba de radio como parte de las actividades previas al vuelo. <<fig-12-09>>
 
 [[fig-12-09]]
 .En un remolque de travesía, el piloto remolcador y el piloto de planeador deben tener comunicación de dos vías usando ya sea radios montadas en panel o radios portátiles.

@@ -43,7 +43,7 @@ Cualquier vuelo de travesía puede terminar con un {term-landing} lejos del siti
 
 El piloto debe obtener un informe estándar y un pronóstico de vela de una fuente meteorológica aprobada. El informe debe incluir información meteorológica general para la ruta planeada, así como cualquier NOTAM, AIRMET o SIGMET, vientos en niveles altos, frente que se aproxima, o áreas de probable actividad de tormentas eléctricas. Dependiendo de la perspectiva meteorológica, los pilotos inexpertos pueden encontrar útil discutir opciones con pilotos más experimentados en su sitio de vela.
 
-El piloto debe contactar a un informador o fuente derivada del NWS para un pronóstico de vela actual. Como se discutió brevemente en el Capítulo 9, Vuelo de {term-glider} y Meteorología, ciertas Oficinas de Pronóstico del Servicio Meteorológico Nacional (WFO) emiten pronósticos de vela. Estos pronósticos automatizados derivan principalmente de la observación de radiosonda o soundings generados por modelos. El contenido y formato de un pronóstico de vela varían dependiendo del NWS WFO que proporciona el pronóstico y las necesidades de la comunidad de vela local. Un pronóstico de vela se emite una vez por día sin monitoreo continuo o actualización después de la emisión inicial. El contenido y formato de un pronóstico de vela así como los horarios de emisión están sujetos a cambio sin previo aviso. El siguiente pronóstico de vela de muestra vino del WFO en Salt Lake City, Utah <<fig-11-2>>:
+El piloto debe contactar a un informador o fuente derivada del NWS para un pronóstico de vela actual. Como se discutió brevemente en el Capítulo 9, Vuelo de {term-glider} y Meteorología, ciertas Oficinas de Pronóstico del Servicio Meteorológico Nacional (WFO) emiten pronósticos de vela. Estos pronósticos automatizados derivan principalmente de la observación de radiosonda o soundings generados por modelos. El contenido y formato de un pronóstico de vela varían dependiendo del NWS WFO que proporciona el pronóstico y las necesidades de la comunidad de vela local. Un pronóstico de vela se emite una vez por día sin monitoreo continuo o actualización después de la emisión inicial. El contenido y formato de un pronóstico de vela así como los horarios de emisión están sujetos a cambio sin previo aviso. El siguiente pronóstico de vela de muestra vino del WFO en Salt Lake City, Utah <<fig-11-02>>:
 
 [[fig-11-02]]
 .Pronóstico de Vela de Muestra.
@@ -81,7 +81,7 @@ Muchos artículos no requeridos para vela local aseguran la comodidad del piloto
 
 Varios artículos llevados a bordo pueden asistir en caso de un {term-off-field-landing}. (Para más detalles, ver Capítulo 8, Procedimientos Anormales y de Emergencia.) Por ejemplo, el kit de {term-off-field-landing} debe incluir un sistema para asegurar el {term-glider}. El contenido restante de un kit de {term-off-field-landing} depende de la densidad de población y el clima del área de vela. Un sitio de {term-landing} seguro puede ocurrir a muchas millas de la carretera más cercana, y el kit de {term-off-field-landing} debe incluir agua y comida extra para esta contingencia. Zapatos para caminar podrían probarse valiosos si el piloto necesita caminar hasta una estructura a alguna distancia. Un teléfono móvil resulta útil para {term-landing}s en áreas con cobertura celular. Algunos pilotos eligen llevar un Radio Baliza de Posición de Emergencia (EPIRB) en caso de percance durante un {term-off-field-landing} remoto.
 
-La vela de travesía requiere algún medio de medir distancias a la siguiente fuente de {term-lift} o al siguiente área de {term-landing} adecuada. Los pilotos pueden usar un sistema GPS para medir distancias o un sistema mecánico como un trazador y carta en papel. <<fig-11-3>>
+La vela de travesía requiere algún medio de medir distancias a la siguiente fuente de {term-lift} o al siguiente área de {term-landing} adecuada. Los pilotos pueden usar un sistema GPS para medir distancias o un sistema mecánico como un trazador y carta en papel. <<fig-11-03>>
 
 [[fig-11-03]]
 .Trazador navegacional.
@@ -93,7 +93,7 @@ Los cálculos de planeo toman en cuenta vientos de cara o de cola, así como vel
 .Calculadora de planeo circular.
 image::11/fig-11-04.circular-planeador-calculator.png[width=600]
 
-Otro método permite a un piloto calcular L/D efectiva utilizando una fórmula estándar. La {term-glide-ratio}, o L/D, permanece constante a una velocidad dada. Por ejemplo, el piloto podría conocer la {term-glide-ratio} (L/D) siendo 30 a 1 (expresado como 30:1) para una velocidad de 50 nudos en un {term-glider} específico. A 50 nudos de velocidad con una L/D de 30:1, un {term-tailwind} de 10 nudos resulta en una L/D efectiva de 36:1. <<fig-11-5>>
+Otro método permite a un piloto calcular L/D efectiva utilizando una fórmula estándar. La {term-glide-ratio}, o L/D, permanece constante a una velocidad dada. Por ejemplo, el piloto podría conocer la {term-glide-ratio} (L/D) siendo 30 a 1 (expresado como 30:1) para una velocidad de 50 nudos en un {term-glider} específico. A 50 nudos de velocidad con una L/D de 30:1, un {term-tailwind} de 10 nudos resulta en una L/D efectiva de 36:1. <<fig-11-05>>
 
 [[fig-11-05]]
 .Ejemplos de cálculo de planeo para viento de cara y viento de cola.
@@ -114,7 +114,7 @@ Los pilotos de aviones navegan por pilotaje (volando por referencia a puntos de 
 
 === Un Vuelo de Travesía de Muestra
 
-Para propósitos de entrenamiento, un piloto podría planificar un curso triangular comenzando en el Aeropuerto Portales (PRZ), con puntos de giro en el Aeropuerto Benger (X54) y el pueblo de Circle Back. La preparación de pre-vuelo incluye dibujar las líneas de curso para las tres patas usando un sistema electrónico o carta. <<fig-11-6>>
+Para propósitos de entrenamiento, un piloto podría planificar un curso triangular comenzando en el Aeropuerto Portales (PRZ), con puntos de giro en el Aeropuerto Benger (X54) y el pueblo de Circle Back. La preparación de pre-vuelo incluye dibujar las líneas de curso para las tres patas usando un sistema electrónico o carta. <<fig-11-06>>
 
 [[fig-11-06]]
 .Triángulo de travesía dibujado en la Carta Seccional de Albuquerque.
@@ -126,13 +126,13 @@ Durante la preparación de pre-vuelo, el piloto debe estudiar la línea de curso
 
 El piloto debe ver el aeropuerto de Clovis (CVN) siguiente y revisar por tráfico operando dentro y fuera del aeropuerto. Después de Clovis, los pueblos de Bovina y Friona pueden servir como puntos de referencia para el vuelo. El VOR Texico (TXO), una estación de VHF Omnidirectional Range cerca de Bovina sirve como ayuda de {term-approach} al aeropuerto de Clovis, y el piloto debe permanecer alerta por más tráfico de aeronaves con motor como resultado.
 
-El piloto puede ubicar el primer punto de giro fácilmente debido a buenos puntos de referencia, incluyendo el Aeropuerto Benger (X54). <<fig-11-7>> La segunda pata tiene menos puntos de referencia. Después de aproximadamente 25 millas, el pueblo de Muleshoe y el Aeropuerto Muleshoe (2T1) deberían aparecer. (Ver Figura 11-6). El pueblo debería aparecer a la derecha y el aeropuerto a la izquierda del curso previsto.
+El piloto puede ubicar el primer punto de giro fácilmente debido a buenos puntos de referencia, incluyendo el Aeropuerto Benger (X54). <<fig-11-07>> La segunda pata tiene menos puntos de referencia. Después de aproximadamente 25 millas, el pueblo de Muleshoe y el Aeropuerto Muleshoe (2T1) deberían aparecer. (Ver Figura 11-6). El pueblo debería aparecer a la derecha y el aeropuerto a la izquierda del curso previsto.
 
 [[fig-11-07]]
 .VOR TEXICO y Aeropuerto Benger (X54).
 image::11/fig-11-07.texico-vor-and-benger-aerodromo-x54.png[width=600]
 
-Siguiente, el curso entra en el Área de Operaciones Militares Bronco 1 (MOA). Las dimensiones del MOA aparecen en la carta seccional, y el piloto debe determinar los tiempos activos de este espacio aéreo. Aproximándose al segundo punto de giro, el piloto podría confundir los pueblos de Circle Back y Needmore. <<fig-11-6>> La posición relativa de una obstrucción de 466 pies sobre el nivel del terreno (AGL) y una carretera que se dirige hacia el norte fuera de Needmore proporcionan pistas para identificación. Los puntos de referencia en la tercera pata <<fig-11-8>> incluyen líneas de transmisión de energía, Lago Salt (posiblemente seco), el pequeño pueblo de Arch, y una carretera principal viniendo hacia el sur de Portales.
+Siguiente, el curso entra en el Área de Operaciones Militares Bronco 1 (MOA). Las dimensiones del MOA aparecen en la carta seccional, y el piloto debe determinar los tiempos activos de este espacio aéreo. Aproximándose al segundo punto de giro, el piloto podría confundir los pueblos de Circle Back y Needmore. <<fig-11-06>> La posición relativa de una obstrucción de 466 pies sobre el nivel del terreno (AGL) y una carretera que se dirige hacia el norte fuera de Needmore proporcionan pistas para identificación. Los puntos de referencia en la tercera pata <<fig-11-08>> incluyen líneas de transmisión de energía, Lago Salt (posiblemente seco), el pequeño pueblo de Arch, y una carretera principal viniendo hacia el sur de Portales.
 
 [[fig-11-08]]
 .Circle Back y Needmore.

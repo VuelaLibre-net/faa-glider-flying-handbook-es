@@ -5,25 +5,25 @@
 
 == Introducción
 
-Un {term-glider} moderno, como el que se muestra a continuación <<fig-1-1>>, puede volar alto y realizar vuelos de larga distancia con un piloto experto al mando.
+Un {term-glider} moderno, como el que se muestra a continuación <<fig-01-01>>, puede volar alto y realizar vuelos de larga distancia con un piloto experto al mando.
 
 [[fig-01-01]]
 .Un planeador DG Flugzeugbau GmbH serie 800B.
-image::01/fig-01-01.a-dg-flugzeugbau-gmbh-800b-series-planeador.png[width=600]
+image::01/fig-01-01.a-dg-flugzeugbau-gmbh-800b-series-planeador.png[width=400]
 
 El Código de Regulaciones Federales (14 CFR parte 1, sección 1.1) establece que "{term-glider} significa una aeronave más pesada que el aire, que se mantiene en vuelo por la reacción dinámica del aire contra sus superficies sustentadoras y cuyo vuelo libre no depende principalmente de un motor". El término "{term-glider}" también designa la habilitación que se coloca en el certificado de piloto una vez que el solicitante completa exitosamente la instrucción de {term-glider} requerida, tiene la experiencia necesaria, aprueba cualquier prueba de conocimientos requerida y aprueba la prueba práctica apropiada.
 
-Para que un {term-glider} vuele, necesita un medio para elevarse al aire. Los {term-glider}es primitivos solo podían lanzarse desde la cima de una colina. <<fig-1-2>> y <<fig-1-3>>.
+Para que un {term-glider} vuele, necesita un medio para elevarse al aire. Los {term-glider}es primitivos solo podían lanzarse desde la cima de una colina. <<fig-01-02>> y <<fig-01-03>>.
 
 [[fig-01-02]]
 .Otto Lilienthal (el Rey del Planeador) en vuelo a mediados de la década de 1890.
-image::01/fig-01-02.otto-lilienthal-the-planeador-king-in-vuelo.png[width=600]
+image::01/fig-01-02.otto-lilienthal-the-planeador-king-in-vuelo.png[width=400]
 
 [[fig-01-03]]
 .Orville Wright (izquierda) y Dan Tate (derecha) lanzaron el planeador Wright 1902 desde la ladera este de Big Hill, Kill Devil Hills, Carolina del Norte, el 17 de octubre de 1902. Wilbur Wright estaba volando el planeador.
-image::01/fig-01-03.orville-wright-left-and-dan-tate-right-launched.png[width=600]
+image::01/fig-01-03.orville-wright-left-and-dan-tate-right-launched.png[width=400]
 
-Después del desarrollo del vuelo propulsado, un avión podía remolcar un {term-glider} hasta la altitud, y este se convirtió en un medio común para lanzar un {term-glider}. Mientras que los diseños de {term-glider}es antiguos solo descendían después del remolque y la suelta, los diseños posteriores podían soltarse y aprovechar el aire ascendente natural para continuar ganando altitud. Algunos {term-glider}es que requieren remolque hasta la altitud también tienen un motor (sustainer) para usar en vuelo. El piloto puede arrancar y detener la planta motriz mientras está en vuelo, y en algunos modelos, el piloto puede retraer el sistema de hélice en el cuerpo del {term-glider} para aumentar la eficiencia aerodinámica. Un {term-motorglider} de autolanzamiento puede despegar y ascender a altitudes de vuelo a vela sin remolque. <<fig-1-4>>
+Después del desarrollo del vuelo propulsado, un avión podía remolcar un {term-glider} hasta la altitud, y este se convirtió en un medio común para lanzar un {term-glider}. Mientras que los diseños de {term-glider}es antiguos solo descendían después del remolque y la suelta, los diseños posteriores podían soltarse y aprovechar el aire ascendente natural para continuar ganando altitud. Algunos {term-glider}es que requieren remolque hasta la altitud también tienen un motor (sustainer) para usar en vuelo. El piloto puede arrancar y detener la planta motriz mientras está en vuelo, y en algunos modelos, el piloto puede retraer el sistema de hélice en el cuerpo del {term-glider} para aumentar la eficiencia aerodinámica. Un {term-motorglider} de autolanzamiento puede despegar y ascender a altitudes de vuelo a vela sin remolque. <<fig-01-04>>
 
 [[fig-01-04]]
 .Un motovelero ASH 26 E de autolanzamiento con la hélice extendida.
