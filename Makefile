@@ -81,6 +81,7 @@ $(BUILD_DIR)/pdf/$(BOOK_NAME).pdf: $(MAIN_DOC) $(SRC_FILES) $(PDF_THEME) $(ALL_I
 		$(ASCIIDOCTOR_OPTS) \
 		-r asciidoctor-mathematical \
 		-r ./scripts/figura-por-capitulo.rb \
+		-r ./scripts/capitalize-terms.rb \
 		-a pdf-theme=$(PDF_THEME) \
 		-a pdf-fontsdir=GEM_FONTS_DIR \
 		-a front-cover-image=imagenes/cover-beta.jpeg \

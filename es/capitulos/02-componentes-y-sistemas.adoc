@@ -88,11 +88,11 @@ image::02/fig-02-08.remolque-gancho-locations.png[width=600]
 
 Mientras que los aviones de remolque proporcionan el medio más común para lanzar un {term-glider} en los Estados Unidos, los {term-glider}es con motor incorporado se han vuelto más comunes.
 
-=== {Term-glider}es {term-self-launch}s
+=== {term-glider}es {term-self-launch}s
 
 Hay dos tipos de {term-glider}es {term-self-launch}s: {term-motorglider}s de turismo (TMG) y {term-glider}es {term-self-launch}s de alto rendimiento.
 
-==== {Term-motorglider}s de Turismo (TMG)
+==== {term-motorglider}s de Turismo (TMG)
 
 Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice de pleno bandeo. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de avión, están certificados en la categoría de {term-glider}.
 
@@ -100,7 +100,7 @@ Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice de
 .Un planeador de motor TMG Grob G109B.
 image::02/fig-02-09.a-grob-g109b-touring-motor-planeador.png[width=600]
 
-==== {Term-glider}es de Alto Rendimiento
+==== {term-glider}es de Alto Rendimiento
 
 Los {term-glider}es {term-self-launch}s de alto rendimiento tienen motores que se retraen en el {term-fuselage} para una {term-drag} mínima. <<fig-02-10>> La hélice puede plegarse o simplemente alinearse con el motor. Esta configuración preserva una configuración de baja {term-drag} suave.
 

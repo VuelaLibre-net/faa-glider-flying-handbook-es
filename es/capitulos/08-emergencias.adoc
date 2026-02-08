@@ -183,7 +183,7 @@ Errores comunes durante las caídas en espiral incluyen:
 
 • Secuencia inadecuada de aplicaciones de controles.
 
-== {Term-spin}s
+== {term-spin}s
 
 Durante una {term-spin}, el {term-glider} sigue una trayectoria de tornillo hacia abajo. Una entrada en {term-spin} puede ocurrir después de una {term-stall} agravada de una o ambas {term-wing}s que resulta en rotación alrededor del eje vertical. A medida que el {term-glider} rota alrededor del eje vertical, el {term-wing} exterior desarrolla más {term-lift-force} y menos arrastre que el {term-wing} interior en {term-stall}, creando un movimiento de balanceo, guiñada y cabeceo. <<fig-08-11>> El piloto puede no darse cuenta de que el {term-aoa} crítico ha sido excedido hasta que el {term-glider} guiña hacia el {term-wing} bajante.
 
@@ -319,13 +319,13 @@ La {term-drag} aerodinámica funciona mejor que los frenos de rueda a velocidade
 
 === Después del {term-off-field-landing}
 
-==== {Term-off-field-landing} sin Lesión
+==== {term-off-field-landing} sin Lesión
 
 Un piloto debe atender primero las necesidades personales, asegurar el {term-glider}, y luego contactar al equipo de recuperación. Si existe servicio de celular, el piloto puede usar un teléfono celular para llamar al equipo de recuperación. Para ayudar a identificar la posición, el piloto debe transmitir las coordenadas GPS. Los pilotos deben anotar las coordenadas en caso de que el GPS pierda energía. Si es capaz, llamar a otros pilotos de {term-glider} en el área en la frecuencia de radio de {term-glider} a {term-glider} o llamar al {term-towplane} puede ayudar con la recuperación.
 
 Una vez que se ha hecho contacto para arreglar la recuperación, el piloto puede recolectar cualquier herramienta especial necesaria para desarmar el {term-glider} o instalar bloqueos de ráfaga en los controles de vuelo del {term-glider}. Dado que una recuperación normal depende de la ubicación, clima y hora del día, el piloto puede necesitar preparar equipo para manejar las condiciones ambientales actuales o esperadas.
 
-==== {Term-off-field-landing} con Lesión o Emergencia
+==== {term-off-field-landing} con Lesión o Emergencia
 
 Un piloto debe atender cualquier lesión crítica y contactar personal de respuesta de emergencia, otras aeronaves, o cualquier otra fuente de asistencia identificable. Si existe cobertura de celular, el piloto puede marcar 911, hablar con un operador, y proporcionar una descripción clara de la ubicación. Si el servicio de celular no funciona, un piloto puede usar la radio del {term-glider}, si es operable, para transmitir una llamada de socorro Mayday en la frecuencia de emergencia 121.5 MHz. Muchas aeronaves, incluyendo aerolíneas civiles, monitorean rutinariamente esta frecuencia. Su altitud da al transceptor de aviación de línea de vista alcance mejorado al transmitir o recibir. El piloto puede intentar cualquier otra frecuencia probable para obtener una respuesta como frecuencia de {term-glider} aire-aire o la frecuencia del {term-towplane}. Algunos {term-glider}es tienen un Transmisor de Localización de Emergencia (ELT) a bordo. Un piloto que necesite asistencia de emergencia debe activar el ELT, si está disponible. Aunque el 14 CFR, parte 91, sección 91.207 no se aplica a {term-glider}es, un ELT o EPIRB añade seguridad al volar un {term-glider} en travesía. Los dispositivos de localización personal ofrecidos por varias compañías usan la señal satelital de 406 MHz, y tecnología GPS para rastrear y retransmitir con precisión la ubicación del piloto en el evento de un {term-off-field-landing} que requiera asistencia de emergencia. Además, los pilotos pueden elegir llevar dispositivos de comunicaciones y rastreo por satélite que permiten comunicación incluso fuera de cobertura de celular.
 
@@ -495,7 +495,7 @@ Durante una {term-approach}, un paracaídas de frenado empacado inadecuadamente 
 
 Otra falla involucra la falla del paracaídas de frenado en inflarse. Si esto sucede, la cúpula «fluye» como una cinta retorciéndose de nylon, proporcionando solo una fracción del arrastre esperado. La inflación completa, aunque improbable después de que ocurre el flujo, aumentaría el arrastre sustancialmente. En lugar de enfrentar cualquier aumento repentino de arrastre y si hay duda sobre el estado del despliegue, el piloto puede eyectar el paracaídas. Independientemente del tipo de falla, el piloto debe revisar las opciones de {term-approach} y {term-landing} para las condiciones del paracaídas de frenado.
 
-== {Term-glider}es {term-self-launch}s
+== {term-glider}es {term-self-launch}s
 
 Los {term-glider}es {term-self-launch}s tienen múltiples sistemas para soportar vuelo con motor. El piloto debe revisar el GFM/POH para el {term-glider} {term-self-launch} volado, desarrollar un entendimiento de los sistemas del {term-glider}, y trabajar con un instructor de {term-glider} según sea necesario para desarrollar competencia. Los sistemas adicionales en un {term-glider} {term-self-launch} pueden incluir los siguientes:
 
@@ -523,7 +523,7 @@ Independientemente del tipo de falla del motor, el piloto debe mantener velocida
 
 Una falla de potencia durante el lanzamiento o ascenso puede proporcionar tiempo limitado para maniobrar. El piloto debe concentrarse en volar el {term-glider}, seleccionar un área de {term-landing} adecuada, y hacer un {term-landing} seguro. La resolución de problemas solo debe ocurrir si es seguro hacerlo. Incluso si el piloto restaura la potencia, la potencia completa puede no volver. El vuelo con potencia parcial puede resultar en una incapacidad de despejar obstáculos, como cables, postes, hangares, o terreno cercano.
 
-=== Incapacidad para Rearrancar el Motor del {term-glider} {term-self-launch}/Sustentador en Vuelo
+=== Incapacidad para rearrancar el motor del {term-glider} {term-self-launch} / sustentador en vuelo
 
 Casi todos los {term-glider}es {term-self-launch}s tienen un procedimiento diseñado para arrancar el motor mientras está en el aire. Este procedimiento permite al piloto volver a casa de manera segura durante un vuelo donde las condiciones de vuelo de vela se deterioran. Sin embargo, los motores pueden no arrancar en algunas situaciones. Las razones incluyen falta de combustible, falla de encendido, baja temperatura del motor debido a remojo en frío, salida de batería insuficiente, bloqueo de vapor de combustible, falta de respuesta de la hélice a los controles de paso de pala, y otros factores. Esto se vuelve un problema serio con terreno inadecuado debajo para un {term-off-field-landing} seguro.
 

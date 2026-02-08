@@ -75,9 +75,9 @@ Aunque el piloto de {term-glider} tiene la responsabilidad primaria de la selecc
 
 La {term-density-altitude} afecta el rendimiento del avión. Un aumento en la temperatura o humedad del aire, o disminución en la presión atmosférica disminuye significativamente la potencia de salida y la eficiencia de la hélice.
 
-=== Informe de Aborto
+=== Briefing de interrupción del despegue
 
-Usando los datos de {term-takeoff} computados o el punto de {term-takeoff} real para las condiciones dadas, el piloto remolcador debe elegir un punto de aborto físico en la pista <<fig-12-04>> e informar al piloto de {term-glider} sobre el punto de aborto y los procedimientos de aborto. Si el {term-towplane} no está en el aire en el punto de aborto elegido, el {term-glider} debe soltar, o ser soltado, permitiendo al {term-towplane} lograr un {term-takeoff} normal.
+Utilizando los datos de {term-takeoff} calculados o el punto de {term-takeoff} real para las condiciones dadas, el piloto remolcador debe elegir una referencia física de aborto en la pista <<fig-12-04>> e instruir al piloto del {term-glider} sobre dicho punto y los procedimientos de interrupción. Si el {term-towplane} no se ha ido al aire al llegar al punto de aborto elegido, el {term-glider} debe desengancharse, o ser desenganchado, permitiendo al {term-towplane} completar un {term-takeoff} normal.
 
 [[fig-12-04]]
 .Se debe determinar un punto de aborto físico en la pista e informar al piloto de planeador antes de comenzar los procedimientos de remolque.
@@ -93,7 +93,7 @@ El piloto remolcador debe mantener conciencia de la dirección de la estela de l
 
 En la mayoría de los casos, los pilotos remolcadores usan las Señales Estándar de Vuelo a Vela Americanas para comunicarse entre la tripulación de lanzamiento y el {term-towplane}. En algunos casos, sin embargo, los procedimientos locales específicos tienen precedencia. El piloto remolcador debe recibir un informe sobre cualquier señal o procedimiento local específico. El piloto remolcador podría necesitar observar estas señales a través del espejo o a través de una persona adicional de retransmisión de señales posicionada de manera segura en el lado de la pista adyacente al {term-towplane}. El Capítulo 7 de este manual, Lanzamiento, Maniobras de Vuelo, {term-landing} y Procedimientos de Recuperación tiene figuras para las señales de tierra.
 
-== {Term-takeoff} y Ascenso
+== {term-takeoff} y Ascenso
 
 Cuando esté listo para el {term-takeoff} y si es aplicable, el piloto remolcador debe transmitir el comienzo de un lanzamiento de {term-glider}. Por ejemplo, «Tráfico Tallahassee, N12345 despegando Pista 33, {term-glider} en remolque, Tallahassee». El 14 CFR parte 91, sección 91.309(a)(4) establece, «Antes de realizar cualquier operación de remolque dentro de los límites laterales de las áreas de superficie del espacio aéreo Clase B, Clase C, Clase D, o espacio aéreo Clase E designado para un aeropuerto, o antes de realizar cada vuelo de remolque dentro de tal espacio aéreo controlado si es requerido por ATC, el piloto al mando notifica a la torre de control. Si no existe una torre de control o no está en operación, el piloto al mando debe notificar a la estación de servicio de vuelo de la FAA que sirve a ese espacio aéreo controlado antes de realizar cualquier operación de remolque en ese espacio aéreo;»
 
@@ -175,7 +175,7 @@ Durante el descenso, un piloto remolcador debe ejercer un manejo apropiado del m
 
 El descenso y las actitudes de vuelo descendente aumentan el potencial de colisión en el aire. El piloto remolcador debe considerar desarrollar y usar corredores de descenso específicos que eviten otro tráfico de {term-glider}es y con motor.
 
-=== {Term-approach} y {term-landing}
+=== {term-approach} y {term-landing}
 
 Un {term-tow-rope} de 200 pies cuelga detrás del {term-towplane} en un ángulo de 30 a 40 grados. El piloto remolcador debe ajustar la altitud del {term-towplane} para asegurar que el {term-tow-rope} no golpee obstrucciones cerca del suelo.
 

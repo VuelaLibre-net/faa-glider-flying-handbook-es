@@ -165,26 +165,3 @@
 :term-lapse-rate: gradiente térmico
 :term-trigger-temperature: temperatura de disparo
 
-// Términos para títulos (Capitalizados)
-:Term-drag: Resistencia
-:Term-weight: Peso
-:Term-thrust: Empuje
-:Term-aspect-ratio: Alargamiento
-:Term-stall: Pérdida
-:Term-spin: Barrena
-:Term-thermal: Térmica
-:Term-lift: Ascendencia
-:Term-off-field-landing: Aterrizaje fuera de campo
-:Term-glider: Planeador
-:Term-takeoff: Despegue
-:Term-approach: Aproximación
-:Term-altimeter: Altímetro
-:Term-variometer: Variómetro
-:Term-inclinometer: Inclinómetro
-:Term-water-ballast: Lastre de agua
-:Term-motorglider: Motovelero
-:Term-density-altitude: Altitud de densidad
-:Term-winch-launch: Lanzamiento con torno
-:Term-pattern: Circuito de tráfico
-:Term-flare: Redondeo
-:Term-landing: Aterrizaje
