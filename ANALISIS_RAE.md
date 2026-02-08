@@ -113,9 +113,11 @@ Línea 205: Factor de Carga
 
 ---
 
-## 3. NÚMEROS DECIMALES
+## 3. NÚMEROS DECIMALES ✅ RESUELTO
 
 **Norma RAE**: En español, el separador decimal es la coma (,), no el punto (.).
+
+**Estado**: Corregido en commit `4366650` - Se aplicó a toda la documentación.
 
 ### Incidencias encontradas:
 
@@ -129,9 +131,11 @@ Línea 205: Factor de Carga
 | 07-lanzamiento-aterrizaje-maniobras.adoc | 816 | (50/40)*2 = 1.56 | (50/40)*2 = 1,56 |
 | 08-emergencias.adoc | 592 | 1.5 millas | 1,5 millas |
 
-### 3a. APÓSTROFO COMO SEPARADOR DECIMAL (Uso incorrecto)
+### 3a. APÓSTROFO COMO SEPARADOR DECIMAL ✅ RESUELTO
 
 **Norma RAE**: El separador decimal debe ser la **coma**, nunca el apóstrofo.
+
+**Estado**: Corregido - Reemplazados 8 apóstrofos por comas en capítulo 04.
 
 Se encontró uso incorrecto del apóstrofo (') como separador decimal en ajustes de altímetro:
 
@@ -147,9 +151,11 @@ Se encontró uso incorrecto del apóstrofo (') como separador decimal en ajustes
 
 **Total: 8 instancias**
 
-### 3b. SEPARADOR DE MILES
+### 3b. SEPARADOR DE MILES ✅ RESUELTO
 
 **Norma RAE**: El separador de miles debe ser un **espacio** (preferiblemente **espacio duro/no-breaking space** U+00A0) para evitar división de línea.
+
+**Estado**: Corregido - Aplicados 67 espacios duros (NBSP) en toda la documentación.
 
 Se encontraron números con espacio normal (U+0020) que deberían tener espacio duro (U+00A0):
 
