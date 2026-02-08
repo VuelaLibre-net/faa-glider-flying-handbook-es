@@ -155,7 +155,7 @@ mrproper: clean
 	@echo "🧹 Limpiando backups de imágenes..."
 	@find $(SRC_DIR)/imagenes -type f \( -name '*.bak' -o -name '*.bak[0-9]*' -o -name '*~' -o -name '*.backup' -o -name '*.backup[0-9]*' -o -name '*.tmp' \) -exec rm -v {} + 2>/dev/null || true
 	@echo "🧹 Limpiando imágenes WebP temporales..."
-	@find $(SRC_DIR)/imagenes -type f -name '*.webp' -exec rm -v {} + 2>/dev/null || true
+	@find $(SRC_DIR)/imagenes -type f -name '*.webp' ! -name 'mockup*.webp' ! -name 'cover-*.webp' -exec rm -v {} + 2>/dev/null || true
 	@echo "✅ Limpieza completa (mrproper)"
 
 ## Verifica que las herramientas necesarias están instaladas
