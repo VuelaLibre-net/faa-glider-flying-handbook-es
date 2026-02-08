@@ -4,17 +4,23 @@ Fecha: 2026-02-08
 
 ## Resumen Ejecutivo
 
-Se han identificado **múltiples incumplimientos** de la norma de la RAE en los documentos de traducción, principalmente relacionados con:
+Se han identificado **múltiples incumplimientos** de la norma de la RAE en los documentos de traducción:
 
-1. **Capitalización en títulos** - Más de 100 títulos con palabras en mayúscula que deberían ir en minúscula
-2. **Uso de "etc" sin puntos suspensivos** - Debe ser "etc."
-3. **Números decimales con punto** - En español se usa la coma (3,5 en lugar de 3.5)
+### ✅ RESUELTOS:
+1. **Capitalización en títulos** - 293+ títulos corregidos a estilo oración
+2. **Números decimales** - Separadores corregidos (coma para decimales, NBSP para miles)
+
+### ❌ PENDIENTES:
+1. **Uso de "etc" sin puntos suspensivos** - Debe ser "etc." (4 instancias)
+2. **Términos en inglés sin traducir** - 2 fragmentos en capítulos 03 y 12
 
 ---
 
-## 1. CAPITALIZACIÓN EN TÍTULOS (Estilo oración - RAE)
+## 1. CAPITALIZACIÓN EN TÍTULOS ✅ RESUELTO
 
 **Norma RAE**: En español, los títulos deben usar "estilo oración": solo la primera palabra lleva mayúscula inicial, excepto nombres propios y siglas.
+
+**Estado**: Corregido en commit `d35eb98` - 293+ títulos corregidos en 13 capítulos.
 
 ### Archivos con mayor número de incidencias:
 
