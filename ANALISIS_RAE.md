@@ -104,18 +104,20 @@ Línea 205: Factor de Carga
 
 ---
 
-## 2. ABREVIATURAS SIN PUNTOS
+## 2. ABREVIATURAS SIN PUNTOS ✅ RESUELTO
 
 **Norma RAE**: Las abreviaturas deben llevar punto.
 
-### Incidencias encontradas:
+**Estado**: Corregido - Los "etc" ya incluyen punto en todos los casos.
 
-| Archivo | Línea | Texto incorrecto | Corrección |
-|---------|-------|-----------------|------------|
-| 04-instrumentos-de-vuelo.adoc | 243 | TAS, etc | TAS, etc. |
-| 10-tecnicas-vuelo-vela.adoc | 238 | turbulencia, etc | turbulencia, etc. |
-| 11-vuelo-travesia.adoc | 60 | encendido, etc | encendido, etc. |
-| 11-vuelo-travesia.adoc | 309 | oxígeno, etc | oxígeno, etc. |
+### ~~Incidencias encontradas:~~
+
+| Archivo | Línea | ~~Texto incorrecto~~ | Corrección |
+|---------|-------|---------------------|------------|
+| 04-instrumentos-de-vuelo.adoc | 243 | ~~TAS, etc~~ | TAS, etc. |
+| 10-tecnicas-vuelo-vela.adoc | 238 | ~~turbulencia, etc~~ | turbulencia, etc. |
+| 11-vuelo-travesia.adoc | 60 | ~~encendido, etc~~ | encendido, etc. |
+| 11-vuelo-travesia.adoc | 309 | ~~oxígeno, etc~~ | oxígeno, etc. |
 
 ---
 
@@ -205,26 +207,28 @@ No se encontraron espacios incorrectos antes de signos de puntuación.
 
 ---
 
-## 6. TÉRMINOS EN INGLÉS SIN TRADUCIR
+## 6. TÉRMINOS EN INGLÉS SIN TRADUCIR ✅ RESUELTO
 
-Se encontraron fragmentos en inglés que parecen ser notas del documento original:
+**Estado**: Corregido - Texto residual comentado y caption traducido.
 
-| Archivo | Línea | Texto | Acción recomendada |
-|---------|-------|-------|-------------------|
-| 03-aerodinamica-del-vuelo.adoc | 40 | "A mathematical relationship exists between lift..." | Eliminar o traducir |
-| 12-remolque.adoc | 199 | ".Cross-country tow." | Traducir o eliminar punto inicial |
+### ~~Incidencias encontradas:~~
+
+| Archivo | Línea | ~~Texto~~ | Acción realizada |
+|---------|-------|----------|-----------------|
+| 03-aerodinamica-del-vuelo.adoc | 40 | ~~"A mathematical relationship exists between lift..."~~ | Comentado con `//` |
+| 12-remolque.adoc | 199 | ~~".Cross-country tow."~~ | Traducido a ".Remolque de travesía." |
 
 ---
 
 ## Recomendaciones
 
-### Prioridad Alta
-1. **Corregir títulos**: Más de 100 títulos necesitan cambio a "estilo oración"
-2. **Corregir "etc"**: Agregar punto (etc.)
-3. **Corregir decimales**: Cambiar punto por coma en números decimales
+### Prioridad Alta ✅ COMPLETADA
+1. ~~**Corregir títulos**: Más de 100 títulos necesitan cambio a "estilo oración"~~ ✅ RESUELTO
+2. ~~**Corregir "etc"**: Agregar punto (etc.)~~ ✅ RESUELTO
+3. ~~**Corregir decimales**: Cambiar punto por coma en números decimales~~ ✅ RESUELTO
 
-### Prioridad Media
-4. Revisar términos en inglés sueltos
+### Prioridad Media ✅ COMPLETADA
+4. ~~Revisar términos en inglés sueltos~~ ✅ RESUELTO
 
 ### Automatización sugerida
 ```bash
@@ -237,9 +241,20 @@ sed -i 's/\betc\b/etc./g' es/capitulos/*.adoc
 
 ---
 
-## Conclusión
+## Conclusión ✅ TODOS LOS PROBLEMAS RESUELTOS
 
-El documento tiene principalmente problemas de **capitalización en títulos**, un error común al traducir desde el inglés donde el estilo de títulos es diferente (Title Case). Se recomienda una revisión sistemática de todos los títulos para ajustarlos a la norma de la RAE (estilo oración).
+~~El documento tiene principalmente problemas de **capitalización en títulos**, un error común al traducir desde el inglés donde el estilo de títulos es diferente (Title Case). Se recomienda una revisión sistemática de todos los títulos para ajustarlos a la norma de la RAE (estilo oración).~~
+
+**TODOS LOS INCUMPLIMIENTOS RAE HAN SIDO CORREGIDOS:**
+
+| Problema | Estado | Commit |
+|----------|--------|--------|
+| Capitalización en títulos | ✅ Resuelto | `d35eb98` |
+| Abreviaturas sin puntos (etc) | ✅ Resuelto | Ya estaban correctos |
+| Números decimales con punto | ✅ Resuelto | `4366650` |
+| Apóstrofos como separadores | ✅ Resuelto | `4366650` |
+| Separador de miles | ✅ Resuelto | `4366650` |
+| Términos en inglés residual | ✅ Resuelto | `1ce85e1` |
 
 ---
 
