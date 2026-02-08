@@ -247,7 +247,7 @@ Con viento soplando en un ángulo a la cresta, las cuencas o espolones, formacio
 .Evitar hundimiento en el lado de sotavento de espolones desviándose alrededor de ellos.
 image::10/fig-10-21.avoid-sink-on-the-viento-en-cola-lateral-of-spurs.png[width=600]
 
-=== {term-lift} de Ladera y Vuelo en {term-thermal}s
+=== {Term-lift} de Ladera y Vuelo en {term-thermal}s
 
 Las combinaciones de {term-thermal}s con {term-lift} de pendiente pueden ocurrir, y el vuelo de ladera puede proporcionar {term-lift} cuando las {term-thermal}s se apagan temporalmente. Un piloto encontrando una {term-thermal} a lo largo de la cresta puede hacer una serie de giros en S con cada giro contra el viento. El {term-glider} puede derivar de regreso a la {term-thermal} después de cada giro si es necesario. El piloto de {term-glider} nunca debe continuar el giro hacia la cresta. La velocidad ayuda a controlar cualquier encuentro con hundimiento fuerte que puede ocurrir a los lados de la {term-thermal}. La maniobra toma práctica, pero cuando se hace correctamente, el piloto puede hacer un ascenso rápido en la {term-thermal} hasta un punto bien por encima de la cima de la cresta, donde pueden comenzar giros de 360° de vuelo en {term-thermal}s. Incluso cuando está bien por encima de la cresta, el piloto debe usar precaución y asegurar que el {term-glider} no derive hacia el hundimiento de sotavento durante un ascenso lento. Antes de intentar un giro en S, el piloto debe asegurar que no interferiría con otro tráfico a lo largo de la cresta. <<fig-10-22>>
 

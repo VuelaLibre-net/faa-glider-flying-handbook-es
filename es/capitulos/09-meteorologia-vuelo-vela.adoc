@@ -87,7 +87,7 @@ Los pilotos interpretando pronósticos deben comenzar con la macroescala, que id
 
 Las {term-thermal}s son la forma más común de aire ascendente usada para sostener el vuelo de {term-glider}. Los párrafos en esta sección exploran temas relacionados con las {term-thermal}s, incluyendo la estructura {term-thermal}, la estabilidad atmosférica y las masas de aire propicias para el vuelo en {term-thermal}s.
 
-== {term-thermal}s
+== {Term-thermal}s
 
 === Forma y Estructura de las {term-thermal}s
 
@@ -333,7 +333,7 @@ El vuelo por ondas requiere planificación y equipo apropiado. Además, el vuelo
 .Los Premios Lennie se otorgan por completar y documentar un vuelo de onda.
 image::09/fig-09-25.lennie-awards-are-given-for-completing-and.png[width=600]
 
-=== {term-lift} por Convergencia
+=== {Term-lift} por Convergencia
 
 La {term-lift} por convergencia ocurre cuando dos masas de aire opuestas se encuentran, y el aire se mueve hacia arriba en respuesta a los vientos opuestos. El aire no necesita encontrarse de frente para ascender. Dondequiera que el aire se acumule de esta manera, conduce a convergencia y aire ascendente.
 

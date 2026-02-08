@@ -33,15 +33,11 @@ Según la Tercera Ley del Movimiento de Newton, para cada acción hay una reacci
 
 El Principio de Bernoulli establece que a medida que aumenta la velocidad de un fluido en movimiento (líquido o gas), la presión dentro del fluido disminuye. Este principio explica lo que ocurre cuando el aire se mueve más rápido para pasar sobre la parte superior de un {term-wing} posicionada en un ángulo respecto al {term-relative-wind}, es decir, el viento resultante del movimiento hacia adelante del {term-glider}. El aumento en la velocidad del aire al viajar sobre la parte superior del {term-wing} produce una caída en la presión contra el {term-wing}, y la mayor presión del aire debajo del {term-wing} resulta en una fuerza de {term-lift-force} neta.
 
-=== {term-lift-force}
+=== Sustentación (Lift)
 
-Existe una relación matemática entre la {term-lift-force}, el coeficiente de {term-lift-force}, la velocidad del aire, la densidad del aire y el tamaño del {term-wing}.
+A mathematical relationship exists between lift, the coefficient of lift, airspeed, air density, and the size of the wing. Figure 3-3 shows the relationship.
 
-[[fig-03-03]]
-.Muestra la relación.
-image::03/fig-03-03.sustentacion-equation.png[width=600]
-
-(Este número adimensional es la relación entre la presión de {term-lift-force} y la presión dinámica y el área. Es específico para una forma particular de perfil alar, y, por debajo de la {term-stall}, es proporcional al {term-aoa}.)
+Existe una relación matemática entre la {term-lift-force}, el coeficiente de {term-lift-force}, la velocidad del aire, la densidad del aire y el tamaño del {term-wing}. La figura <<fig-03-03>> muestra la relación.
 
 [[fig-03-03]]
 .Ecuación de Sustentación.
@@ -59,9 +55,9 @@ La fuerza que resiste el movimiento del {term-glider} consiste en la {term-drag}
 
 === Fórmula de {term-lift-force}
 
-=== {term-drag}
+=== {Term-drag}
 
-==== {term-drag} Parásita
+==== {Term-drag} Parásita
 
 La {term-drag} parásita incluye la {term-drag} del aire a cualquier objeto que se mueve a través de ella creada por la fricción de la superficie, la forma del objeto y los patrones de interferencia dentro del flujo de aire alrededor del objeto. Aunque los diseños de {term-wing}s de {term-glider}es generan {term-drag} inducida y parásita mínima, otras partes del {term-glider} pueden crear {term-drag} parásita significativa. La {term-drag} parásita aumenta con el cuadrado de la velocidad. En términos simples, si la velocidad del {term-glider} se duplica, la {term-drag} parásita aumenta cuatro veces. <<fig-03-05>>
 
@@ -69,7 +65,7 @@ La {term-drag} parásita incluye la {term-drag} del aire a cualquier objeto que 
 .Resistencia parásita versus velocidad.
 image::03/fig-03-05.parasite-resistencia-versus-velocidad.png[width=600]
 
-==== {term-drag} Inducida
+==== {Term-drag} Inducida
 
 A medida que el {term-aoa} aumenta, más flujo de aire circula alrededor de la punta del {term-wing} desde la superficie inferior a la superior, lo que crea vórtices de punta de {term-wing} más grandes. <<fig-03-06>>. El panel 4 de la Figura 3-6, representa el {term-wing} moviéndose horizontalmente en vuelo nivelado. El vector de {term-lift-force} vertical se desarrolla perpendicular a la trayectoria de vuelo y al {term-relative-wind} que se aproxima. Dado que los vórtices de punta de {term-wing} causan una divergencia descendente del {term-relative-wind} promedio desde la trayectoria de vuelo, el vector de {term-lift-force} total, que es perpendicular al {term-relative-wind} promedio, se inclina hacia atrás. Esta inclinación hacia atrás del vector de {term-lift-force} total crea {term-drag} inducida como subproducto de la {term-lift-force}. Los factores que aumentan el ángulo entre la {term-lift-force} total y los vectores de {term-lift-force} vertical, como la baja velocidad del aire y el alto {term-aoa}, aumentan la {term-drag} inducida.
 
@@ -79,7 +75,7 @@ image::03/fig-03-06.induced-resistencia-from-the-production-of.png[width=600]
 
 A medida que un {term-glider} vuela más rápido, las {term-wing}s pueden generar la misma cantidad de {term-lift-force} con un {term-aoa} reducido. El aumento de velocidad con un {term-aoa} menor reduce la inclinación hacia atrás del vector de {term-lift-force} total y reduce la {term-drag} inducida.
 
-==== {term-drag} Total
+==== {Term-drag} Total
 
 La curva de {term-drag} total representa la combinación de {term-drag} parásita e inducida y varía con la velocidad del aire. <<fig-03-07>>
 
@@ -91,11 +87,11 @@ image::03/fig-03-07.parasite-resistencia-induced-resistencia-and.png[width=600]
 
 Operar dentro de una envergadura de {term-wing} por encima del suelo modifica el patrón de flujo de aire tridimensional alrededor del {term-glider}. Este efecto suelo disminuye el flujo descendente, reduce el tamaño y efecto de los vórtices de punta de {term-wing}, reduce la {term-drag} inducida y resulta en un vuelo más eficiente. Este efecto permite que el {term-glider} vuele a una velocidad más baja durante el {term-takeoff} y reduce la tasa de descenso de un {term-glider} al aterrizar.
 
-=== {term-weight}
+=== {Term-weight}
 
 El {term-weight} resulta de la fuerza de gravedad actuando sobre la masa del {term-glider}. Los componentes verticales tanto de la {term-lift-force} como de la {term-drag} actúan en oposición al vector de {term-weight}, que actúa verticalmente hacia abajo a través del centro de gravedad.
 
-=== {term-thrust}
+=== {Term-thrust}
 
 Los {term-glider}es sin motor utilizan una fuente externa, como un avión de remolque, un torno o un vehículo, para lanzarse. Una vez liberados, estos {term-glider}es mantienen el movimiento hacia adelante a partir de la conversión de energía potencial a energía cinética. Un {term-glider} desciende a través del aire circundante para hacer esta conversión. Los {term-glider}es con motor tienen motores, que pueden proporcionar {term-thrust} para el lanzamiento o para sostener el vuelo.
 
@@ -121,7 +117,7 @@ La forma (planta) de las {term-wing}s afecta la cantidad de {term-lift-force} y 
 .Plantas de alas de planeadores
 image::03/fig-03-09.planforms-of-planeador-alas.png[width=600]
 
-=== {term-aspect-ratio}
+=== {Term-aspect-ratio}
 
 Dividir la envergadura (de punta de {term-wing} a punta de {term-wing}) por la cuerda media del {term-wing} determina el {term-aspect-ratio} para un {term-glider}. Las {term-wing}s de los {term-glider}es tienen un alto {term-aspect-ratio}, como se muestra en la Figura 3-10, que genera {term-lift-force} significativa a bajos {term-aoa}s con {term-drag} inducida mínima.
 
@@ -255,7 +251,7 @@ Nota: Los resbalones hacia adelante con {term-flap}s del {term-wing} extendidos 
 
 Durante {term-landing}s con {term-crosswind}, un resbalón lateral puede contrarrestar la deriva del viento y permite que el {term-glider} toque tierra con su eje longitudinal paralelo a la dirección del movimiento. El piloto usa presión en el timón para mantener el eje longitudinal del {term-glider} paralelo a la trayectoria deseada sobre el suelo, pero la trayectoria sobre el suelo puede cambiar dependiendo de la cantidad de inclinación. Para realizar un resbalón lateral, el piloto baja el {term-wing} de barlovento y aplica simultáneamente suficiente timón opuesto para mantener la alineación de la nariz.
 
-=== {term-stall}s
+=== {Term-stall}s
 
 Una {term-stall} ocurre cuando el ángulo entre la {term-chord-line} y el {term-relative-wind} excede el AOA crítico. <<fig-03-20>> Una {term-stall} resulta en una reducción en la {term-lift-force}, aunque las {term-wing}s todavía soportan algo del {term-weight} de la aeronave durante una {term-stall}. Las {term-stall}s pueden ocurrir a cualquier velocidad del aire y en cualquier actitud de vuelo.
 
@@ -267,7 +263,7 @@ Muchos factores afectan la velocidad de {term-stall} de un {term-glider}, incluy
 
 Los factores ambientales también afectan la velocidad de {term-stall}. La acumulación de nieve, hielo o escarcha en las superficies del {term-wing} puede aumentar el {term-weight} del {term-wing} y perturbar el flujo de aire, ambos de los cuales aumentan la velocidad de {term-stall}. La turbulencia tiene un impacto en la velocidad de {term-stall} de un {term-glider} porque las ráfagas verticales cambian la dirección del {term-relative-wind} y aumentan abruptamente el AOA. Durante el {term-landing} en condiciones de ráfagas, los pilotos normalmente aumentan la velocidad de {term-approach} en la mitad de la diferencia entre el viento constante y el valor de ráfaga para mantener un margen seguro por encima de la {term-stall}. Por ejemplo, si los vientos fueran de 10 nudos con ráfagas a 16 nudos, sería prudente agregar 3 nudos ((16 – 10) ÷ 2 = 3) a la velocidad de {term-approach}.
 
-=== {term-spin}s
+=== {Term-spin}s
 
 Una {term-spin} se desarrolla a partir de una {term-stall} agravada que resulta en que el {term-glider} descienda en una trayectoria helicoidal o de sacacorchos. Una {term-spin} puede desarrollarse como una maniobra de vuelo compleja y descoordinada en la que un {term-wing} se estanca más que la otra. Al entrar en una {term-spin}, el {term-wing} más completamente estancada usualmente cae antes que la otra, y la nariz de la aeronave guiña en la dirección del {term-wing} baja. En este escenario de {term-spin}, el {term-wing} ascendente experimenta más {term-lift-force} y menos {term-drag}. <<fig-03-21>> El {term-wing} opuesta se mueve hacia abajo y hacia atrás debido a menos {term-lift-force} y {term-drag} aumentada.
 

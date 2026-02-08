@@ -294,7 +294,7 @@ La experiencia requerida para volar un {term-glider} de alto rendimiento no nece
 
 Muchos {term-glider}es de alto rendimiento tienen {term-flap}s. Los pilotos pueden usar unos pocos grados de {term-flap} positivo al hacer {term-thermal}s, 0° para planeos a velocidad relativamente baja, y ajustes de {term-flap} negativos para planeos a velocidades más altas. El GFM/POH y la polar del {term-glider} proporcionan ajustes de {term-flap} recomendados para diferentes velocidades, así como velocidades máximas permitidas para diferentes ajustes de {term-flap}. Algunos pocos {term-glider}es de alto rendimiento no tienen frenos de aire y usan ajustes de {term-flap} positivo grandes para aterrizar.
 
-=== {term-water-ballast}
+=== {Term-water-ballast}
 
 El {term-water-ballast} puede maximizar la velocidad promedio de travesía en un día con {term-thermal}s fuertes. La ganancia en velocidad entre {term-thermal}s supera el tiempo perdido debido a ascensos ligeramente más lentos con {term-water-ballast}. Los pilotos no deben planear usar lastre en un día con {term-thermal}s débiles. Si las {term-thermal}s fuertes se vuelven débiles, el piloto puede descargar el {term-water-ballast}.
 

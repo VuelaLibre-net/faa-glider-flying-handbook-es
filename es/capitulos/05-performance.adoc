@@ -11,7 +11,7 @@ El performance del {term-glider} depende del diseño, el tiempo meteorológico, 
 
 Para un vuelo específico de {term-glider}, algunos factores que afectan el rendimiento incluyen la {term-density-altitude}, el viento y el {term-weight}.
 
-=== {term-density-altitude}
+=== {Term-density-altitude}
 
 En general, un aumento en la {term-density-altitude} se refiere a aire más delgado, mientras que una disminución en la {term-density-altitude} se refiere a aire más denso. Las condiciones que resultan en {term-density-altitude} alta incluyen elevación alta, baja presión atmosférica, alta temperatura, alta humedad, o alguna combinación de estos factores. La elevación más baja, la alta presión atmosférica, la baja temperatura y la baja humedad reducen la {term-density-altitude}. Dado que las altitudes de densidad altas pueden existir en elevaciones más bajas en días calurosos, los pilotos deben considerar la {term-density-altitude} basada en condiciones reales antes de un vuelo.
 
@@ -77,7 +77,7 @@ Un fuerte gradiente de cortante de viento puede afectar un {term-glider} durante
 .Efecto del gradiente de velocidad del viento en un planeador. Un flujo de aire más fuerte sobre el ala alta puede causar que el viraje se inestine.
 image::05/fig-05-06.effect-of-viento-velocity-gradiente-on-a.png[width=600]
 
-=== {term-weight}
+=== {Term-weight}
 
 El {term-weight} de un {term-glider} afecta la aceleración durante el {term-takeoff}. Un {term-glider} al {term-weight} máximo de {term-takeoff} toma más tiempo en alcanzar la velocidad de vuelo. Después del {term-takeoff}, un avión de remolque con un {term-glider} pesado ascenderá más lentamente. Aumentar el {term-weight} de un {term-glider} con motor causa que acelere más lentamente y ascienda más lentamente. <<fig-05-07>>
 
@@ -209,7 +209,7 @@ Durante estas excursiones, el {term-weight} de la mano y el brazo del piloto pue
 
 Para minimizar la intensificación de ráfagas verticales y evitar oscilaciones inducidas por el piloto a alta velocidad (PIOs), el piloto debe reducir la velocidad cuando vuela a través de aire turbulento. El piloto también puede apoyar ambos brazos y usar ambas manos en la palanca de control para prevenir entradas no deseadas. Algunos diseños de {term-glider}es incorporan un mecanismo de palanca de control de paralelogramo para reducir la probabilidad de PIOs durante crucero a alta velocidad.
 
-== {term-weight} y Balance
+== {Term-weight} y Balance
 
 El piloto debe entender la gestión adecuada de {term-weight} y balance y las consecuencias de sobrecargar o cargar incorrectamente el {term-glider}.
 

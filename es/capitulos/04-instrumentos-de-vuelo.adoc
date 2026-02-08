@@ -158,7 +158,7 @@ efectos del viento.
 .Ejemplo de placas de limitación de velocidad colocadas en un planeador y a la vista del piloto.
 image::04/fig-04-10.sample-velocidad-limitation-placards-placed-in-a.png[width=600]
 
-=== {term-altimeter}
+=== {Term-altimeter}
 
 El {term-altimeter} mide la presión de aire estática del aire circundante. Las tuberías conectan la entrada de presión estática del {term-altimeter} a los orificios del puerto estático ubicados en el costado del {term-glider}. <<fig-04-11>>
 
@@ -255,7 +255,7 @@ Las variaciones en la temperatura del aire también afectan el {term-altimeter}.
 .Presión y temperatura no estándar.
 image::04/fig-04-17.nonstandard-presion-and-temperatura.png[width=600]
 
-=== {term-variometer}
+=== {Term-variometer}
 
 Los instrumentos {term-variometer} miden el ascenso o descenso vertical de la masa de aire local y del {term-glider} combinados y muestran esa información como velocidad vertical. El {term-variometer} puede considerarse un simple medidor de flujo que mide el aire que fluye entre una referencia exterior (puerto estático o de {term-total-energy}) y un matraz de referencia interno. El {term-variometer} depende de la tasa de lapso de presión en la atmósfera para derivar información sobre la tasa de ascenso o tasa de descenso. Un {term-variometer} no eléctrico usa un tanque aislado separado (termo o matraz de capacidad) como cámara de referencia para aumentar la sensibilidad y precisión del
 
@@ -380,7 +380,7 @@ Un trozo de hilo montado en la corriente de aire libre y fácilmente visible par
 .Indicaciones de condición de giro a la izquierda de una lanita e inclinómetro.
 image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=600]
 
-=== {term-inclinometer}
+=== {Term-inclinometer}
 
 Un {term-inclinometer} también proporciona indicación de deslizamiento/deslizamiento excesivo. El {term-inclinometer} responde a la fuerza centrífuga y la gravedad. El {term-inclinometer} consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el {term-glider} vuela de manera coordinada, la bola permanece centrada en la parte inferior del tubo de vidrio. El {term-inclinometer} difiere de la lanita durante el vuelo no coordinado. La bola se mueve hacia el interior del giro para indicar un deslizamiento y hacia el exterior del giro para indicar un deslizamiento excesivo. <<fig-04-28>> La frase, "pisa la bola" explica cómo un piloto debería responder para restaurar el {term-coordinated-flight}. Durante una {term-spin}, el {term-inclinometer} no proporciona información de dirección de rotación, y los pilotos no deben usar el {term-inclinometer} para guía.
 

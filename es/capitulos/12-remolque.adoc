@@ -93,7 +93,7 @@ El piloto remolcador debe mantener conciencia de la dirección de la estela de l
 
 En la mayoría de los casos, los pilotos remolcadores usan las Señales Estándar de Vuelo a Vela Americanas para comunicarse entre la tripulación de lanzamiento y el {term-towplane}. En algunos casos, sin embargo, los procedimientos locales específicos tienen precedencia. El piloto remolcador debe recibir un informe sobre cualquier señal o procedimiento local específico. El piloto remolcador podría necesitar observar estas señales a través del espejo o a través de una persona adicional de retransmisión de señales posicionada de manera segura en el lado de la pista adyacente al {term-towplane}. El Capítulo 7 de este manual, Lanzamiento, Maniobras de Vuelo, {term-landing} y Procedimientos de Recuperación tiene figuras para las señales de tierra.
 
-== {term-takeoff} y Ascenso
+== {Term-takeoff} y Ascenso
 
 Cuando esté listo para el {term-takeoff} y si es aplicable, el piloto remolcador debe transmitir el comienzo de un lanzamiento de {term-glider}. Por ejemplo, "Tráfico Tallahassee, N12345 despegando Pista 33, {term-glider} en remolque, Tallahassee." El 14 CFR parte 91, sección 91.309(a)(4) establece, "Antes de realizar cualquier operación de remolque dentro de los límites laterales de las áreas de superficie del espacio aéreo Clase B, Clase C, Clase D, o espacio aéreo Clase E designado para un aeropuerto, o antes de realizar cada vuelo de remolque dentro de tal espacio aéreo controlado si es requerido por ATC, el piloto al mando notifica a la torre de control. Si no existe una torre de control o no está en operación, el piloto al mando debe notificar a la estación de servicio de vuelo de la FAA que sirve a ese espacio aéreo controlado antes de realizar cualquier operación de remolque en ese espacio aéreo;"
 
@@ -175,7 +175,7 @@ Durante el descenso, un piloto remolcador debe ejercer un manejo apropiado del m
 
 El descenso y las actitudes de vuelo descendente aumentan el potencial de colisión en el aire. El piloto remolcador debe considerar desarrollar y usar corredores de descenso específicos que eviten otro tráfico de {term-glider}es y con motor.
 
-=== {term-approach} y {term-landing}
+=== {Term-approach} y {term-landing}
 
 Un {term-tow-rope} de 200 pies cuelga detrás del {term-towplane} en un ángulo de 30 a 40 grados. El piloto remolcador debe ajustar la altitud del {term-towplane} para asegurar que el {term-tow-rope} no golpee obstrucciones cerca del suelo.
 
