@@ -98,11 +98,11 @@ El piloto lee la IAS directamente del anemómetro, sin corrección por error de 
 (Vuelo nivelado)
 | Velocidad Verdadera +
 (TAS)
-| 1,000 pies | 40 nudos | 41 nudos
-| 10,000 pies | 40 nudos | 48 nudos
-| 20,000 pies | 40 nudos | 56 nudos
-| 30,000 pies | 40 nudos | 64 nudos
-| 40,000 pies | 40 nudos | 72 nudos
+| 1 000 pies | 40 nudos | 41 nudos
+| 10 000 pies | 40 nudos | 48 nudos
+| 20 000 pies | 40 nudos | 56 nudos
+| 30 000 pies | 40 nudos | 64 nudos
+| 40 000 pies | 40 nudos | 72 nudos
 |===
 
 ====== Velocidad Aerodinámica Calibrada (CAS)
@@ -119,7 +119,7 @@ La TAS es la velocidad real a la que la aeronave se mueve a través del aire. En
 
 El indicador de velocidad aerodinámica proporciona un medio conveniente para gestionar la mayoría de los parámetros de vuelo ya que indica la presión dinámica. Si el indicador de velocidad aerodinámica mostrara la TAS, el piloto necesitaría usar una tarjeta de referencia rápida para buscar la velocidad de {term-stall}, la velocidad de mejor relación de planeo (L/D), y la velocidad de mínimo hundimiento para la altitud actual mientras intenta volar. Afortunadamente, el piloto solo necesita recordar un conjunto de números para la mayoría de los parámetros. Por ejemplo, la Figura 4-8 ilustra que para cada {term-glider}, el piloto solo necesita recordar una velocidad de {term-stall} para todas las altitudes.
 
-Un piloto puede determinar la TAS por dos métodos. El primer método y más preciso implica usar una computadora de vuelo. En este método, el piloto corrige la CAS por variación de temperatura y presión usando la escala de corrección de velocidad aerodinámica en la computadora. El segundo método aproxima la TAS aumentando la IAS actual en un 2 por ciento por cada 1,000 pies sobre el nivel del mar.
+Un piloto puede determinar la TAS por dos métodos. El primer método y más preciso implica usar una computadora de vuelo. En este método, el piloto corrige la CAS por variación de temperatura y presión usando la escala de corrección de velocidad aerodinámica en la computadora. El segundo método aproxima la TAS aumentando la IAS actual en un 2 por ciento por cada 1 000 pies sobre el nivel del mar.
 
 === Marcas del Indicador de Velocidad Aerodinámica
 
@@ -162,10 +162,10 @@ La velocidad de nunca exceder (V~NE~) disminuye con el aumento de altitud debido
 | Altitud (pies)
 | V~NE~ (IAS en nudos)
 
-| Hasta 6,500 | 135
-| 10,000      | 128
-| 13,000      | 121
-| 16,500      | 115
+| Hasta 6 500 | 135
+| 10 000      | 128
+| 13 000      | 121
+| 16 500      | 115
 |===
 
 === Otras Limitaciones de Velocidad Aerodinámica
@@ -205,7 +205,7 @@ Si se usa el ajuste del {term-altimeter} local (la presión local corregida al n
 .Dentro del altímetro.
 image::04/fig-04-12.the-thinnest-hand-with-an-end-shaped-like-a.png[width=600]
 
-El {term-weight} de una columna de aire sobre una ubicación dada crea la presión atmosférica. Al nivel del mar, una columna de aire sobreyacente ejerce una fuerza equivalente a 14.7 libras por pulgada cuadrada, 1013.2 mb, o 29.92 pulgadas de mercurio bajo condiciones estándar. A una altitud más alta, la columna de aire sobreyacente más corta pesa menos y ejerce menos presión. Por lo tanto, la presión atmosférica disminuye con la altitud. A 18,000 pies, la presión atmosférica cae aproximadamente a la mitad de la del nivel del mar. <<fig-04-13>>
+El {term-weight} de una columna de aire sobre una ubicación dada crea la presión atmosférica. Al nivel del mar, una columna de aire sobreyacente ejerce una fuerza equivalente a 14.7 libras por pulgada cuadrada, 1013.2 mb, o 29.92 pulgadas de mercurio bajo condiciones estándar. A una altitud más alta, la columna de aire sobreyacente más corta pesa menos y ejerce menos presión. Por lo tanto, la presión atmosférica disminuye con la altitud. A 18 000 pies, la presión atmosférica cae aproximadamente a la mitad de la del nivel del mar. <<fig-04-13>>
 
 
 [[fig-04-13]]
@@ -238,7 +238,7 @@ Los pilotos de {term-glider}es deben entender las siguientes altitudes:
 
 • {term-indicated-altitude}—altitud leída directamente del {term-altimeter}. Durante el prevuelo, el piloto debe ajustar el {term-altimeter} al ajuste del {term-altimeter} local actual. Si la {term-indicated-altitude} se desvía de la elevación conocida del campo en ±75 pies o más, el piloto no debe volar y debe referir el {term-altimeter} a una estación de reparación con calificación apropiada para evaluación y corrección. El piloto puede usar la {term-indicated-altitude} para despeje de terreno y obstáculos. Sin embargo, la {term-true-altitude} y la {term-indicated-altitude} pueden diferir dependiendo de las condiciones de presión y temperatura.
 
-• {term-true-altitude}—la distancia vertical del {term-glider} sobre el nivel del mar en condiciones atmosféricas estándar (conocida como MSL a menudo expresada de esta manera: 10,900 pies MSL, 5,280 pies MSL, o 940 pies MSL). Las elevaciones de aeropuertos, terreno y obstáculos encontradas en las cartas aeronáuticas se expresan como MSL (altitudes verdaderas).
+• {term-true-altitude}—la distancia vertical del {term-glider} sobre el nivel del mar en condiciones atmosféricas estándar (conocida como MSL a menudo expresada de esta manera: 10 900 pies MSL, 5 280 pies MSL, o 940 pies MSL). Las elevaciones de aeropuertos, terreno y obstáculos encontradas en las cartas aeronáuticas se expresan como MSL (altitudes verdaderas).
 
 • {term-pressure-altitude}—{term-indicated-altitude} con el ajuste del {term-altimeter} ajustado a 29.92. La {term-pressure-altitude} corresponde a la altura sobre el plano de datos estándar, un plano teórico donde la presión de aire es igual a 29.92 inHg. Los pilotos usan la {term-pressure-altitude} para soluciones de computadora para determinar {term-density-altitude}, {term-true-altitude}, y TAS, etc. Cuando vuelan en espacio aéreo clase A, los pilotos ajustan el {term-altimeter} a 29.92.
 
@@ -254,17 +254,17 @@ En un vuelo hecho desde un área de alta presión a un área de baja presión si
 
 Para ajustar el {term-altimeter} para presión no estándar, el piloto ajusta la escala de presión en la ventana del {term-altimeter} (ventana Kollsman) al ajuste de {term-altimeter} local dado o a la elevación del campo. Los ajustes del {term-altimeter} corresponden a la presión de la estación reducida al nivel del mar, expresada en pulgadas de mercurio.
 
-Una estación de reporte toma una medición horaria de la presión atmosférica y corrige este valor a presión a nivel del mar. Estos ajustes del {term-altimeter} reflejan la altura sobre el nivel del mar solo cerca de la estación de reporte. Cuando se vuela por debajo de 18\u00A0000 pies MSL, el piloto debe reajustar el {term-altimeter} a medida que el vuelo progresa de una estación a la siguiente. Cuando se vuela a o por encima de 18\u00A0000 pies MSL, el piloto ajusta el {term-altimeter} a 29,92.
+Una estación de reporte toma una medición horaria de la presión atmosférica y corrige este valor a presión a nivel del mar. Estos ajustes del {term-altimeter} reflejan la altura sobre el nivel del mar solo cerca de la estación de reporte. Cuando se vuela por debajo de 18 000 pies MSL, el piloto debe reajustar el {term-altimeter} a medida que el vuelo progresa de una estación a la siguiente. Cuando se vuela a o por encima de 18 000 pies MSL, el piloto ajusta el {term-altimeter} a 29,92.
 
-Cuando se vuela sobre terreno montañoso alto, ciertas condiciones atmosféricas pueden hacer que el {term-altimeter} indique una altitud de 1\u00A0000 pies o más por encima de la {term-true-altitude}. Por esta razón, el piloto debe volar con un margen de altitud aumentada—no solo por posible error del {term-altimeter}, sino también por corrientes descendentes, que pueden ocurrir si se encuentran vientos fuertes.
+Cuando se vuela sobre terreno montañoso alto, ciertas condiciones atmosféricas pueden hacer que el {term-altimeter} indique una altitud de 1 000 pies o más por encima de la {term-true-altitude}. Por esta razón, el piloto debe volar con un margen de altitud aumentada—no solo por posible error del {term-altimeter}, sino también por corrientes descendentes, que pueden ocurrir si se encuentran vientos fuertes.
 
 Un vuelo de travesía desde TSA Gliderport, Midlothian, Texas, hasta Winston Airport, Snyder, Texas, vía Stephens County Airport, Breckenridge, Texas, ilustra el uso de los ajustes del {term-altimeter}. Antes del lanzamiento desde TSA Gliderport, el piloto recibe el ajuste de {term-altimeter} local actual de 29,85 y ajusta el {term-altimeter} a este valor. La indicación varía ligeramente de la elevación conocida del aeropuerto de 660 pies debido a un ligero error de calibración del {term-altimeter}.
 
-Cuando está sobre Stephens County Airport, el piloto recibe un ajuste de {term-altimeter} de área actual de 29,94 y aplica este ajuste al {term-altimeter}. Antes de entrar en el {term-pattern} en Winston Airport, el piloto recibe un nuevo ajuste de {term-altimeter} de 29,69 del Sistema Automatizado de Observación Meteorológica (AWOS - Automated Weather Observing System). Si el piloto desea entrar en el {term-pattern} aproximadamente a 1\u00A0000 pies sobre el terreno, y si la elevación del campo de Winston Airport es de 2\u00A0430 pies MSL, el piloto debe usar una {term-indicated-altitude} de 3\u00A0400 pies.
+Cuando está sobre Stephens County Airport, el piloto recibe un ajuste de {term-altimeter} de área actual de 29,94 y aplica este ajuste al {term-altimeter}. Antes de entrar en el {term-pattern} en Winston Airport, el piloto recibe un nuevo ajuste de {term-altimeter} de 29,69 del Sistema Automatizado de Observación Meteorológica (AWOS - Automated Weather Observing System). Si el piloto desea entrar en el {term-pattern} aproximadamente a 1 000 pies sobre el terreno, y si la elevación del campo de Winston Airport es de 2 430 pies MSL, el piloto debe usar una {term-indicated-altitude} de 3 400 pies.
 
-.2,430 pies + 1,000 pies = 3,430 pies, redondeado a 3,400 pies
+.2 430 pies + 1 000 pies = 3 430 pies, redondeado a 3 400 pies
 
-Para ilustrar, suponga que una distracción hizo que el piloto descuidara el ajuste para el ajuste del {term-altimeter} de Winston Airport y continuara usando el ajuste de Stephens County Airport de 29,94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3\u00A0400 pies y el {term-altimeter} indicaría aproximadamente 2 680 pies al aterrizar o 250 pies más alto que la elevación del campo.
+Para ilustrar, suponga que una distracción hizo que el piloto descuidara el ajuste para el ajuste del {term-altimeter} de Winston Airport y continuara usando el ajuste de Stephens County Airport de 29,94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3 400 pies y el {term-altimeter} indicaría aproximadamente 2 680 pies al aterrizar o 250 pies más alto que la elevación del campo.
 
 .Ajuste de {term-altimeter} real = 29,94
 
@@ -272,15 +272,15 @@ Para ilustrar, suponga que una distracción hizo que el piloto descuidara el aju
 
 .Diferencia =0,25
 
-Una pulgada de presión es igual a aproximadamente 1\u00A0000 pies de altitud.
+Una pulgada de presión es igual a aproximadamente 1 000 pies de altitud.
 
-.0,25 × 1\u00A0000 pies = 250 pies
+.0,25 × 1 000 pies = 250 pies
 
 En este escenario, el piloto, aunque bajo, podría volar un ángulo de {term-approach} visual exitoso a la zona de {term-landing}. El piloto debe ajustar el ángulo visual a la zona de {term-landing} para compensar la altitud más baja. Sin embargo, el riesgo de un accidente aumenta debido a la altitud incorrecta de entrada al circuito. Por ejemplo, el {term-glider} podría golpear un obstáculo en la trayectoria de vuelo si no es visto por el piloto. Si el piloto no reajusta el {term-altimeter}, el siguiente auxiliar de memoria ilustra lo que puede suceder _«De alto a bajo—cuidado abajo»_.
 
 ==== Efecto de la Temperatura No Estándar
 
-Las variaciones en la temperatura del aire también afectan el {term-altimeter}. En un día cálido, el aire pesa menos por unidad de volumen que en un día frío. Por ejemplo, el nivel de presión al que el {term-altimeter} indica 10\u00A0000 pies ocurre a una altitud más alta en un día cálido que bajo condiciones estándar. En un día frío, la indicación de 10\u00A0000 pies se mueve más abajo. El ajuste hecho por el piloto para compensar la presión no estándar no compensa la temperatura no estándar. Si se considera el despeje de terreno u obstáculos durante la selección de una {term-true-altitude} de crucero, particularmente a altitudes más altas, el piloto debe considerar este efecto. Una temperatura más fría que el estándar coloca el {term-glider} más cerca del terreno para una {term-true-altitude} dada, y el piloto debe usar una altitud más alta para proporcionar un despeje de terreno adecuado. <<fig-04-17>>
+Las variaciones en la temperatura del aire también afectan el {term-altimeter}. En un día cálido, el aire pesa menos por unidad de volumen que en un día frío. Por ejemplo, el nivel de presión al que el {term-altimeter} indica 10 000 pies ocurre a una altitud más alta en un día cálido que bajo condiciones estándar. En un día frío, la indicación de 10 000 pies se mueve más abajo. El ajuste hecho por el piloto para compensar la presión no estándar no compensa la temperatura no estándar. Si se considera el despeje de terreno u obstáculos durante la selección de una {term-true-altitude} de crucero, particularmente a altitudes más altas, el piloto debe considerar este efecto. Una temperatura más fría que el estándar coloca el {term-glider} más cerca del terreno para una {term-true-altitude} dada, y el piloto debe usar una altitud más alta para proporcionar un despeje de terreno adecuado. <<fig-04-17>>
 
 
 [[fig-04-17]]
@@ -422,7 +422,7 @@ Los {term-glider}es no propulsados usualmente no tienen instrumentos giroscópic
 
 == Medidor de G
 
-Un medidor de G montado en el panel registra fuerzas G positivas de ascensos y giros, así como fuerzas G negativas al descender o empujar desde un ascenso. Durante el vuelo recto, no acelerado en aire tranquilo, el medidor de G registra un factor de carga de 1 G (1.0 veces la fuerza de gravedad). Durante el vuelo en aire turbulento, el {term-glider} y el piloto experimentan cargas G mayores o menores que 1 G al encontrar corrientes ascendentes o descendentes.
+Un medidor de G montado en el panel registra fuerzas G positivas de ascensos y giros, así como fuerzas G negativas al descender o empujar desde un ascenso. Durante el vuelo recto, no acelerado en aire tranquilo, el medidor de G registra un factor de carga de 1 G (1,0 veces la fuerza de gravedad). Durante el vuelo en aire turbulento, el {term-glider} y el piloto experimentan cargas G mayores o menores que 1 G al encontrar corrientes ascendentes o descendentes.
 
 Cada tipo de {term-glider} puede soportar una carga G máxima positiva especificada y una carga G máxima negativa especificada. Las limitaciones operativas, como se describen en el GFM/POH o en placas, son la fuente definitiva para esta información. Exceder las cargas límite permitidas puede resultar en deformación de la estructura del {term-glider}. En casos extremos, exceder las cargas límite permisibles puede causar falla estructural del {term-glider}. El medidor de G permite al piloto monitorear las cargas G de momento a momento durante el vuelo acrobático y durante el vuelo en aire turbulento. La mayoría de los medidores de G también registran y muestran la carga G máxima positiva y la carga G máxima negativa encontradas durante el vuelo. Las cargas G máximas positivas y negativas registradas pueden reiniciarse ajustando el knob de control del medidor de G. <<fig-04-29>>
 
@@ -449,7 +449,7 @@ Aunque los {term-glider}es están exentos de llevar transpondedores y transmisor
 
 == Código de Transpondedor
 
-La Administración Federal de Aviación (FAA - Federal Aviation Administration) asignó el código de transpondedor 1202 para uso por {term-glider}es no en contacto con control de tráfico aéreo (ATC - Air Traffic Control) a partir del 7 de marzo de 2012. Efectivo el 1 de noviembre de 2021 (JO 7110.66G), la FAA enmendó esta práctica para incluir {term-glider}es en contacto con ATC. Los pilotos de {term-glider}es operando en áreas con un acuerdo con ATC local para usar un código diferente deben contactar al patrocinador del acuerdo para orientación.
+La Administración Federal de Aviación (FAA - Federal Aviation Administration) asignó el código de transpondedor 1202 para uso por {term-glider}es no en contacto con control de tráfico aéreo (ATC - Air Traffic Control) a partir del 7 de marzo de 2012. Efectivo el 1 de noviembre de 2021 (JO 7110,66G), la FAA enmendó esta práctica para incluir {term-glider}es en contacto con ATC. Los pilotos de {term-glider}es operando en áreas con un acuerdo con ATC local para usar un código diferente deben contactar al patrocinador del acuerdo para orientación.
 
 === Definiciones
 

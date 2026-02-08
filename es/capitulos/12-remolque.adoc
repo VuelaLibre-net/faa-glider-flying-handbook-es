@@ -185,7 +185,7 @@ El reglamento no prohíbe aterrizar con el {term-tow-rope} sujeto; sin embargo, 
 
 1. Librar obstrucciones por más de la longitud del {term-tow-rope} según se indica en el {term-altimeter} compensa el retraso del instrumento.
 
-2. El {term-landing} con el {term-tow-rope} sujeto no debe ocurrir a menos que se use un campo de al menos 2,500 pies de longitud con aproximaciones despejadas.
+2. El {term-landing} con el {term-tow-rope} sujeto no debe ocurrir a menos que se use un campo de al menos 2 500 pies de longitud con aproximaciones despejadas.
 
 3. Arrastrar el {term-tow-rope} en un campo de césped usualmente no causa abrasión excesiva. La abrasión de suelo duro o pistas pavimentadas invita a una falla temprana del {term-tow-rope}.
 

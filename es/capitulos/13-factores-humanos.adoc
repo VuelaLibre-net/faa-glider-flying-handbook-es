@@ -136,7 +136,7 @@ A medida que empeora la hipoxia, el campo de visión del piloto comienza a estre
 
 ==== Tratamiento de la Hipoxia
 
-El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que aumenta la altitud por encima de 10,000 pies, los síntomas de la hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
+El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que aumenta la altitud por encima de 10 000 pies, los síntomas de la hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
 
 
 [[fig-13-05]]
@@ -161,7 +161,7 @@ El malestar durante un descenso termina cuando suficiente aire fluye hacia el o�
 
 El buceo con tanque somete al cuerpo a presión aumentada, que disuelve más nitrógeno en los tejidos y fluidos corporales. La reducción de presión atmosférica que acompaña al volar puede producir problemas físicos para los buzos con tanque cuando pequeñas burbujas de nitrógeno se forman dentro del cuerpo a medida que el gas sale de solución. Estas burbujas pueden causar una condición dolorosa y potencialmente incapacitante llamada enfermedad por descompresión (bends).
 
-El entrenamiento de buceo enfatiza cómo prevenir la enfermedad por descompresión al subir a la superficie de un cuerpo de agua. Sin embargo, el nitrógeno en exceso puede permanecer en los fluidos tisulares por varias horas después de terminar un buceo. Un piloto que bucea con tanque puede experimentar la enfermedad por descompresión desde tan bajo como 8,000 pies MSL, con severidad creciente a medida que aumenta la altitud. Como se indica en el Manual de Información Aeronáutica (AIM), el tiempo mínimo recomendado entre buceo con tanque sin paradas de descompresión y volar es de 12 horas, mientras que el tiempo mínimo recomendado entre buceo con paradas de descompresión y volar es de 24 horas.
+El entrenamiento de buceo enfatiza cómo prevenir la enfermedad por descompresión al subir a la superficie de un cuerpo de agua. Sin embargo, el nitrógeno en exceso puede permanecer en los fluidos tisulares por varias horas después de terminar un buceo. Un piloto que bucea con tanque puede experimentar la enfermedad por descompresión desde tan bajo como 8 000 pies MSL, con severidad creciente a medida que aumenta la altitud. Como se indica en el Manual de Información Aeronáutica (AIM), el tiempo mínimo recomendado entre buceo con tanque sin paradas de descompresión y volar es de 12 horas, mientras que el tiempo mínimo recomendado entre buceo con paradas de descompresión y volar es de 24 horas.
 
 === Desorientación Espacial
 
@@ -206,9 +206,9 @@ Los pilotos pueden usar un paracaídas para emergencias. Un empacador de paraca�
 
 === Oxígeno Suplementario
 
-Los vuelos de vela de gran altitud requieren el uso de oxígeno suplementario. En algunas partes del país, la vela ocurre rutinariamente hasta una base de nubes de 16,000 a 18,000 pies en {term-thermal}s. El vuelo usando ondas montañosas puede llevar a vuelo a altitudes de más de 30,000 pies en Estados Unidos.
+Los vuelos de vela de gran altitud requieren el uso de oxígeno suplementario. En algunas partes del país, la vela ocurre rutinariamente hasta una base de nubes de 16 000 a 18 000 pies en {term-thermal}s. El vuelo usando ondas montañosas puede llevar a vuelo a altitudes de más de 30 000 pies en Estados Unidos.
 
-La respiración suministra oxígeno a la sangre y remueve dióxido de carbono. En cada respiración a 18,000 pies, el piloto respira solo la mitad de oxígeno que a nivel del mar. La reacción automática del piloto sin un suministro adecuado de oxígeno involucraría respirar dos veces más rápido. Esta hiperventilación, o respiración excesiva, resultaría en eliminar demasiado dióxido de carbono de la sangre.
+La respiración suministra oxígeno a la sangre y remueve dióxido de carbono. En cada respiración a 18 000 pies, el piloto respira solo la mitad de oxígeno que a nivel del mar. La reacción automática del piloto sin un suministro adecuado de oxígeno involucraría respirar dos veces más rápido. Esta hiperventilación, o respiración excesiva, resultaría en eliminar demasiado dióxido de carbono de la sangre.
 
 El 14 CFR, parte 91, sección 91.211, dicta los requisitos de tiempo y altitud para el uso de oxígeno suplementario. Antes del uso de oxígeno suplementario, el sistema debe revisarse por disponibilidad de oxígeno y flujo. El piloto puede usar la lista de verificación PRICE:
 
@@ -244,7 +244,7 @@ image::13/fig-13-11.nasal-cannula.png[width=600]
 
 ==== Sistema de Demanda de Pulso Electrónico (EDS)
 
-El EDS entrega pulsos de oxígeno compensados por altitud solo cuando el piloto inhala. Típicamente usa 1⁄6 de la cantidad de oxígeno a 1⁄4 del {term-weight} y volumen de sistemas convencionales de flujo constante. <<fig-13-12>> El EDS tiene un barómetro de presión altitud electrónico microelectrónico que determina automáticamente el volumen para cada pulso de oxígeno hasta altitudes de presión de 32,000 pies. El EDS automáticamente pasa a un modo de demanda de pulso de 100 por ciento a altitudes de presión por encima de 32,000 pies.
+El EDS entrega pulsos de oxígeno compensados por altitud solo cuando el piloto inhala. Típicamente usa 1⁄6 de la cantidad de oxígeno a 1⁄4 del {term-weight} y volumen de sistemas convencionales de flujo constante. <<fig-13-12>> El EDS tiene un barómetro de presión altitud electrónico microelectrónico que determina automáticamente el volumen para cada pulso de oxígeno hasta altitudes de presión de 32 000 pies. El EDS automáticamente pasa a un modo de demanda de pulso de 100 por ciento a altitudes de presión por encima de 32 000 pies.
 
 [[fig-13-12]]
 .Sistema de Demanda de Pulso Electrónico (EDS).

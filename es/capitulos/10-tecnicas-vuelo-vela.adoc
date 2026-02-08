@@ -301,17 +301,17 @@ Las calles de nubes pueden formarse sobre la cresta. Un piloto de {term-glider} 
 
 Dado que los pilotos de {term-glider} tienden a buscar las mismas condiciones conocidas buenas para {term-lift}, las {term-thermal}s y áreas de {term-lift} de ladera pueden atraer tráfico significativo. Los pilotos deben mantenerse alerta por conflicto con otras aeronaves incluyendo aviones volando bajo y helicópteros que usan la misma área. Compartir una frecuencia de radio común para llamadas de tráfico puede mejorar la seguridad, pero nada reemplaza un buen escaneo visual para otras aeronaves.
 
-La {term-density-altitude} y la {term-tas} aumentan a medida que el {term-glider} asciende. A 10,000 pies sobre el nivel del mar (MSL), un piloto necesita aproximadamente 40 a 45 por ciento más espacio para maniobrar. El aire es menos denso en 2 por ciento por cada mil pies de altitud ganada. <<fig-10-28>>
+La {term-density-altitude} y la {term-tas} aumentan a medida que el {term-glider} asciende. A 10 000 pies sobre el nivel del mar (MSL), un piloto necesita aproximadamente 40 a 45 por ciento más espacio para maniobrar. El aire es menos denso en 2 por ciento por cada mil pies de altitud ganada. <<fig-10-28>>
 
 [[fig-10-28]]
-.A 10,000' MSL, se necesita 44 por ciento más espacio para completar un giro debido a la altitud de densidad.
+.A 10 000' MSL, se necesita 44 por ciento más espacio para completar un giro debido a la altitud de densidad.
 image::10/fig-10-28.at-10000-msl-44-percent-more-room-is-needed-to.png[width=600]
 
 == Vuelo de Onda
 
 === Nubes
 
-Casi todos los vuelos de {term-glider} de gran altitud usan ondas de sotavento montañosas como la fuente primaria de {term-lift}. Como se cubrió en el Capítulo 9, Vuelo de {term-glider} y Meteorología, los sistemas de onda de sotavento pueden contener turbulencia de rotor separada y flujo de onda suave. El uso de ondas de sotavento para vuelo a vela de travesía ha permitido vuelos que exceden 1,500 millas, con velocidades promedio de más de 100 mph. <<fig-10-29>>
+Casi todos los vuelos de {term-glider} de gran altitud usan ondas de sotavento montañosas como la fuente primaria de {term-lift}. Como se cubrió en el Capítulo 9, Vuelo de {term-glider} y Meteorología, los sistemas de onda de sotavento pueden contener turbulencia de rotor separada y flujo de onda suave. El uso de ondas de sotavento para vuelo a vela de travesía ha permitido vuelos que exceden 1 500 millas, con velocidades promedio de más de 100 mph. <<fig-10-29>>
 
 [[fig-10-29]]
 .Nubes de rotor y de gorro con lenticulares arriba.
@@ -319,17 +319,17 @@ image::10/fig-10-29.rotor-and-cap-nubes-with-lenticulars-above.png[width=600]
 
 === Preparación prevuelo
 
-Áreas especiales dentro de Estados Unidos continental permiten operaciones de {term-glider} en el espacio aéreo Clase A por encima de 18,000 pies MSL bajo reglas de vuelo visual (VFR). El Control de Tráfico Aéreo (ATC) puede abrir una «ventana de onda» a una altitud específica en tiempos especificados. Cada ventana de onda tiene su propio conjunto de procedimientos acordados con ATC a través de una Carta de Acuerdo. Los pilotos de {term-glider} deben entender las disposiciones especiales en la carta de acuerdo antes de volar dentro de una ventana de onda.
+Áreas especiales dentro de Estados Unidos continental permiten operaciones de {term-glider} en el espacio aéreo Clase A por encima de 18 000 pies MSL bajo reglas de vuelo visual (VFR). El Control de Tráfico Aéreo (ATC) puede abrir una «ventana de onda» a una altitud específica en tiempos especificados. Cada ventana de onda tiene su propio conjunto de procedimientos acordados con ATC a través de una Carta de Acuerdo. Los pilotos de {term-glider} deben entender las disposiciones especiales en la carta de acuerdo antes de volar dentro de una ventana de onda.
 
-Un vuelo por encima de 18,000 pies MSL requiere preparación extensiva de pre-vuelo. Los pilotos que planean vuelos de onda a altitudes más bajas pueden reducir la lista de elementos de preparación en consecuencia.
+Un vuelo por encima de 18 000 pies MSL requiere preparación extensiva de pre-vuelo. Los pilotos que planean vuelos de onda a altitudes más bajas pueden reducir la lista de elementos de preparación en consecuencia.
 
-El 14 CFR parte 91, sección 91.211 requiere que los tripulantes usen oxígeno suplementario para vuelo de más de 30 minutos por encima de altitudes de presión de cabina de 12,500 pies MSL hasta e incluyendo 14,000 pies MSL. Mientras esté por encima de altitudes de presión de cabina de 14,000 pies MSL, los tripulantes requeridos deben usar oxígeno suplementario. Los pilotos deben inspeccionar pre-vuelo el sistema de oxígeno, entender los signos de hipoxia, conocer sus reacciones a gran altitud, y considerar usar oxígeno a altitudes bien por debajo de 12,500 pies MSL.
+El 14 CFR parte 91, sección 91.211 requiere que los tripulantes usen oxígeno suplementario para vuelo de más de 30 minutos por encima de altitudes de presión de cabina de 12 500 pies MSL hasta e incluyendo 14 000 pies MSL. Mientras esté por encima de altitudes de presión de cabina de 14 000 pies MSL, los tripulantes requeridos deben usar oxígeno suplementario. Los pilotos deben inspeccionar pre-vuelo el sistema de oxígeno, entender los signos de hipoxia, conocer sus reacciones a gran altitud, y considerar usar oxígeno a altitudes bien por debajo de 12 500 pies MSL.
 
 Cuando se vuela a altas altitudes, el aire exterior enfría el interior del {term-glider}. La luz solar puede ayudar a calentar porciones de la parte superior del cuerpo del piloto, pero las extremidades inferiores y los pies del piloto normalmente se enfrían. Los pilotos que planean para un vuelo largo en aire frío deben usar ropa interior {term-thermal}, calcetines calientes y zapatos y tener guantes fácilmente accesibles durante el vuelo. La ropa con componentes de calefacción eléctrica recargables puede proporcionar horas de calor.
 
-La {term-tas} (TAS) se vuelve una consideración a altitudes más altas. Para evitar flameo, algunos manuales de {term-glider}es reducen la velocidad de nunca exceder (V~NE~) como función de la altitud. Por ejemplo, el Manual del Piloto (POH) para un {term-glider} común de dos asientos, lista una V~NE~ a nivel del mar de 135 nudos. Sin embargo, a 19,000 pies MSL, se reduce a solo 109 nudos. Los pilotos deben estudiar el POH del {term-glider} cuidadosamente para cualquier limitación de {term-ias}.
+La {term-tas} (TAS) se vuelve una consideración a altitudes más altas. Para evitar flameo, algunos manuales de {term-glider}es reducen la velocidad de nunca exceder (V~NE~) como función de la altitud. Por ejemplo, el Manual del Piloto (POH) para un {term-glider} común de dos asientos, lista una V~NE~ a nivel del mar de 135 nudos. Sin embargo, a 19 000 pies MSL, se reduce a solo 109 nudos. Los pilotos deben estudiar el POH del {term-glider} cuidadosamente para cualquier limitación de {term-ias}.
 
-Algunos vuelos podrían no contactar la onda. El hundimiento en el lado descendiente de una onda de sotavento puede alcanzar 2,000 pies por minuto o más. Además, perder la onda a menudo significa un viaje de regreso a través del rotor turbulento. Para reducir la carga de trabajo y el estrés, los pilotos deben calcular altitudes mínimas de retorno desde varias ubicaciones antes del vuelo. Además, los pilotos deben planificar para los peores escenarios y considerar las opciones de {term-off-field-landing} disponibles si la altitud mínima de retorno planeada resulta inadecuada.
+Algunos vuelos podrían no contactar la onda. El hundimiento en el lado descendiente de una onda de sotavento puede alcanzar 2 000 pies por minuto o más. Además, perder la onda a menudo significa un viaje de regreso a través del rotor turbulento. Para reducir la carga de trabajo y el estrés, los pilotos deben calcular altitudes mínimas de retorno desde varias ubicaciones antes del vuelo. Además, los pilotos deben planificar para los peores escenarios y considerar las opciones de {term-off-field-landing} disponibles si la altitud mínima de retorno planeada resulta inadecuada.
 
 El piloto debe comenzar con una inspección de pre-vuelo normal del {term-glider}. Además, el piloto debe revisar el lubricante usado en las conexiones de control. Algunos lubricantes se vuelven rígidos cuando están fríos. El piloto debe asegurar que el {term-glider} esté totalmente libre de exceso de agua antes de volar a temperaturas de congelación. Esto incluye revisar la parte inferior del {term-fuselage} donde el agua puede congelarse alrededor de los cables del timón y elevador y revisar spoilers o {term-airbrake}s por agua de lluvia o de nieve derretida despejada del {term-wing}. El agua en los spoilers o {term-airbrake}s a la altitud puede congelarse y hacerlos difíciles o imposibles de abrir. Revisar los spoilers o {term-airbrake}s ocasionalmente durante un ascenso alto ayuda a evitar este problema.
 
@@ -375,7 +375,7 @@ image::10/fig-10-33.possible-soltado-and-separation-on-a-onda-remolque.png[width
 
 === Volando en la Onda
 
-Después del contacto con la onda, la mejor técnica para utilizar la {term-lift} depende de la extensión de la {term-lift} y la fuerza del viento. En {term-lift} débil, el piloto debe permanecer con el ascenso lento inicial ya que mejor {term-lift} debería desarrollarse a medida que el ascenso continúa. En otros momentos, el {term-variometer} puede marcar 1,000 pies por minuto directamente después de la liberación del remolque.
+Después del contacto con la onda, la mejor técnica para utilizar la {term-lift} depende de la extensión de la {term-lift} y la fuerza del viento. En {term-lift} débil, el piloto debe permanecer con el ascenso lento inicial ya que mejor {term-lift} debería desarrollarse a medida que el ascenso continúa. En otros momentos, el {term-variometer} puede marcar 1 000 pies por minuto directamente después de la liberación del remolque.
 
 En vientos fuertes (40 nudos o más), el piloto debe encontrar la porción más fuerte de la onda, apuntar contra el viento, y ajustar la velocidad para que el {term-glider} permanezca en la {term-lift} fuerte. La mejor {term-lift} usualmente ocurre a lo largo del lado de barlovento de la nube de rotor o justo a barlovento de cualquiera lenticulares. En el mejor escenario, la velocidad requerida coincide con la velocidad de mínimo hundimiento del {term-glider}. En vientos bastante fuertes, el piloto vuela más rápido que el mínimo hundimiento para mantener la posición en la mejor {term-lift}. Bajo esas condiciones, volar más lento permitiría que el {term-glider} derive a sotavento (volar hacia atrás sobre el terreno) y hacia el lado descendiente de la onda. Una vez en el lado descendiente, regresar al lado ascendiente requiere penetrar un viento de frente fuerte. Con {term-lift} fuerte, vientos más fuertes en niveles altos podrían empujar el {term-glider} a sotavento, así que el piloto debe monitorear la posición relativa a nubes de rotor o lenticulares. Si no existen nubes, el piloto puede usar referencias terrestres cercanas y aumentar la velocidad con la altitud según sea necesario para mantener la posición en la mejor {term-lift}. En un viento no lo suficientemente fuerte para que el {term-glider} permanezca estacionario sobre el terreno, el {term-glider} se mueve lentamente a barlovento fuera de la mejor {term-lift}. Si esto ocurre, el piloto debe girar ligeramente de un rumbo directamente contra el viento, derivar lentamente a sotavento hacia mejor {term-lift}, y girar de regreso contra el viento antes de derivar demasiado lejos. <<fig-10-34>>
 
@@ -423,9 +423,9 @@ Algunos de los peligros y precauciones asociados con el vuelo de onda incluyen:
 
 • Atrapamiento encima de nubes—ondas húmedas asociadas con gran formación de nubes pueden cerrar brechas debajo del {term-glider} y el piloto debe descender en condiciones visuales antes de quedar atrapado. Si atrapado encima de nubes, el piloto podría intentar una espiral benigna a través de la nube como maniobra de emergencia solo si previamente explorada y estable para el {term-glider} en condiciones visuales.
 
-• Vuelo nocturno inadvertido—al atardecer, el sol brillante todavía existe a 25,000 pies mientras el suelo debajo se vuelve bastante oscuro.
+• Vuelo nocturno inadvertido—al atardecer, el sol brillante todavía existe a 25 000 pies mientras el suelo debajo se vuelve bastante oscuro.
 
-Conocer la hora de la puesta de sol real. Incluso a un descenso promedio de 1,000 pies por minuto, toma 20 minutos perder 20,000 pies.
+Conocer la hora de la puesta de sol real. Incluso a un descenso promedio de 1 000 pies por minuto, toma 20 minutos perder 20 000 pies.
 
 Precaución: Los vuelos bajo una nube de rotor pueden encontrar altas tasas de hundimiento y los pilotos deben aproximar esas áreas con precaución.
 

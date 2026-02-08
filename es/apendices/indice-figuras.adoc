@@ -117,7 +117,7 @@ Este apéndice lista todas las figuras del manual organizadas por capítulo.
 * <<fig-06-09,Figura 06-09>>: Materiales de cuerda de remolque
 * <<fig-06-10,Figura 06-10>>: Resistencias típicas de cuerda
 * <<fig-06-11,Figura 06-11>>: Un enlace de seguridad. La espuma añadida a la línea de remolque previene la abrasión de la línea de remolque
-* <<fig-06-12,Figura 06-12>>: Requisitos de resistencia de enlace de seguridad asumiendo un enlace de 1,000 lb instalado cerca del planeador
+* <<fig-06-12,Figura 06-12>>: Requisitos de resistencia de enlace de seguridad asumiendo un enlace de 1 000 lb instalado cerca del planeador
 * <<fig-06-13,Figura 06-13>>: Gancho de remolque tipo Schweizer
 * <<fig-06-14,Figura 06-14>>: Gancho Tost
 * <<fig-06-15,Figura 06-15>>: Lista de verificación de inspección pre-vuelo de planeador
