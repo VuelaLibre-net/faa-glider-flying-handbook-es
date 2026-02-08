@@ -145,6 +145,7 @@ table:
   font_size: 9.5
   border_color: #D1D5DB
   border_width: 0.5
+  border_radius: 4
   head:
     font_style: bold
     font_color: #FFFFFF
