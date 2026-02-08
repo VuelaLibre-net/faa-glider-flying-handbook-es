@@ -1,8 +1,6 @@
 [[cap03]]
 = Aerodinámica del Vuelo
 
-
-
 == Introducción
 
 Este capítulo trata sobre la aerodinámica relacionada con los {term-glider}es. Un piloto que comprende cómo las fuerzas afectan a un {term-glider} puede operar de manera segura mientras maximiza el rendimiento. Para obtener una descripción más detallada de la aerodinámica general, consulte el Pilot's Handbook of Aeronautical Knowledge (FAA-H-808-25).
@@ -17,13 +15,17 @@ image::03/fig-03-01.three-axes-of-rotation-with-each-perpendicular-to.png[width=
 
 === Fuerzas del Vuelo
 
+[float-group]
+--
+
 Tres fuerzas actúan sobre un {term-glider} sin motor mientras está en vuelo: {term-lift-force}, {term-drag} y {term-weight}. El {term-thrust} es otra fuerza del vuelo que permite a los {term-glider}es {term-self-launch}s despegar por sí mismos y mantenerse en el aire cuando las condiciones de vuelo a vela disminuyen.
 
 [[fig-03-02]]
 .Componentes vectoriales de la sustentación, empuje, resistencia y peso (gravedad).
-image::03/fig-03-02.vector-componentes-of-sustentacion-empuje.png[width=600]
+image::03/fig-03-02.vector-componentes-of-sustentacion-empuje.png[width=400,float=right]
 
 Las leyes de Newton y el principio de Bernoulli explican la {term-lift-force} desde diferentes perspectivas. La tercera ley de Newton describe la interacción general entre la atmósfera y el {term-wing}, mientras que el principio de Bernoulli analiza el efecto del aire cambiando de velocidad al moverse alrededor del {term-wing}. Juntas, estos modelos proporcionan una explicación válida de la {term-lift-force}.
+--
 
 ==== Tercera Ley de Newton
 
@@ -33,15 +35,11 @@ Según la Tercera Ley del Movimiento de Newton, para cada acción hay una reacci
 
 El Principio de Bernoulli establece que a medida que aumenta la velocidad de un fluido en movimiento (líquido o gas), la presión dentro del fluido disminuye. Este principio explica lo que ocurre cuando el aire se mueve más rápido para pasar sobre la parte superior de un {term-wing} posicionada en un ángulo respecto al {term-relative-wind}, es decir, el viento resultante del movimiento hacia adelante del {term-glider}. El aumento en la velocidad del aire al viajar sobre la parte superior del {term-wing} produce una caída en la presión contra el {term-wing}, y la mayor presión del aire debajo del {term-wing} resulta en una fuerza de {term-lift-force} neta.
 
-=== {term-lift-force}
+=== Sustentación (Lift)
 
-Existe una relación matemática entre la {term-lift-force}, el coeficiente de {term-lift-force}, la velocidad del aire, la densidad del aire y el tamaño del {term-wing}.
+A mathematical relationship exists between lift, the coefficient of lift, airspeed, air density, and the size of the wing. Figure 3-3 shows the relationship.
 
-[[fig-03-03]]
-.Muestra la relación.
-image::03/fig-03-03.sustentacion-equation.png[width=600]
-
-(Este número adimensional es la relación entre la presión de {term-lift-force} y la presión dinámica y el área. Es específico para una forma particular de perfil alar, y, por debajo de la {term-stall}, es proporcional al {term-aoa}.)
+Existe una relación matemática entre la {term-lift-force}, el coeficiente de {term-lift-force}, la velocidad del aire, la densidad del aire y el tamaño del {term-wing}. La figura <<fig-03-03>> muestra la relación.
 
 [[fig-03-03]]
 .Ecuación de Sustentación.
@@ -59,17 +57,21 @@ La fuerza que resiste el movimiento del {term-glider} consiste en la {term-drag}
 
 === Fórmula de {term-lift-force}
 
-=== {term-drag}
+=== {Term-drag}
 
-==== {term-drag} Parásita
+La fuerza que se opone al movimiento del planeador se compone de la resistencia parásita y la resistencia inducida, que se combinan para formar la resistencia total.
 
-La {term-drag} parásita incluye la {term-drag} del aire a cualquier objeto que se mueve a través de ella creada por la fricción de la superficie, la forma del objeto y los patrones de interferencia dentro del flujo de aire alrededor del objeto. Aunque los diseños de {term-wing}s de {term-glider}es generan {term-drag} inducida y parásita mínima, otras partes del {term-glider} pueden crear {term-drag} parásita significativa. La {term-drag} parásita aumenta con el cuadrado de la velocidad. En términos simples, si la velocidad del {term-glider} se duplica, la {term-drag} parásita aumenta cuatro veces. <<fig-03-05>>
+==== {Term-drag} Parásita
 
+[float-group]
+--
 [[fig-03-05]]
 .Resistencia parásita versus velocidad.
-image::03/fig-03-05.parasite-resistencia-versus-velocidad.png[width=600]
+image::03/fig-03-05.parasite-resistencia-versus-velocidad.png[width=400,float=right]
+La {term-drag} parásita incluye la {term-drag} del aire a cualquier objeto que se mueve a través de ella creada por la fricción de la superficie, la forma del objeto y los patrones de interferencia dentro del flujo de aire alrededor del objeto. Aunque los diseños de {term-wing}s de {term-glider}es generan {term-drag} inducida y parásita mínima, otras partes del {term-glider} pueden crear {term-drag} parásita significativa. La {term-drag} parásita aumenta con el cuadrado de la velocidad. En términos simples, si la velocidad del {term-glider} se duplica, la {term-drag} parásita aumenta cuatro veces. <<fig-03-05>>
+--
 
-==== {term-drag} Inducida
+==== {Term-drag} Inducida
 
 A medida que el {term-aoa} aumenta, más flujo de aire circula alrededor de la punta del {term-wing} desde la superficie inferior a la superior, lo que crea vórtices de punta de {term-wing} más grandes. <<fig-03-06>>. El panel 4 de la Figura 3-6, representa el {term-wing} moviéndose horizontalmente en vuelo nivelado. El vector de {term-lift-force} vertical se desarrolla perpendicular a la trayectoria de vuelo y al {term-relative-wind} que se aproxima. Dado que los vórtices de punta de {term-wing} causan una divergencia descendente del {term-relative-wind} promedio desde la trayectoria de vuelo, el vector de {term-lift-force} total, que es perpendicular al {term-relative-wind} promedio, se inclina hacia atrás. Esta inclinación hacia atrás del vector de {term-lift-force} total crea {term-drag} inducida como subproducto de la {term-lift-force}. Los factores que aumentan el ángulo entre la {term-lift-force} total y los vectores de {term-lift-force} vertical, como la baja velocidad del aire y el alto {term-aoa}, aumentan la {term-drag} inducida.
 
@@ -79,23 +81,25 @@ image::03/fig-03-06.induced-resistencia-from-the-production-of.png[width=600]
 
 A medida que un {term-glider} vuela más rápido, las {term-wing}s pueden generar la misma cantidad de {term-lift-force} con un {term-aoa} reducido. El aumento de velocidad con un {term-aoa} menor reduce la inclinación hacia atrás del vector de {term-lift-force} total y reduce la {term-drag} inducida.
 
-==== {term-drag} Total
+==== {Term-drag} Total
 
-La curva de {term-drag} total representa la combinación de {term-drag} parásita e inducida y varía con la velocidad del aire. <<fig-03-07>>
-
+[group-float]
+--
 [[fig-03-07]]
 .Resistencia parásita, resistencia inducida y resistencia total versus velocidad del aire.
-image::03/fig-03-07.parasite-resistencia-induced-resistencia-and.png[width=600]
+image::03/fig-03-07.parasite-resistencia-induced-resistencia-and.png[width=400,float=right]
+La curva de {term-drag} total representa la combinación de {term-drag} parásita e inducida y varía con la velocidad del aire. <<fig-03-07>>
+--
 
 === Efecto Suelo
 
 Operar dentro de una envergadura de {term-wing} por encima del suelo modifica el patrón de flujo de aire tridimensional alrededor del {term-glider}. Este efecto suelo disminuye el flujo descendente, reduce el tamaño y efecto de los vórtices de punta de {term-wing}, reduce la {term-drag} inducida y resulta en un vuelo más eficiente. Este efecto permite que el {term-glider} vuele a una velocidad más baja durante el {term-takeoff} y reduce la tasa de descenso de un {term-glider} al aterrizar.
 
-=== {term-weight}
+=== {Term-weight}
 
 El {term-weight} resulta de la fuerza de gravedad actuando sobre la masa del {term-glider}. Los componentes verticales tanto de la {term-lift-force} como de la {term-drag} actúan en oposición al vector de {term-weight}, que actúa verticalmente hacia abajo a través del centro de gravedad.
 
-=== {term-thrust}
+=== {Term-thrust}
 
 Los {term-glider}es sin motor utilizan una fuente externa, como un avión de remolque, un torno o un vehículo, para lanzarse. Una vez liberados, estos {term-glider}es mantienen el movimiento hacia adelante a partir de la conversión de energía potencial a energía cinética. Un {term-glider} desciende a través del aire circundante para hacer esta conversión. Los {term-glider}es con motor tienen motores, que pueden proporcionar {term-thrust} para el lanzamiento o para sostener el vuelo.
 
@@ -119,15 +123,15 @@ La forma (planta) de las {term-wing}s afecta la cantidad de {term-lift-force} y 
 
 [[fig-03-09]]
 .Plantas de alas de planeadores
-image::03/fig-03-09.planforms-of-planeador-alas.png[width=600]
+image::03/fig-03-09.planforms-of-planeador-alas.png[width=550]
 
-=== {term-aspect-ratio}
+=== {Term-aspect-ratio}
 
 Dividir la envergadura (de punta de {term-wing} a punta de {term-wing}) por la cuerda media del {term-wing} determina el {term-aspect-ratio} para un {term-glider}. Las {term-wing}s de los {term-glider}es tienen un alto {term-aspect-ratio}, como se muestra en la Figura 3-10, que genera {term-lift-force} significativa a bajos {term-aoa}s con {term-drag} inducida mínima.
 
 [[fig-03-10]]
 .Alargamiento
-image::03/fig-03-10.aspect-relacion.png[width=600]
+image::03/fig-03-10.aspect-relacion.png[width=550]
 
 === Winglets
 
@@ -157,25 +161,27 @@ El POH del {term-glider} lista un rango aceptable para el CG, y el piloto normal
 
 === Estabilidad Lateral
 
-La estabilidad lateral describe la tendencia del {term-glider} a retornar al vuelo con {term-wing}s niveladas después de un desplazamiento. <<fig-03-13>> Por ejemplo, debido a una ráfaga de viento, el {term-glider} puede comenzar a rodar. El {term-aoa} aumenta ligeramente en un {term-wing} a medida que se mueve hacia abajo, lo que causa que la {term-lift-force} aumente en ese {term-wing}. En el {term-wing} ascendente, el efecto opuesto disminuye la {term-lift-force}. Esta diferencial de {term-lift-force} tiende a amortiguar el movimiento de rolido pero no devuelve el {term-glider} a nivel de {term-wing}s.
-
+[group-float]
+--
 [[fig-03-13]]
 .Estabilidad lateral.
-image::03/fig-03-13.lateral-stability.png[width=600]
+image::03/fig-03-13.lateral-stability.png[width=300,float=right]
+La estabilidad lateral describe la tendencia del {term-glider} a retornar al vuelo con {term-wing}s niveladas después de un desplazamiento. <<fig-03-13>> Por ejemplo, debido a una ráfaga de viento, el {term-glider} puede comenzar a alabear (rodar). El {term-aoa} aumenta ligeramente en un {term-wing} a medida que se mueve hacia abajo, lo que causa que la {term-lift-force} aumente en ese {term-wing}. En el {term-wing} ascendente, el efecto opuesto disminuye la {term-lift-force}. Esta diferencial de {term-lift-force} tiende a amortiguar el movimiento de alabeo pero no devuelve el {term-glider} a nivel de {term-wing}s.
+
 
 El {term-dihedral} del {term-wing}, el ángulo hacia arriba de las {term-wing}s desde la horizontal, añade a la estabilidad lateral. A medida que el {term-glider} rueda, el {term-wing} descendente tiene un componente de {term-lift-force} vertical mayor que el {term-wing} ascendente. Esta diferencia en el componente de {term-lift-force} vertical entre cada {term-wing} tiende a rodar el {term-glider} de regreso hacia el vuelo nivelado. <<fig-03-14>>
 
 [[fig-03-14]]
 .Ángulo de diedro.
 image::03/fig-03-14.dihedral-angle.png[width=600]
-
+--
 === Flutter
 
 Debido a la flexibilidad del diseño del {term-wing} de un {term-glider}, el {term-wing} puede oscilar rápidamente o vibrar (flutter) a altas velocidades del aire. Además, la holgura en las superficies de control también puede resultar en vibración de las superficies de control de vuelo cerca de la velocidad máxima. El balanceo inadecuado de las superficies de control también puede causar vibración. Dado que la vibración prolongada puede causar falla estructural, el piloto debe reducir la velocidad del aire suficientemente para detener cualquier vibración.
 
 == Oscilación Inducida por el Piloto (PIO)
 
-Las oscilaciones inducidas por el piloto (PIOs) pueden ocurrir cuando el piloto aplica presión excesiva en los controles que causa un sobrepaso de la actitud de vuelo deseada. Si el piloto mueve repetidamente los controles de un lado a otro usando presión excesiva, el {term-glider} oscila continuamente más allá de la actitud deseada. Las oscilaciones pueden aumentar en amplitud y pueden causar {term-stall} de control. Aunque las PIOs ocurren más probablemente como oscilaciones de cabeceo, también pueden ocurrir oscilaciones de rolido y guiñada inducidas.
+Las oscilaciones inducidas por el piloto (PIOs) pueden ocurrir cuando el piloto aplica presión excesiva en los controles que causa un sobrepaso de la actitud de vuelo deseada. Si el piloto mueve repetidamente los controles de un lado a otro usando presión excesiva, el {term-glider} oscila continuamente más allá de la actitud deseada. Las oscilaciones pueden aumentar en amplitud y pueden causar {term-stall} de control. Aunque las PIOs ocurren más probablemente como oscilaciones de cabeceo, también pueden ocurrir oscilaciones de alabeo y guiñada inducidas.
 
 Aunque las PIOs pueden ocurrir en cualquier momento, a menudo surgen durante el entrenamiento primario. Los pilotos experimentados también pueden inducir PIOs cuando vuelan un {term-glider} de marca y modelo desconocidos. Por esa razón y antes de volar un {term-glider} desconocido, todos los pilotos deben revisar y comprender las características de vuelo de ese {term-glider}.
 
@@ -183,37 +189,43 @@ Si se encuentran con PIOs, el piloto debe recordar que los cambios en la actitud
 
 Durante los primeros momentos de la carrera de {term-takeoff}, a medida que el flujo de aire comienza a impactar las superficies de control, se requiere un desplazamiento considerable de los controles de vuelo para afectar la trayectoria de vuelo del {term-glider}. El piloto también experimenta un mayor tiempo de retardo de control debido a la efectividad reducida del control a baja velocidad. A medida que el {term-glider} acelera, la respuesta aerodinámica mejora, el tiempo de retardo disminuye y las PIOs se vuelven menos probables.
 
-== Vuelo de Giro
+== Vuelo en virajes
 
-Cualquier objeto en movimiento continúa en línea recta hasta que una fuerza cause un cambio de dirección. Un piloto crea fuerza de giro usando los alerones para rodar el {term-glider} de modo que la dirección del vector de {term-lift-force} total se incline. Cuando un {term-glider} rueda lejos del nivel de {term-wing}s, la {term-lift-force} se divide en dos componentes. El componente vertical se opone al {term-weight}, mientras que el otro actúa horizontalmente para oponerse a la fuerza centrífuga. <<fig-03-15>>
-
+[float-group]
+--
 [[fig-03-15]]
 .Fuerzas en un giro inclinado.
-image::03/fig-03-15.forces-in-a-banked-giro.png[width=600]
+image::03/fig-03-15.forces-in-a-banked-giro.png[width=300,float=right]
+Cualquier objeto en movimiento continúa en línea recta hasta que una fuerza cause un cambio de dirección. Un piloto crea fuerza de giro usando los alerones para alabear el {term-glider} de modo que la dirección del vector de {term-lift-force} total se incline. Cuando un {term-glider} rueda lejos del nivel de {term-wing}s, la {term-lift-force} se divide en dos componentes. El componente vertical se opone al {term-weight}, mientras que el otro actúa horizontalmente para oponerse a la fuerza centrífuga. <<fig-03-15>>
+
 
 Al usar el componente horizontal de la {term-lift-force} para girar el {term-glider}, ocurrirá una reducción en el componente vertical de la {term-lift-force} a menos que el piloto aumente la presión hacia atrás en la palanca de control, aumentando el {term-aoa} y la {term-lift-force} total producida por las {term-wing}s. Aumentar la {term-lift-force} total puede restaurar el componente vertical de la {term-lift-force} al requerido para contrarrestar el {term-weight}. De lo contrario, la tasa de descenso en la masa de aire aumenta.
+--
 
 === Factor de Carga
 
-Cualquier fuerza aplicada a un {term-glider} para desviar su vuelo de una línea recta produce un esfuerzo en su estructura; el factor de carga describe esta fuerza. El factor de carga es la relación entre la carga total de aire actuando sobre el {term-glider} y el {term-weight} del {term-glider}. El factor de carga puede ser positivo o negativo y depende de la trayectoria de vuelo actual. Las unidades de factor de carga a menudo usan "G," una fuerza gravitacional equivalente. Un factor de carga de uno, o 1 G, representa condiciones en las que la {term-lift-force} es igual al {term-weight}. Un {term-glider} en vuelo con un factor de carga de uno no significa necesariamente que el {term-glider} está en vuelo recto y nivelado, sino más bien que la {term-lift-force} total es igual a la del vuelo recto y nivelado no acelerado.
+Cualquier fuerza aplicada a un {term-glider} para desviar su vuelo de una línea recta produce un esfuerzo en su estructura; el factor de carga describe esta fuerza. El factor de carga es la relación entre la carga total de aire actuando sobre el {term-glider} y el {term-weight} del {term-glider}. El factor de carga puede ser positivo o negativo y depende de la trayectoria de vuelo actual. Las unidades de factor de carga a menudo usan «G», una fuerza gravitacional equivalente. Un factor de carga de uno, o 1 G, representa condiciones en las que la {term-lift-force} es igual al {term-weight}. Un {term-glider} en vuelo con un factor de carga de uno no significa necesariamente que el {term-glider} está en vuelo recto y nivelado, sino más bien que la {term-lift-force} total es igual a la del vuelo recto y nivelado no acelerado.
 
+[float-group]
+--
+[[fig-03-16]]
+.Las cargas colocadas en un planeador mientras se mantiene una tasa constante de descenso con respecto al aire circundante aumentan a medida que el ángulo de inclinación aumenta.
+image::03/fig-03-16.the-loads-placed-on-a-planeador-while-maintaining.png[width=300,float=right]
 Al someter a un {term-glider} a Gs adicionales en una recuperación de picado, cualquier persona en el {term-glider} siente una sensación de presionar contra el asiento con una fuerza igual al número de Gs multiplicado por el {term-weight} de la persona. Además, las extremidades de la persona requieren fuerza muscular adicional para resistir la fuerza descendente. Los Gs añadidos pueden afectar el flujo sanguíneo al cerebro, afectar la capacidad cognitiva y causar desorientación.
+--
 
 El factor de carga aumenta rápidamente a medida que el ángulo de inclinación aumenta durante un giro cuando el piloto aumenta la {term-lift-force} para evitar un cambio en la velocidad vertical. Desde una perspectiva aerodinámica, los factores de carga preocupan al piloto por dos razones distintas:
 
+
 1. Por debajo de cierta velocidad del aire, ocurre una {term-stall} antes de que el piloto pueda crear una sobrecarga peligrosa en la estructura del {term-glider}.
 
-2. Por encima de cierta velocidad del aire, conocida como velocidad de maniobra o V*A*, un piloto puede generar suficiente {term-lift-force} para crear una sobrecarga peligrosa en la estructura del {term-glider}.
-
-En un giro a velocidad constante, el piloto tira hacia atrás de la palanca para proporcionar la {term-lift-force} extra necesaria para mantener una velocidad vertical constante en la masa de aire. La carga y la velocidad de {term-stall} aumentan significativamente a medida que los ángulos de inclinación exceden los 30 grados. <<fig-03-16>> y <<fig-03-17>>
-
-[[fig-03-16]]
-.Las cargas colocadas en un planeador mientras se mantiene una tasa constante de descenso con respecto al aire circundante aumentan a medida que el ángulo de inclinación aumenta.
-image::03/fig-03-16.the-loads-placed-on-a-planeador-while-maintaining.png[width=600]
+2. Por encima de cierta velocidad del aire, conocida como velocidad de maniobra o V_A_, un piloto puede generar suficiente {term-lift-force} para crear una sobrecarga peligrosa en la estructura del {term-glider}.
 
 [[fig-03-17]]
 .Un ángulo de inclinación de 60° causa un aumento del 41 por ciento en la velocidad de pérdida del planeador.
-image::03/fig-03-17.a-60-deg-angle-of-inclinacion-causes-a-41-percent.png[width=600]
+image::03/fig-03-17.a-60-deg-angle-of-inclinacion-causes-a-41-percent.png[width=300,float=right]
+
+En un giro a velocidad constante, el piloto tira hacia atrás de la palanca para proporcionar la {term-lift-force} extra necesaria para mantener una velocidad vertical constante en la masa de aire. La carga y la velocidad de {term-stall} aumentan significativamente a medida que los ángulos de inclinación exceden los 30 grados. <<fig-03-16>> y <<fig-03-17>>
 
 === Tasa de Giro
 
@@ -231,31 +243,31 @@ image::03/fig-03-18.a-gliders-radius-of-giro-as-compared-to-angle-of.png[width=6
 
 Al entrar en un giro, el {term-aileron} bajado en el {term-wing} exterior produce más {term-lift-force} para ese {term-wing}. Dado que la {term-drag} inducida es un subproducto de la {term-lift-force}, el {term-wing} exterior también experimenta más {term-drag} que el {term-wing} interior. Esto causa una guiñada adversa, una tendencia de guiñada hacia el exterior del giro. El uso apropiado del timón corrige cualquier guiñada adversa causada por la {term-drag} del {term-aileron}. Debido a que las {term-wing}s de los {term-glider}es proporcionan un brazo de palanca largo para la guiñada adversa, el piloto puede necesitar usar presión sustancial en el timón durante un giro coordinado. La cantidad de guiñada adversa puede sorprender a un piloto que hace la transición desde un avión, y la cantidad de guiñada adversa será mucho mayor que la experimentada en un avión típico.
 
-Aunque el vuelo descoordinado disminuye el rendimiento, los pilotos pueden usar diferentes técnicas de resbalón para empinizar el ángulo de descenso o para contrarrestar un {term-crosswind} durante el {term-landing}.
+Aunque el vuelo descoordinado disminuye el rendimiento, los pilotos pueden usar diferentes técnicas de resbale para empinizar el ángulo de descenso o para contrarrestar un {term-crosswind} durante el {term-landing}.
 
-Debido a la ubicación del tubo pitot y las ventanas estáticas, los indicadores de velocidad del aire en algunos {term-glider}es pueden tener un error considerable cuando el piloto coloca el {term-glider} en un resbalón. El piloto debe reconocer este error y saber cómo realizar resbalones basándose en indicaciones secundarias como la actitud del {term-glider}, el sonido del flujo de aire y la sensación de los controles de vuelo.
+Debido a la ubicación del tubo pitot y las ventanas estáticas, los indicadores de velocidad del aire en algunos {term-glider}es pueden tener un error considerable cuando el piloto coloca el {term-glider} en un resbale. El piloto debe reconocer este error y saber cómo realizar resbalones basándose en indicaciones secundarias como la actitud del {term-glider}, el sonido del flujo de aire y la sensación de los controles de vuelo.
 
-Un piloto normalmente coordina las entradas de timón y {term-aileron} durante un giro. Usar muy poco timón, o si el timón se aplica demasiado tarde, resulta en un resbalón. Demasiado timón, o timón aplicado antes que el {term-aileron}, resulta en un derrape. Tanto los derrapes como los resbalones exponen un lado del {term-fuselage} al {term-relative-wind}, creando {term-drag} parásita adicional.
+Un piloto normalmente coordina las entradas de timón y {term-aileron} durante un giro. Usar muy poco timón, o si el timón se aplica demasiado tarde, resulta en un resbale. Demasiado timón, o timón aplicado antes que el {term-aileron}, resulta en un derrape. Tanto los derrapes como los resbalones exponen un lado del {term-fuselage} al {term-relative-wind}, creando {term-drag} parásita adicional.
 
-=== Resbalones
+=== Resbales
 
-==== Resbalón hacia Adelante (Forward Slip)
+==== Resbale hacia adelante (Forward Slip)
 
-Durante un resbalón hacia adelante, la trayectoria horizontal del {term-glider} sobre el suelo permanece sin cambios. <<fig-03-19>> Este resbalón usa vuelo descoordinado para disipar energía lo cual aumenta la tasa de descenso sin aumentar la velocidad hacia adelante del {term-glider}. Los pilotos a veces usan resbalones hacia adelante durante una {term-approach} de {term-landing} sobre obstáculos o para {term-landing}s de campo corto cuando es necesario disipar altitud que ya no se necesita para un margen de seguridad durante la {term-approach}.
+Durante un resbale hacia adelante, la trayectoria horizontal del {term-glider} sobre el suelo permanece sin cambios. <<fig-03-19>> Este resbale usa vuelo descoordinado para disipar energía lo cual aumenta la tasa de descenso sin aumentar la velocidad hacia adelante del {term-glider}. Los pilotos a veces usan resbalones hacia adelante durante una {term-approach} de {term-landing} sobre obstáculos o para {term-landing}s de campo corto cuando es necesario disipar altitud que ya no se necesita para un margen de seguridad durante la {term-approach}.
 
 [[fig-03-19]]
-.Una comparación de un resbalón hacia adelante con un resbalón lateral.
+.Una comparación de un resbale hacia adelante con un resbale lateral.
 image::03/fig-03-19.a-comparison-of-a-forward-slip-to-a-sideslip.png[width=600]
 
-Para entrar en un resbalón desde vuelo recto, el piloto baja el {term-wing} en el lado hacia el cual ocurre el resbalón usando los alerones. Simultáneamente, el piloto guiña la nariz de la aeronave en la dirección opuesta aplicando suficiente timón opuesto para que el eje longitudinal del {term-glider} ya no se alinee con su trayectoria de vuelo. El piloto debe guiñar el {term-glider} de modo que mantenga la trayectoria original sobre el suelo y levantar la nariz suficientemente para evitar que la velocidad del aire aumente. En vientos cruzados, iniciar un resbalón bajando el {term-wing} en el lado de barlovento del {term-glider} proporciona un control de trayectoria más estable. El piloto discontinúa un resbalón nivelando las {term-wing}s y liberando suave y simultáneamente la presión del timón, mientras reajusta la actitud de cabeceo para un planeo normal.
+Para entrar en un resbale desde vuelo recto, el piloto baja el {term-wing} en el lado hacia el cual ocurre el resbale usando los alerones. Simultáneamente, el piloto guiña la nariz de la aeronave en la dirección opuesta aplicando suficiente timón opuesto para que el eje longitudinal del {term-glider} ya no se alinee con su trayectoria de vuelo. El piloto debe guiñar el {term-glider} de modo que mantenga la trayectoria original sobre el suelo y levantar la nariz suficientemente para evitar que la velocidad del aire aumente. En vientos cruzados, iniciar un resbale bajando el {term-wing} en el lado de barlovento del {term-glider} proporciona un control de trayectoria más estable. El piloto discontinúa un resbale nivelando las {term-wing}s y liberando suave y simultáneamente la presión del timón, mientras reajusta la actitud de cabeceo para un planeo normal.
 
 Nota: Los resbalones hacia adelante con {term-flap}s del {term-wing} extendidos no deben ocurrir si las instrucciones de operación del fabricante prohíben tal operación.
 
-==== Resbalón Lateral (Sideslip)
+==== Resbale Lateral (Sideslip)
 
-Durante {term-landing}s con {term-crosswind}, un resbalón lateral puede contrarrestar la deriva del viento y permite que el {term-glider} toque tierra con su eje longitudinal paralelo a la dirección del movimiento. El piloto usa presión en el timón para mantener el eje longitudinal del {term-glider} paralelo a la trayectoria deseada sobre el suelo, pero la trayectoria sobre el suelo puede cambiar dependiendo de la cantidad de inclinación. Para realizar un resbalón lateral, el piloto baja el {term-wing} de barlovento y aplica simultáneamente suficiente timón opuesto para mantener la alineación de la nariz.
+Durante {term-landing}s con {term-crosswind}, un resbale lateral puede contrarrestar la deriva del viento y permite que el {term-glider} toque tierra con su eje longitudinal paralelo a la dirección del movimiento. El piloto usa presión en el timón para mantener el eje longitudinal del {term-glider} paralelo a la trayectoria deseada sobre el suelo, pero la trayectoria sobre el suelo puede cambiar dependiendo de la cantidad de inclinación. Para realizar un resbale lateral, el piloto baja el {term-wing} de barlovento y aplica simultáneamente suficiente timón opuesto para mantener la alineación de la nariz.
 
-=== {term-stall}s
+=== {Term-stall}s
 
 Una {term-stall} ocurre cuando el ángulo entre la {term-chord-line} y el {term-relative-wind} excede el AOA crítico. <<fig-03-20>> Una {term-stall} resulta en una reducción en la {term-lift-force}, aunque las {term-wing}s todavía soportan algo del {term-weight} de la aeronave durante una {term-stall}. Las {term-stall}s pueden ocurrir a cualquier velocidad del aire y en cualquier actitud de vuelo.
 
@@ -267,17 +279,17 @@ Muchos factores afectan la velocidad de {term-stall} de un {term-glider}, incluy
 
 Los factores ambientales también afectan la velocidad de {term-stall}. La acumulación de nieve, hielo o escarcha en las superficies del {term-wing} puede aumentar el {term-weight} del {term-wing} y perturbar el flujo de aire, ambos de los cuales aumentan la velocidad de {term-stall}. La turbulencia tiene un impacto en la velocidad de {term-stall} de un {term-glider} porque las ráfagas verticales cambian la dirección del {term-relative-wind} y aumentan abruptamente el AOA. Durante el {term-landing} en condiciones de ráfagas, los pilotos normalmente aumentan la velocidad de {term-approach} en la mitad de la diferencia entre el viento constante y el valor de ráfaga para mantener un margen seguro por encima de la {term-stall}. Por ejemplo, si los vientos fueran de 10 nudos con ráfagas a 16 nudos, sería prudente agregar 3 nudos ((16 – 10) ÷ 2 = 3) a la velocidad de {term-approach}.
 
-=== {term-spin}s
+=== {Term-spin}s
 
 Una {term-spin} se desarrolla a partir de una {term-stall} agravada que resulta en que el {term-glider} descienda en una trayectoria helicoidal o de sacacorchos. Una {term-spin} puede desarrollarse como una maniobra de vuelo compleja y descoordinada en la que un {term-wing} se estanca más que la otra. Al entrar en una {term-spin}, el {term-wing} más completamente estancada usualmente cae antes que la otra, y la nariz de la aeronave guiña en la dirección del {term-wing} baja. En este escenario de {term-spin}, el {term-wing} ascendente experimenta más {term-lift-force} y menos {term-drag}. <<fig-03-21>> El {term-wing} opuesta se mueve hacia abajo y hacia atrás debido a menos {term-lift-force} y {term-drag} aumentada.
 
 [[fig-03-21]]
-.Los coeficientes relativos de sustentación y resistencia para cada ala durante una barrena, que generan sustentación diferencial y resistencia e inducen rolido y guiñada.
+.Los coeficientes relativos de sustentación y resistencia para cada ala durante una barrena, que generan sustentación diferencial y resistencia e inducen alabeo y guiñada.
 image::03/fig-03-21.the-relative-coefficients-of-sustentacion-and.png[width=600]
 
 Las {term-spin}s pueden ocurrir después de que un {term-glider} se estanca en vuelo descoordinado con flujo de aire desigual sobre las {term-wing}s. Cualquier {term-spin} resultante usualmente ocurre en la dirección de la aplicación del timón. La entrada, forma del {term-wing} y CG usualmente determinan el tipo de {term-spin} que resulta de un estancamiento del {term-wing} descoordinado. Los pilotos de {term-glider}es deben comprender las características de {term-stall} para cualquier {term-glider} que vuele, y las técnicas de recuperación de {term-spin} como se describe en el GFM, si es aplicable, o en el Capítulo 8, Procedimientos Anormales y de Emergencia.
 
-La clasificación de {term-spin}s incluye tres categorías, como se muestra en la Figura 3-22. La entrada, forma del {term-wing} y CG usualmente determinan el tipo de {term-spin} que resulta de un estancamiento del {term-wing} descoordinado. El tipo más común de {term-spin} es la {term-spin} erguida o erecta, que mantiene un movimiento ligeramente con nariz hacia abajo de rolido y guiñada en la misma dirección. Un segundo tipo de {term-spin}, una {term-spin} invertida, involucra a la aeronave girando boca abajo con la guiñada y el rolido ocurriendo en direcciones opuestas. En un tercer tipo de {term-spin}, la {term-spin} plana, el {term-glider} guiña alrededor del eje vertical en una actitud de cabeceo casi nivel con el horizonte. Una {term-spin} plana a menudo tiene una tasa de rotación muy alta con una recuperación difícil o imposible. Un {term-glider} correctamente cargado no debe entrar en una {term-spin} plana. Las {term-spin}s planas también pueden ser invertidas.
+La clasificación de {term-spin}s incluye tres categorías, como se muestra en la Figura 3-22. La entrada, forma del {term-wing} y CG usualmente determinan el tipo de {term-spin} que resulta de un estancamiento del {term-wing} descoordinado. El tipo más común de {term-spin} es la {term-spin} erguida o erecta, que mantiene un movimiento ligeramente con nariz hacia abajo de alabeo y guiñada en la misma dirección. Un segundo tipo de {term-spin}, una {term-spin} invertida, involucra a la aeronave girando boca abajo con la guiñada y el alabeo ocurriendo en direcciones opuestas. En un tercer tipo de {term-spin}, la {term-spin} plana, el {term-glider} guiña alrededor del eje vertical en una actitud de cabeceo casi nivel con el horizonte. Una {term-spin} plana a menudo tiene una tasa de rotación muy alta con una recuperación difícil o imposible. Un {term-glider} correctamente cargado no debe entrar en una {term-spin} plana. Las {term-spin}s planas también pueden ser invertidas.
 
 [[fig-03-22]]
 .Tres tipos de barrenas.

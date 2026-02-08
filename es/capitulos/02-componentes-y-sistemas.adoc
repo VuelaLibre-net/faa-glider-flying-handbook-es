@@ -25,15 +25,15 @@ Las {term-wing}s de los {term-glider}es incorporan varios componentes que ayudan
 
 === Alerones
 
-Los alerones se unen al borde de salida exterior de cada {term-wing}. Cuando el piloto mueve el control del {term-aileron} hacia la derecha del centro, el {term-aileron} derecho se desvía hacia arriba <<fig-02-02>> y el {term-aileron} izquierdo se desvía hacia abajo. En vuelo y con aire fluyendo sobre las {term-wing}s, estas desviaciones resultan en mayor {term-lift-force} en el {term-wing} izquierda y menor {term-lift-force} en el {term-wing} derecha. La mayor {term-lift-force} en el {term-wing} izquierda y la menor {term-lift-force} en el {term-wing} derecha aplican una fuerza para inclinar el {term-glider} hacia la derecha. Mover el control del {term-aileron}
-
-hacia la izquierda del centro desvía el {term-aileron} derecho hacia abajo y el {term-aileron} izquierdo hacia arriba. Esto aplica una fuerza para inclinar el {term-glider} hacia la izquierda.
-
+[float-group]
+--
 [[fig-02-02]]
 .Los alerones cambian la curvatura o el perfil del ala y aumentan o disminuyen la sustentación.
-image::02/fig-02-02.the-alerones-change-the-camber-or-curvature-of.png[width=600]
+image::02/fig-02-02.the-alerones-change-the-camber-or-curvature-of.png[width=250,float=right]
+Los alerones se unen al borde de salida exterior de cada {term-wing}. Cuando el piloto mueve el control del {term-aileron} hacia la derecha del centro, el {term-aileron} derecho se desvía hacia arriba <<fig-02-02>> y el {term-aileron} izquierdo se desvía hacia abajo. En vuelo y con aire fluyendo sobre las {term-wing}s, estas desviaciones resultan en mayor {term-lift-force} en el {term-wing} izquierda y menor {term-lift-force} en el {term-wing} derecha. La mayor {term-lift-force} en el {term-wing} izquierda y la menor {term-lift-force} en el {term-wing} derecha aplican una fuerza para inclinar el {term-glider} hacia la derecha. Mover el control del {term-aileron} hacia la izquierda del centro desvía el {term-aileron} derecho hacia abajo y el {term-aileron} izquierdo hacia arriba. Esto aplica una fuerza para inclinar el {term-glider} hacia la izquierda.
+--
 
-=== Dispositivos de {term-lift-force}/Arrastre
+=== Dispositivos de {term-lift-force}/resistencia (Lift/Drag)
 
 Los {term-glider}es pueden usar otros dispositivos que modifican la {term-lift-force}/{term-drag} del {term-wing}. Estos dispositivos de alta {term-drag} incluyen spoilers, {term-airbrake}s y {term-flap}s. <<fig-02-03>> Los spoilers se extienden desde la superficie superior de las {term-wing}s, alteran el flujo de aire y hacen que el {term-glider} descienda más rápidamente. Los {term-airbrake}s se extienden desde ambas superficies superior e inferior del {term-wing} y aumentan la {term-drag}. Algunos {term-glider}es de alto rendimiento tienen limitaciones de velocidad con {term-airbrake}s para evitar daños estructurales.
 
@@ -41,39 +41,40 @@ Los {term-glider}es pueden usar otros dispositivos que modifican la {term-lift-f
 .Tipos de dispositivos de sustentación/resistencia.
 image::02/fig-02-03.types-of-lift-drag-devices.png[width=600]
 
-Algunos {term-glider}es tienen {term-flap}s instalados en el borde de salida de cada {term-wing} hacia adentro de los alerones, que pueden cambiar la {term-lift-force}, la {term-drag} y la tasa de descenso. El piloto generalmente puede ajustar los {term-flap}s en tres posiciones diferentes: en bandera, bajados o negativos. <<fig-02-04>> Cuando el piloto ajusta los {term-flap}s para desviarlos hacia abajo en vuelo, el {term-wing} produce más {term-lift-force} y {term-drag}. Por otro lado, una posición de {term-flap} negativa resulta en {term-lift-force} y {term-drag} reducidos.
-
+[float-group]
+--
 [[fig-02-04]]
 .Posiciones de los flaps.
-image::02/fig-02-04.flap-positions.png[width=600]
+image::02/fig-02-04.flap-positions.png[width=300,float=right]
+Algunos {term-glider}es tienen {term-flap}s instalados en el borde de salida de cada {term-wing} hacia adentro de los alerones, que pueden cambiar la {term-lift-force}, la {term-drag} y la tasa de descenso. El piloto generalmente puede ajustar los {term-flap}s en tres posiciones diferentes: en bandera, bajados o negativos. <<fig-02-04>> Cuando el piloto ajusta los {term-flap}s para desviarlos hacia abajo en vuelo, el {term-wing} produce más {term-lift-force} y {term-drag}. Por otro lado, una posición de {term-flap} negativa resulta en {term-lift-force} y {term-drag} reducidos.
+
+--
 
 == Empenaje
 
 El empenaje incluye toda la sección de cola, que consiste en las superficies fijas, como el {term-tailplane} y el {term-fin}, y las superficies móviles, como el {term-elevator} o estabilizador móvil, el {term-rudder} y cualquier aleta compensadora. Las dos superficies fijas actúan como las plumas de una flecha para estabilizar el {term-glider} y ayudar a mantener una trayectoria recta a través del aire. <<fig-02-05>>
 
+[float-group]
+--
 [[fig-02-05]]
 .Componentes del empenaje.
-image::02/fig-02-05.empenaje-componentes.png[width=600]
+image::02/fig-02-05.empenaje-componentes.png[width=350,float=right]
 
 El {term-rudder} se une a la parte trasera del {term-fin}, y el piloto lo desvía usando los pedales. El {term-rudder} controla la guiñada y la coordinación de giros durante el vuelo.
 
-Durante el vuelo recto y nivelado, la desviación controlada por el piloto del {term-elevator} aplica una fuerza para mover la nariz del {term-glider} hacia arriba y hacia abajo con respecto al horizonte. Levantar la nariz resulta en menor velocidad mientras que bajar la nariz aumenta la velocidad. En lugar de un {term-tailplane} y un {term-elevator}, algunos {term-glider}es usan un estabilizador móvil, donde toda la superficie horizontal de cola pivota hacia arriba y
-
-hacia abajo en un punto de bisagra central. Los pilotos se refieren al movimiento del {term-elevator} o estabilizador móvil como control de la actitud de cabeceo del {term-glider}.
-
-Cuando el piloto desvía los controles de cabeceo desde la posición neutra, el flujo de aire empuja hacia atrás contra los controles. Esta fuerza opuesta proporciona retroalimentación al piloto pero también aumenta la carga de trabajo del piloto. El piloto puede aliviar la presión del control del {term-elevator} usando el {term-trim} del {term-elevator}. Un sistema de trim común consiste en una pequeña lengüeta ajustable controlada por el piloto en el borde de salida del {term-elevator}. <<fig-02-06>> Las aletas compensadoras vienen en diseños servo y anti-servo. <<fig-02-07>> Una aleta compensadora servo alivia la presión. El piloto puede ajustar una aleta compensadora anti-servo, generalmente instalado en estabilizadores móviles, para aliviar la presión, pero también se autoajusta para aumentar la presión opuesta cuando el piloto aumenta el desplazamiento del estabilizador móvil.
+Durante el vuelo recto y nivelado, la desviación controlada por el piloto del {term-elevator} aplica una fuerza para mover la nariz del {term-glider} hacia arriba y hacia abajo con respecto al horizonte. Levantar la nariz resulta en menor velocidad mientras que bajar la nariz aumenta la velocidad. En lugar de un {term-tailplane} y un {term-elevator}, algunos {term-glider}es usan un estabilizador móvil, donde toda la superficie horizontal de cola pivota hacia arriba y hacia abajo en un punto de bisagra central. Los pilotos se refieren al movimiento del {term-elevator} o estabilizador móvil como control de la actitud de cabeceo del {term-glider}.
 
 [[fig-02-06]]
 .Componentes adicionales del empenaje.
-image::02/fig-02-06.additional-empenaje-componentes.png[width=600]
-
+image::02/fig-02-06.additional-empenaje-componentes.png[width=300,float=right]
+Cuando el piloto desvía los controles de cabeceo desde la posición neutra, el flujo de aire empuja hacia atrás contra los controles. Esta fuerza opuesta proporciona retroalimentación al piloto pero también aumenta la carga de trabajo del piloto. El piloto puede aliviar la presión del control del {term-elevator} usando el {term-trim} del {term-elevator}. Un sistema de trim común consiste en una pequeña lengüeta ajustable controlada por el piloto en el borde de salida del {term-elevator}. <<fig-02-06>> Las aletas compensadoras vienen en diseños servo y anti-servo. <<fig-02-07>> Una aleta compensadora servo alivia la presión. El piloto puede ajustar una aleta compensadora anti-servo, generalmente instalado en estabilizadores móviles, para aliviar la presión, pero también se autoajusta para aumentar la presión opuesta cuando el piloto aumenta el desplazamiento del estabilizador móvil.
 
 
 [[fig-02-07]]
 .Una aleta compensadora anti-servo.
-image::02/fig-02-07.an-anti-servo-tab.png[width=600]
-
-Los diseños de {term-glider}es con cola convencional incorporan el {term-tailplane} montado en la parte inferior del {term-fin}. Los {term-glider}es con cola en T tienen el {term-tailplane} montado en la parte superior del {term-fin} formando una "T". Los empenajes en V tienen dos superficies de cola montadas para formar una "V" que combina los movimientos del {term-elevator} y el timón.
+image::02/fig-02-07.an-anti-servo-tab.png[width=300,float=right]
+Los diseños de {term-glider}es con cola convencional incorporan el {term-tailplane} montado en la parte inferior del {term-fin}. Los {term-glider}es con cola en T tienen el {term-tailplane} montado en la parte superior del {term-fin} formando una «T». Los empenajes en V tienen dos superficies de cola montadas para formar una «V» que combina los movimientos del {term-elevator} y el timón.
+--
 
 == Dispositivos de Gancho de Remolque
 
@@ -87,11 +88,11 @@ image::02/fig-02-08.remolque-gancho-locations.png[width=600]
 
 Mientras que los aviones de remolque proporcionan el medio más común para lanzar un {term-glider} en los Estados Unidos, los {term-glider}es con motor incorporado se han vuelto más comunes.
 
-=== {term-glider}es {term-self-launch}s
+=== {Term-glider}es {term-self-launch}s
 
 Hay dos tipos de {term-glider}es {term-self-launch}s: {term-motorglider}s de turismo (TMG) y {term-glider}es {term-self-launch}s de alto rendimiento.
 
-==== {term-motorglider}s de Turismo (TMG)
+==== {Term-motorglider}s de Turismo (TMG)
 
 Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice de pleno bandeo. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de avión, están certificados en la categoría de {term-glider}.
 
@@ -99,7 +100,7 @@ Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice de
 .Un planeador de motor TMG Grob G109B.
 image::02/fig-02-09.a-grob-g109b-touring-motor-planeador.png[width=600]
 
-==== {term-glider}es de Alto Rendimiento
+==== {Term-glider}es de Alto Rendimiento
 
 Los {term-glider}es {term-self-launch}s de alto rendimiento tienen motores que se retraen en el {term-fuselage} para una {term-drag} mínima. <<fig-02-10>> La hélice puede plegarse o simplemente alinearse con el motor. Esta configuración preserva una configuración de baja {term-drag} suave.
 
@@ -109,7 +110,7 @@ image::02/fig-02-10.a-dg-808b-18-meter-high-performance-planeador-in.png[width=6
 
 === Motores de sostenimiento
 
-Algunos {term-glider}es tienen motores de sostenimiento (también denominados "turbo") propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor de sostenimiento para permanecer en el aire; sin embargo, los motores de sostenimiento no proporcionan suficiente potencia para lanzar el {term-glider} y pueden no tener suficiente potencia para compensar el aire descendente. <<fig-02-11>>
+Algunos {term-glider}es tienen motores de sostenimiento (también denominados «turbo») propulsados ya sea por electricidad o gasolina. Un piloto puede usar un motor de sostenimiento para permanecer en el aire; sin embargo, los motores de sostenimiento no proporcionan suficiente potencia para lanzar el {term-glider} y pueden no tener suficiente potencia para compensar el aire descendente. <<fig-02-11>>
 
 [[fig-02-11]]
 .Un Schleicher ASG-29 E con mástil de motor de sostenimiento de gasolina extendido.

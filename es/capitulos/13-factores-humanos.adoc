@@ -18,7 +18,7 @@ Las actitudes peligrosas llevan a comportamientos peligrosos que incluyen compla
 
 === Complacencia
 
-La complacencia puede ocurrir si un piloto siente una falsa sensación de seguridad sobre los alrededores. Esto podría afectar a un piloto de {term-glider} que solo quiere volar y no comprende los peligros y riesgos asociados. La complacencia también afecta a los pilotos de {term-glider} que ya no se sienten obligados a adherirse a las precauciones de seguridad estándar (por ejemplo, "He hecho esto un millón de veces y no necesito consultar una lista de verificación.").
+La complacencia puede ocurrir si un piloto siente una falsa sensación de seguridad sobre los alrededores. Esto podría afectar a un piloto de {term-glider} que solo quiere volar y no comprende los peligros y riesgos asociados. La complacencia también afecta a los pilotos de {term-glider} que ya no se sienten obligados a adherirse a las precauciones de seguridad estándar (por ejemplo, «He hecho esto un millón de veces y no necesito consultar una lista de verificación»).
 
 Algunas contramedidas incluyen:
 
@@ -292,7 +292,7 @@ La Circular de Asesoramiento (AC) 60-22, Toma de Decisiones Aeronáuticas, propo
 
 La Junta Nacional de Seguridad en el Transporte (NTSB) compila un informe de accidente cada vez que ocurre un accidente de {term-glider} reportable. Las personas interesadas pueden encontrar esta información pública en www.ntsb.gov.
 
-Una persona usando la base de datos de accidentes del NTSB, puede usar su herramienta de consulta proporcionada para realizar una búsqueda simple usando el término "glider" (y otros elementos opcionales) para recuperar informes de accidentes que involucren a {term-glider}es. El detalle en estos informes proporciona una narrativa de circunstancias y eventos que llevaron a cada accidente. Dado que las decisiones del piloto antes y durante el vuelo pueden haber prevenido estos accidentes, una revisión puede ilustrar el concepto de una cadena de accidente. Ese entendimiento debería impulsar a los pilotos a hacer de la seguridad y la mitigación de riesgo una alta prioridad. La Figura 13-13 contiene un resumen de varios informes finales de accidentes de {term-glider} de los últimos años.
+Una persona usando la base de datos de accidentes del NTSB, puede usar su herramienta de consulta proporcionada para realizar una búsqueda simple usando el término «glider» (y otros elementos opcionales) para recuperar informes de accidentes que involucren a {term-glider}es. El detalle en estos informes proporciona una narrativa de circunstancias y eventos que llevaron a cada accidente. Dado que las decisiones del piloto antes y durante el vuelo pueden haber prevenido estos accidentes, una revisión puede ilustrar el concepto de una cadena de accidente. Ese entendimiento debería impulsar a los pilotos a hacer de la seguridad y la mitigación de riesgo una alta prioridad. La Figura 13-13 contiene un resumen de varios informes finales de accidentes de {term-glider} de los últimos años.
 
 
 [[fig-13-13]]

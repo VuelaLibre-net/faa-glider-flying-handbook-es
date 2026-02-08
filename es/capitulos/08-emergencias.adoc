@@ -17,7 +17,7 @@ Los factores ambientales para terminar el remolque incluyen encontrar nubes, rot
 
 === Errores del Piloto
 
-Ejemplos de errores del piloto del remolcador incluyen iniciar el {term-takeoff} antes de que el piloto del {term-glider} dé la señal de listo, usar alabeos pronunciados durante el {term-aerotow} sin el consentimiento previo del piloto del {term-glider}, o el uso frívolo de señales de {term-aerotow}, como "¡soltar inmediatamente!" Para el piloto del {term-glider}, ejemplos de error del piloto incluyen permitir que el {term-glider} se salga de posición durante el remolque, perder de vista al {term-towplane}, o dejar los {term-airbrake}s abiertos durante el {term-takeoff} y ascenso.
+Ejemplos de errores del piloto del remolcador incluyen iniciar el {term-takeoff} antes de que el piloto del {term-glider} dé la señal de listo, usar alabeos pronunciados durante el {term-aerotow} sin el consentimiento previo del piloto del {term-glider}, o el uso frívolo de señales de {term-aerotow}, como «¡soltar inmediatamente!» Para el piloto del {term-glider}, ejemplos de error del piloto incluyen permitir que el {term-glider} se salga de posición durante el remolque, perder de vista al {term-towplane}, o dejar los {term-airbrake}s abiertos durante el {term-takeoff} y ascenso.
 
 ==== Kiting
 
@@ -27,7 +27,7 @@ Una situación peligrosa puede ocurrir durante el {term-takeoff} si el piloto de
 
 Las emergencias relacionadas con {term-airbrake}s a menudo resultan del fallo del piloto para bloquear los {term-airbrake}s en posición cerrada antes del {term-takeoff}. A medida que el {term-glider} acelera por la pista, o poco después de despegar, el flujo de aire despliega los {term-airbrake}s, aumentando considerablemente la {term-drag} del {term-glider}. El piloto puede no notar los {term-airbrake}s abiertos, pero la {term-drag} aumentada puede hacer imposible que el piloto del remolcador ascienda y evite obstáculos. Una liberación por parte del piloto del remolcador deja al {term-glider} bajo al suelo y en una configuración de alta {term-drag}. Si el piloto del {term-glider} no reconoce la situación y cierra los {term-airbrake}s, un {term-landing} inseguro se vuelve probable. Si las condiciones permiten un ascenso continuado, el piloto del remolcador puede mover el {term-rudder} para indicar que algo está mal con el {term-glider}. El piloto del {term-glider} debe diferenciar entre el piloto del remolcador balanceando las {term-wing}s indicando soltar inmediatamente, y el piloto del remolcador moviendo el timón indicando que algo está mal con el {term-glider}, evitando una liberación innecesaria.
 
-Si el tiempo lo permite, el piloto del remolcador puede usar la radio y advertir al piloto del {term-glider} que cierre los {term-airbrake}s. Sin usar radio, el piloto del remolcador puede usar la señal de "Timón Balanceándose" para que el piloto del {term-glider} revise el {term-glider}. El piloto del {term-glider} no debe confundir esta señal con la señal de "Balanceo de {term-wing}s" para que el piloto del {term-glider} suelte el {term-tow-rope}. Este error dejaría al piloto del {term-glider} a baja altitud con los {term-airbrake}s abiertos y haría un {term-landing} seguro muy difícil.
+Si el tiempo lo permite, el piloto del remolcador puede usar la radio y advertir al piloto del {term-glider} que cierre los {term-airbrake}s. Sin usar radio, el piloto del remolcador puede usar la señal de «Timón Balanceándose» para que el piloto del {term-glider} revise el {term-glider}. El piloto del {term-glider} no debe confundir esta señal con la señal de «Balanceo de {term-wing}s» para que el piloto del {term-glider} suelte el {term-tow-rope}. Este error dejaría al piloto del {term-glider} a baja altitud con los {term-airbrake}s abiertos y haría un {term-landing} seguro muy difícil.
 
 === Fallas Mecánicas
 
@@ -78,7 +78,7 @@ image::08/fig-08-06.situations-for-remolque-linea-break-uncommanded.png[width=60
 
 ==== Falla de Remolque después del {term-takeoff} — {term-glider} Incapaz de Regresar al Aeropuerto
 
-Cuando una liberación involuntaria, rotura del {term-tow-rope}, o una señal para soltar del {term-towplane} ocurre en un punto en el que el {term-glider} no tiene pista suficiente directamente hacia adelante para aterrizar ni altitud suficiente (típicamente 200 pies sobre el nivel del suelo) para hacer un giro seguro de regreso al campo, el piloto debe aterrizar el {term-glider} hacia adelante. [Figura 8-6, panel 2] Los pilotos de {term-glider} deben considerar cualquier intento de girar a baja altitud antes de aterrizar como de alto riesgo debido a la probabilidad de arrastrar la punta del {term-wing} en el suelo o entrar en {term-stall} el {term-glider}. Aterrizar hacia adelante y reducir la velocidad del {term-glider} tanto como sea posible antes del {term-touchdown} y rodaje sobre terreno desconocido a menudo proporciona el mejor resultado. Baja velocidad significa bajas fuerzas de impacto, lo que reduce la probabilidad de lesiones del piloto o daño al {term-glider}. Los pilotos de {term-glider} deben mirar a ambos lados y hacia adelante al elegir el mejor área para un {term-off-field-landing}. Aunque más altitud proporciona más alcance durante una emergencia, aterrizar bajo control prevalece sobre llegar a un área de {term-landing} "perfecta" casi dentro de la distancia de planeo.
+Cuando una liberación involuntaria, rotura del {term-tow-rope}, o una señal para soltar del {term-towplane} ocurre en un punto en el que el {term-glider} no tiene pista suficiente directamente hacia adelante para aterrizar ni altitud suficiente (típicamente 200 pies sobre el nivel del suelo) para hacer un giro seguro de regreso al campo, el piloto debe aterrizar el {term-glider} hacia adelante. [Figura 8-6, panel 2] Los pilotos de {term-glider} deben considerar cualquier intento de girar a baja altitud antes de aterrizar como de alto riesgo debido a la probabilidad de arrastrar la punta del {term-wing} en el suelo o entrar en {term-stall} el {term-glider}. Aterrizar hacia adelante y reducir la velocidad del {term-glider} tanto como sea posible antes del {term-touchdown} y rodaje sobre terreno desconocido a menudo proporciona el mejor resultado. Baja velocidad significa bajas fuerzas de impacto, lo que reduce la probabilidad de lesiones del piloto o daño al {term-glider}. Los pilotos de {term-glider} deben mirar a ambos lados y hacia adelante al elegir el mejor área para un {term-off-field-landing}. Aunque más altitud proporciona más alcance durante una emergencia, aterrizar bajo control prevalece sobre llegar a un área de {term-landing} «perfecta» casi dentro de la distancia de planeo.
 
 ==== Falla de Remolque sobre la Altitud de Retorno a la Pista
 
@@ -183,7 +183,7 @@ Errores comunes durante las caídas en espiral incluyen:
 
 • Secuencia inadecuada de aplicaciones de controles.
 
-== {term-spin}s
+== {Term-spin}s
 
 Durante una {term-spin}, el {term-glider} sigue una trayectoria de tornillo hacia abajo. Una entrada en {term-spin} puede ocurrir después de una {term-stall} agravada de una o ambas {term-wing}s que resulta en rotación alrededor del eje vertical. A medida que el {term-glider} rota alrededor del eje vertical, el {term-wing} exterior desarrolla más {term-lift-force} y menos arrastre que el {term-wing} interior en {term-stall}, creando un movimiento de balanceo, guiñada y cabeceo. <<fig-08-11>> El piloto puede no darse cuenta de que el {term-aoa} crítico ha sido excedido hasta que el {term-glider} guiña hacia el {term-wing} bajante.
 
@@ -225,18 +225,10 @@ La fase desarrollada ocurre cuando la tasa de rotación angular del {term-glider
 
 Esta fase puede durar desde un cuarto de giro hasta varios giros. Para lograr la recuperación de {term-spin}, los pilotos deben seguir los procedimientos recomendados por el fabricante. En ausencia de los procedimientos de recuperación de {term-spin} recomendados por el fabricante, los pilotos deben seguir los siguientes pasos para recuperación general de {term-spin}:
 
-1. Alerones a neutral. Los alerones pueden tener un efecto adverso en la recuperación de {term-spin}. El control de alerones en la dirección de la
-
-{term-spin} puede aumentar la tasa de rotación y retrasar la recuperación. El control de alerones opuesto a la dirección de la {term-spin} puede hacer que el {term-aileron} hacia abajo mueva el {term-wing} más profundamente en {term-stall} y agravar la situación. Retraer {term-flap}s, si están extendidos, tan pronto como sea posible después de la entrada en {term-spin}.
-
+1. Alerones a neutral. Los alerones pueden tener un efecto adverso en la recuperación de {term-spin}. El control de alerones en la dirección de la {term-spin} puede aumentar la tasa de rotación y retrasar la recuperación. El control de alerones opuesto a la dirección de la {term-spin} puede hacer que el {term-aileron} hacia abajo mueva el {term-wing} más profundamente en {term-stall} y agravar la situación. Retraer {term-flap}s, si están extendidos, tan pronto como sea posible después de la entrada en {term-spin}.
 2. Aplicar timón completo opuesto a la rotación. Asegurar timón completo (contra el tope) opuesto hasta que la rotación se detenga.
-
 A medida que la rotación de {term-spin} se detiene, neutralizar el timón. Si no se neutraliza en este momento, el timón deflectado puede causar un efecto de guiñada en la dirección opuesta.
-
-3. Cuando la rotación se detenga, aplicar un movimiento positivo y enérgico, directo del control de elevador más allá de neutral para
-
-recuperarse de la {term-stall}. Los movimientos lentos y excesivamente cautelosos de control durante la recuperación de {term-spin} pueden resultar en que el {term-glider} continúe girando indefinidamente, incluso con entradas anti-{term-spin}. Una técnica enérgica y positiva, por otro lado, resulta en una recuperación de {term-spin} más positiva. Mantener los controles firmemente en esta posición hasta que la velocidad aerodinámica comience a aumentar.
-
+3. Cuando la rotación se detenga, aplicar un movimiento positivo y enérgico, directo del control de elevador más allá de neutral para recuperarse de la {term-stall}. Los movimientos lentos y excesivamente cautelosos de control durante la recuperación de {term-spin} pueden resultar en que el {term-glider} continúe girando indefinidamente, incluso con entradas anti-{term-spin}. Una técnica enérgica y positiva, por otro lado, resulta en una recuperación de {term-spin} más positiva. Mantener los controles firmemente en esta posición hasta que la velocidad aerodinámica comience a aumentar.
 4. Con la rotación detenida, {term-aoa} por debajo del ángulo crítico, y actitud de nariz hacia abajo, la velocidad aerodinámica aumenta rápidamente.
 
 Hacer entrada suave de control de cabeceo de magnitud suficiente. Tirar agresivamente hacia arriba puede causar una segunda {term-stall} y {term-spin} durante la recuperación. Esperar demasiado para tirar hacia arriba podría llevar a alta velocidad aerodinámica y carga G excesiva.
@@ -327,13 +319,13 @@ La {term-drag} aerodinámica funciona mejor que los frenos de rueda a velocidade
 
 === Después del {term-off-field-landing}
 
-==== {term-off-field-landing} sin Lesión
+==== {Term-off-field-landing} sin Lesión
 
 Un piloto debe atender primero las necesidades personales, asegurar el {term-glider}, y luego contactar al equipo de recuperación. Si existe servicio de celular, el piloto puede usar un teléfono celular para llamar al equipo de recuperación. Para ayudar a identificar la posición, el piloto debe transmitir las coordenadas GPS. Los pilotos deben anotar las coordenadas en caso de que el GPS pierda energía. Si es capaz, llamar a otros pilotos de {term-glider} en el área en la frecuencia de radio de {term-glider} a {term-glider} o llamar al {term-towplane} puede ayudar con la recuperación.
 
 Una vez que se ha hecho contacto para arreglar la recuperación, el piloto puede recolectar cualquier herramienta especial necesaria para desarmar el {term-glider} o instalar bloqueos de ráfaga en los controles de vuelo del {term-glider}. Dado que una recuperación normal depende de la ubicación, clima y hora del día, el piloto puede necesitar preparar equipo para manejar las condiciones ambientales actuales o esperadas.
 
-==== {term-off-field-landing} con Lesión o Emergencia
+==== {Term-off-field-landing} con Lesión o Emergencia
 
 Un piloto debe atender cualquier lesión crítica y contactar personal de respuesta de emergencia, otras aeronaves, o cualquier otra fuente de asistencia identificable. Si existe cobertura de celular, el piloto puede marcar 911, hablar con un operador, y proporcionar una descripción clara de la ubicación. Si el servicio de celular no funciona, un piloto puede usar la radio del {term-glider}, si es operable, para transmitir una llamada de socorro Mayday en la frecuencia de emergencia 121.5 MHz. Muchas aeronaves, incluyendo aerolíneas civiles, monitorean rutinariamente esta frecuencia. Su altitud da al transceptor de aviación de línea de vista alcance mejorado al transmitir o recibir. El piloto puede intentar cualquier otra frecuencia probable para obtener una respuesta como frecuencia de {term-glider} aire-aire o la frecuencia del {term-towplane}. Algunos {term-glider}es tienen un Transmisor de Localización de Emergencia (ELT) a bordo. Un piloto que necesite asistencia de emergencia debe activar el ELT, si está disponible. Aunque el 14 CFR, parte 91, sección 91.207 no se aplica a {term-glider}es, un ELT o EPIRB añade seguridad al volar un {term-glider} en travesía. Los dispositivos de localización personal ofrecidos por varias compañías usan la señal satelital de 406 MHz, y tecnología GPS para rastrear y retransmitir con precisión la ubicación del piloto en el evento de un {term-off-field-landing} que requiera asistencia de emergencia. Además, los pilotos pueden elegir llevar dispositivos de comunicaciones y rastreo por satélite que permiten comunicación incluso fuera de cobertura de celular.
 
@@ -501,9 +493,9 @@ Algunos {term-glider}es tienen un paracaídas de frenado para añadir {term-drag
 
 Durante una {term-approach}, un paracaídas de frenado empacado inadecuadamente o húmedo puede fallar en desplegarse. Si esto sucede, el piloto puede usar el timón para hacer un derrape lateral brevemente o usar el timón para guiñar el {term-glider} para intentar el despliegue. Cualquier técnica puede aumentar la fuerza de arrastre en el componente que jala el paracaídas fuera del compartimiento. Si ninguna técnica despliega el paracaídas de frenado, la cúpula del paracaídas puede desplegarse espontáneamente. Si esto ocurre, el piloto tiene la opción de eyectar el paracaídas.
 
-Otra falla involucra la falla del paracaídas de frenado en inflarse. Si esto sucede, la cúpula "fluye" como una cinta retorciéndose de nylon, proporcionando solo una fracción del arrastre esperado. La inflación completa, aunque improbable después de que ocurre el flujo, aumentaría el arrastre sustancialmente. En lugar de enfrentar cualquier aumento repentino de arrastre y si hay duda sobre el estado del despliegue, el piloto puede eyectar el paracaídas. Independientemente del tipo de falla, el piloto debe revisar las opciones de {term-approach} y {term-landing} para las condiciones del paracaídas de frenado.
+Otra falla involucra la falla del paracaídas de frenado en inflarse. Si esto sucede, la cúpula «fluye» como una cinta retorciéndose de nylon, proporcionando solo una fracción del arrastre esperado. La inflación completa, aunque improbable después de que ocurre el flujo, aumentaría el arrastre sustancialmente. En lugar de enfrentar cualquier aumento repentino de arrastre y si hay duda sobre el estado del despliegue, el piloto puede eyectar el paracaídas. Independientemente del tipo de falla, el piloto debe revisar las opciones de {term-approach} y {term-landing} para las condiciones del paracaídas de frenado.
 
-== {term-glider}es {term-self-launch}s
+== {Term-glider}es {term-self-launch}s
 
 Los {term-glider}es {term-self-launch}s tienen múltiples sistemas para soportar vuelo con motor. El piloto debe revisar el GFM/POH para el {term-glider} {term-self-launch} volado, desarrollar un entendimiento de los sistemas del {term-glider}, y trabajar con un instructor de {term-glider} según sea necesario para desarrollar competencia. Los sistemas adicionales en un {term-glider} {term-self-launch} pueden incluir los siguientes:
 

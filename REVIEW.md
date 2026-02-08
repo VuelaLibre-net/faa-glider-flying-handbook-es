@@ -11,8 +11,8 @@
 | Aspecto | Estado | Notas |
 |---------|--------|-------|
 | **Estructura del proyecto** | ✅ Buena | Bien organizado, sigue convenciones |
-| **Contenido traducido** | 🟡 En Progreso | 3/13 revisados, 10/13 en proceso de revisión |
-| **Imágenes** | ⚠️ Parcial | 280 imágenes importadas, 0 traducidas |
+| **Contenido traducido** | 🟡 En Progreso | 3/13 capítulos revisados, 10/13 en proceso |
+| **Imágenes** | 🟡 En Progreso | 280 importadas, 38 traducidas (14%) |
 | **Build system** | ✅ Funcional | Makefile completo, genera PDF/HTML/EPUB |
 | **Documentación** | ✅ Buena | AGENTS.md, CONTRIBUTING.md actualizados |
 | **Terminología** | ✅ Consistente | Uso extensivo de atributos (2706 usos), 0 errores críticos |
@@ -60,7 +60,7 @@
 |----------|--------|--------|----------|
 | 01 | Planeadores y veleros | ✅ Revisado | 8 |
 | 02 | Componentes y sistemas | ✅ Revisado | 24 |
-| 03 | Aerodinámica del vuelo | ✅ Revisado | 48 |
+| 03 | Aerodinámica del vuelo | ✅ Revisado + Imágenes | 48 |
 | 04 | Instrumentos de vuelo | 🟡 En revisión | 62 |
 | 05 | Performance | 🟡 En revisión | 42 |
 | 06 | Prevuelo y operaciones en tierra | 🟡 En revisión | 34 |
@@ -106,7 +106,8 @@
 
 | Problema | Severidad | Descripción |
 |----------|-----------|-------------|
-| Texto en inglés | 🔴 Alta | 0/279 imágenes tienen texto traducido |
+| Texto en inglés | 🟡 Media | 38/280 imágenes traducidas (14%) |
+| Capítulos 4-13 | 🟡 Media | En revisión de texto e imágenes |
 | Revisión de calidad | 🟡 Media | En progreso |
 
 ---
@@ -143,10 +144,10 @@
 
 ## ⚠️ 6. Problemas Críticos Restantes
 
-1. **❌ Imágenes sin traducir:** 
-   - Prioridad alta para versión final.
-2. **⚠️ CHANGELOG.md no existe**
-3. **⚠️ Variante regional Argentina incompleta**
+1. **⚠️ Imágenes por traducir:** 242/280 imágenes pendientes (86%)
+   - Prioridad alta: Capítulos 4, 7, 9, 10 (mayor número de imágenes)
+2. **⚠️ Variante regional Argentina incompleta**
+3. **⚠️ Revisión de capítulos 4-13 pendiente**
 
 ---
 
@@ -156,6 +157,8 @@
 2. **Estandarización de terminología:** Masiva adopción de atributos `{term-...}` en todos los capítulos.
 3. **Limpieza de inconsistencias:** Eliminado "patrón de tráfico" y "entrada en pérdida".
 4. **Actualización de AGENTS.md:** Reglas claras para futuros agentes.
+5. **Traducción de imágenes del Capítulo 3:** Todas las 22 imágenes traducidas al español.
+6. **Corrección de comillas:** Estandarización a comillas latinas (« ») en todo el texto.
 
 ---
 

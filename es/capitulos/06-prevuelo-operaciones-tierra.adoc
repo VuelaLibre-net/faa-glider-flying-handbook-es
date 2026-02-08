@@ -63,7 +63,7 @@ Las fundas de la cúpula del {term-glider} proporcionan protección adicional co
 .Protección de la cúpula.
 image::06/fig-06-05.protecting-the-canopy.png[width=600]
 
-== {term-water-ballast}
+== {Term-water-ballast}
 
 Si se transporta un {term-glider} o se estaciona un {term-glider} en clima frío, el personal debe verificar y drenar cualquier {term-water-ballast} restante. Si no se puede drenar el {term-water-ballast}, agregar anticongelante previene la congelación.
 
