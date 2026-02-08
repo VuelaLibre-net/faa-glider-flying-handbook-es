@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "source": "en/images/02",
+    "total_pages_processed": 8,
+    "total_figures_extracted": 13,
+    "total_skipped": 6
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 2-1. Components of a glider",
+      "caption_text": "Components of a glider",
+      "bbox_normalized": [
+        0.26945736434108525,
+        0.1292929292929293,
+        0.5596899224806201,
+        0.8703030303030304
+      ],
+      "bbox_pixels": [
+        869,
+        320,
+        1805,
+        2154
+      ],
+      "filename": "02-01.01.components-of-a-glider.png",
+      "source_page": "page-1.png",
+      "chapter": 2,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 2-2. The ailerons change the camber or curvature of the wing and increase or",
+      "caption_text": "The ailerons change the camber or curvature of the wing and increase or",
+      "bbox_normalized": [
+        0.09829457364341085,
+        0.30262626262626263,
+        0.41209302325581393,
+        0.696969696969697
+      ],
+      "bbox_pixels": [
+        317,
+        749,
+        1329,
+        1725
+      ],
+      "filename": "02-02.02.the-ailerons-change-the-c.png",
+      "source_page": "page-2.png",
+      "chapter": 2,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 2-3. ] Spoilers extend from the upper surface of the wings, alter the airflow, and",
+      "caption_text": "] Spoilers extend from the upper surface of the wings, alter the airflow, and",
+      "bbox_normalized": [
+        0.09829457364341085,
+        0.20040404040404042,
+        0.43317829457364343,
+        0.797979797979798
+      ],
+      "bbox_pixels": [
+        317,
+        496,
+        1397,
+        1975
+      ],
+      "filename": "02-03.02.spoilers-extend-from-the.png",
+      "source_page": "page-2.png",
+      "chapter": 2,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 2-3. Types of lift/drag devices",
+      "caption_text": "Types of lift/drag devices",
+      "bbox_normalized": [
+        0.5556589147286821,
+        0.19474747474747475,
+        0.7903875968992248,
+        0.8048484848484848
+      ],
+      "bbox_pixels": [
+        1792,
+        482,
+        2549,
+        1992
+      ],
+      "filename": "02-03.02.types-of-liftdrag-devices.png",
+      "source_page": "page-2.png",
+      "chapter": 2,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 2-4. Flap positions",
+      "caption_text": "Flap positions",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3022222222222222,
+        0.32651162790697674,
+        0.6973737373737374
+      ],
+      "bbox_pixels": [
+        209,
+        748,
+        1053,
+        1726
+      ],
+      "filename": "02-04.03.flap-positions.png",
+      "source_page": "page-3.png",
+      "chapter": 2,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 2-5. Empennage components",
+      "caption_text": "Empennage components",
+      "bbox_normalized": [
+        0.4598449612403101,
+        0.29777777777777775,
+        0.7875968992248062,
+        0.7018181818181818
+      ],
+      "bbox_pixels": [
+        1483,
+        737,
+        2540,
+        1737
+      ],
+      "filename": "02-05.03.empennage-components.png",
+      "source_page": "page-3.png",
+      "chapter": 2,
+      "figure_number": 5,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 2-6. Additional empennage components",
+      "caption_text": "Additional empennage components",
+      "bbox_normalized": [
+        0.20868217054263566,
+        0.3187878787878788,
+        0.49333333333333335,
+        0.6808080808080809
+      ],
+      "bbox_pixels": [
+        673,
+        789,
+        1591,
+        1685
+      ],
+      "filename": "02-06.04.additional-empennage-comp.png",
+      "source_page": "page-4.png",
+      "chapter": 2,
+      "figure_number": 6,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 2-7. An anti-servo tab",
+      "caption_text": "An anti-servo tab",
+      "bbox_normalized": [
+        0.5255813953488372,
+        0.32161616161616163,
+        0.809922480620155,
+        0.677979797979798
+      ],
+      "bbox_pixels": [
+        1695,
+        796,
+        2612,
+        1678
+      ],
+      "filename": "02-07.04.an-antiservo-tab.png",
+      "source_page": "page-4.png",
+      "chapter": 2,
+      "figure_number": 7,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 2-8. hook locations",
+      "caption_text": "hook locations",
+      "bbox_normalized": [
+        0.19472868217054262,
+        0.25737373737373737,
+        0.4201550387596899,
+        0.7422222222222222
+      ],
+      "bbox_pixels": [
+        628,
+        637,
+        1355,
+        1837
+      ],
+      "filename": "02-08.05.hook-locations.png",
+      "source_page": "page-5.png",
+      "chapter": 2,
+      "figure_number": 8,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 2-9. A Grob G109B touring motor glider",
+      "caption_text": "A Grob G109B touring motor glider",
+      "bbox_normalized": [
+        0.6737984496124031,
+        0.20323232323232324,
+        0.8530232558139534,
+        0.7963636363636364
+      ],
+      "bbox_pixels": [
+        2173,
+        503,
+        2751,
+        1971
+      ],
+      "filename": "02-09.05.a-grob-g109b-touring-moto.png",
+      "source_page": "page-5.png",
+      "chapter": 2,
+      "figure_number": 9,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 2-10. A DG-808B 18-meter high-performance glider in self-launch",
+      "caption_text": "A DG-808B 18-meter high-performance glider in self-launch",
+      "bbox_normalized": [
+        0.12868217054263567,
+        0.1511111111111111,
+        0.2961240310077519,
+        0.8484848484848485
+      ],
+      "bbox_pixels": [
+        415,
+        374,
+        955,
+        2100
+      ],
+      "filename": "02-10.06.a-dg808b-18meter-highperf.png",
+      "source_page": "page-6.png",
+      "chapter": 2,
+      "figure_number": 10,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 2-11. A Schleicher ASG-29 E with gasoline sustainer engine mast extended",
+      "caption_text": "A Schleicher ASG-29 E with gasoline sustainer engine mast extended",
+      "bbox_normalized": [
+        0.4232558139534884,
+        0.21575757575757576,
+        0.7209302325581395,
+        0.7838383838383839
+      ],
+      "bbox_pixels": [
+        1365,
+        534,
+        2325,
+        1940
+      ],
+      "filename": "02-11.06.a-schleicher-asg29-e-with.png",
+      "source_page": "page-6.png",
+      "chapter": 2,
+      "figure_number": 11,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 2-12. Landing gear wheels on a glider",
+      "caption_text": "Landing gear wheels on a glider",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.1494949494949495,
+        0.7848062015503876,
+        0.8501010101010101
+      ],
+      "bbox_pixels": [
+        209,
+        370,
+        2531,
+        2104
+      ],
+      "filename": "02-12.07.landing-gear-wheels-on-a.png",
+      "source_page": "page-7.png",
+      "chapter": 2,
+      "figure_number": 12,
+      "page_number": 7
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-1.png",
+      "caption": "[Figure 2-1]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-2.png",
+      "caption": "[Figure 2-4]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 2-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-5.png",
+      "caption": "[Figure 2-8]. Both towhook designs allow for quick release of the rope",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 2-11]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 2-12]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

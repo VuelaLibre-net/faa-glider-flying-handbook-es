@@ -29,7 +29,7 @@ echo ""
 
 # Extraer términos definidos en archivos de región (es.adoc, ar.adoc, etc.)
 echo "📋 Extrayendo términos definidos..."
-ATTRIBUTES=$(grep -oE '^:term-[a-z0-9-]+' "${CONFIG_DIR}/regiones/"*.adoc 2>/dev/null | sed 's/^:term-//' | sort -u)
+ATTRIBUTES=$(grep -ohE '^:term-[a-z0-9-]+' "${CONFIG_DIR}/regiones/"*.adoc 2>/dev/null | sed 's/^:term-//' | sort -u)
 ATTRIBUTES_COUNT=$(echo "$ATTRIBUTES" | wc -l)
 echo "   Encontrados ${ATTRIBUTES_COUNT} atributos de terminología"
 echo ""

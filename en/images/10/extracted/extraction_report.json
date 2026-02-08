@@ -1,0 +1,1229 @@
+{
+  "metadata": {
+    "source": "en/images/10",
+    "total_pages_processed": 29,
+    "total_figures_extracted": 52,
+    "total_skipped": 25
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 10-1. Photographs of (A) mature cumulus, which can produce good lift, and (B) dissipating",
+      "caption_text": "Photographs of (A) mature cumulus, which can produce good lift, and (B) dissipating",
+      "bbox_normalized": [
+        0.525891472868217,
+        0.09454545454545454,
+        0.765891472868217,
+        0.9050505050505051
+      ],
+      "bbox_pixels": [
+        1696,
+        234,
+        2470,
+        2240
+      ],
+      "filename": "10-01.01.photographs-of-a-mature-c.png",
+      "source_page": "page-1.png",
+      "chapter": 10,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 10-11. Other centering corrections",
+      "caption_text": "Other centering corrections",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.11515151515151516,
+        0.3851162790697674,
+        0.8844444444444445
+      ],
+      "bbox_pixels": [
+        209,
+        285,
+        1242,
+        2189
+      ],
+      "filename": "10-11.10.other-centering-correctio.png",
+      "source_page": "page-10.png",
+      "chapter": 10,
+      "figure_number": 11,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 10-12. ] A pilot should enter a thermal in a way that does not interfere",
+      "caption_text": "] A pilot should enter a thermal in a way that does not interfere",
+      "bbox_normalized": [
+        0.4998449612403101,
+        0.08888888888888889,
+        0.5627906976744186,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1612,
+        220,
+        1815,
+        2253
+      ],
+      "filename": "10-12.10.a-pilot-should-enter-a-t.png",
+      "source_page": "page-10.png",
+      "chapter": 10,
+      "figure_number": 12,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 10-12. Proper positioning with two gliders at the same altitude",
+      "caption_text": "Proper positioning with two gliders at the same altitude",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3006060606060606,
+        0.5773643410852713,
+        0.6989898989898989
+      ],
+      "bbox_pixels": [
+        209,
+        744,
+        1862,
+        1730
+      ],
+      "filename": "10-12.11.proper-positioning-with-t.png",
+      "source_page": "page-11.png",
+      "chapter": 10,
+      "figure_number": 12,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 10-13. Ridge wind flow",
+      "caption_text": "Ridge wind flow",
+      "bbox_normalized": [
+        0.3082170542635659,
+        0.15232323232323233,
+        0.8409302325581396,
+        0.8472727272727273
+      ],
+      "bbox_pixels": [
+        994,
+        377,
+        2712,
+        2097
+      ],
+      "filename": "10-13.12.ridge-wind-flow.png",
+      "source_page": "page-12.png",
+      "chapter": 10,
+      "figure_number": 13,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 10-14. Airflow generally follows the hill’s shape",
+      "caption_text": "Airflow generally follows the hill’s shape",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.29818181818181816,
+        0.28713178294573644,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        209,
+        738,
+        926,
+        1736
+      ],
+      "filename": "10-14.13.airflow-generally-follows.png",
+      "source_page": "page-13.png",
+      "chapter": 10,
+      "figure_number": 14,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 10-15. /rregular profiles may create a hazard",
+      "caption_text": "/rregular profiles may create a hazard",
+      "bbox_normalized": [
+        0.3491472868217054,
+        0.29818181818181816,
+        0.5717829457364341,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        1126,
+        738,
+        1844,
+        1736
+      ],
+      "filename": "10-15.13.rregular-profiles-may-cre.png",
+      "source_page": "page-13.png",
+      "chapter": 10,
+      "figure_number": 15,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 10-16. Approach ridges diagonally",
+      "caption_text": "Approach ridges diagonally",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.31272727272727274,
+        0.3075968992248062,
+        0.6868686868686869
+      ],
+      "bbox_pixels": [
+        209,
+        774,
+        992,
+        1700
+      ],
+      "filename": "10-16.14.approach-ridges-diagonall.png",
+      "source_page": "page-14.png",
+      "chapter": 10,
+      "figure_number": 16,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 10-17. Zhermal sink can roll the craft toward the mountain",
+      "caption_text": "Zhermal sink can roll the craft toward the mountain",
+      "bbox_normalized": [
+        0.48,
+        0.29818181818181816,
+        0.6607751937984496,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        1548,
+        738,
+        2131,
+        1736
+      ],
+      "filename": "10-17.14.zhermal-sink-can-roll-the.png",
+      "source_page": "page-14.png",
+      "chapter": 10,
+      "figure_number": 17,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 10-18. Flying with a wind increases the turn radius over the ground, so approach",
+      "caption_text": "Flying with a wind increases the turn radius over the ground, so approach",
+      "bbox_normalized": [
+        0.7227906976744186,
+        0.2545454545454545,
+        0.8936434108527131,
+        0.7446464646464647
+      ],
+      "bbox_pixels": [
+        2331,
+        630,
+        2882,
+        1843
+      ],
+      "filename": "10-18.14.flying-with-a-wind-increa.png",
+      "source_page": "page-14.png",
+      "chapter": 10,
+      "figure_number": 18,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 10-19. When flying close to a ridge, pilots use extra speed for more control",
+      "caption_text": "When flying close to a ridge, pilots use extra speed for more control",
+      "bbox_normalized": [
+        0.2213953488372093,
+        0.29818181818181816,
+        0.4006201550387597,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        714,
+        738,
+        1292,
+        1736
+      ],
+      "filename": "10-19.15.when-flying-close-to-a-ri.png",
+      "source_page": "page-15.png",
+      "chapter": 10,
+      "figure_number": 19,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 10-20. explain the procedures",
+      "caption_text": "explain the procedures",
+      "bbox_normalized": [
+        0.2213953488372093,
+        0.1482828282828283,
+        0.422015503875969,
+        0.8501010101010101
+      ],
+      "bbox_pixels": [
+        714,
+        367,
+        1361,
+        2104
+      ],
+      "filename": "10-20.15.explain-the-procedures.png",
+      "source_page": "page-15.png",
+      "chapter": 10,
+      "figure_number": 20,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 10-20. Ridge rules",
+      "caption_text": "Ridge rules",
+      "bbox_normalized": [
+        0.5116279069767442,
+        0.14747474747474748,
+        0.8930232558139535,
+        0.8521212121212122
+      ],
+      "bbox_pixels": [
+        1650,
+        365,
+        2880,
+        2109
+      ],
+      "filename": "10-20.15.ridge-rules.png",
+      "source_page": "page-15.png",
+      "chapter": 10,
+      "figure_number": 20,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 10-20. B] Pilots in gliders in close vertical proximity might",
+      "caption_text": "B] Pilots in gliders in close vertical proximity might",
+      "bbox_normalized": [
+        0.09891472868217054,
+        0.12,
+        0.16186046511627908,
+        0.9115151515151515
+      ],
+      "bbox_pixels": [
+        319,
+        297,
+        522,
+        2256
+      ],
+      "filename": "10-20.16.b-pilots-in-gliders-in-cl.png",
+      "source_page": "page-16.png",
+      "chapter": 10,
+      "figure_number": 20,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 10-20. D] In general, gliders approaching head-on",
+      "caption_text": "D] In general, gliders approaching head-on",
+      "bbox_normalized": [
+        0.22294573643410853,
+        0.12,
+        0.3156589147286822,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        719,
+        297,
+        1018,
+        2253
+      ],
+      "filename": "10-20.16.d-in-general-gliders-appr.png",
+      "source_page": "page-16.png",
+      "chapter": 10,
+      "figure_number": 20,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 10-21. ] After passing such a spur, the pilot should consider any other traffic and",
+      "caption_text": "] After passing such a spur, the pilot should consider any other traffic and",
+      "bbox_normalized": [
+        0.3333333333333333,
+        0.12,
+        0.4449612403100775,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1075,
+        297,
+        1435,
+        2254
+      ],
+      "filename": "10-21.16.after-passing-such-a-spu.png",
+      "source_page": "page-16.png",
+      "chapter": 10,
+      "figure_number": 21,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 10-21. Avoid sink on the downwind side of spurs by detouring around them",
+      "caption_text": "Avoid sink on the downwind side of spurs by detouring around them",
+      "bbox_normalized": [
+        0.6151937984496124,
+        0.30303030303030304,
+        0.8967441860465116,
+        0.6965656565656566
+      ],
+      "bbox_pixels": [
+        1984,
+        750,
+        2892,
+        1724
+      ],
+      "filename": "10-21.16.avoid-sink-on-the-downwin.png",
+      "source_page": "page-16.png",
+      "chapter": 10,
+      "figure_number": 21,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 10-22. One technique for catching a thermal from ridge lift",
+      "caption_text": "One technique for catching a thermal from ridge lift",
+      "bbox_normalized": [
+        0.22635658914728682,
+        0.3402020202020202,
+        0.5224806201550387,
+        0.6593939393939394
+      ],
+      "bbox_pixels": [
+        730,
+        842,
+        1685,
+        1632
+      ],
+      "filename": "10-22.17.one-technique-for-catchin.png",
+      "source_page": "page-17.png",
+      "chapter": 10,
+      "figure_number": 22,
+      "page_number": 17
+    },
+    {
+      "caption_reference": "Figure 10-23. Catching a thermal by flying upwind away from the slope lift",
+      "caption_text": "Catching a thermal by flying upwind away from the slope lift",
+      "bbox_normalized": [
+        0.6167441860465116,
+        0.3325252525252525,
+        0.8917829457364341,
+        0.667070707070707
+      ],
+      "bbox_pixels": [
+        1989,
+        823,
+        2876,
+        1651
+      ],
+      "filename": "10-23.17.catching-a-thermal-by-fly.png",
+      "source_page": "page-17.png",
+      "chapter": 10,
+      "figure_number": 23,
+      "page_number": 17
+    },
+    {
+      "caption_reference": "Figure 10-24. ] Due to the changes in wind direction and or sun angle, wind flow",
+      "caption_text": "] Due to the changes in wind direction and or sun angle, wind flow",
+      "bbox_normalized": [
+        0.08775193798449613,
+        0.08888888888888889,
+        0.15069767441860465,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        283,
+        220,
+        486,
+        2253
+      ],
+      "filename": "10-24.18.due-to-the-changes-in-wi.png",
+      "source_page": "page-18.png",
+      "chapter": 10,
+      "figure_number": 24,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 10-24. Analyze sloping ground for collectors and dividers of wind",
+      "caption_text": "Analyze sloping ground for collectors and dividers of wind",
+      "bbox_normalized": [
+        0.24031007751937986,
+        0.19838383838383838,
+        0.5885271317829457,
+        0.8012121212121213
+      ],
+      "bbox_pixels": [
+        775,
+        491,
+        1898,
+        1983
+      ],
+      "filename": "10-24.18.analyze-sloping-ground-fo.png",
+      "source_page": "page-18.png",
+      "chapter": 10,
+      "figure_number": 24,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 10-25. Expect turbulence and sink on the downwind side of any hill",
+      "caption_text": "Expect turbulence and sink on the downwind side of any hill",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.29818181818181816,
+        0.5634108527131783,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        209,
+        738,
+        1817,
+        1736
+      ],
+      "filename": "10-25.19.expect-turbulence-and-sin.png",
+      "source_page": "page-19.png",
+      "chapter": 10,
+      "figure_number": 25,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 10-26. The crest is where rising air starts back down",
+      "caption_text": "The crest is where rising air starts back down",
+      "bbox_normalized": [
+        0.657984496124031,
+        0.29818181818181816,
+        0.8651162790697674,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        2122,
+        738,
+        2790,
+        1736
+      ],
+      "filename": "10-26.19.the-crest-is-where-rising.png",
+      "source_page": "page-19.png",
+      "chapter": 10,
+      "figure_number": 26,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 10-2. Photographs of (A) towering cumulus, (B) cumulonimbus (Cb), and (C) virga",
+      "caption_text": "Photographs of (A) towering cumulus, (B) cumulonimbus (Cb), and (C) virga",
+      "bbox_normalized": [
+        0.14666666666666667,
+        0.09373737373737374,
+        0.30790697674418605,
+        0.9058585858585858
+      ],
+      "bbox_pixels": [
+        473,
+        232,
+        993,
+        2242
+      ],
+      "filename": "10-02.02.photographs-of-a-towering.png",
+      "source_page": "page-2.png",
+      "chapter": 10,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 10-3. ] A sun facing slope receives",
+      "caption_text": "] A sun facing slope receives",
+      "bbox_normalized": [
+        0.7662015503875969,
+        0.0892929292929293,
+        0.8455813953488373,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2471,
+        221,
+        2727,
+        2254
+      ],
+      "filename": "10-03.02.a-sun-facing-slope-recei.png",
+      "source_page": "page-2.png",
+      "chapter": 10,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 10-27. Deep shade can enhance sink",
+      "caption_text": "Deep shade can enhance sink",
+      "bbox_normalized": [
+        0.1268217054263566,
+        0.29818181818181816,
+        0.3345736434108527,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        409,
+        738,
+        1079,
+        1736
+      ],
+      "filename": "10-27.20.deep-shade-can-enhance-si.png",
+      "source_page": "page-20.png",
+      "chapter": 10,
+      "figure_number": 27,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 10-28. At /0,000' MSL, 44 percent more room is needed to complete a turn",
+      "caption_text": "At /0,000' MSL, 44 percent more room is needed to complete a turn",
+      "bbox_normalized": [
+        0.5987596899224806,
+        0.29818181818181816,
+        0.8434108527131783,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        1931,
+        738,
+        2720,
+        1736
+      ],
+      "filename": "10-28.20.at-0000-msl-44-percent-mo.png",
+      "source_page": "page-20.png",
+      "chapter": 10,
+      "figure_number": 28,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 10-29. Rotor and cap clouds with lenticulars above",
+      "caption_text": "Rotor and cap clouds with lenticulars above",
+      "bbox_normalized": [
+        0.14635658914728683,
+        0.29777777777777775,
+        0.38108527131782943,
+        0.7018181818181818
+      ],
+      "bbox_pixels": [
+        472,
+        737,
+        1229,
+        1737
+      ],
+      "filename": "10-29.21.rotor-and-cap-clouds-with.png",
+      "source_page": "page-21.png",
+      "chapter": 10,
+      "figure_number": 29,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 10-30. into wave",
+      "caption_text": "into wave",
+      "bbox_normalized": [
+        0.4930232558139535,
+        0.08888888888888889,
+        0.5720930232558139,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1590,
+        220,
+        1845,
+        2253
+      ],
+      "filename": "10-30.22.into-wave.png",
+      "source_page": "page-22.png",
+      "chapter": 10,
+      "figure_number": 30,
+      "page_number": 22
+    },
+    {
+      "caption_reference": "Figure 10-31. ] If the launch site sits near one end of the wave-producing ridge or",
+      "caption_text": "] If the launch site sits near one end of the wave-producing ridge or",
+      "bbox_normalized": [
+        0.1345736434108527,
+        0.08888888888888889,
+        0.2462015503875969,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        434,
+        220,
+        794,
+        2253
+      ],
+      "filename": "10-31.23.if-the-launch-site-sits.png",
+      "source_page": "page-23.png",
+      "chapter": 10,
+      "figure_number": 31,
+      "page_number": 23
+    },
+    {
+      "caption_reference": "Figure 10-31. 4 tow around the rotor directly into the wave avoids turbulence",
+      "caption_text": "4 tow around the rotor directly into the wave avoids turbulence",
+      "bbox_normalized": [
+        0.3351937984496124,
+        0.17737373737373738,
+        0.6644961240310078,
+        0.8222222222222222
+      ],
+      "bbox_pixels": [
+        1081,
+        439,
+        2143,
+        2035
+      ],
+      "filename": "10-31.23.4-tow-around-the-rotor-di.png",
+      "source_page": "page-23.png",
+      "chapter": 10,
+      "figure_number": 31,
+      "page_number": 23
+    },
+    {
+      "caption_reference": "Figure 10-32. and Figure 10-33]",
+      "caption_text": "and Figure 10-33]",
+      "bbox_normalized": [
+        0.06914728682170543,
+        0.08888888888888889,
+        0.19689922480620156,
+        0.9115151515151515
+      ],
+      "bbox_pixels": [
+        223,
+        220,
+        635,
+        2256
+      ],
+      "filename": "10-32.24.and-figure-1033.png",
+      "source_page": "page-24.png",
+      "chapter": 10,
+      "figure_number": 32,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 10-32. Variometer indications during the penetration into the wave",
+      "caption_text": "Variometer indications during the penetration into the wave",
+      "bbox_normalized": [
+        0.22387596899224807,
+        0.09131313131313132,
+        0.5494573643410853,
+        0.9082828282828282
+      ],
+      "bbox_pixels": [
+        722,
+        226,
+        1772,
+        2248
+      ],
+      "filename": "10-32.24.variometer-indications-du.png",
+      "source_page": "page-24.png",
+      "chapter": 10,
+      "figure_number": 32,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 10-33. Possible release and separation on a wave tow",
+      "caption_text": "Possible release and separation on a wave tow",
+      "bbox_normalized": [
+        0.5817054263565892,
+        0.09212121212121212,
+        0.8511627906976744,
+        0.9074747474747474
+      ],
+      "bbox_pixels": [
+        1876,
+        228,
+        2745,
+        2246
+      ],
+      "filename": "10-33.24.possible-release-and-sepa.png",
+      "source_page": "page-24.png",
+      "chapter": 10,
+      "figure_number": 33,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 10-34. Managing wave position with speed",
+      "caption_text": "Managing wave position with speed",
+      "bbox_normalized": [
+        0.33674418604651163,
+        0.3002020202020202,
+        0.6133333333333333,
+        0.6993939393939393
+      ],
+      "bbox_pixels": [
+        1086,
+        743,
+        1978,
+        1731
+      ],
+      "filename": "10-34.25.managing-wave-position-wi.png",
+      "source_page": "page-25.png",
+      "chapter": 10,
+      "figure_number": 34,
+      "page_number": 25
+    },
+    {
+      "caption_reference": "Figure 10-35. Search upwind first to avoid sink behind the wave crest or the rotor",
+      "caption_text": "Search upwind first to avoid sink behind the wave crest or the rotor",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3014141414141414,
+        0.3386046511627907,
+        0.6981818181818182
+      ],
+      "bbox_pixels": [
+        209,
+        746,
+        1092,
+        1728
+      ],
+      "filename": "10-35.26.search-upwind-first-to-av.png",
+      "source_page": "page-26.png",
+      "chapter": 10,
+      "figure_number": 35,
+      "page_number": 26
+    },
+    {
+      "caption_reference": "Figure 10-36. Crabbing and turns in a wave",
+      "caption_text": "Crabbing and turns in a wave",
+      "bbox_normalized": [
+        0.5137984496124031,
+        0.3002020202020202,
+        0.7937984496124031,
+        0.6993939393939393
+      ],
+      "bbox_pixels": [
+        1657,
+        743,
+        2560,
+        1731
+      ],
+      "filename": "10-36.26.crabbing-and-turns-in-a-w.png",
+      "source_page": "page-26.png",
+      "chapter": 10,
+      "figure_number": 36,
+      "page_number": 26
+    },
+    {
+      "caption_reference": "Figure 10-37. Zechniques for working lift near the top of the wave in weak winds",
+      "caption_text": "Zechniques for working lift near the top of the wave in weak winds",
+      "bbox_normalized": [
+        0.09829457364341085,
+        0.0901010101010101,
+        0.37116279069767444,
+        0.9094949494949495
+      ],
+      "bbox_pixels": [
+        317,
+        223,
+        1197,
+        2251
+      ],
+      "filename": "10-37.27.zechniques-for-working-li.png",
+      "source_page": "page-27.png",
+      "chapter": 10,
+      "figure_number": 37,
+      "page_number": 27
+    },
+    {
+      "caption_reference": "Figure 10-38. Possible flightpath while transitioning from the tertiary into the secondary and then into",
+      "caption_text": "Possible flightpath while transitioning from the tertiary into the secondary and then into",
+      "bbox_normalized": [
+        0.529922480620155,
+        0.09252525252525252,
+        0.8567441860465116,
+        0.907070707070707
+      ],
+      "bbox_pixels": [
+        1709,
+        229,
+        2763,
+        2245
+      ],
+      "filename": "10-38.27.possible-flightpath-while.png",
+      "source_page": "page-27.png",
+      "chapter": 10,
+      "figure_number": 38,
+      "page_number": 27
+    },
+    {
+      "caption_reference": "Figure 10-3. Suns rays are concentrated in a smaller area on a hillside than on",
+      "caption_text": "Suns rays are concentrated in a smaller area on a hillside than on",
+      "bbox_normalized": [
+        0.16279069767441862,
+        0.29373737373737374,
+        0.38232558139534883,
+        0.7058585858585859
+      ],
+      "bbox_pixels": [
+        525,
+        727,
+        1233,
+        1747
+      ],
+      "filename": "10-03.03.suns-rays-are-concentrate.png",
+      "source_page": "page-3.png",
+      "chapter": 10,
+      "figure_number": 3,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 10-4. Photograph of cloud streets",
+      "caption_text": "Photograph of cloud streets",
+      "bbox_normalized": [
+        0.6638759689922481,
+        0.28484848484848485,
+        0.8930232558139535,
+        0.7147474747474748
+      ],
+      "bbox_pixels": [
+        2141,
+        705,
+        2880,
+        1769
+      ],
+      "filename": "10-04.03.photograph-of-cloud-stree.png",
+      "source_page": "page-3.png",
+      "chapter": 10,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 10-5. ] Pilots can estimate wind direction and speed at a cloud base",
+      "caption_text": "] Pilots can estimate wind direction and speed at a cloud base",
+      "bbox_normalized": [
+        0.06914728682170543,
+        0.08888888888888889,
+        0.18046511627906978,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        223,
+        220,
+        582,
+        2254
+      ],
+      "filename": "10-05.04.pilots-can-estimate-wind.png",
+      "source_page": "page-4.png",
+      "chapter": 10,
+      "figure_number": 5,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 10-5. Zhermal tilt in shear that (A) does not change with height, and that",
+      "caption_text": "Zhermal tilt in shear that (A) does not change with height, and that",
+      "bbox_normalized": [
+        0.302015503875969,
+        0.10343434343434343,
+        0.5627906976744186,
+        0.8961616161616162
+      ],
+      "bbox_pixels": [
+        974,
+        256,
+        1815,
+        2218
+      ],
+      "filename": "10-05.04.zhermal-tilt-in-shear-tha.png",
+      "source_page": "page-4.png",
+      "chapter": 10,
+      "figure_number": 5,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 10-6. ] On a day with Cu, a big blue hole in an otherwise Cu-filled",
+      "caption_text": "] On a day with Cu, a big blue hole in an otherwise Cu-filled",
+      "bbox_normalized": [
+        0.7258914728682171,
+        0.08888888888888889,
+        0.8350387596899225,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2341,
+        220,
+        2693,
+        2254
+      ],
+      "filename": "10-06.04.on-a-day-with-cu-a-big-b.png",
+      "source_page": "page-4.png",
+      "chapter": 10,
+      "figure_number": 6,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 10-6. Blue hole in a field of cumulus downwind of a lake",
+      "caption_text": "Blue hole in a field of cumulus downwind of a lake",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.29777777777777775,
+        0.2545736434108527,
+        0.7018181818181818
+      ],
+      "bbox_pixels": [
+        209,
+        737,
+        821,
+        1737
+      ],
+      "filename": "10-06.05.blue-hole-in-a-field-of-c.png",
+      "source_page": "page-5.png",
+      "chapter": 10,
+      "figure_number": 6,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 10-7. ] Pilots who maintain a light touch on the controls can sense proximity",
+      "caption_text": "] Pilots who maintain a light touch on the controls can sense proximity",
+      "bbox_normalized": [
+        0.6148837209302326,
+        0.08888888888888889,
+        0.6753488372093023,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1983,
+        220,
+        2178,
+        2253
+      ],
+      "filename": "10-07.05.pilots-who-maintain-a-li.png",
+      "source_page": "page-5.png",
+      "chapter": 10,
+      "figure_number": 7,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 10-7. Effect of glider being allowed to bank on its own when encountering thermals",
+      "caption_text": "Effect of glider being allowed to bank on its own when encountering thermals",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3022222222222222,
+        0.43348837209302327,
+        0.6973737373737374
+      ],
+      "bbox_pixels": [
+        209,
+        748,
+        1398,
+        1726
+      ],
+      "filename": "10-07.06.effect-of-glider-being-al.png",
+      "source_page": "page-6.png",
+      "chapter": 10,
+      "figure_number": 7,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 10-8. ] The pilot should",
+      "caption_text": "] The pilot should",
+      "bbox_normalized": [
+        0.4815503875968992,
+        0.08888888888888889,
+        0.5609302325581396,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1553,
+        220,
+        1809,
+        2254
+      ],
+      "filename": "10-08.07.the-pilot-should.png",
+      "source_page": "page-7.png",
+      "chapter": 10,
+      "figure_number": 8,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 10-8. The 270° centering correction",
+      "caption_text": "The 270° centering correction",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30303030303030304,
+        0.43348837209302327,
+        0.6965656565656566
+      ],
+      "bbox_pixels": [
+        209,
+        750,
+        1398,
+        1724
+      ],
+      "filename": "10-08.08.the-270-centering-correct.png",
+      "source_page": "page-8.png",
+      "chapter": 10,
+      "figure_number": 8,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 10-9. Possible loss of thermal while trying to reverse directions of circle",
+      "caption_text": "Possible loss of thermal while trying to reverse directions of circle",
+      "bbox_normalized": [
+        0.4657364341085271,
+        0.30343434343434345,
+        0.8353488372093023,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        1502,
+        751,
+        2694,
+        1723
+      ],
+      "filename": "10-09.08.possible-loss-of-thermal.png",
+      "source_page": "page-8.png",
+      "chapter": 10,
+      "figure_number": 9,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 10-10. ] On the next turn, the pilot can",
+      "caption_text": "] On the next turn, the pilot can",
+      "bbox_normalized": [
+        0.4657364341085271,
+        0.25616161616161615,
+        0.8564341085271318,
+        0.7422222222222222
+      ],
+      "bbox_pixels": [
+        1502,
+        634,
+        2762,
+        1837
+      ],
+      "filename": "10-10.08.on-the-next-turn-the-pil.png",
+      "source_page": "page-8.png",
+      "chapter": 10,
+      "figure_number": 10,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 10-10. Centering by shifting the circle turn toward stronger lift",
+      "caption_text": "Centering by shifting the circle turn toward stronger lift",
+      "bbox_normalized": [
+        0.14666666666666667,
+        0.30343434343434345,
+        0.5172093023255814,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        473,
+        751,
+        1668,
+        1723
+      ],
+      "filename": "10-10.09.centering-by-shifting-the.png",
+      "source_page": "page-9.png",
+      "chapter": 10,
+      "figure_number": 10,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-1.png",
+      "caption": "[Figure 10-1]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-12.png",
+      "caption": "[Figure 10-13]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-12.png",
+      "caption": "[Figure 10-14]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-13.png",
+      "caption": "[Figure 10-15]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-13.png",
+      "caption": "[Figure 10-16]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-14.png",
+      "caption": "[Figure 10-17]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-14.png",
+      "caption": "[Figure 10-18]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-15.png",
+      "caption": "[Figure 10-19]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-17.png",
+      "caption": "[Figure 10-22]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-17.png",
+      "caption": "[Figure 10-23]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-18.png",
+      "caption": "[Figure 10-25]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-19.png",
+      "caption": "[Figure 10-26]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-2.png",
+      "caption": "[Figure 10-2]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-20.png",
+      "caption": "[Figure 10-27]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-20.png",
+      "caption": "[Figure 10-28]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-21.png",
+      "caption": "[Figure 10-29]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-22.png",
+      "caption": "[Figure 10-30]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-24.png",
+      "caption": "Figure 10-33]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-25.png",
+      "caption": "[Figure 10-34]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-25.png",
+      "caption": "[Figure 10-35]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-26.png",
+      "caption": "[Figure 10-36]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-27.png",
+      "caption": "[Figure 10-37]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-27.png",
+      "caption": "[Figure 10-38]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 10-4]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "[Figure 10-9]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

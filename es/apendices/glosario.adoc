@@ -12,8 +12,17 @@ Este glosario contiene los términos aeronáuticos más importantes utilizados e
 Acelerómetro (G-meter)::
   Instrumento que mide las fuerzas de aceleración (cargas G) experimentadas por la aeronave. Es vital para no exceder los límites estructurales en maniobras o turbulencia.
 
-Aerofreno (Airbrake/Spoiler)::
+Aerofreno (Airbrake)::
   Superficie de control que aumenta la resistencia aerodinámica para controlar la velocidad y el ángulo de descenso. En planeadores, es el control principal de la trayectoria de planeo durante la aproximación.
+
+Aerofreno tipo spoiler (Spoiler)::
+  Aerofreno que se extiende principalmente desde la superficie superior del ala, alterando el flujo de aire y aumentando la resistencia para hacer descender el planeador más rápidamente.
+
+Aerofreno tipo dive brake (Dive brake)::
+  Aerofreno diseñado específicamente para controlar el ángulo de descenso en picado, permitiendo una tasa de descenso mayor sin aumentar excesivamente la velocidad.
+
+Alabeo (Roll)::
+  Movimiento de rotación del planeador sobre su eje longitudinal. Se controla mediante los alerones.
 
 Alargamiento (Aspect Ratio)::
   Relación entre la envergadura y la cuerda media del ala. Un alargamiento elevado (alas largas y estrechas) es característico de los planeadores eficientes, ya que reduce la resistencia inducida.
@@ -75,7 +84,7 @@ Caballito (Ground loop)::
 Cable de remolque (Tow rope)::
   Cuerda, generalmente de polipropileno o nylon, utilizada para conectar el planeador al avión remolcador. Su longitud típica oscila entre 45 y 60 metros.
 
-Caja de la estela (Boxing the wake)::
+Caja de estela (Boxing the wake)::
   Maniobra de entrenamiento avanzada en remolque aéreo donde el planeador se mueve controladamente alrededor de la estela del avión remolcador para explorar los límites de posición.
 
 Calle de nubes (Cloud street)::
@@ -112,7 +121,7 @@ Derrape (Skid)::
   Vuelo descoordinado donde la cola del planeador se desplaza hacia el exterior del viraje (bola hacia el exterior). Causado por exceso de timón de dirección.
 
 Descendencia (Sink)::
-  Corriente de aire descendente que causa una pérdida de altitud mayor a la tasa de descenso propia del planeador.
+  Corriente de aire descendente que causa una pérdida de altitud mayor a la tasa de descenso propia del planeador. También se denomina hundimiento.
 
 Desorientación espacial (Spatial disorientation)::
   Incapacidad del piloto para determinar correctamente su posición, actitud o movimiento en relación con la superficie de la Tierra, generalmente debida a la falta de referencias visuales.
@@ -138,7 +147,7 @@ Empuje (Thrust)::
 Eslabón fusible (Weak link)::
   Elemento de seguridad calibrado en el cable de remolque diseñado para romperse antes de que una carga excesiva dañe la estructura del planeador o del avión remolcador.
 
-Espiral (Spiral dive)::
+Picado en espiral (Spiral dive)::
   Descenso en viraje pronunciado y rápido con aumento progresivo de velocidad y carga G. A diferencia de la barrena, el ala no está en pérdida.
 
 Estabilidad (Stability)::
@@ -154,7 +163,7 @@ Fineza (Glide ratio / L/D)::
   Relación entre la distancia horizontal recorrida y la altura perdida en aire calmo. Un planeador con fineza 40:1 avanza 40 km por cada 1 km de altura perdida.
 
 Flameo (Flutter)::
-  Oscilación aeroelástica inestable y autoexcitada de una superficie de control que puede destruir la estructura en segundos si se excede la velocidad límite.
+  Oscilación aeroelástica inestable y autoexcitada (flutter) de una superficie de control que puede destruir la estructura en segundos si se excede la velocidad límite.
 
 FLARM::
   Sistema electrónico de alerta de tráfico y colisión diseñado específicamente para planeadores y aeronaves ligeras.
@@ -210,7 +219,7 @@ Lanzamiento con torno (Winch launch)::
 Lastre de agua (Water ballast)::
   Agua cargada en los tanques de las alas para aumentar la carga alar y la velocidad de penetración en días fuertes. Se descarga antes de aterrizar.
 
-Línea floja (Slack line)::
+Comba en el cable (Slack line)::
   Pérdida de tensión en el cable de remolque, que puede crear bucles peligrosos. Se corrige mediante maniobras suaves o uso de aerofrenos.
 
 [discrete]
@@ -307,7 +316,7 @@ Tramo de viento en cola (Downwind leg)::
   Tramo del circuito de tráfico paralelo a la pista, volando en dirección opuesta al aterrizaje.
 
 Travesía (Cross-country)::
-  Vuelo que se aleja de la distancia de planeo local del aeródromo de partida, requiriendo navegación y toma de decisiones meteorológicas.
+  Vuelo que se aleja de la distancia de planeo local del aeródromo de partida, requiriendo navegación y toma de decisiones meteorológicas. También llamado vuelo de cross-country.
 
 [discrete]
 === V

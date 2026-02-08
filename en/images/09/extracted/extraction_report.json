@@ -1,0 +1,1201 @@
+{
+  "metadata": {
+    "source": "en/images/09",
+    "total_pages_processed": 27,
+    "total_figures_extracted": 54,
+    "total_skipped": 11
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 9-1. Atmospheric mass by altitude",
+      "caption_text": "Atmospheric mass by altitude",
+      "bbox_normalized": [
+        0.41209302325581393,
+        0.31717171717171716,
+        0.8731782945736434,
+        0.6824242424242424
+      ],
+      "bbox_pixels": [
+        1329,
+        785,
+        2816,
+        1689
+      ],
+      "filename": "09-01.01.atmospheric-mass-by-altit_001.png",
+      "source_page": "page-1.png",
+      "chapter": 9,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 9-11. Zypical North American monsoon flow",
+      "caption_text": "Zypical North American monsoon flow",
+      "bbox_normalized": [
+        0.5615503875968992,
+        0.14909090909090908,
+        0.8809302325581395,
+        0.8505050505050505
+      ],
+      "bbox_pixels": [
+        1811,
+        369,
+        2841,
+        2105
+      ],
+      "filename": "09-11.10.zypical-north-american-mo_001.png",
+      "source_page": "page-10.png",
+      "chapter": 9,
+      "figure_number": 11,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 9-12. ] Due to the circulation, sink between streets may be stronger than typically found",
+      "caption_text": "] Due to the circulation, sink between streets may be stronger than typically found",
+      "bbox_normalized": [
+        0.08775193798449613,
+        0.0892929292929293,
+        0.19906976744186047,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        283,
+        221,
+        642,
+        2258
+      ],
+      "filename": "09-12.11.due-to-the-circulation-s_001.png",
+      "source_page": "page-11.png",
+      "chapter": 9,
+      "figure_number": 12,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 9-12. Circulation across a cloud street",
+      "caption_text": "Circulation across a cloud street",
+      "bbox_normalized": [
+        0.27193798449612405,
+        0.3022222222222222,
+        0.4232558139534884,
+        0.6973737373737374
+      ],
+      "bbox_pixels": [
+        877,
+        748,
+        1365,
+        1726
+      ],
+      "filename": "09-12.11.circulation-across-a-clou_001.png",
+      "source_page": "page-11.png",
+      "chapter": 9,
+      "figure_number": 12,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 9-12. , may exist without cumulus clouds",
+      "caption_text": ", may exist without cumulus clouds",
+      "bbox_normalized": [
+        0.4598449612403101,
+        0.0892929292929293,
+        0.5227906976744187,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1483,
+        221,
+        1686,
+        2254
+      ],
+      "filename": "09-12.11.may-exist-without-cumulu_001.png",
+      "source_page": "page-11.png",
+      "chapter": 9,
+      "figure_number": 12,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 9-13. shows a wavelike form for the inversion capping the cumulus clouds",
+      "caption_text": "shows a wavelike form for the inversion capping the cumulus clouds",
+      "bbox_normalized": [
+        0.537984496124031,
+        0.0892929292929293,
+        0.5848062015503876,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        1735,
+        221,
+        1886,
+        2258
+      ],
+      "filename": "09-13.11.shows-a-wavelike-form-for_001.png",
+      "source_page": "page-11.png",
+      "chapter": 9,
+      "figure_number": 13,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 9-13. Cloud street thermal wave",
+      "caption_text": "Cloud street thermal wave",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.21414141414141413,
+        0.42294573643410854,
+        0.7854545454545454
+      ],
+      "bbox_pixels": [
+        209,
+        530,
+        1364,
+        1944
+      ],
+      "filename": "09-13.12.cloud-street-thermal-wave_001.png",
+      "source_page": "page-12.png",
+      "chapter": 9,
+      "figure_number": 13,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 9-14. ] Thunderstorms in the cool seasons usually occur in conjunction with some forcing",
+      "caption_text": "] Thunderstorms in the cool seasons usually occur in conjunction with some forcing",
+      "bbox_normalized": [
+        0.6027906976744186,
+        0.08888888888888889,
+        0.7302325581395349,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        1944,
+        220,
+        2355,
+        2258
+      ],
+      "filename": "09-14.12.thunderstorms-in-the-coo_001.png",
+      "source_page": "page-12.png",
+      "chapter": 9,
+      "figure_number": 14,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 9-14. Thunderstorm frequency in the summertime",
+      "caption_text": "Thunderstorm frequency in the summertime",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09494949494949495,
+        0.4034108527131783,
+        0.9046464646464647
+      ],
+      "bbox_pixels": [
+        209,
+        235,
+        1301,
+        2239
+      ],
+      "filename": "09-14.13.thunderstorm-frequency-in_001.png",
+      "source_page": "page-13.png",
+      "chapter": 9,
+      "figure_number": 14,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 9-15. ] As the cloud increases in size, the strong updraft in the middle of",
+      "caption_text": "] As the cloud increases in size, the strong updraft in the middle of",
+      "bbox_normalized": [
+        0.44,
+        0.0892929292929293,
+        0.5029457364341086,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1419,
+        221,
+        1622,
+        2253
+      ],
+      "filename": "09-15.13.as-the-cloud-increases-i_001.png",
+      "source_page": "page-13.png",
+      "chapter": 9,
+      "figure_number": 15,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 9-15. 4 cumulus cloud becoming a towering cumulus",
+      "caption_text": "4 cumulus cloud becoming a towering cumulus",
+      "bbox_normalized": [
+        0.6403100775193798,
+        0.3204040404040404,
+        0.8967441860465116,
+        0.6791919191919192
+      ],
+      "bbox_pixels": [
+        2065,
+        793,
+        2892,
+        1681
+      ],
+      "filename": "09-15.13.4-cumulus-cloud-becoming_001.png",
+      "source_page": "page-13.png",
+      "chapter": 9,
+      "figure_number": 15,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 9-16. ] Generally, the higher the ridge",
+      "caption_text": "] Generally, the higher the ridge",
+      "bbox_normalized": [
+        0.7568992248062015,
+        0.0892929292929293,
+        0.81984496124031,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2441,
+        221,
+        2644,
+        2253
+      ],
+      "filename": "09-16.15.generally-the-higher-the_001.png",
+      "source_page": "page-15.png",
+      "chapter": 9,
+      "figure_number": 16,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 9-16. Lift zone for slope soaring",
+      "caption_text": "Lift zone for slope soaring",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3006060606060606,
+        0.3032558139534884,
+        0.6989898989898989
+      ],
+      "bbox_pixels": [
+        209,
+        744,
+        978,
+        1730
+      ],
+      "filename": "09-16.16.lift-zone-for-slope-soari_001.png",
+      "source_page": "page-16.png",
+      "chapter": 9,
+      "figure_number": 16,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 9-17. Slope lift and eddy with near-vertical slope",
+      "caption_text": "Slope lift and eddy with near-vertical slope",
+      "bbox_normalized": [
+        0.49209302325581394,
+        0.3014141414141414,
+        0.7302325581395349,
+        0.6981818181818182
+      ],
+      "bbox_pixels": [
+        1587,
+        746,
+        2355,
+        1728
+      ],
+      "filename": "09-17.16.slope-lift-and-eddy-with_001.png",
+      "source_page": "page-16.png",
+      "chapter": 9,
+      "figure_number": 17,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 9-18. Airflow along different ridges",
+      "caption_text": "Airflow along different ridges",
+      "bbox_normalized": [
+        0.2868217054263566,
+        0.33090909090909093,
+        0.7358139534883721,
+        0.6686868686868687
+      ],
+      "bbox_pixels": [
+        925,
+        819,
+        2373,
+        1655
+      ],
+      "filename": "09-18.17.airflow-along-different-r_001.png",
+      "source_page": "page-17.png",
+      "chapter": 9,
+      "figure_number": 18,
+      "page_number": 17
+    },
+    {
+      "caption_reference": "Figure 9-19. Three-dimensional effects of oblique winds and",
+      "caption_text": "Three-dimensional effects of oblique winds and",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.2997979797979798,
+        0.25302325581395346,
+        0.6997979797979798
+      ],
+      "bbox_pixels": [
+        209,
+        742,
+        816,
+        1732
+      ],
+      "filename": "09-19.18.threedimensional-effects_001.png",
+      "source_page": "page-18.png",
+      "chapter": 9,
+      "figure_number": 19,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 9-20. ] The cloud",
+      "caption_text": "] The cloud",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.29414141414141415,
+        0.27410852713178296,
+        0.7042424242424242
+      ],
+      "bbox_pixels": [
+        209,
+        728,
+        884,
+        1743
+      ],
+      "filename": "09-20.18.the-cloud_001.png",
+      "source_page": "page-18.png",
+      "chapter": 9,
+      "figure_number": 20,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 9-20. Cap cloud",
+      "caption_text": "Cap cloud",
+      "bbox_normalized": [
+        0.37953488372093025,
+        0.26141414141414143,
+        0.6548837209302325,
+        0.7381818181818182
+      ],
+      "bbox_pixels": [
+        1224,
+        647,
+        2112,
+        1827
+      ],
+      "filename": "09-20.18.cap-cloud_001.png",
+      "source_page": "page-18.png",
+      "chapter": 9,
+      "figure_number": 20,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 9-2. ] at dashed line 1, the dry unsaturated parcel (depicted by the red dot)",
+      "caption_text": "] at dashed line 1, the dry unsaturated parcel (depicted by the red dot)",
+      "bbox_normalized": [
+        0.16434108527131783,
+        0.0892929292929293,
+        0.2275968992248062,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        530,
+        221,
+        734,
+        2254
+      ],
+      "filename": "09-02.19.at-dashed-line-1-the-dry_001.png",
+      "source_page": "page-19.png",
+      "chapter": 9,
+      "figure_number": 2,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 9-21. Parcel displaced vertically and oscillating around its equilibrium level",
+      "caption_text": "Parcel displaced vertically and oscillating around its equilibrium level",
+      "bbox_normalized": [
+        0.4303875968992248,
+        0.16161616161616163,
+        0.7190697674418605,
+        0.8379797979797979
+      ],
+      "bbox_pixels": [
+        1388,
+        400,
+        2319,
+        2074
+      ],
+      "filename": "09-21.19.parcel-displaced-vertical_001.png",
+      "source_page": "page-19.png",
+      "chapter": 9,
+      "figure_number": 21,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 9-2. / also illustrates two features of any wave",
+      "caption_text": "/ also illustrates two features of any wave",
+      "bbox_normalized": [
+        0.4303875968992248,
+        0.16161616161616163,
+        0.7401550387596899,
+        0.8379797979797979
+      ],
+      "bbox_pixels": [
+        1388,
+        400,
+        2387,
+        2074
+      ],
+      "filename": "09-02.19.also-illustrates-two-fea_001.png",
+      "source_page": "page-19.png",
+      "chapter": 9,
+      "figure_number": 2,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 9-22. illustrates a two-dimensional conceptual model of a mountain with wind and temperature profiles",
+      "caption_text": "illustrates a two-dimensional conceptual model of a mountain with wind and temperature profiles",
+      "bbox_normalized": [
+        0.7553488372093023,
+        0.0892929292929293,
+        0.8024806201550387,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        2436,
+        221,
+        2588,
+        2258
+      ],
+      "filename": "09-22.19.illustrates-a-twodimensio_001.png",
+      "source_page": "page-19.png",
+      "chapter": 9,
+      "figure_number": 22,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 9-2. The composition of the atmosphere",
+      "caption_text": "The composition of the atmosphere",
+      "bbox_normalized": [
+        0.1937984496124031,
+        0.18141414141414142,
+        0.5972093023255814,
+        0.8181818181818182
+      ],
+      "bbox_pixels": [
+        625,
+        449,
+        1926,
+        2025
+      ],
+      "filename": "09-02.02.the-composition-of-the-at_001.png",
+      "source_page": "page-2.png",
+      "chapter": 9,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 9-22. Mountain lee wave system",
+      "caption_text": "Mountain lee wave system",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.1292929292929293,
+        0.40093023255813953,
+        0.8703030303030304
+      ],
+      "bbox_pixels": [
+        209,
+        320,
+        1293,
+        2154
+      ],
+      "filename": "09-22.20.mountain-lee-wave-system_001.png",
+      "source_page": "page-20.png",
+      "chapter": 9,
+      "figure_number": 22,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 9-22. above indicates cloud types associated with a mountain wave system",
+      "caption_text": "above indicates cloud types associated with a mountain wave system",
+      "bbox_normalized": [
+        0.5317829457364341,
+        0.08888888888888889,
+        0.6111627906976744,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1715,
+        220,
+        1971,
+        2254
+      ],
+      "filename": "09-22.20.above-indicates-cloud-typ_001.png",
+      "source_page": "page-20.png",
+      "chapter": 9,
+      "figure_number": 22,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 9-23. (panel A)",
+      "caption_text": "(panel A)",
+      "bbox_normalized": [
+        0.626046511627907,
+        0.0892929292929293,
+        0.6893023255813954,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2019,
+        221,
+        2223,
+        2253
+      ],
+      "filename": "09-23.20.panel-a_001.png",
+      "source_page": "page-20.png",
+      "chapter": 9,
+      "figure_number": 23,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 9-23. Cloud cover associated with variations in moisture",
+      "caption_text": "Cloud cover associated with variations in moisture",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3006060606060606,
+        0.25209302325581395,
+        0.6989898989898989
+      ],
+      "bbox_pixels": [
+        209,
+        744,
+        813,
+        1730
+      ],
+      "filename": "09-23.21.cloud-cover-associated-wi_001.png",
+      "source_page": "page-21.png",
+      "chapter": 9,
+      "figure_number": 23,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 9-23. (Panel B)]",
+      "caption_text": "(Panel B)]",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3006060606060606,
+        0.27286821705426356,
+        0.6989898989898989
+      ],
+      "bbox_pixels": [
+        209,
+        744,
+        880,
+        1730
+      ],
+      "filename": "09-23.21.panel-b_001.png",
+      "source_page": "page-21.png",
+      "chapter": 9,
+      "figure_number": 23,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 9-24. In the first",
+      "caption_text": "In the first",
+      "bbox_normalized": [
+        0.6657364341085271,
+        0.08888888888888889,
+        0.7934883720930233,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2147,
+        220,
+        2559,
+        2253
+      ],
+      "filename": "09-24.21.in-the-first_001.png",
+      "source_page": "page-21.png",
+      "chapter": 9,
+      "figure_number": 24,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 9-24. Panel A], referred to as destructive interference, the wavelength of the wave from",
+      "caption_text": "Panel A], referred to as destructive interference, the wavelength of the wave from",
+      "bbox_normalized": [
+        0.6657364341085271,
+        0.08888888888888889,
+        0.7934883720930233,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2147,
+        220,
+        2559,
+        2253
+      ],
+      "filename": "09-24.21.panel-a-referred-to-as-de_001.png",
+      "source_page": "page-21.png",
+      "chapter": 9,
+      "figure_number": 24,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 9-24. (Panel B)], referred to as constructive interference, the ranges are",
+      "caption_text": "(Panel B)], referred to as constructive interference, the ranges are",
+      "bbox_normalized": [
+        0.6657364341085271,
+        0.08888888888888889,
+        0.7934883720930233,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2147,
+        220,
+        2559,
+        2253
+      ],
+      "filename": "09-24.21.panel-b-referred-to-as-co_001.png",
+      "source_page": "page-21.png",
+      "chapter": 9,
+      "figure_number": 24,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 9-24. Destructive and constructive interference",
+      "caption_text": "Destructive and constructive interference",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.2997979797979798,
+        0.3386046511627907,
+        0.6997979797979798
+      ],
+      "bbox_pixels": [
+        209,
+        742,
+        1092,
+        1732
+      ],
+      "filename": "09-24.22.destructive-and-construct_001.png",
+      "source_page": "page-22.png",
+      "chapter": 9,
+      "figure_number": 24,
+      "page_number": 22
+    },
+    {
+      "caption_reference": "Figure 9-25. Lennie Awards are given for completing and documenting a wave flight",
+      "caption_text": "Lennie Awards are given for completing and documenting a wave flight",
+      "bbox_normalized": [
+        0.4328682170542636,
+        0.30464646464646467,
+        0.8837209302325582,
+        0.694949494949495
+      ],
+      "bbox_pixels": [
+        1396,
+        754,
+        2850,
+        1720
+      ],
+      "filename": "09-25.22.lennie-awards-are-given-f_001.png",
+      "source_page": "page-22.png",
+      "chapter": 9,
+      "figure_number": 25,
+      "page_number": 22
+    },
+    {
+      "caption_reference": "Figure 9-26. , a curtain cloud sometimes forms,",
+      "caption_text": ", a curtain cloud sometimes forms,",
+      "bbox_normalized": [
+        0.13364341085271317,
+        0.0892929292929293,
+        0.2288372093023256,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        431,
+        221,
+        738,
+        2254
+      ],
+      "filename": "09-26.23.a-curtain-cloud-sometime_001.png",
+      "source_page": "page-23.png",
+      "chapter": 9,
+      "figure_number": 26,
+      "page_number": 23
+    },
+    {
+      "caption_reference": "Figure 9-26. Sea-breeze front",
+      "caption_text": "Sea-breeze front",
+      "bbox_normalized": [
+        0.30170542635658915,
+        0.09373737373737374,
+        0.5767441860465117,
+        0.9058585858585858
+      ],
+      "bbox_pixels": [
+        973,
+        232,
+        1860,
+        2242
+      ],
+      "filename": "09-26.23.seabreeze-front_001.png",
+      "source_page": "page-23.png",
+      "chapter": 9,
+      "figure_number": 26,
+      "page_number": 23
+    },
+    {
+      "caption_reference": "Figure 9-27. Convergence induced by flow around topography (as viewed from above)",
+      "caption_text": "Convergence induced by flow around topography (as viewed from above)",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30505050505050507,
+        0.4986046511627907,
+        0.6945454545454546
+      ],
+      "bbox_pixels": [
+        209,
+        755,
+        1608,
+        1719
+      ],
+      "filename": "09-27.24.convergence-induced-by-fl_001.png",
+      "source_page": "page-24.png",
+      "chapter": 9,
+      "figure_number": 27,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 9-28. , drier synoptic- scale",
+      "caption_text": ", drier synoptic- scale",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.23555555555555555,
+        0.5196899224806202,
+        0.7632323232323233
+      ],
+      "bbox_pixels": [
+        209,
+        583,
+        1676,
+        1889
+      ],
+      "filename": "09-28.24.drier-synoptic-scale_001.png",
+      "source_page": "page-24.png",
+      "chapter": 9,
+      "figure_number": 28,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 9-28. Mountaintop convergence",
+      "caption_text": "Mountaintop convergence",
+      "bbox_normalized": [
+        0.6251162790697674,
+        0.301010101010101,
+        0.8111627906976744,
+        0.6985858585858585
+      ],
+      "bbox_pixels": [
+        2016,
+        745,
+        2616,
+        1729
+      ],
+      "filename": "09-28.24.mountaintop-convergence_001.png",
+      "source_page": "page-24.png",
+      "chapter": 9,
+      "figure_number": 28,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 9-29. Convergence induced by flow around topography",
+      "caption_text": "Convergence induced by flow around topography",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.301010101010101,
+        0.204031007751938,
+        0.6985858585858585
+      ],
+      "bbox_pixels": [
+        209,
+        745,
+        658,
+        1729
+      ],
+      "filename": "09-29.25.convergence-induced-by-fl_001.png",
+      "source_page": "page-25.png",
+      "chapter": 9,
+      "figure_number": 29,
+      "page_number": 25
+    },
+    {
+      "caption_reference": "Figure 9-30. ], or outlook",
+      "caption_text": "], or outlook",
+      "bbox_normalized": [
+        0.46852713178294575,
+        0.0892929292929293,
+        0.5317829457364341,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1511,
+        221,
+        1715,
+        2254
+      ],
+      "filename": "09-30.25.or-outlook_001.png",
+      "source_page": "page-25.png",
+      "chapter": 9,
+      "figure_number": 30,
+      "page_number": 25
+    },
+    {
+      "caption_reference": "Figure 9-30. Soaring forecast",
+      "caption_text": "Soaring forecast",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09494949494949495,
+        0.8474418604651163,
+        0.9046464646464647
+      ],
+      "bbox_pixels": [
+        209,
+        235,
+        2733,
+        2239
+      ],
+      "filename": "09-30.26.soaring-forecast_001.png",
+      "source_page": "page-26.png",
+      "chapter": 9,
+      "figure_number": 30,
+      "page_number": 26
+    },
+    {
+      "caption_reference": "Figure 9-3. Standard atmosphere temperatures",
+      "caption_text": "Standard atmosphere temperatures",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.28606060606060607,
+        0.41674418604651164,
+        0.7135353535353536
+      ],
+      "bbox_pixels": [
+        209,
+        708,
+        1344,
+        1766
+      ],
+      "filename": "09-03.04.standard-atmosphere-tempe_001.png",
+      "source_page": "page-4.png",
+      "chapter": 9,
+      "figure_number": 3,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 9-4. | The rate of change in temperature as altitude increases defines these layers",
+      "caption_text": "| The rate of change in temperature as altitude increases defines these layers",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.28606060606060607,
+        0.4378294573643411,
+        0.7135353535353536
+      ],
+      "bbox_pixels": [
+        209,
+        708,
+        1412,
+        1766
+      ],
+      "filename": "09-04.04.the-rate-of-change-in-te_001.png",
+      "source_page": "page-4.png",
+      "chapter": 9,
+      "figure_number": 4,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 9-4. Layers of the atmosphere",
+      "caption_text": "Layers of the atmosphere",
+      "bbox_normalized": [
+        0.5764341085271317,
+        0.15676767676767678,
+        0.889922480620155,
+        0.8428282828282828
+      ],
+      "bbox_pixels": [
+        1859,
+        388,
+        2870,
+        2086
+      ],
+      "filename": "09-04.04.layers-of-the-atmosphere_001.png",
+      "source_page": "page-4.png",
+      "chapter": 9,
+      "figure_number": 4,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 9-5. Scale of circulation—horizontal dimensions and life spans of associated weather events",
+      "caption_text": "Scale of circulation—horizontal dimensions and life spans of associated weather events",
+      "bbox_normalized": [
+        0.5751937984496124,
+        0.15232323232323233,
+        0.8865116279069768,
+        0.8472727272727273
+      ],
+      "bbox_pixels": [
+        1855,
+        377,
+        2859,
+        2097
+      ],
+      "filename": "09-05.05.scale-of-circulationhoriz_001.png",
+      "source_page": "page-5.png",
+      "chapter": 9,
+      "figure_number": 5,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 9-6. ] Often, a glider flying below another glider circling in a thermal can contact",
+      "caption_text": "] Often, a glider flying below another glider circling in a thermal can contact",
+      "bbox_normalized": [
+        0.5479069767441861,
+        0.0892929292929293,
+        0.5947286821705426,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1767,
+        221,
+        1918,
+        2253
+      ],
+      "filename": "09-06.06.often-a-glider-flying-be_001.png",
+      "source_page": "page-6.png",
+      "chapter": 9,
+      "figure_number": 6,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 9-6. The bubble or vortex ring model of a thermal",
+      "caption_text": "The bubble or vortex ring model of a thermal",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30343434343434345,
+        0.31348837209302327,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        209,
+        751,
+        1011,
+        1723
+      ],
+      "filename": "09-06.07.the-bubble-or-vortex-ring_001.png",
+      "source_page": "page-7.png",
+      "chapter": 9,
+      "figure_number": 6,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 9-7. The column or plume model of a thermal",
+      "caption_text": "The column or plume model of a thermal",
+      "bbox_normalized": [
+        0.34604651162790695,
+        0.30343434343434345,
+        0.7714728682170543,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        1116,
+        751,
+        2488,
+        1723
+      ],
+      "filename": "09-07.07.the-column-or-plume-model_001.png",
+      "source_page": "page-7.png",
+      "chapter": 9,
+      "figure_number": 7,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 9-8. Cross-section through a thermal",
+      "caption_text": "Cross-section through a thermal",
+      "bbox_normalized": [
+        0.1268217054263566,
+        0.29818181818181816,
+        0.43131782945736435,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        409,
+        738,
+        1391,
+        1736
+      ],
+      "filename": "09-08.08.crosssection-through-a-th_001.png",
+      "source_page": "page-8.png",
+      "chapter": 9,
+      "figure_number": 8,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 9-9. shows",
+      "caption_text": "shows",
+      "bbox_normalized": [
+        0.1268217054263566,
+        0.2383838383838384,
+        0.4524031007751938,
+        0.76
+      ],
+      "bbox_pixels": [
+        409,
+        590,
+        1459,
+        1881
+      ],
+      "filename": "09-09.08.shows_001.png",
+      "source_page": "page-8.png",
+      "chapter": 9,
+      "figure_number": 9,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 9-9. Lifecycle of a typical thermal with cumulus cloud",
+      "caption_text": "Lifecycle of a typical thermal with cumulus cloud",
+      "bbox_normalized": [
+        0.5581395348837209,
+        0.08848484848484849,
+        0.8716279069767442,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        1800,
+        219,
+        2811,
+        2255
+      ],
+      "filename": "09-09.08.lifecycle-of-a-typical-th_001.png",
+      "source_page": "page-8.png",
+      "chapter": 9,
+      "figure_number": 9,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 9-10. below demonstrates one means to predict whether a layer of the atmosphere will",
+      "caption_text": "below demonstrates one means to predict whether a layer of the atmosphere will",
+      "bbox_normalized": [
+        0.22542635658914728,
+        0.08888888888888889,
+        0.30449612403100773,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        727,
+        220,
+        982,
+        2254
+      ],
+      "filename": "09-10.09.below-demonstrates-one-me_001.png",
+      "source_page": "page-9.png",
+      "chapter": 9,
+      "figure_number": 10,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 9-10. Unstable (A) and stable (B) air",
+      "caption_text": "Unstable (A) and stable (B) air",
+      "bbox_normalized": [
+        0.45829457364341086,
+        0.26707070707070707,
+        0.761860465116279,
+        0.7325252525252526
+      ],
+      "bbox_pixels": [
+        1478,
+        661,
+        2457,
+        1813
+      ],
+      "filename": "09-10.09.unstable-a-and-stable-b-a_001.png",
+      "source_page": "page-9.png",
+      "chapter": 9,
+      "figure_number": 10,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 9-10. illustrates factors that would affect atmospheric stability",
+      "caption_text": "illustrates factors that would affect atmospheric stability",
+      "bbox_normalized": [
+        0.45829457364341086,
+        0.26707070707070707,
+        0.7829457364341085,
+        0.7325252525252526
+      ],
+      "bbox_pixels": [
+        1478,
+        661,
+        2525,
+        1813
+      ],
+      "filename": "09-10.09.illustrates-factors-that_001.png",
+      "source_page": "page-9.png",
+      "chapter": 9,
+      "figure_number": 10,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-1.png",
+      "caption": "[Figure 9-1]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-10.png",
+      "caption": "[Figure 9-11]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-16.png",
+      "caption": "[Figure 9-17]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-17.png",
+      "caption": "[Figure 9-19]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-2.png",
+      "caption": "[Figure 9-2]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-22.png",
+      "caption": "[Figure 9-25]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-24.png",
+      "caption": "[Figure 9-29]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 9-3]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-5.png",
+      "caption": "[Figure 9-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 9-7]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 9-8]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

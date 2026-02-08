@@ -1,0 +1,247 @@
+---
+title: "Aerodynamics of Flight"
+chapter: 3
+source: "FAA Glider Flying Handbook (FAA-H-8083-13B)"
+---
+
+# Chapter 3: Aerodynamics of Flight
+
+## Introduction
+
+This chapter discusses glider-related aerodynamics. A pilot who understands how forces affect a glider can operate safely while maximizing performance. To obtain a more detailed description of general aerodynamics, see the Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25).
+
+A glider maneuvers around three axes of rotation: vertical, lateral, and longitudinal. Each axis is perpendicular to the other two, and all three axes intersect at one central point called the center of gravity (CG), which varies with the loading of the glider. Any object on the ground will balance in any orientation if supported from the CG or a point directly above or below the CG.
+
+Yaw describes movement around the vertical axis, represented by an imaginary straight line drawn through the CG. [Figure 3-1] In flight, moving the rudder left or right causes the glider to yaw. The lateral axis runs parallel to a line from wingtip to wingtip. Pulling the stick back or pushing it forward changes the pitch of the glider and controls its movement around the lateral axis. Roll describes movement around the longitudinal axis caused by displacing the ailerons in opposite directions. This axis runs parallel to a line drawn from the nose to the tail.
+
+> **Figure 3-1:** Three axes of rotation with each perpendicular to the other two and all intersecting at the CG.
+
+### Forces of Flight
+
+Three forces act on an unpowered glider while in flight—lift, drag, and weight. Thrust is another force of flight that enables self-launching gliders to launch on their own and stay aloft when soaring conditions subside.
+
+> **Figure 3-2:** Vector components of lift, thrust, drag, and weight (gravity).
+
+Newton's laws and Bernoulli's principle explain lift from different perspectives. Newton's third law describes the overall interaction between atmosphere and wing, while Bernoulli's principle looks at the effect of air changing speed as it moves past the wing. Together, these models provide a valid explanation of lift.
+
+#### Newton's Third Law
+
+According to Newton's Third Law of Motion, for every action there is an equal and opposite reaction. As air deflects downward because of interaction with the wing, the wing experiences an upward (lifting) reaction.
+
+#### Bernoulli's Principle
+
+Bernoulli's Principle states that as the velocity of a moving fluid (liquid or gas) increases, the pressure within the fluid decreases. This principle explains what happens when air moves faster to pass over the top of a wing positioned at an angle to the relative wind, i.e., the wind resulting from the forward motion of the glider. The increase in speed of the air as it travels over the top of the wing produces a drop in pressure against the wing, and the higher air pressure below the wing results in a net lifting force.
+
+### Lift
+
+A mathematical relationship exists between lift, the coefficient of lift, airspeed, air density, and the size of the wing.
+
+> **Figure 3-3:** shows the relationship.
+
+(This dimensionless number is the ratio of lift pressure to dynamic pressure and area. It is specific to a particular airfoil shape, and, below the stall, it is proportional to angle of attack.)
+
+> **Figure 3-3:** Lift Equation.
+
+The lift equation shows that total lift changes as the factors on the right side of the equation change. For example, lift varies directly with the coefficient of lift. A pilot should understand the concept of angle of attack (AOA) to understand how the coefficient of lift varies. The angle of attack is the acute angle between the chord line of the wing and the relative wind developed by the motion of the glider through the air. [Figure 3-4] The coefficient of lift increases linearly until reaching a critical angle, at which point lift decreases even though the angle of attack increases. Once reaching the critical angle, any further increase in the angle of attack disturbs the smooth airflow over the top of the wing and causes a decrease in lift or a stall. Lift also varies with the square of velocity or airspeed. Doubling airspeed quadruples the amount of lift. As air density decreases with increasing altitude or rising temperature, lift decreases.
+
+> **Figure 3-4:** Angle of attack.
+
+When describing lift as a vector, the total lift acts through a point known as the center of lift (CL). This point occurs aft of the center of gravity. Therefore, lift creates a pitching moment on the glider, which the tail must counteract. The total lift vector acts perpendicular to the flightpath through the CL and perpendicular to the lateral axis.
+
+The force that resists the movement of the glider consists of parasite and induced drag, which combine to form total drag.
+
+### Lift Formula
+
+### Drag
+
+#### Parasite Drag
+
+Parasite drag includes the resistance of the air to any object moving through it created by skin friction, the shape of the object, and interference patterns within the airflow around the object. While glider wing designs generate minimal induced and parasite drag, other parts of the glider may create significant parasite drag. Parasite drag increases with the square of speed. Simply put, if the speed of the glider doubles, parasite drag increases four times. [Figure 3-5]
+
+> **Figure 3-5:** Parasite drag versus speed.
+
+#### Induced Drag
+
+As the angle of attack increases, more air flows around the wingtip from the lower to the upper surface, which creates larger wingtip vortices. [Figure 3-6]. Panel 4 of Figure 3-6, depicts the wing moving horizontally in level flight. The vertical lift vector develops perpendicular to the flight path and oncoming relative wind. Since wingtip vortices cause a downward divergence of the average relative wind from the flightpath, the total lift vector, which is perpendicular to the average relative wind, tilts back. This backward tilt of the total lift vector creates induced drag as a byproduct of lift. Factors that increase the angle between the total lift and vertical lift vectors, such as low airspeed and high angle of attack, increase induced drag.
+
+> **Figure 3-6:** Induced drag from the production of lift.
+
+As a glider flies faster, the wings can generate the same amount of lift with a reduced angle of attack. Increased speed with a smaller angle of attack reduces the backward slant of the total lift vector and reduces induced drag.
+
+#### Total Drag
+
+The total drag curve represents the combination of parasite and induced drag and varies with airspeed. [Figure 3-7]
+
+> **Figure 3-7:** Parasite drag, induced drag, and total drag versus airspeed.
+
+### Ground Effect
+
+Operating within one wingspan above the ground modifies the three-dimensional airflow pattern around the glider. This ground effect decreases downwash, reduces the size and effect of wingtip vortices, reduces induced drag, and results in more efficient flight. This effect allows the glider to fly at a lower airspeed during takeoff and reduces the sink rate of a glider on landing.
+
+### Weight
+
+Weight results from the force of gravity acting on the mass of the glider. The vertical components of both lift and drag act in opposition to the weight vector, which acts vertically downward through the center of gravity.
+
+### Thrust
+
+Unpowered gliders use an outside source, such as a tow plane, winch, or vehicle, to launch. Once released, these gliders maintain forward motion from conversion of potential energy to kinetic energy. A glider descends through the surrounding air to make this conversion. Powered gliders have engines, which can provide thrust for launch or to sustain flight.
+
+## Unpowered Glide Vector Analysis
+
+What propels an unpowered glider in a continuous descent in the surrounding airmass? A vector diagram with the flight path as one axis and a second axis perpendicular to the flight path depicts how the forces of weight, lift, and drag balance each other during an unpowered straight-line descent. [Figure 3-8] Weight (W) always points to the ground (center of the Earth). Lift (L) develops perpendicular to the flight path. Drag always acts backward along the flight path. While weight does not align with either axis on the diagram, the weight vector can resolve into two perpendicular components, one forward along the flight path opposing drag (Wf) and the other perpendicular to the flight path opposing lift (Wp). As shown in the figure, Wp balances lift, while Wf balances drag during an unaccelerated descent. Thus, gravity is the external engine that pulls the glider forward by acting on Wf.
+
+> **Figure 3-8:** The forces along an unpowered glider's flight path and its perpendicular.
+
+An unpowered descent converts the glider's potential energy of height above the ground into kinetic energy of motion on a continuous basis. The flight path angle or angle of descent (ɣ) is the same as the angle between Wp and W. Wf, Wp, and W could form three sides of a right triangle. Trigonometry gives the Wf and Wp components of weight using the formulas shown within the balance of forces boxes in Figure 3-8. A steeper flight path angle (ɣ) increases the forward component of weight (Wf) and decreases the perpendicular component of weight (Wp).
+
+## Glide Ratio & Wing Design
+
+One specific point appears in Figure 3-7 above. The point displayed, (L/DMAX), corresponds to a speed where the total lift capacity of the glider, when compared to the total drag reaches a maximum value. In calm air, this speed yields maximum glide distance and the published glide ratio for a glider. The glide ratio gives the distance the glider can travel during a given descent in altitude. For example, a glide ratio of 50:1 means a glider could travel 50 feet forward while losing one foot of altitude.
+
+### Wing Planform
+
+The shape (planform) of the wings affects the amount of lift and drag produced. The four most common wing planforms used on gliders are elliptical, rectangular, tapered, and swept forward. [Figure 3-9]
+
+> **Figure 3-9:** Planforms of glider wings
+
+### Aspect Ratio
+
+Dividing the wingspan (from wingtip to wingtip) by the average wing chord determines the aspect ratio for a glider. Glider wings have a high aspect ratio, as shown in Figure 3-10, which generates significant lift at low angles of attack with minimal induced drag.
+
+> **Figure 3-10:** Aspect ratio
+
+### Winglets
+
+Wingtip devices, or winglets, also improve efficiency of the glider by altering the airflow near the wingtips and reducing induced drag.
+
+### Washout
+
+The wing root refers to the portion of the wing nearest the fuselage. Washout refers to a slight wing twist between the wing root and wingtip, which causes the wing root to have a greater angle of attack (AOA) than the wing tip. If the AOA becomes excessive, airflow will separate at the wing root before separation occurs at the wing tip. This wing design provides warning of any impending stall or overall separation of air from the wing and allows for continued aileron control at the onset of a stall.
+
+## Stability
+
+Vertical gusts, a sudden shift in CG, or deflection of the controls by the pilot can displace the glider from its orientation in flight. Static and dynamic stability define how the glider reacts after a displacement. Static stability describes the initial direction of the response. A glider with positive static stability initially moves back toward its original orientation after a change. A glider with negative static stability would increase displacement after a change. A glider with neutral static stability tends to hold any new orientation. The level of stability about each axis of a glider results from its design and loading.
+
+A glider with positive static stability will swing past its original pitch attitude and undergo a series of oscillations. If that glider has positive dynamic stability, the size of any oscillations will dampen out over time. The same glider with negative dynamic stability would experience oscillations that increase in amplitude over time. That glider with neutral dynamic stability would experience a series of constant oscillations over time. [Figure 3-11]
+
+> **Figure 3-11:** Three types of dynamic stability.
+
+Gliders have a CG in front of the center of lift—the single point through which the sum of all lift acts. This design requires an opposing tail-down force to maintain control and to create positive static stability for pitch. [Figure 3-12] For example, if a pilot displaces a glider's nose upward and releases the controls, the glider will lose airspeed. The resulting reduction in down force provided by the tail causes the glider's nose to drop back toward its original position. This design results in positive initial longitudinal stability (stability around the lateral axis). When a positive dynamically stable glider oscillates in pitch, the amplitude of the oscillations diminishes through each cycle and eventually stops at the speed where downward force on the tail offsets the tendency to nose down.
+
+> **Figure 3-12:** The horizontal stabilizer offsets the natural tendency of a glider to pitch down.
+
+The glider POH lists an acceptable range for the CG, and the pilot normally computes the CG location before flight to verify the glider will fly as designed. A glider with an aft CG requires less tail-down force, which makes pitch oscillations more difficult to dampen. As airspeed decreases in a glider loaded aft of the permissible CG limit, the nose of the glider might rise uncontrollably and lead to an unrecoverable stall or spin. A forward CG increases induced drag and reduces performance. A glider with a CG ahead of the published forward limit may not provide enough pitch control to raise the nose during a landing. Chapter 5, Glider Performance, contains further discussion of proper loading of a glider and the importance of CG.
+
+### Lateral Stability
+
+Lateral stability describes the glider's tendency to return to wings-level flight following a displacement. [Figure 3-13] For example, due to a gust of wind, the glider may start to roll. The angle of attack increases slightly on one wing as it moves down, which causes the lift to increase on that wing. On the rising wing, the opposite effect decreases lift. This lift differential tends to dampen the rolling motion but does not bring the glider back to wings-level.
+
+> **Figure 3-13:** Lateral stability.
+
+Wing dihedral, the upward angle of the wings from horizontal, adds to lateral stability. As the glider rolls, the descending wing has a larger vertical lift component than the rising wing. This difference in the vertical lift component between each wing tends to roll the glider back toward level flight. [Figure 3-14]
+
+> **Figure 3-14:** Dihedral angle.
+
+### Flutter
+
+Due to the flexibility of a glider wing design, the wing may oscillate rapidly or flutter at high airspeeds. Additionally, looseness in the control surfaces can also result in flutter of flight control surfaces near maximum speed. Improper balance of the control surfaces may also cause flutter. Since prolonged flutter may cause structural failure, the pilot should reduce the airspeed sufficiently to stop any flutter.
+
+## Pilot Induced Oscillation (PIO)
+
+Pilot-induced oscillations (PIOs) can occur when the pilot applies excess control pressure that causes an overshoot of the desired flight attitude. If the pilot repeatedly moves the controls back and forth using excess pressure, the glider oscillates continuously past the desired attitude. The oscillations can increase in amplitude and may cause loss of control. While PIOs most likely occur as pitch oscillations, roll and yaw induced PIOs may also occur.
+
+Although PIOs can occur at any time, they often arise during primary training. Experienced pilots may also induce PIOs when flying an unfamiliar make and model glider. For that reason and before flying an unfamiliar glider, all pilots should review and understand the flight characteristics of that glider.
+
+If encountering PIOs, the pilot should remember that changes in flight attitude take time. The pilot should begin to ease flight control pressure as the glider begins to respond in the desired direction. As the glider nears the desired attitude, the pilot centers the appropriate flight control so that overshooting does not occur.
+
+During the first moments of the takeoff roll, as airflow begins to impact the control surfaces, it takes considerable displacement of the flight controls to affect the glider's flightpath. The pilot also experiences a higher control lag time due to reduced control effectiveness at low speed. As the glider accelerates, aerodynamic response improves, lag time decreases, and PIOs become less likely.
+
+## Turning Flight
+
+Any moving object continues in a straight line until a force causes a change in direction. A pilot creates turning force by using the ailerons to roll the glider so that the direction of the total lift vector inclines. When a glider rolls away from wings-level, lift divides into two components. The vertical component opposes weight, while the other acts horizontally to oppose centrifugal force. [Figure 3-15]
+
+> **Figure 3-15:** Forces in a banked turn.
+
+When using the horizontal component of lift to turn the glider, a reduction in the vertical component of lift will occur unless the pilot increases back pressure on the control stick, increasing the angle of attack and total lift produced by the wings. Increasing total lift can restore the vertical component of lift to that required to counteract weight. Otherwise, the descent rate in the airmass increases.
+
+### Load Factor
+
+Any force applied to a glider to deflect its flight from a straight line produces a stress on its structure; load factor describes this force. The load factor is the ratio of the total air load acting on the glider to the weight of the glider. Load factor may be positive or negative and depends on the current flightpath. Load factor units often use "G," a gravitational force equivalent. A load factor of one, or 1 G, represents conditions in which the lift is equal to the weight. A glider in flight with a load factor of one does not necessarily mean the glider is in straight-and-level flight, but rather that the total lift equals that of unaccelerated straight-and-level flight.
+
+When subjecting a glider to added Gs in a pull up from a dive, anyone in the glider feels a sensation of pressing into the seat with a force equal to the number of Gs times the person's weight. In addition, the person's extremities require added muscular force to resist the downward force. Added Gs can affect blood flow to the brain, affect cognitive ability, and cause disorientation.
+
+Load factor increases rapidly as the angle of bank increases during a turn when the pilot increases lift to prevent a change in vertical speed. From an aerodynamic perspective, load factors concern the pilot for two distinct reasons:
+
+1. Below a certain airspeed, a stall occurs before the pilot can create a dangerous overload on the glider structure.
+
+2. Above a certain airspeed, known as the maneuvering speed or V*A*, a pilot can generate enough lift to create a dangerous overload on the glider structure.
+
+In a turn at constant speed, the pilot pulls back on the stick to furnish the extra lift necessary to maintain a constant vertical speed in the airmass. The load and stall speed increase significantly as bank angles exceed 30 degrees. [Figure 3-16] and [Figure 3-17]
+
+> **Figure 3-16:** The loads placed on a glider while maintaining a constant rate of descent with respect to the surrounding air increase as the angle of bank increases.
+
+> **Figure 3-17:** A 60° angle of bank causes a 41 percent increase in the glider's stall speed.
+
+### Rate of Turn
+
+Rate of turn refers to the amount of time it takes for a glider to turn a specified number of degrees. If flown at the same airspeed and angle of bank, every glider turns at the same rate. If airspeed increases while the angle of bank remains the same, the rate of turn decreases. Conversely, a constant airspeed coupled with an increased angle of bank results in an increased rate of turn.
+
+### Radius of Turn
+
+The horizontal distance an aircraft uses to complete a turn depends upon the radius of turn. The radius of turn at any given bank angle varies directly with the square of the airspeed. Therefore, if the airspeed of the glider were doubled, the radius of the turn would be four times greater. The radius of turn also depends on a glider's angle of bank. If the angle of bank increases and the airspeed remains the same, the radius of turn decreases. [Figure 3-18] When flying in thermals, a smaller turn radius enables a glider to fly closer to the fastest rising core of the thermal and gain altitude more quickly.
+
+> **Figure 3-18:** A glider's radius of turn as compared to angle of bank.
+
+### Turn Coordination
+
+When rolling into a turn, the lowered aileron on the outside wing produces more lift for that wing. Since induced drag is a byproduct of lift, the outside wing also experiences more drag than the inside wing. This causes adverse yaw, a yawing tendency toward the outside of the turn. Appropriate use of rudder corrects for any adverse yaw caused by aileron drag. Because glider wings provide a long lever arm for adverse yaw, the pilot may need to use substantial rudder pressure during a coordinated turn. The amount of adverse yaw may surprise a pilot transitioning from an airplane, and the amount of adverse yaw will be much greater than experienced in a typical airplane.
+
+While uncoordinated flight decreases performance, pilots can use different slipping techniques to steepen the descent angle or to counteract a crosswind during landing.
+
+Because of the location of the pitot tube and static vents, airspeed indicators in some gliders may have considerable error when the pilot places the glider in a slip. The pilot should recognize this error and know how to perform slips based on secondary indications such as the attitude of the glider, the sound of the airflow, and the feel of the flight controls.
+
+A pilot normally coordinates rudder and aileron inputs during a turn. Using too little rudder, or if rudder is applied too late, results in a slip. Too much rudder, or rudder applied before aileron, results in a skid. Both skids and slips expose a side of the fuselage to the relative wind, creating additional parasite drag.
+
+### Slips
+
+#### Forward Slip
+
+During a forward slip the glider's horizontal path over the ground remains unchanged. [Figure 3-19] This slip uses uncoordinated flight to dissipate energy which increases rate of descent without increasing the glider's forward speed. Pilots sometimes use forward slips during a landing approach over obstacles or for short-field landings when necessary to dissipate altitude no longer needed for a margin of safety during the approach.
+
+> **Figure 3-19:** A comparison of a forward slip to a sideslip.
+
+To enter a slip from straight flight, the pilot lowers the wing on the side toward which the slip occurs using the ailerons. Simultaneously, the pilot yaws the aircraft's nose in the opposite direction by applying enough opposite rudder so that the glider's longitudinal axis no longer aligns with its flightpath. The pilot should yaw the glider such that it maintains the original ground track and raises the nose sufficiently to prevent the airspeed from increasing. In crosswinds, initiating a slip by lowering the wing on windward side of the glider provides more stable path control. The pilot discontinues a slip by leveling the wings and by smoothly and simultaneously releasing the rudder pressure, while readjusting the pitch attitude for a normal glide.
+
+Note: Forward slips with wing flaps extended should not occur if the manufacturer's operating instructions prohibit such operation.
+
+#### Sideslip
+
+During crosswind landings, a sideslip can counteract wind drift and allows the glider to touch down with its longitudinal axis parallel to the direction of motion. The pilot uses rudder pressure to keep the glider's longitudinal axis parallel to the desired ground track, but the path over the ground can change depending on the amount of bank. To perform a sideslip, the pilot lowers the upwind wing and simultaneously applies sufficient opposite rudder to maintain the nose alignment.
+
+### Stalls
+
+A stall occurs whenever the angle between the chord line and relative wind exceeds the critical AOA. [Figure 3-20] A stall results in a reduction in lift, although the wings still support some of the aircraft's weight during a stall. Stalls may occur at any airspeed and in any flight attitude.
+
+> **Figure 3-20:** A stall occurs when the angle of attack exceeds the critical angle of attack.
+
+Many factors affect the stall speed of a glider, including weight, load factor due to maneuvering, wing contamination, and CG location. As the weight or the load factor of the glider increases, flight at any given airspeed relies on an increased AOA—closer to the critical angle of attack. A higher load factor or glider weight causes the glider to reach the critical angle at a higher speed. The distribution of weight also affects stall speed. For example, a forward CG requires more tail-down force to balance the aircraft. This requires the wings to produce more lift than with the CG further aft. Therefore, a more forward CG also increases stall speed.
+
+Environmental factors also affect stall speed. Snow, ice, or frost accumulation on wing surfaces can increase the weight of the wing and disrupt airflow, both of which increase stall speed. Turbulence has an impact on the stall speed of a glider because the vertical gusts change the direction of the relative wind and abruptly increase the AOA. During landing in gusty conditions, pilots normally increase the approach airspeed by half of the difference between the steady wind and gust value to maintain a safe margin above stall. For example, if the winds were 10 knots gusting to 16 knots, it would be prudent to add 3 knots ((16 – 10) ÷ 2 = 3) to the approach speed.
+
+### Spins
+
+A spin develops from an aggravated stall that results in the glider descending in a helical or corkscrew path. A spin may develop as a complex, uncoordinated flight maneuver in which one wing becomes more stalled than the other. Upon entering a spin, the more completely stalled wing usually drops before the other, and the nose of the aircraft yaws in the direction of the low wing. In this spin scenario, the ascending wing experiences more lift and less drag. [Figure 3-21] The opposite wing moves down and back due to less lift and increased drag.
+
+> **Figure 3-21:** The relative coefficients of lift and drag for each wing during a spin, which generate differential lift and drag and induces roll and yaw.
+
+Spins may occur after a glider stalls in uncoordinated flight with unequal airflow over the wings. Any resultant spin usually occurs in the direction of rudder application. The entry, wing form, and CG usually determine the type of spin that results from an uncoordinated wing stall. Glider pilots should understand the stall characteristics for any glider flown, and spin recovery techniques as described in either the GFM, if applicable, or in Chapter 8, Abnormal and Emergency Procedures.
+
+Spin classification includes three categories, as shown in Figure 3-22. The entry, wing form, and CG usually determine the type of spin that results from an uncoordinated wing stall. The most common type of spin is the upright or erect spin, which maintains a slightly nose-down rolling and yawing motion in the same direction. A second type of spin, an inverted spin, involves the aircraft spinning upside down with the yaw and roll occurring in opposite directions. In a third type of spin, the flat spin, the glider yaws around the vertical axis at a pitch attitude nearly level with the horizon. A flat spin often has a very high rate of rotation with a difficult or impossible recovery. A properly loaded glider should not enter a flat spin. Flat spins can also be inverted.
+
+> **Figure 3-22:** Three types of spins.
+
+A stall and spin entry near the ground may prove fatal because a pilot may not have adequate altitude to recover. Therefore, pilots should avoid errors that could lead to a stall/spin accident. For example, during the approach and landing phase with a tailwind on the base leg, a pilot might try to tighten the turn to final using rudder, or to make a steep turn to prevent overshooting the final approach course. A skidding turn could lead to the lower wing exceeding its critical AOA before the upper wing and could result in a spin. An excessively steep turn could also result in an accelerated stall and spin.
+
+## Chapter Summary
+
+This chapter focuses on the four forces of flight, which include lift, drag, thrust, and weight. Components of one force can contribute to another. When lift offsets gravity and thrust offsets drag, unaccelerated flight occurs. The chapter also introduces the concept of ground effect, which results from a reduction in induced drag near the ground. A glider has 3 axes of rotation and moves about each axis because of natural disturbances and pilot input. Roll occurs around the longitudinal axis, pitch around the lateral axis, and yaw around the vertical axis. Stability refers to the ability of the aircraft to return to its original path and orientation after an upset. Pilots unfamiliar with the effects of control inputs and stability can induce oscillations. This chapter covers turning flight and the effect of forces on rate of turn, radius of turn, turn coordination, and load factors. The chapter also discusses stalls and spins.

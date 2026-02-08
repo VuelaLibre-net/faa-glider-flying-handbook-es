@@ -1,0 +1,1058 @@
+{
+  "metadata": {
+    "source": "en/images/04",
+    "total_pages_processed": 22,
+    "total_figures_extracted": 46,
+    "total_skipped": 16
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 4-1. A pitot tube often mounts in the glider’s nose or the vertical fin,",
+      "caption_text": "A pitot tube often mounts in the glider’s nose or the vertical fin,",
+      "bbox_normalized": [
+        0.6666666666666666,
+        0.1907070707070707,
+        0.8372093023255814,
+        0.8088888888888889
+      ],
+      "bbox_pixels": [
+        2150,
+        472,
+        2700,
+        2002
+      ],
+      "filename": "04-01.01.a-pitot-tube-often-mounts.png",
+      "source_page": "page-1.png",
+      "chapter": 4,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 4-17. Nonstandard pressure and temperature",
+      "caption_text": "Nonstandard pressure and temperature",
+      "bbox_normalized": [
+        0.4629457364341085,
+        0.08848484848484849,
+        0.7615503875968992,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        1493,
+        219,
+        2456,
+        2255
+      ],
+      "filename": "04-17.11.nonstandard-pressure-and.png",
+      "source_page": "page-11.png",
+      "chapter": 4,
+      "figure_number": 17,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 4-18. Uncompensated variometer plumbing",
+      "caption_text": "Uncompensated variometer plumbing",
+      "bbox_normalized": [
+        0.09829457364341085,
+        0.24242424242424243,
+        0.24,
+        0.7571717171717172
+      ],
+      "bbox_pixels": [
+        317,
+        600,
+        774,
+        1874
+      ],
+      "filename": "04-18.12.uncompensated-variometer.png",
+      "source_page": "page-12.png",
+      "chapter": 4,
+      "figure_number": 18,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 4-19. 4 variometer diaphragm anatomy",
+      "caption_text": "4 variometer diaphragm anatomy",
+      "bbox_normalized": [
+        0.2725581395348837,
+        0.09454545454545454,
+        0.5730232558139535,
+        0.9050505050505051
+      ],
+      "bbox_pixels": [
+        879,
+        234,
+        1848,
+        2240
+      ],
+      "filename": "04-19.12.4-variometer-diaphragm-an.png",
+      "source_page": "page-12.png",
+      "chapter": 4,
+      "figure_number": 19,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 4-22. illustrates certain flight maneuvers that cause the",
+      "caption_text": "illustrates certain flight maneuvers that cause the",
+      "bbox_normalized": [
+        0.2725581395348837,
+        0.09454545454545454,
+        0.594108527131783,
+        0.9050505050505051
+      ],
+      "bbox_pixels": [
+        879,
+        234,
+        1916,
+        2240
+      ],
+      "filename": "04-22.12.illustrates-certain-fligh.png",
+      "source_page": "page-12.png",
+      "chapter": 4,
+      "figure_number": 22,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 4-20. Uncompensated variometer in level flight",
+      "caption_text": "Uncompensated variometer in level flight",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09333333333333334,
+        0.2986046511627907,
+        0.9062626262626262
+      ],
+      "bbox_pixels": [
+        209,
+        231,
+        963,
+        2243
+      ],
+      "filename": "04-20.13.uncompensated-variometer.png",
+      "source_page": "page-13.png",
+      "chapter": 4,
+      "figure_number": 20,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 4-21. Uncompensated variometer in a climb",
+      "caption_text": "Uncompensated variometer in a climb",
+      "bbox_normalized": [
+        0.33085271317829457,
+        0.09373737373737374,
+        0.5841860465116279,
+        0.9058585858585858
+      ],
+      "bbox_pixels": [
+        1067,
+        232,
+        1884,
+        2242
+      ],
+      "filename": "04-21.13.uncompensated-variometer.png",
+      "source_page": "page-13.png",
+      "chapter": 4,
+      "figure_number": 21,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 4-22. Flight maneuvers that display altitude changes on an uncompensated variometer",
+      "caption_text": "Flight maneuvers that display altitude changes on an uncompensated variometer",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09454545454545454,
+        0.5265116279069767,
+        0.9050505050505051
+      ],
+      "bbox_pixels": [
+        209,
+        234,
+        1698,
+        2240
+      ],
+      "filename": "04-22.14.flight-maneuvers-that-dis.png",
+      "source_page": "page-14.png",
+      "chapter": 4,
+      "figure_number": 22,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 4-23. When an electric variometer is mounted to the glider, installation of a non-electric",
+      "caption_text": "When an electric variometer is mounted to the glider, installation of a non-electric",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30303030303030304,
+        0.2762790697674419,
+        0.6965656565656566
+      ],
+      "bbox_pixels": [
+        209,
+        750,
+        891,
+        1724
+      ],
+      "filename": "04-23.15.when-an-electric-variomet.png",
+      "source_page": "page-15.png",
+      "chapter": 4,
+      "figure_number": 23,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 4-24. ] A MacCready ring has single pilot values, values with a passenger, and",
+      "caption_text": "] A MacCready ring has single pilot values, values with a passenger, and",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.10545454545454545,
+        0.2973643410852713,
+        0.8929292929292929
+      ],
+      "bbox_pixels": [
+        209,
+        261,
+        959,
+        2210
+      ],
+      "filename": "04-24.15.a-maccready-ring-has-sin.png",
+      "source_page": "page-15.png",
+      "chapter": 4,
+      "figure_number": 24,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 4-24. The MacCready ring",
+      "caption_text": "The MacCready ring",
+      "bbox_normalized": [
+        0.4514728682170543,
+        0.25292929292929295,
+        0.6269767441860465,
+        0.7466666666666667
+      ],
+      "bbox_pixels": [
+        1456,
+        626,
+        2022,
+        1848
+      ],
+      "filename": "04-24.15.the-maccready-ring.png",
+      "source_page": "page-15.png",
+      "chapter": 4,
+      "figure_number": 24,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 4-25. A total energy variometer system",
+      "caption_text": "A total energy variometer system",
+      "bbox_normalized": [
+        0.10015503875968992,
+        0.0901010101010101,
+        0.4170542635658915,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        323,
+        223,
+        1345,
+        2254
+      ],
+      "filename": "04-25.16.a-total-energy-variometer.png",
+      "source_page": "page-16.png",
+      "chapter": 4,
+      "figure_number": 25,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 4-26. An example of a Netto variometer system",
+      "caption_text": "An example of a Netto variometer system",
+      "bbox_normalized": [
+        0.6341085271317829,
+        0.30383838383838385,
+        0.8893023255813953,
+        0.6953535353535354
+      ],
+      "bbox_pixels": [
+        2045,
+        752,
+        2868,
+        1721
+      ],
+      "filename": "04-26.16.an-example-of-a-netto-var.png",
+      "source_page": "page-16.png",
+      "chapter": 4,
+      "figure_number": 26,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 4-27. shows a glider flight computer",
+      "caption_text": "shows a glider flight computer",
+      "bbox_normalized": [
+        0.18604651162790697,
+        0.0892929292929293,
+        0.23286821705426355,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        600,
+        221,
+        751,
+        2254
+      ],
+      "filename": "04-27.17.shows-a-glider-flight-com.png",
+      "source_page": "page-17.png",
+      "chapter": 4,
+      "figure_number": 27,
+      "page_number": 17
+    },
+    {
+      "caption_reference": "Figure 4-27. Glider flight computer display",
+      "caption_text": "Glider flight computer display",
+      "bbox_normalized": [
+        0.3221705426356589,
+        0.29818181818181816,
+        0.5550387596899224,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        1039,
+        738,
+        1790,
+        1736
+      ],
+      "filename": "04-27.17.glider-flight-computer-di.png",
+      "source_page": "page-17.png",
+      "chapter": 4,
+      "figure_number": 27,
+      "page_number": 17
+    },
+    {
+      "caption_reference": "Figure 4-28. ] During coordinated flight, the yarn points straight back",
+      "caption_text": "] During coordinated flight, the yarn points straight back",
+      "bbox_normalized": [
+        0.5175193798449612,
+        0.0892929292929293,
+        0.5643410852713179,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1669,
+        221,
+        1820,
+        2253
+      ],
+      "filename": "04-28.18.during-coordinated-fligh.png",
+      "source_page": "page-18.png",
+      "chapter": 4,
+      "figure_number": 28,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 4-28. Left turn condition indications of a yaw string and inclinometer",
+      "caption_text": "Left turn condition indications of a yaw string and inclinometer",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.301010101010101,
+        0.7320930232558139,
+        0.6985858585858585
+      ],
+      "bbox_pixels": [
+        209,
+        745,
+        2361,
+        1729
+      ],
+      "filename": "04-28.19.left-turn-condition-indic.png",
+      "source_page": "page-19.png",
+      "chapter": 4,
+      "figure_number": 28,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 4-28. ] The",
+      "caption_text": "] The",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.26505050505050504,
+        0.7531782945736434,
+        0.7337373737373737
+      ],
+      "bbox_pixels": [
+        209,
+        656,
+        2429,
+        1816
+      ],
+      "filename": "04-28.19.the.png",
+      "source_page": "page-19.png",
+      "chapter": 4,
+      "figure_number": 28,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 4-2. Pressure inside the diaphragm as a function of airspeed",
+      "caption_text": "Pressure inside the diaphragm as a function of airspeed",
+      "bbox_normalized": [
+        0.1268217054263566,
+        0.28606060606060607,
+        0.3330232558139535,
+        0.7135353535353536
+      ],
+      "bbox_pixels": [
+        409,
+        708,
+        1074,
+        1766
+      ],
+      "filename": "04-02.02.pressure-inside-the-diaph.png",
+      "source_page": "page-2.png",
+      "chapter": 4,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 4-3. ] Color-coded arcs depict airspeed ranges for different phases of",
+      "caption_text": "] Color-coded arcs depict airspeed ranges for different phases of",
+      "bbox_normalized": [
+        0.4316279069767442,
+        0.0892929292929293,
+        0.4784496124031008,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1392,
+        221,
+        1543,
+        2253
+      ],
+      "filename": "04-03.02.colorcoded-arcs-depict-a.png",
+      "source_page": "page-2.png",
+      "chapter": 4,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 4-4. shows the internal structure of",
+      "caption_text": "shows the internal structure of",
+      "bbox_normalized": [
+        0.4316279069767442,
+        0.0892929292929293,
+        0.4784496124031008,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1392,
+        221,
+        1543,
+        2253
+      ],
+      "filename": "04-04.02.shows-the-internal-struct.png",
+      "source_page": "page-2.png",
+      "chapter": 4,
+      "figure_number": 4,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 4-3. Airspeed indicator",
+      "caption_text": "Airspeed indicator",
+      "bbox_normalized": [
+        0.6003100775193798,
+        0.2909090909090909,
+        0.8775193798449612,
+        0.7086868686868687
+      ],
+      "bbox_pixels": [
+        1936,
+        720,
+        2830,
+        1754
+      ],
+      "filename": "04-03.02.airspeed-indicator.png",
+      "source_page": "page-2.png",
+      "chapter": 4,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 4-29. The G-meter",
+      "caption_text": "The G-meter",
+      "bbox_normalized": [
+        0.390077519379845,
+        0.3022222222222222,
+        0.6232558139534884,
+        0.6973737373737374
+      ],
+      "bbox_pixels": [
+        1258,
+        748,
+        2010,
+        1726
+      ],
+      "filename": "04-29.20.the-gmeter.png",
+      "source_page": "page-20.png",
+      "chapter": 4,
+      "figure_number": 29,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 4-30. shows",
+      "caption_text": "shows",
+      "bbox_normalized": [
+        0.6986046511627907,
+        0.0892929292929293,
+        0.7454263565891472,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2253,
+        221,
+        2404,
+        2254
+      ],
+      "filename": "04-30.20.shows.png",
+      "source_page": "page-20.png",
+      "chapter": 4,
+      "figure_number": 30,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 4-30. FLARM unit on top of the instrument panel",
+      "caption_text": "FLARM unit on top of the instrument panel",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.2105050505050505,
+        0.39906976744186046,
+        0.7890909090909091
+      ],
+      "bbox_pixels": [
+        209,
+        521,
+        1287,
+        1953
+      ],
+      "filename": "04-30.21.flarm-unit-on-top-of-the.png",
+      "source_page": "page-21.png",
+      "chapter": 4,
+      "figure_number": 30,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 4-31. Outside air temperature (OAT) gauge",
+      "caption_text": "Outside air temperature (OAT) gauge",
+      "bbox_normalized": [
+        0.2288372093023256,
+        0.30343434343434345,
+        0.46325581395348836,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        738,
+        751,
+        1494,
+        1723
+      ],
+      "filename": "04-31.22.outside-air-temperature-o.png",
+      "source_page": "page-22.png",
+      "chapter": 4,
+      "figure_number": 31,
+      "page_number": 22
+    },
+    {
+      "caption_reference": "Figure 4-4. Anatomy of the airspeed indicator",
+      "caption_text": "Anatomy of the airspeed indicator",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09333333333333334,
+        0.27162790697674416,
+        0.9062626262626262
+      ],
+      "bbox_pixels": [
+        209,
+        231,
+        876,
+        2243
+      ],
+      "filename": "04-04.03.anatomy-of-the-airspeed-i.png",
+      "source_page": "page-3.png",
+      "chapter": 4,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 4-4. above, the airspeed indicator contains a diaphragm that expands or contracts in response",
+      "caption_text": "above, the airspeed indicator contains a diaphragm that expands or contracts in response",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09333333333333334,
+        0.29271317829457366,
+        0.9062626262626262
+      ],
+      "bbox_pixels": [
+        209,
+        231,
+        944,
+        2243
+      ],
+      "filename": "04-04.03.above-the-airspeed-indica.png",
+      "source_page": "page-3.png",
+      "chapter": 4,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 4-5. Airspeed indicator operation",
+      "caption_text": "Airspeed indicator operation",
+      "bbox_normalized": [
+        0.382015503875969,
+        0.09414141414141414,
+        0.7293023255813953,
+        0.9054545454545454
+      ],
+      "bbox_pixels": [
+        1232,
+        233,
+        2352,
+        2241
+      ],
+      "filename": "04-05.03.airspeed-indicator-operat.png",
+      "source_page": "page-3.png",
+      "chapter": 4,
+      "figure_number": 5,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 4-6. Effects of altitude on the airspeed indicator",
+      "caption_text": "Effects of altitude on the airspeed indicator",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30424242424242426,
+        0.3627906976744186,
+        0.6953535353535354
+      ],
+      "bbox_pixels": [
+        209,
+        753,
+        1170,
+        1721
+      ],
+      "filename": "04-06.04.effects-of-altitude-on-th.png",
+      "source_page": "page-4.png",
+      "chapter": 4,
+      "figure_number": 6,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 4-7. Three types of airspeed",
+      "caption_text": "Three types of airspeed",
+      "bbox_normalized": [
+        0.46945736434108526,
+        0.09535353535353536,
+        0.7798449612403101,
+        0.9042424242424243
+      ],
+      "bbox_pixels": [
+        1514,
+        236,
+        2515,
+        2238
+      ],
+      "filename": "04-07.04.three-types-of-airspeed.png",
+      "source_page": "page-4.png",
+      "chapter": 4,
+      "figure_number": 7,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 4-8. stall airspeeds and true airspeeds at various altitudes",
+      "caption_text": "stall airspeeds and true airspeeds at various altitudes",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.2703030303030303,
+        0.1813953488372093,
+        0.7292929292929293
+      ],
+      "bbox_pixels": [
+        209,
+        669,
+        585,
+        1805
+      ],
+      "filename": "04-08.05.stall-airspeeds-and-true.png",
+      "source_page": "page-5.png",
+      "chapter": 4,
+      "figure_number": 8,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 4-8. illustrates that for each glider, the pilot need",
+      "caption_text": "illustrates that for each glider, the pilot need",
+      "bbox_normalized": [
+        0.4666666666666667,
+        0.08888888888888889,
+        0.5271317829457365,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        1505,
+        220,
+        1700,
+        2258
+      ],
+      "filename": "04-08.05.illustrates-that-for-each.png",
+      "source_page": "page-5.png",
+      "chapter": 4,
+      "figure_number": 8,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 4-9. JAS corresponding to decreases with altitude",
+      "caption_text": "JAS corresponding to decreases with altitude",
+      "bbox_normalized": [
+        0.4350387596899225,
+        0.20484848484848484,
+        0.5441860465116279,
+        0.7947474747474748
+      ],
+      "bbox_pixels": [
+        1403,
+        507,
+        1755,
+        1967
+      ],
+      "filename": "04-09.06.jas-corresponding-to-decr.png",
+      "source_page": "page-6.png",
+      "chapter": 4,
+      "figure_number": 9,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 4-10. Sample speed limitation placards placed in a glider and in view of the",
+      "caption_text": "Sample speed limitation placards placed in a glider and in view of the",
+      "bbox_normalized": [
+        0.14046511627906977,
+        0.09212121212121212,
+        0.25705426356589145,
+        0.9074747474747474
+      ],
+      "bbox_pixels": [
+        453,
+        228,
+        829,
+        2246
+      ],
+      "filename": "04-10.07.sample-speed-limitation-p.png",
+      "source_page": "page-7.png",
+      "chapter": 4,
+      "figure_number": 10,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 4-11. Static vents and altimeter plumbing",
+      "caption_text": "Static vents and altimeter plumbing",
+      "bbox_normalized": [
+        0.36806201550387596,
+        0.23757575757575758,
+        0.5134883720930232,
+        0.762020202020202
+      ],
+      "bbox_pixels": [
+        1187,
+        588,
+        1656,
+        1886
+      ],
+      "filename": "04-11.07.static-vents-and-altimete.png",
+      "source_page": "page-7.png",
+      "chapter": 4,
+      "figure_number": 11,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 4-12. ] Subtracting the ground elevation from current MSL altitude gives the",
+      "caption_text": "] Subtracting the ground elevation from current MSL altitude gives the",
+      "bbox_normalized": [
+        0.36806201550387596,
+        0.23757575757575758,
+        0.5345736434108527,
+        0.762020202020202
+      ],
+      "bbox_pixels": [
+        1187,
+        588,
+        1724,
+        1886
+      ],
+      "filename": "04-12.07.subtracting-the-ground-e.png",
+      "source_page": "page-7.png",
+      "chapter": 4,
+      "figure_number": 12,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 4-12. Altimeter",
+      "caption_text": "Altimeter",
+      "bbox_normalized": [
+        0.6077519379844961,
+        0.09535353535353536,
+        0.8617054263565892,
+        0.9042424242424243
+      ],
+      "bbox_pixels": [
+        1960,
+        236,
+        2779,
+        2238
+      ],
+      "filename": "04-12.07.altimeter.png",
+      "source_page": "page-7.png",
+      "chapter": 4,
+      "figure_number": 12,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 4-13. Atmospheric pressure and altitude",
+      "caption_text": "Atmospheric pressure and altitude",
+      "bbox_normalized": [
+        0.14294573643410852,
+        0.30343434343434345,
+        0.4381395348837209,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        461,
+        751,
+        1413,
+        1723
+      ],
+      "filename": "04-13.08.atmospheric-pressure-and.png",
+      "source_page": "page-8.png",
+      "chapter": 4,
+      "figure_number": 13,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 4-14. and Figure 4-15 illustrate how the altimeter functions",
+      "caption_text": "and Figure 4-15 illustrate how the altimeter functions",
+      "bbox_normalized": [
+        0.14294573643410852,
+        0.30343434343434345,
+        0.4592248062015504,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        461,
+        751,
+        1481,
+        1723
+      ],
+      "filename": "04-14.08.and-figure-415-illustrate.png",
+      "source_page": "page-8.png",
+      "chapter": 4,
+      "figure_number": 14,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 4-15. illustrate how the altimeter functions",
+      "caption_text": "illustrate how the altimeter functions",
+      "bbox_normalized": [
+        0.14294573643410852,
+        0.30343434343434345,
+        0.4592248062015504,
+        0.6961616161616162
+      ],
+      "bbox_pixels": [
+        461,
+        751,
+        1481,
+        1723
+      ],
+      "filename": "04-15.08.illustrate-how-the-altime.png",
+      "source_page": "page-8.png",
+      "chapter": 4,
+      "figure_number": 15,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 4-14. How the altimeter functions",
+      "caption_text": "How the altimeter functions",
+      "bbox_normalized": [
+        0.5770542635658915,
+        0.09333333333333334,
+        0.8055813953488372,
+        0.9062626262626262
+      ],
+      "bbox_pixels": [
+        1861,
+        231,
+        2598,
+        2243
+      ],
+      "filename": "04-14.08.how-the-altimeter-functio.png",
+      "source_page": "page-8.png",
+      "chapter": 4,
+      "figure_number": 14,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 4-15. the altimeter",
+      "caption_text": "the altimeter",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09494949494949495,
+        0.2688372093023256,
+        0.9046464646464647
+      ],
+      "bbox_pixels": [
+        209,
+        235,
+        867,
+        2239
+      ],
+      "filename": "04-15.09.the-altimeter.png",
+      "source_page": "page-9.png",
+      "chapter": 4,
+      "figure_number": 15,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 4-12. When the surrounding pressure changes, the expansion or contraction of the aneroid element",
+      "caption_text": "When the surrounding pressure changes, the expansion or contraction of the aneroid element",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09494949494949495,
+        0.2896124031007752,
+        0.9046464646464647
+      ],
+      "bbox_pixels": [
+        209,
+        235,
+        934,
+        2239
+      ],
+      "filename": "04-12.09.when-the-surrounding-pres.png",
+      "source_page": "page-9.png",
+      "chapter": 4,
+      "figure_number": 12,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 4-12. , the thinnest hand with an end shaped like a triangle indicates altitude in",
+      "caption_text": ", the thinnest hand with an end shaped like a triangle indicates altitude in",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09494949494949495,
+        0.2896124031007752,
+        0.9046464646464647
+      ],
+      "bbox_pixels": [
+        209,
+        235,
+        934,
+        2239
+      ],
+      "filename": "04-12.09.the-thinnest-hand-with-a.png",
+      "source_page": "page-9.png",
+      "chapter": 4,
+      "figure_number": 12,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 4-16. of altitude",
+      "caption_text": "of altitude",
+      "bbox_normalized": [
+        0.4905426356589147,
+        0.2876767676767677,
+        0.703875968992248,
+        0.711919191919192
+      ],
+      "bbox_pixels": [
+        1582,
+        712,
+        2270,
+        1762
+      ],
+      "filename": "04-16.09.of-altitude.png",
+      "source_page": "page-9.png",
+      "chapter": 4,
+      "figure_number": 16,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-1.png",
+      "caption": "[Figure 4-1]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-11.png",
+      "caption": "[Figure 4-17]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-14.png",
+      "caption": "[Figure 4-23]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-16.png",
+      "caption": "[Figure 4-25]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-16.png",
+      "caption": "[Figure 4-26]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-2.png",
+      "caption": "[Figure 4-2]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-20.png",
+      "caption": "[Figure 4-29]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-22.png",
+      "caption": "[Figure 4-31]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 4-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 4-6]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-4.png",
+      "caption": "[Figure 4-7]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-4.png",
+      "caption": "[Figure 4-8]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 4-10]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "[Figure 4-11]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 4-13]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-9.png",
+      "caption": "[Figure 4-16]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

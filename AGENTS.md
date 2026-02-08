@@ -2,7 +2,7 @@
 
 ## Manual de Vuelo sin Motor
 
-> **Versión:** 0.1.2  
+> **Versión:** 0.1.3  
 > **Idioma:** Español (con variantes regionales)  
 > **Formato:** AsciiDoc  
 > **Licencia Traducción:** CC BY-SA 4.0  
@@ -59,7 +59,7 @@ Este proyecto es una **traducción técnica 1:1** del *FAA Glider Flying Handboo
 │       └── ... (hasta 13)
 ├── temas/                                 # Temas de estilo
 │   ├── pdf-theme.yml                      # Tema PDF (A4, colores aviación)
-│   ├── styles.css                         # Estilos HTML
+│   ├── styles.css                         # Estilos HTML (con modo oscuro)
 │   └── locales/es.yml                     # Localización española
 ├── scripts/                               # Scripts de automatización
 │   ├── figura-por-capitulo.rb             # Extensión Ruby: numeración figuras X-Y
@@ -68,6 +68,10 @@ Este proyecto es una **traducción técnica 1:1** del *FAA Glider Flying Handboo
 │   ├── setup-image-manager.sh             # Setup entorno Python
 │   ├── generate-placeholder.py            # Generación de placeholders
 │   ├── fix-crossreferences.py             # Corrección de referencias cruzadas
+│   ├── build.sh                           # Script de build alternativo
+│   ├── convert-to-webp.sh                 # Conversión de imágenes a WebP
+│   ├── generate-figure-index.sh           # Generación de índice de figuras
+│   ├── generate_en_sources.sh             # Generación de fuentes en inglés
 │   └── imagemanager/                      # Gestor de imágenes v3.0 (Python)
 │       ├── __init__.py
 │       ├── config.py                      # Configuración global
@@ -76,14 +80,19 @@ Este proyecto es una **traducción técnica 1:1** del *FAA Glider Flying Handboo
 │       ├── image_processor.py             # Procesamiento de imágenes
 │       ├── file_manager.py                # Gestión de archivos y capítulos
 │       ├── figure_detector.py             # Detector de figuras con IA
+│       ├── image_detector.py              # Detector de imágenes
+│       ├── ai_detector.py                 # Detector de contenido con IA
 │       ├── main.py                        # Punto de entrada
+│       ├── manager-icon.png               # Icono de la aplicación
+│       ├── IMG_PROMPT_TRANSLATE.md        # Prompt editable para traducción
 │       └── ui/                            # Interfaz gráfica
 │           ├── __init__.py
 │           ├── main_window_v2.py          # Ventana principal (diseño moderno)
 │           ├── image_editor.py            # Editor con etiquetado tipo «badges»
 │           ├── translation_dialog.py      # Diálogos de traducción
+│           ├── settings_dialog.py         # Diálogo de configuración
+│           ├── prompt_config_dialog.py    # Configuración de prompts
 │           └── themes.py                  # Temas visuales de la UI
-├── faa-glider-flying-handbook/            # PDFs originales FAA (fuente)
 ├── en/                                    # Contenido original en inglés
 │   ├── images/                            # Imágenes originales
 │   ├── markdown/                          # Texto en Markdown
@@ -157,6 +166,7 @@ make epub             # Solo EPUB
 
 ```bash
 make clean            # Limpia archivos generados
+make mrproper         # Limpia build + backups de imágenes
 make check            # Verifica herramientas instaladas
 make install          # Instala dependencias (bundle install)
 make validate         # Valida terminología en capítulos
@@ -181,19 +191,21 @@ Cada capítulo sigue esta estructura obligatoria:
 
 ```asciidoc
 [[capNN]]                           # Ancla obligatoria (ej: [[cap01]])
-= Título del Capítulo              # Título nivel 1
+= Título del capítulo              # Título nivel 1 (mayúscula solo primera palabra)
 
-[abstract]                         # Resumen del capítulo (obligatorio)
---
-Texto del resumen...
---
-
-== Primera Sección                 # Sección nivel 2
+== Primera sección                 # Sección nivel 2 (mayúscula solo primera palabra)
 
 === Subsección                    # Nivel 3
 
 ==== Sub-subsección               # Nivel 4 (máximo)
 ```
+
+**Reglas de capitalización (estilo español):**
+- ✓ `== Despegue normal`
+- ✓ `== La atmósfera`
+- ✓ `== Programa FAA WINGS` (nombres propios)
+- ✗ `== Despegue Normal` (incorrecto)
+- ✗ `== La Atmósfera` (incorrecto)
 
 ### 4.2 Referencias Cruzadas
 
@@ -214,7 +226,7 @@ image::NN/nombre-archivo.png["Texto alt", width=600]
 
 **Convenciones de nomenclatura de imágenes:**
 - Directorio: `es/imagenes/NN/` (NN = número de capítulo, 2 dígitos)
-- Formato: `figura-NN-descripcion.png`
+- Formato: `fig-NN-XX.descripcion.png`
 - Dual format: PNG (para PDF) + WebP (para web)
 
 ### 4.4 Admonitions (Avisos de Seguridad)
@@ -252,7 +264,7 @@ Usar atributos AsciiDoc para términos técnicos (definidos en `es/config/region
 
 ```asciidoc
 La {term-thermal} permite...         # Resultado: "La térmica permite..."
-El {term-stall} ocurre cuando...     # Resultado: "El pérdida ocurre..." ⚠️
+El {term-stall} ocurre cuando...     # Resultado: "La pérdida ocurre..."
 ```
 
 **Términos estandarizados (España):**
@@ -274,6 +286,12 @@ El {term-stall} ocurre cuando...     # Resultado: "El pérdida ocurre..." ⚠️
 | Downwind | tramo de viento en cola | `{term-downwind}` |
 | Yaw string | lanita | `{term-yaw-string}` |
 
+### 4.6 Comillas y Puntuación
+
+- Usar comillas latinas/angulares (« ») según norma RAE
+- Ejemplo: `«entrada en pérdida»`
+- Respetar las comillas rectas (" ") en sintaxis asciidoc.
+
 ---
 
 ## 5. Gestión de Versiones
@@ -282,9 +300,9 @@ La versión del proyecto se define en **tres archivos** que deben mantenerse sin
 
 | Archivo | Atributo | Ejemplo |
 |---------|----------|---------|
-| `es/manual-vuelo-sin-motor.adoc` | `:revnumber:` | `:revnumber: 0.1.2` |
-| `es/config/atributos.adoc` | `:project-version:` | `:project-version: 0.1.2` |
-| `README.md` | Badge | `version-0.1.2-blue` |
+| `es/manual-vuelo-sin-motor.adoc` | `:revnumber:` | `:revnumber: 0.1.3` |
+| `es/config/atributos.adoc` | `:project-version:` | `:project-version: 0.1.3` |
+| `README.md` | Badge | `version-0.1.3-blue` |
 
 **Formato:** `MAJOR.MINOR.PATCH[-prerelease]`
 
@@ -304,11 +322,18 @@ scripts/imagemanager/
 ├── image_processor.py     # Compresión y procesamiento PIL
 ├── file_manager.py        # Gestión de archivos y capítulos
 ├── figure_detector.py     # Detección de figuras con IA
+├── image_detector.py      # Detector de imágenes
+├── ai_detector.py         # Detector de contenido con IA
 ├── main.py                # Punto de entrada
+├── manager-icon.png       # Icono de la aplicación
+├── IMG_PROMPT_TRANSLATE.md # Prompt editable para traducción
 └── ui/
+    ├── __init__.py
     ├── main_window_v2.py  # Ventana principal (sidebar + toolbar)
     ├── image_editor.py    # Editor visual con badges
     ├── translation_dialog.py  # UI de traducción
+    ├── settings_dialog.py   # Diálogo de configuración
+    ├── prompt_config_dialog.py  # Configuración de prompts
     └── themes.py          # Sistema de temas visuales
 ```
 
@@ -329,6 +354,9 @@ GEMINI_API_KEY=tu_api_key_aqui
 ```
 
 Modelos soportados:
+- `nano-banana-pro-preview` - Modelo por defecto (rápido y económico)
+- `gemini-2.0-flash-preview-image-generation` - Gemini 2.0 Flash Image
+- `gemini-2.0-flash-exp` - Gemini 2.0 Flash Exp
 - `gemini-2.5-flash-image` - Rápido y económico
 - `gemini-3-pro-image-preview` - Mayor calidad
 
@@ -366,8 +394,9 @@ Antes de marcar una tarea como completada:
 - [ ] **Compilación PDF:** `make pdf` termina exitosamente
 - [ ] **Referencias Cruzadas:** Todos los enlaces `<<...>>` son navegables
 - [ ] **Admonitions:** WARNING, CAUTION, IMPORTANT renderizan correctamente
-- [ ] **Admonitions:** Bloques IMPORTANT, WARNING, CAUTION renderizan correctamente
 - [ ] **Imágenes:** Formatos PNG (PDF) y WebP (web) generados
+- [ ] **Comillas:** Usar comillas latinas (« ») en lugar de rectas (" ")
+- [ ] **Capitalización:** Solo primera palabra en mayúscula en títulos (estilo español)
 
 ---
 
@@ -385,6 +414,8 @@ Antes de marcar una tarea como completada:
    - ✓ `== Programa FAA WINGS` (nombres propios)
    - ✗ `== Despegue Normal`
    - ✗ `== La Atmósfera`
+8. **Comillas:** Usar comillas latinas (« ») según norma RAE
+9. **AUTORIZACIÓN REQUERIDA:** **NUNCA** hacer commit, push ni PR sin autorización expresa del usuario. **PROHIBIDO** tocar la rama `main`.
 
 ---
 

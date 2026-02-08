@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "source": "en/images/08",
+    "total_pages_processed": 26,
+    "total_figures_extracted": 21,
+    "total_skipped": 6
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 8-11. Autorotation of spinning glider",
+      "caption_text": "Autorotation of spinning glider",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30666666666666664,
+        0.5237209302325582,
+        0.6925252525252525
+      ],
+      "bbox_pixels": [
+        209,
+        759,
+        1689,
+        1714
+      ],
+      "filename": "08-11.11.autorotation-of-spinning.png",
+      "source_page": "page-11.png",
+      "chapter": 8,
+      "figure_number": 11,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 8-12. Off-field landing approach",
+      "caption_text": "Off-field landing approach",
+      "bbox_normalized": [
+        0.1268217054263566,
+        0.3002020202020202,
+        0.7057364341085272,
+        0.6993939393939393
+      ],
+      "bbox_pixels": [
+        409,
+        743,
+        2276,
+        1731
+      ],
+      "filename": "08-12.15.offfield-landing-approach.png",
+      "source_page": "page-15.png",
+      "chapter": 8,
+      "figure_number": 12,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 8-1. ZJowplane and glider signals due to release mechanism failure (left and center panels)",
+      "caption_text": "ZJowplane and glider signals due to release mechanism failure (left and center panels)",
+      "bbox_normalized": [
+        0.1937984496124031,
+        0.09171717171717171,
+        0.4204651162790698,
+        0.9078787878787878
+      ],
+      "bbox_pixels": [
+        625,
+        227,
+        1356,
+        2247
+      ],
+      "filename": "08-01.02.zjowplane-and-glider-sign.png",
+      "source_page": "page-2.png",
+      "chapter": 8,
+      "figure_number": 1,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 8-1. above,",
+      "caption_text": "above,",
+      "bbox_normalized": [
+        0.1937984496124031,
+        0.09171717171717171,
+        0.4545736434108527,
+        0.9078787878787878
+      ],
+      "bbox_pixels": [
+        625,
+        227,
+        1466,
+        2247
+      ],
+      "filename": "08-01.02.above.png",
+      "source_page": "page-2.png",
+      "chapter": 8,
+      "figure_number": 1,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 8-1. above",
+      "caption_text": "above",
+      "bbox_normalized": [
+        0.1937984496124031,
+        0.09171717171717171,
+        0.4545736434108527,
+        0.9078787878787878
+      ],
+      "bbox_pixels": [
+        625,
+        227,
+        1466,
+        2247
+      ],
+      "filename": "08-01.02.above_001.png",
+      "source_page": "page-2.png",
+      "chapter": 8,
+      "figure_number": 1,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 8-2. ] and [Figure 8-3] The hitch connects",
+      "caption_text": "] and [Figure 8-3] The hitch connects",
+      "bbox_normalized": [
+        0.49829457364341084,
+        0.08888888888888889,
+        0.626046511627907,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1607,
+        220,
+        2019,
+        2254
+      ],
+      "filename": "08-02.02.and-figure-83-the-hitch.png",
+      "source_page": "page-2.png",
+      "chapter": 8,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 8-3. ] The hitch connects",
+      "caption_text": "] The hitch connects",
+      "bbox_normalized": [
+        0.49829457364341084,
+        0.08888888888888889,
+        0.626046511627907,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1607,
+        220,
+        2019,
+        2254
+      ],
+      "filename": "08-03.02.the-hitch-connects.png",
+      "source_page": "page-2.png",
+      "chapter": 8,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 8-4. The wing runner should know the correct method of attachment",
+      "caption_text": "The wing runner should know the correct method of attachment",
+      "bbox_normalized": [
+        0.49829457364341084,
+        0.08888888888888889,
+        0.626046511627907,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1607,
+        220,
+        2019,
+        2254
+      ],
+      "filename": "08-04.02.the-wing-runner-should-kn.png",
+      "source_page": "page-2.png",
+      "chapter": 8,
+      "figure_number": 4,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 8-13. Self-launching glider circuit breakers",
+      "caption_text": "Self-launching glider circuit breakers",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.0901010101010101,
+        0.48186046511627906,
+        0.9086868686868687
+      ],
+      "bbox_pixels": [
+        209,
+        223,
+        1554,
+        2249
+      ],
+      "filename": "08-13.24.selflaunching-glider-circ.png",
+      "source_page": "page-24.png",
+      "chapter": 8,
+      "figure_number": 13,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 8-4. Examples of Schweizer and Tost tow rings",
+      "caption_text": "Examples of Schweizer and Tost tow rings",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.29818181818181816,
+        0.3776744186046512,
+        0.7014141414141414
+      ],
+      "bbox_pixels": [
+        209,
+        738,
+        1218,
+        1736
+      ],
+      "filename": "08-04.04.examples-of-schweizer-and.png",
+      "source_page": "page-4.png",
+      "chapter": 8,
+      "figure_number": 4,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 8-5. A Schweizer tow hitch under upward tension",
+      "caption_text": "A Schweizer tow hitch under upward tension",
+      "bbox_normalized": [
+        0.4102325581395349,
+        0.09656565656565656,
+        0.6412403100775194,
+        0.9030303030303031
+      ],
+      "bbox_pixels": [
+        1323,
+        239,
+        2068,
+        2235
+      ],
+      "filename": "08-05.04.a-schweizer-tow-hitch-und.png",
+      "source_page": "page-4.png",
+      "chapter": 8,
+      "figure_number": 5,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 8-6. , panel 1] Pulling the towline release in either case ensures",
+      "caption_text": ", panel 1] Pulling the towline release in either case ensures",
+      "bbox_normalized": [
+        0.10232558139534884,
+        0.0892929292929293,
+        0.1655813953488372,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        330,
+        221,
+        534,
+        2258
+      ],
+      "filename": "08-06.05.panel-1-pulling-the-towl.png",
+      "source_page": "page-5.png",
+      "chapter": 8,
+      "figure_number": 6,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 8-6. Situations for tow line break, uncommanded release, or power loss of the towplane",
+      "caption_text": "Situations for tow line break, uncommanded release, or power loss of the towplane",
+      "bbox_normalized": [
+        0.33147286821705424,
+        0.10303030303030303,
+        0.8945736434108527,
+        0.8965656565656566
+      ],
+      "bbox_pixels": [
+        1069,
+        255,
+        2885,
+        2219
+      ],
+      "filename": "08-06.05.situations-for-tow-line-b.png",
+      "source_page": "page-5.png",
+      "chapter": 8,
+      "figure_number": 6,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 8-6. , panel 3]",
+      "caption_text": ", panel 3]",
+      "bbox_normalized": [
+        0.08682170542635659,
+        0.08888888888888889,
+        0.23069767441860464,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        280,
+        220,
+        744,
+        2258
+      ],
+      "filename": "08-06.06.panel-3.png",
+      "source_page": "page-6.png",
+      "chapter": 8,
+      "figure_number": 6,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 8-6. , panel 4] In some situations, an off-gliderport or off-airport landing may be",
+      "caption_text": ", panel 4] In some situations, an off-gliderport or off-airport landing may be",
+      "bbox_normalized": [
+        0.6973643410852713,
+        0.08888888888888889,
+        0.7928682170542636,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2249,
+        220,
+        2557,
+        2254
+      ],
+      "filename": "08-06.06.panel-4-in-some-situatio.png",
+      "source_page": "page-6.png",
+      "chapter": 8,
+      "figure_number": 6,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 8-12. , panel 4]",
+      "caption_text": ", panel 4]",
+      "bbox_normalized": [
+        0.08682170542635659,
+        0.08888888888888889,
+        0.1662015503875969,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        280,
+        220,
+        536,
+        2253
+      ],
+      "filename": "08-12.07.panel-4.png",
+      "source_page": "page-7.png",
+      "chapter": 8,
+      "figure_number": 12,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 8-7. Glider bank steeper than that of towplane, causing slack in tow line",
+      "caption_text": "Glider bank steeper than that of towplane, causing slack in tow line",
+      "bbox_normalized": [
+        0.4502325581395349,
+        0.3002020202020202,
+        0.8483720930232558,
+        0.6993939393939393
+      ],
+      "bbox_pixels": [
+        1452,
+        743,
+        2736,
+        1731
+      ],
+      "filename": "08-07.07.glider-bank-steeper-than.png",
+      "source_page": "page-7.png",
+      "chapter": 8,
+      "figure_number": 7,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 8-8. One method of generating tow line slack",
+      "caption_text": "One method of generating tow line slack",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30383838383838385,
+        0.2483720930232558,
+        0.6957575757575758
+      ],
+      "bbox_pixels": [
+        209,
+        752,
+        801,
+        1722
+      ],
+      "filename": "08-08.08.one-method-of-generating.png",
+      "source_page": "page-8.png",
+      "chapter": 8,
+      "figure_number": 8,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 8-9. Ground launch wind gradient",
+      "caption_text": "Ground launch wind gradient",
+      "bbox_normalized": [
+        0.1144186046511628,
+        0.09090909090909091,
+        0.37116279069767444,
+        0.9086868686868687
+      ],
+      "bbox_pixels": [
+        369,
+        225,
+        1197,
+        2249
+      ],
+      "filename": "08-09.09.ground-launch-wind-gradie.png",
+      "source_page": "page-9.png",
+      "chapter": 8,
+      "figure_number": 9,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 8-10. ] When a tow line failure occurs, the glider",
+      "caption_text": "] When a tow line failure occurs, the glider",
+      "bbox_normalized": [
+        0.1144186046511628,
+        0.09090909090909091,
+        0.3922480620155039,
+        0.9086868686868687
+      ],
+      "bbox_pixels": [
+        369,
+        225,
+        1265,
+        2249
+      ],
+      "filename": "08-10.09.when-a-tow-line-failure.png",
+      "source_page": "page-9.png",
+      "chapter": 8,
+      "figure_number": 10,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 8-10. Ground launch tow line break",
+      "caption_text": "Ground launch tow line break",
+      "bbox_normalized": [
+        0.5308527131782945,
+        0.11353535353535353,
+        0.8911627906976745,
+        0.8860606060606061
+      ],
+      "bbox_pixels": [
+        1712,
+        281,
+        2874,
+        2193
+      ],
+      "filename": "08-10.09.ground-launch-tow-line-br.png",
+      "source_page": "page-9.png",
+      "chapter": 8,
+      "figure_number": 10,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-10.png",
+      "caption": "[Figure 8-11]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-15.png",
+      "caption": "[Figure 8-12|",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-2.png",
+      "caption": "[Figure 8-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "[Figure 8-7]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-7.png",
+      "caption": "[Figure 8-8]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 8-9]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

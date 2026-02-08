@@ -1,0 +1,1544 @@
+{
+  "metadata": {
+    "source": "en/images/07",
+    "total_pages_processed": 50,
+    "total_figures_extracted": 67,
+    "total_skipped": 25
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 7-8. Pilot-induced yaw oscillations during takeoff roll",
+      "caption_text": "Pilot-induced yaw oscillations during takeoff roll",
+      "bbox_normalized": [
+        0.09829457364341085,
+        0.3204040404040404,
+        0.6437209302325582,
+        0.6791919191919192
+      ],
+      "bbox_pixels": [
+        317,
+        793,
+        2076,
+        1681
+      ],
+      "filename": "07-08.10.pilotinduced-yaw-oscillat.png",
+      "source_page": "page-10.png",
+      "chapter": 7,
+      "figure_number": 8,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 7-9. Aerotow climb-out positions",
+      "caption_text": "Aerotow climb-out positions",
+      "bbox_normalized": [
+        0.222015503875969,
+        0.09333333333333334,
+        0.573953488372093,
+        0.9062626262626262
+      ],
+      "bbox_pixels": [
+        716,
+        231,
+        1851,
+        2243
+      ],
+      "filename": "07-09.11.aerotow-climbout-position.png",
+      "source_page": "page-11.png",
+      "chapter": 7,
+      "figure_number": 9,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 7-10. Aerotow climbing turns",
+      "caption_text": "Aerotow climbing turns",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3373737373737374,
+        0.42604651162790697,
+        0.6622222222222223
+      ],
+      "bbox_pixels": [
+        209,
+        835,
+        1374,
+        1639
+      ],
+      "filename": "07-10.12.aerotow-climbing-turns.png",
+      "source_page": "page-12.png",
+      "chapter": 7,
+      "figure_number": 10,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 7-11. ] If this occurs, reduced tension on the tow line causes the line to",
+      "caption_text": "] If this occurs, reduced tension on the tow line causes the line to",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3373737373737374,
+        0.4471317829457364,
+        0.6622222222222223
+      ],
+      "bbox_pixels": [
+        209,
+        835,
+        1442,
+        1639
+      ],
+      "filename": "07-11.12.if-this-occurs-reduced-t.png",
+      "source_page": "page-12.png",
+      "chapter": 7,
+      "figure_number": 11,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 7-11. Glider bank is steeper than that of towplane, causing slack in tow line",
+      "caption_text": "Glider bank is steeper than that of towplane, causing slack in tow line",
+      "bbox_normalized": [
+        0.5525581395348838,
+        0.3329292929292929,
+        0.8911627906976745,
+        0.6666666666666666
+      ],
+      "bbox_pixels": [
+        1782,
+        824,
+        2874,
+        1650
+      ],
+      "filename": "07-11.12.glider-bank-is-steeper-th.png",
+      "source_page": "page-12.png",
+      "chapter": 7,
+      "figure_number": 11,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 7-12. Glider bank too shallow, causing turn outside towplane turn",
+      "caption_text": "Glider bank too shallow, causing turn outside towplane turn",
+      "bbox_normalized": [
+        0.1593798449612403,
+        0.2997979797979798,
+        0.5373643410852713,
+        0.6997979797979798
+      ],
+      "bbox_pixels": [
+        514,
+        742,
+        1733,
+        1732
+      ],
+      "filename": "07-12.13.glider-bank-too-shallow-c.png",
+      "source_page": "page-13.png",
+      "chapter": 7,
+      "figure_number": 12,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 7-13. Decrease in tow line tension results in an",
+      "caption_text": "Decrease in tow line tension results in an",
+      "bbox_normalized": [
+        0.602170542635659,
+        0.0892929292929293,
+        0.6465116279069767,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1942,
+        221,
+        2085,
+        2253
+      ],
+      "filename": "07-13.13.decrease-in-tow-line-tens.png",
+      "source_page": "page-13.png",
+      "chapter": 7,
+      "figure_number": 13,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 7-13. Effects of increased tow line tension on pitch altitude of bellyhook-equipped gliders during",
+      "caption_text": "Effects of increased tow line tension on pitch altitude of bellyhook-equipped gliders during",
+      "bbox_normalized": [
+        0.7544186046511628,
+        0.08848484848484849,
+        0.8914728682170543,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        2433,
+        219,
+        2875,
+        2255
+      ],
+      "filename": "07-13.13.effects-of-increased-tow.png",
+      "source_page": "page-13.png",
+      "chapter": 7,
+      "figure_number": 13,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 7-14. ] To avoid slack, the glider pilot should control the descent and closure rate",
+      "caption_text": "] To avoid slack, the glider pilot should control the descent and closure rate",
+      "bbox_normalized": [
+        0.23875968992248062,
+        0.08888888888888889,
+        0.30170542635658915,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        770,
+        220,
+        973,
+        2254
+      ],
+      "filename": "07-14.14.to-avoid-slack-the-glide.png",
+      "source_page": "page-14.png",
+      "chapter": 7,
+      "figure_number": 14,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 7-14. Diving on towplane",
+      "caption_text": "Diving on towplane",
+      "bbox_normalized": [
+        0.5395348837209303,
+        0.3018181818181818,
+        0.7283720930232558,
+        0.6977777777777778
+      ],
+      "bbox_pixels": [
+        1740,
+        747,
+        2349,
+        1727
+      ],
+      "filename": "07-14.14.diving-on-towplane.png",
+      "source_page": "page-14.png",
+      "chapter": 7,
+      "figure_number": 14,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 7-15. Boxing the wake",
+      "caption_text": "Boxing the wake",
+      "bbox_normalized": [
+        0.20589147286821705,
+        0.09494949494949495,
+        0.43627906976744185,
+        0.9046464646464647
+      ],
+      "bbox_pixels": [
+        664,
+        235,
+        1407,
+        2239
+      ],
+      "filename": "07-15.15.boxing-the-wake.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-15. A] and descend from the high",
+      "caption_text": "A] and descend from the high",
+      "bbox_normalized": [
+        0.4728682170542636,
+        0.0892929292929293,
+        0.5187596899224807,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1525,
+        221,
+        1673,
+        2254
+      ],
+      "filename": "07-15.15.a-and-descend-from-the-hi.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-15. B] as a signal to the tow pilot that the maneuver",
+      "caption_text": "B] as a signal to the tow pilot that the maneuver",
+      "bbox_normalized": [
+        0.4728682170542636,
+        0.0892929292929293,
+        0.5187596899224807,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1525,
+        221,
+        1673,
+        2254
+      ],
+      "filename": "07-15.15.b-as-a-signal-to-the-tow.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-15. C] momentarily with sufficient rudder and aileron pressure",
+      "caption_text": "C] momentarily with sufficient rudder and aileron pressure",
+      "bbox_normalized": [
+        0.4728682170542636,
+        0.0892929292929293,
+        0.5187596899224807,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1525,
+        221,
+        1673,
+        2254
+      ],
+      "filename": "07-15.15.c-momentarily-with-suffic.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-15. D], the pilot momentarily maintains",
+      "caption_text": "D], the pilot momentarily maintains",
+      "bbox_normalized": [
+        0.5348837209302325,
+        0.08888888888888889,
+        0.5978294573643411,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1725,
+        220,
+        1928,
+        2254
+      ],
+      "filename": "07-15.15.d-the-pilot-momentarily-m.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-15. E] using aileron and rudder pressure, as",
+      "caption_text": "E] using aileron and rudder pressure, as",
+      "bbox_normalized": [
+        0.6130232558139534,
+        0.0892929292929293,
+        0.6759689922480621,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1977,
+        221,
+        2180,
+        2254
+      ],
+      "filename": "07-15.15.e-using-aileron-and-rudde.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-15. F], the pilot momentarily",
+      "caption_text": "F], the pilot momentarily",
+      "bbox_normalized": [
+        0.6911627906976744,
+        0.0892929292929293,
+        0.737984496124031,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2229,
+        221,
+        2380,
+        2253
+      ],
+      "filename": "07-15.15.f-the-pilot-momentarily.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-15. A], completing the maneuver",
+      "caption_text": "A], completing the maneuver",
+      "bbox_normalized": [
+        0.7531782945736434,
+        0.08888888888888889,
+        0.816124031007752,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2429,
+        220,
+        2632,
+        2253
+      ],
+      "filename": "07-15.15.a-completing-the-maneuver.png",
+      "source_page": "page-15.png",
+      "chapter": 7,
+      "figure_number": 15,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 7-16. Aerotow release",
+      "caption_text": "Aerotow release",
+      "bbox_normalized": [
+        0.3745736434108527,
+        0.13575757575757577,
+        0.8288372093023256,
+        0.8638383838383838
+      ],
+      "bbox_pixels": [
+        1208,
+        336,
+        2673,
+        2138
+      ],
+      "filename": "07-16.16.aerotow-release.png",
+      "source_page": "page-16.png",
+      "chapter": 7,
+      "figure_number": 16,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 7-16. B shows how this 90° change of heading achieves safe separation between towplane and",
+      "caption_text": "B shows how this 90° change of heading achieves safe separation between towplane and",
+      "bbox_normalized": [
+        0.3745736434108527,
+        0.13575757575757577,
+        0.8493023255813954,
+        0.8638383838383838
+      ],
+      "bbox_pixels": [
+        1208,
+        336,
+        2739,
+        2138
+      ],
+      "filename": "07-16.16.b-shows-how-this-90-chang.png",
+      "source_page": "page-16.png",
+      "chapter": 7,
+      "figure_number": 16,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 7-17. the tow hook",
+      "caption_text": "the tow hook",
+      "bbox_normalized": [
+        0.5584496124031008,
+        0.09535353535353536,
+        0.7426356589147287,
+        0.9042424242424243
+      ],
+      "bbox_pixels": [
+        1801,
+        236,
+        2395,
+        2238
+      ],
+      "filename": "07-17.17.the-tow-hook.png",
+      "source_page": "page-17.png",
+      "chapter": 7,
+      "figure_number": 17,
+      "page_number": 17
+    },
+    {
+      "caption_reference": "Figure 7-18. When relaying information over large distances, direct voice communication",
+      "caption_text": "When relaying information over large distances, direct voice communication",
+      "bbox_normalized": [
+        0.13116279069767442,
+        0.0892929292929293,
+        0.17550387596899225,
+        0.9098989898989899
+      ],
+      "bbox_pixels": [
+        423,
+        221,
+        566,
+        2252
+      ],
+      "filename": "07-18.18.when-relaying-information.png",
+      "source_page": "page-18.png",
+      "chapter": 7,
+      "figure_number": 18,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 7-18. Winch and aerotow prelaunch signals",
+      "caption_text": "Winch and aerotow prelaunch signals",
+      "bbox_normalized": [
+        0.3922480620155039,
+        0.20282828282828283,
+        0.8272868217054263,
+        0.7947474747474748
+      ],
+      "bbox_pixels": [
+        1265,
+        502,
+        2668,
+        1967
+      ],
+      "filename": "07-18.18.winch-and-aerotow-prelaun.png",
+      "source_page": "page-18.png",
+      "chapter": 7,
+      "figure_number": 18,
+      "page_number": 18
+    },
+    {
+      "caption_reference": "Figure 7-19. signals for ground launch",
+      "caption_text": "signals for ground launch",
+      "bbox_normalized": [
+        0.12868217054263567,
+        0.09616161616161616,
+        0.31286821705426354,
+        0.9034343434343435
+      ],
+      "bbox_pixels": [
+        415,
+        238,
+        1009,
+        2236
+      ],
+      "filename": "07-19.19.signals-for-ground-launch.png",
+      "source_page": "page-19.png",
+      "chapter": 7,
+      "figure_number": 19,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 7-20. compares various takeoff profiles that result when tow",
+      "caption_text": "compares various takeoff profiles that result when tow",
+      "bbox_normalized": [
+        0.38232558139534883,
+        0.08888888888888889,
+        0.44558139534883723,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1233,
+        220,
+        1437,
+        2253
+      ],
+      "filename": "07-20.19.compares-various-takeoff.png",
+      "source_page": "page-19.png",
+      "chapter": 7,
+      "figure_number": 20,
+      "page_number": 19
+    },
+    {
+      "caption_reference": "Figure 7-1. Aerotow prelaunch signals",
+      "caption_text": "Aerotow prelaunch signals",
+      "bbox_normalized": [
+        0.06728682170542635,
+        0.09292929292929293,
+        0.6632558139534884,
+        0.9038383838383839
+      ],
+      "bbox_pixels": [
+        217,
+        230,
+        2139,
+        2237
+      ],
+      "filename": "07-01.02.aerotow-prelaunch-signals.png",
+      "source_page": "page-2.png",
+      "chapter": 7,
+      "figure_number": 1,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 7-2. depicts these signals",
+      "caption_text": "depicts these signals",
+      "bbox_normalized": [
+        0.06728682170542635,
+        0.09292929292929293,
+        0.688062015503876,
+        0.9038383838383839
+      ],
+      "bbox_pixels": [
+        217,
+        230,
+        2219,
+        2237
+      ],
+      "filename": "07-02.02.depicts-these-signals.png",
+      "source_page": "page-2.png",
+      "chapter": 7,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 7-20. Ground launch tow speeds",
+      "caption_text": "Ground launch tow speeds",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.16646464646464645,
+        0.5144186046511627,
+        0.8331313131313132
+      ],
+      "bbox_pixels": [
+        209,
+        412,
+        1659,
+        2062
+      ],
+      "filename": "07-20.20.ground-launch-tow-speeds.png",
+      "source_page": "page-20.png",
+      "chapter": 7,
+      "figure_number": 20,
+      "page_number": 20
+    },
+    {
+      "caption_reference": "Figure 7-21. Ground launch procedures",
+      "caption_text": "Ground launch procedures",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09131313131313132,
+        0.3054263565891473,
+        0.9082828282828282
+      ],
+      "bbox_pixels": [
+        209,
+        226,
+        985,
+        2248
+      ],
+      "filename": "07-21.21.ground-launch-procedures.png",
+      "source_page": "page-21.png",
+      "chapter": 7,
+      "figure_number": 21,
+      "page_number": 21
+    },
+    {
+      "caption_reference": "Figure 7-22. Winch procedures",
+      "caption_text": "Winch procedures",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.23797979797979799,
+        0.41364341085271317,
+        0.7612121212121212
+      ],
+      "bbox_pixels": [
+        209,
+        589,
+        1334,
+        1884
+      ],
+      "filename": "07-22.22.winch-procedures.png",
+      "source_page": "page-22.png",
+      "chapter": 7,
+      "figure_number": 22,
+      "page_number": 22
+    },
+    {
+      "caption_reference": "Figure 7-23. Wind correction angle for winch procedures",
+      "caption_text": "Wind correction angle for winch procedures",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.38262626262626265,
+        0.3730232558139535,
+        0.616969696969697
+      ],
+      "bbox_pixels": [
+        209,
+        947,
+        1203,
+        1527
+      ],
+      "filename": "07-23.23.wind-correction-angle-for.png",
+      "source_page": "page-23.png",
+      "chapter": 7,
+      "figure_number": 23,
+      "page_number": 23
+    },
+    {
+      "caption_reference": "Figure 7-24. After release, the tow line tends to drift back toward the centerline of",
+      "caption_text": "After release, the tow line tends to drift back toward the centerline of",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3236363636363636,
+        0.39410852713178296,
+        0.6747474747474748
+      ],
+      "bbox_pixels": [
+        209,
+        801,
+        1271,
+        1670
+      ],
+      "filename": "07-24.23.after-release-the-tow-lin.png",
+      "source_page": "page-23.png",
+      "chapter": 7,
+      "figure_number": 24,
+      "page_number": 23
+    },
+    {
+      "caption_reference": "Figure 7-24. Ground launch crosswind drift correction",
+      "caption_text": "Ground launch crosswind drift correction",
+      "bbox_normalized": [
+        0.4834108527131783,
+        0.36646464646464644,
+        0.8930232558139535,
+        0.6331313131313131
+      ],
+      "bbox_pixels": [
+        1559,
+        907,
+        2880,
+        1567
+      ],
+      "filename": "07-24.23.ground-launch-crosswind-d.png",
+      "source_page": "page-23.png",
+      "chapter": 7,
+      "figure_number": 24,
+      "page_number": 23
+    },
+    {
+      "caption_reference": "Figure 7-25. , position A]",
+      "caption_text": ", position A]",
+      "bbox_normalized": [
+        0.2626356589147287,
+        0.0892929292929293,
+        0.32589147286821707,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        847,
+        221,
+        1051,
+        2253
+      ],
+      "filename": "07-25.24.position-a.png",
+      "source_page": "page-24.png",
+      "chapter": 7,
+      "figure_number": 25,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 7-25. Ground launch takeoff profile",
+      "caption_text": "Ground launch takeoff profile",
+      "bbox_normalized": [
+        0.41488372093023257,
+        0.09252525252525252,
+        0.6744186046511628,
+        0.907070707070707
+      ],
+      "bbox_pixels": [
+        1338,
+        229,
+        2175,
+        2245
+      ],
+      "filename": "07-25.24.ground-launch-takeoff-pro.png",
+      "source_page": "page-24.png",
+      "chapter": 7,
+      "figure_number": 25,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 7-25. , position B] while monitoring the",
+      "caption_text": ", position B] while monitoring the",
+      "bbox_normalized": [
+        0.7110077519379845,
+        0.08888888888888889,
+        0.8384496124031008,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2293,
+        220,
+        2704,
+        2254
+      ],
+      "filename": "07-25.24.position-b-while-monitor.png",
+      "source_page": "page-24.png",
+      "chapter": 7,
+      "figure_number": 25,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 7-25. , position C] with the glider approximately 200 feet",
+      "caption_text": ", position C] with the glider approximately 200 feet",
+      "bbox_normalized": [
+        0.7110077519379845,
+        0.08888888888888889,
+        0.8384496124031008,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2293,
+        220,
+        2704,
+        2254
+      ],
+      "filename": "07-25.24.position-c-with-the-glid.png",
+      "source_page": "page-24.png",
+      "chapter": 7,
+      "figure_number": 25,
+      "page_number": 24
+    },
+    {
+      "caption_reference": "Figure 7-26. of self-launching gliders",
+      "caption_text": "of self-launching gliders",
+      "bbox_normalized": [
+        0.7137984496124031,
+        0.15595959595959596,
+        0.8827906976744186,
+        0.8436363636363636
+      ],
+      "bbox_pixels": [
+        2302,
+        386,
+        2847,
+        2088
+      ],
+      "filename": "07-26.25.of-selflaunching-gliders.png",
+      "source_page": "page-25.png",
+      "chapter": 7,
+      "figure_number": 26,
+      "page_number": 25
+    },
+    {
+      "caption_reference": "Figure 7-27. , the complexity of many self- launching",
+      "caption_text": ", the complexity of many self- launching",
+      "bbox_normalized": [
+        0.43534883720930234,
+        0.08888888888888889,
+        0.5631007751937984,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        1404,
+        220,
+        1816,
+        2254
+      ],
+      "filename": "07-27.26.the-complexity-of-many-s.png",
+      "source_page": "page-26.png",
+      "chapter": 7,
+      "figure_number": 27,
+      "page_number": 26
+    },
+    {
+      "caption_reference": "Figure 7-27. Self-launching glider instrument panels",
+      "caption_text": "Self-launching glider instrument panels",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.0905050505050505,
+        0.30294573643410855,
+        0.9090909090909091
+      ],
+      "bbox_pixels": [
+        209,
+        224,
+        977,
+        2250
+      ],
+      "filename": "07-27.27.selflaunching-glider-inst.png",
+      "source_page": "page-27.png",
+      "chapter": 7,
+      "figure_number": 27,
+      "page_number": 27
+    },
+    {
+      "caption_reference": "Figure 7-28. ] In most self-launching gliders, the effect",
+      "caption_text": "] In most self-launching gliders, the effect",
+      "bbox_normalized": [
+        0.6573643410852713,
+        0.0892929292929293,
+        0.7686821705426357,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2120,
+        221,
+        2479,
+        2254
+      ],
+      "filename": "07-28.27.in-most-selflaunching-gl.png",
+      "source_page": "page-27.png",
+      "chapter": 7,
+      "figure_number": 28,
+      "page_number": 27
+    },
+    {
+      "caption_reference": "Figure 7-28. Pitch attitude power setting relationships for self-launching glider with engine pod",
+      "caption_text": "Pitch attitude power setting relationships for self-launching glider with engine pod",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3002020202020202,
+        0.34418604651162793,
+        0.6993939393939393
+      ],
+      "bbox_pixels": [
+        209,
+        743,
+        1110,
+        1731
+      ],
+      "filename": "07-28.28.pitch-attitude-power-sett.png",
+      "source_page": "page-28.png",
+      "chapter": 7,
+      "figure_number": 28,
+      "page_number": 28
+    },
+    {
+      "caption_reference": "Figure 7-29. Self-launching gliders—crosswind takeoff",
+      "caption_text": "Self-launching gliders—crosswind takeoff",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.37252525252525254,
+        0.4493023255813953,
+        0.6270707070707071
+      ],
+      "bbox_pixels": [
+        209,
+        922,
+        1449,
+        1552
+      ],
+      "filename": "07-29.29.selflaunching-gliderscros.png",
+      "source_page": "page-29.png",
+      "chapter": 7,
+      "figure_number": 29,
+      "page_number": 29
+    },
+    {
+      "caption_reference": "Figure 7-2. aerotow visual signals",
+      "caption_text": "aerotow visual signals",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09535353535353536,
+        0.5916279069767442,
+        0.9042424242424243
+      ],
+      "bbox_pixels": [
+        209,
+        236,
+        1908,
+        2238
+      ],
+      "filename": "07-02.03.aerotow-visual-signals.png",
+      "source_page": "page-3.png",
+      "chapter": 7,
+      "figure_number": 2,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 7-2. when close to the ground",
+      "caption_text": "when close to the ground",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09535353535353536,
+        0.6127131782945736,
+        0.9042424242424243
+      ],
+      "bbox_pixels": [
+        209,
+        236,
+        1976,
+        2238
+      ],
+      "filename": "07-02.03.when-close-to-the-ground.png",
+      "source_page": "page-3.png",
+      "chapter": 7,
+      "figure_number": 2,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 7-2. illustrate how a glider pilot requests a turn",
+      "caption_text": "illustrate how a glider pilot requests a turn",
+      "bbox_normalized": [
+        0.6282170542635659,
+        0.0892929292929293,
+        0.6911627906976744,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2026,
+        221,
+        2229,
+        2253
+      ],
+      "filename": "07-02.03.illustrate-how-a-glider-p.png",
+      "source_page": "page-3.png",
+      "chapter": 7,
+      "figure_number": 2,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 7-30. P-factor",
+      "caption_text": "P-factor",
+      "bbox_normalized": [
+        0.5041860465116279,
+        0.3002020202020202,
+        0.7432558139534884,
+        0.6993939393939393
+      ],
+      "bbox_pixels": [
+        1626,
+        743,
+        2397,
+        1731
+      ],
+      "filename": "07-30.30.pfactor.png",
+      "source_page": "page-30.png",
+      "chapter": 7,
+      "figure_number": 30,
+      "page_number": 30
+    },
+    {
+      "caption_reference": "Figure 7-31. , which at the recommended altitude",
+      "caption_text": ", which at the recommended altitude",
+      "bbox_normalized": [
+        0.724031007751938,
+        0.0892929292929293,
+        0.7711627906976745,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2335,
+        221,
+        2487,
+        2253
+      ],
+      "filename": "07-31.31.which-at-the-recommended.png",
+      "source_page": "page-31.png",
+      "chapter": 7,
+      "figure_number": 31,
+      "page_number": 31
+    },
+    {
+      "caption_reference": "Figure 7-32. Runway shape during stabilized approach",
+      "caption_text": "Runway shape during stabilized approach",
+      "bbox_normalized": [
+        0.41333333333333333,
+        0.08848484848484849,
+        0.6031007751937985,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        1333,
+        219,
+        1945,
+        2255
+      ],
+      "filename": "07-32.34.runway-shape-during-stabi.png",
+      "source_page": "page-34.png",
+      "chapter": 7,
+      "figure_number": 32,
+      "page_number": 34
+    },
+    {
+      "caption_reference": "Figure 7-33. Change in runway shape if approach becomes narrow or steep",
+      "caption_text": "Change in runway shape if approach becomes narrow or steep",
+      "bbox_normalized": [
+        0.6815503875968992,
+        0.08848484848484849,
+        0.8496124031007752,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        2198,
+        219,
+        2740,
+        2255
+      ],
+      "filename": "07-33.34.change-in-runway-shape-if.png",
+      "source_page": "page-34.png",
+      "chapter": 7,
+      "figure_number": 33,
+      "page_number": 34
+    },
+    {
+      "caption_reference": "Figure 7-34. Forward slip and sideslip",
+      "caption_text": "Forward slip and sideslip",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09252525252525252,
+        0.2815503875968992,
+        0.907070707070707
+      ],
+      "bbox_pixels": [
+        209,
+        229,
+        908,
+        2245
+      ],
+      "filename": "07-34.37.forward-slip-and-sideslip.png",
+      "source_page": "page-37.png",
+      "chapter": 7,
+      "figure_number": 34,
+      "page_number": 37
+    },
+    {
+      "caption_reference": "Figure 7-35. Using the crab method to track the extended centerline of the landing area",
+      "caption_text": "Using the crab method to track the extended centerline of the landing area",
+      "bbox_normalized": [
+        0.6750387596899224,
+        0.09454545454545454,
+        0.8558139534883721,
+        0.9050505050505051
+      ],
+      "bbox_pixels": [
+        2177,
+        234,
+        2760,
+        2240
+      ],
+      "filename": "07-35.37.using-the-crab-method-to.png",
+      "source_page": "page-37.png",
+      "chapter": 7,
+      "figure_number": 35,
+      "page_number": 37
+    },
+    {
+      "caption_reference": "Figure 7-35. B] Although a slip increases the sink rate of the glider, the pilot may",
+      "caption_text": "B] Although a slip increases the sink rate of the glider, the pilot may",
+      "bbox_normalized": [
+        0.06914728682170543,
+        0.08888888888888889,
+        0.13209302325581396,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        223,
+        220,
+        426,
+        2254
+      ],
+      "filename": "07-35.38.b-although-a-slip-increas.png",
+      "source_page": "page-38.png",
+      "chapter": 7,
+      "figure_number": 35,
+      "page_number": 38
+    },
+    {
+      "caption_reference": "Figure 7-36. Pneumatic tire rebound",
+      "caption_text": "Pneumatic tire rebound",
+      "bbox_normalized": [
+        0.2713178294573643,
+        0.08848484848484849,
+        0.40837209302325583,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        875,
+        219,
+        1317,
+        2255
+      ],
+      "filename": "07-36.40.pneumatic-tire-rebound.png",
+      "source_page": "page-40.png",
+      "chapter": 7,
+      "figure_number": 36,
+      "page_number": 40
+    },
+    {
+      "caption_reference": "Figure 7-37. Shallow, medium, and steep turns",
+      "caption_text": "Shallow, medium, and steep turns",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3014141414141414,
+        0.6666666666666666,
+        0.6981818181818182
+      ],
+      "bbox_pixels": [
+        209,
+        746,
+        2150,
+        1728
+      ],
+      "filename": "07-37.42.shallow-medium-and-steep.png",
+      "source_page": "page-42.png",
+      "chapter": 7,
+      "figure_number": 37,
+      "page_number": 42
+    },
+    {
+      "caption_reference": "Figure 7-38. Coordinated turn",
+      "caption_text": "Coordinated turn",
+      "bbox_normalized": [
+        0.09829457364341085,
+        0.298989898989899,
+        0.2846511627906977,
+        0.7006060606060606
+      ],
+      "bbox_pixels": [
+        317,
+        740,
+        918,
+        1734
+      ],
+      "filename": "07-38.43.coordinated-turn.png",
+      "source_page": "page-43.png",
+      "chapter": 7,
+      "figure_number": 38,
+      "page_number": 43
+    },
+    {
+      "caption_reference": "Figure 7-39. Slipping turn",
+      "caption_text": "Slipping turn",
+      "bbox_normalized": [
+        0.40744186046511627,
+        0.3006060606060606,
+        0.5928682170542635,
+        0.6989898989898989
+      ],
+      "bbox_pixels": [
+        1314,
+        744,
+        1912,
+        1730
+      ],
+      "filename": "07-39.43.slipping-turn.png",
+      "source_page": "page-43.png",
+      "chapter": 7,
+      "figure_number": 39,
+      "page_number": 43
+    },
+    {
+      "caption_reference": "Figure 7-40. Skidding turn",
+      "caption_text": "Skidding turn",
+      "bbox_normalized": [
+        0.6874418604651162,
+        0.2993939393939394,
+        0.8725581395348837,
+        0.7002020202020202
+      ],
+      "bbox_pixels": [
+        2217,
+        741,
+        2814,
+        1733
+      ],
+      "filename": "07-40.43.skidding-turn.png",
+      "source_page": "page-43.png",
+      "chapter": 7,
+      "figure_number": 40,
+      "page_number": 43
+    },
+    {
+      "caption_reference": "Figure 7-41. Stall recovery",
+      "caption_text": "Stall recovery",
+      "bbox_normalized": [
+        0.5125581395348837,
+        0.09292929292929293,
+        0.695813953488372,
+        0.9066666666666666
+      ],
+      "bbox_pixels": [
+        1653,
+        230,
+        2244,
+        2244
+      ],
+      "filename": "07-41.47.stall-recovery.png",
+      "source_page": "page-47.png",
+      "chapter": 7,
+      "figure_number": 41,
+      "page_number": 47
+    },
+    {
+      "caption_reference": "Figure 7-42. Demonstrating a crossed-control approach to a stall at altitude",
+      "caption_text": "Demonstrating a crossed-control approach to a stall at altitude",
+      "bbox_normalized": [
+        0.5165891472868217,
+        0.296969696969697,
+        0.757829457364341,
+        0.7026262626262626
+      ],
+      "bbox_pixels": [
+        1666,
+        735,
+        2444,
+        1739
+      ],
+      "filename": "07-42.49.demonstrating-a-crossedco.png",
+      "source_page": "page-49.png",
+      "chapter": 7,
+      "figure_number": 42,
+      "page_number": 49
+    },
+    {
+      "caption_reference": "Figure 7-3. Tracking the runway centerline",
+      "caption_text": "Tracking the runway centerline",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.33090909090909093,
+        0.4576744186046512,
+        0.6686868686868687
+      ],
+      "bbox_pixels": [
+        209,
+        819,
+        1476,
+        1655
+      ],
+      "filename": "07-03.05.tracking-the-runway-cente.png",
+      "source_page": "page-5.png",
+      "chapter": 7,
+      "figure_number": 3,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 7-4. Crosswind correction for takeoff",
+      "caption_text": "Crosswind correction for takeoff",
+      "bbox_normalized": [
+        0.3677519379844961,
+        0.3018181818181818,
+        0.7333333333333333,
+        0.6977777777777778
+      ],
+      "bbox_pixels": [
+        1186,
+        747,
+        2365,
+        1727
+      ],
+      "filename": "07-04.06.crosswind-correction-for.png",
+      "source_page": "page-6.png",
+      "chapter": 7,
+      "figure_number": 4,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 7-5. ] As in a normal unassisted takeoff, the drag on the downwind wing imparts",
+      "caption_text": "] As in a normal unassisted takeoff, the drag on the downwind wing imparts",
+      "bbox_normalized": [
+        0.24868217054263567,
+        0.08888888888888889,
+        0.3116279069767442,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        802,
+        220,
+        1005,
+        2258
+      ],
+      "filename": "07-05.07.as-in-a-normal-unassiste.png",
+      "source_page": "page-7.png",
+      "chapter": 7,
+      "figure_number": 5,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 7-5. When setting up for a crosswind takeoff, the glider should start on the",
+      "caption_text": "When setting up for a crosswind takeoff, the glider should start on the",
+      "bbox_normalized": [
+        0.43317829457364343,
+        0.298989898989899,
+        0.8362790697674418,
+        0.7006060606060606
+      ],
+      "bbox_pixels": [
+        1397,
+        740,
+        2697,
+        1734
+      ],
+      "filename": "07-05.07.when-setting-up-for-a-cro.png",
+      "source_page": "page-7.png",
+      "chapter": 7,
+      "figure_number": 5,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 7-6. Premature takeoffs and PIOs",
+      "caption_text": "Premature takeoffs and PIOs",
+      "bbox_normalized": [
+        0.23968992248062015,
+        0.08848484848484849,
+        0.37705426356589145,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        773,
+        219,
+        1216,
+        2255
+      ],
+      "filename": "07-06.08.premature-takeoffs-and-pi.png",
+      "source_page": "page-8.png",
+      "chapter": 7,
+      "figure_number": 6,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 7-7. Pilot-induced roll oscillations during takeoff roll",
+      "caption_text": "Pilot-induced roll oscillations during takeoff roll",
+      "bbox_normalized": [
+        0.20124031007751939,
+        0.31313131313131315,
+        0.6874418604651162,
+        0.6864646464646464
+      ],
+      "bbox_pixels": [
+        649,
+        775,
+        2217,
+        1699
+      ],
+      "filename": "07-07.09.pilotinduced-roll-oscilla.png",
+      "source_page": "page-9.png",
+      "chapter": 7,
+      "figure_number": 7,
+      "page_number": 9
+    },
+    {
+      "caption_reference": "Figure 7-8. ] If the pilot holds rudder pressure too long, momentum of",
+      "caption_text": "] If the pilot holds rudder pressure too long, momentum of",
+      "bbox_normalized": [
+        0.724031007751938,
+        0.0892929292929293,
+        0.7869767441860465,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        2335,
+        221,
+        2538,
+        2254
+      ],
+      "filename": "07-08.09.if-the-pilot-holds-rudde.png",
+      "source_page": "page-9.png",
+      "chapter": 7,
+      "figure_number": 8,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-11.png",
+      "caption": "[Figure 7-10]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-14.png",
+      "caption": "[Figure 7-11]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-15.png",
+      "caption": "[Figure 7-15 B]. From center low tow position,",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-16.png",
+      "caption": "[Figure 7-16A]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-17.png",
+      "caption": "[Figure 7-17]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-19.png",
+      "caption": "[Figure 7-19]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-20.png",
+      "caption": "[Figure 7-21]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-22.png",
+      "caption": "[Figure 7-23]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-28.png",
+      "caption": "[Figure 7-29]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-30.png",
+      "caption": "[Figure 7-30]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-34.png",
+      "caption": "[Figure 7-32]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-34.png",
+      "caption": "[Figure 7-33]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-36.png",
+      "caption": "[Figure 7-34]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-37.png",
+      "caption": "[Figure 7-35A]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-4.png",
+      "caption": "[Figure 7-3]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-40.png",
+      "caption": "[Figure 7-36]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-41.png",
+      "caption": "Figure 7-37.",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-42.png",
+      "caption": "[Figure 7-38]. During a slipping turn, the head of the yaw string is to the",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-43.png",
+      "caption": "[Figure 7-40].",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-43.png",
+      "caption": "[Figure 7-39]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-43.png",
+      "caption": "[Figure 7-40]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-47.png",
+      "caption": "[Figure 7-41]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-49.png",
+      "caption": "[Figure 7-42|",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 7-6]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-9.png",
+      "caption": "[Figure 7-7]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}

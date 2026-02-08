@@ -1,0 +1,766 @@
+{
+  "metadata": {
+    "source": "en/images/03",
+    "total_pages_processed": 16,
+    "total_figures_extracted": 34,
+    "total_skipped": 8
+  },
+  "valid_crops": [
+    {
+      "caption_reference": "Figure 3-1. ] In flight, moving the rudder left or right causes the glider to yaw",
+      "caption_text": "] In flight, moving the rudder left or right causes the glider to yaw",
+      "bbox_normalized": [
+        0.25953488372093025,
+        0.08888888888888889,
+        0.32,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        837,
+        220,
+        1032,
+        2258
+      ],
+      "filename": "03-01.01.in-flight-moving-the-rud.png",
+      "source_page": "page-1.png",
+      "chapter": 3,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 3-1. Three axes of rotation with each perpendicular to the other two and all",
+      "caption_text": "Three axes of rotation with each perpendicular to the other two and all",
+      "bbox_normalized": [
+        0.4275968992248062,
+        0.14909090909090908,
+        0.6362790697674419,
+        0.8505050505050505
+      ],
+      "bbox_pixels": [
+        1379,
+        369,
+        2052,
+        2105
+      ],
+      "filename": "03-01.01.three-axes-of-rotation-wi.png",
+      "source_page": "page-1.png",
+      "chapter": 3,
+      "figure_number": 1,
+      "page_number": 1
+    },
+    {
+      "caption_reference": "Figure 3-14. Dihedral angle",
+      "caption_text": "Dihedral angle",
+      "bbox_normalized": [
+        0.1268217054263566,
+        0.09535353535353536,
+        0.266046511627907,
+        0.9042424242424243
+      ],
+      "bbox_pixels": [
+        409,
+        236,
+        858,
+        2238
+      ],
+      "filename": "03-14.10.dihedral-angle.png",
+      "source_page": "page-10.png",
+      "chapter": 3,
+      "figure_number": 14,
+      "page_number": 10
+    },
+    {
+      "caption_reference": "Figure 3-15. Forces in a banked turn",
+      "caption_text": "Forces in a banked turn",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.3014141414141414,
+        0.32558139534883723,
+        0.6981818181818182
+      ],
+      "bbox_pixels": [
+        209,
+        746,
+        1050,
+        1728
+      ],
+      "filename": "03-15.11.forces-in-a-banked-turn.png",
+      "source_page": "page-11.png",
+      "chapter": 3,
+      "figure_number": 15,
+      "page_number": 11
+    },
+    {
+      "caption_reference": "Figure 3-16. The loads placed on a glider while han rate of descent",
+      "caption_text": "The loads placed on a glider while han rate of descent",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.30464646464646467,
+        0.30697674418604654,
+        0.694949494949495
+      ],
+      "bbox_pixels": [
+        209,
+        754,
+        990,
+        1720
+      ],
+      "filename": "03-16.12.the-loads-placed-on-a-gli.png",
+      "source_page": "page-12.png",
+      "chapter": 3,
+      "figure_number": 16,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 3-17. 4 60° angle of bank causes a 41 percent increase in the",
+      "caption_text": "4 60° angle of bank causes a 41 percent increase in the",
+      "bbox_normalized": [
+        0.35224806201550385,
+        0.30464646464646467,
+        0.5944186046511628,
+        0.6945454545454546
+      ],
+      "bbox_pixels": [
+        1136,
+        754,
+        1917,
+        1719
+      ],
+      "filename": "03-17.12.4-60-angle-of-bank-causes.png",
+      "source_page": "page-12.png",
+      "chapter": 3,
+      "figure_number": 17,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 3-18. ] When flying in thermals, a smaller",
+      "caption_text": "] When flying in thermals, a smaller",
+      "bbox_normalized": [
+        0.6638759689922481,
+        0.0892929292929293,
+        0.7243410852713178,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2141,
+        221,
+        2336,
+        2253
+      ],
+      "filename": "03-18.12.when-flying-in-thermals.png",
+      "source_page": "page-12.png",
+      "chapter": 3,
+      "figure_number": 18,
+      "page_number": 12
+    },
+    {
+      "caption_reference": "Figure 3-18. 4 gliders radius of turn as compared to angle of bank",
+      "caption_text": "4 gliders radius of turn as compared to angle of bank",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09414141414141414,
+        0.3572093023255814,
+        0.9054545454545454
+      ],
+      "bbox_pixels": [
+        209,
+        233,
+        1152,
+        2241
+      ],
+      "filename": "03-18.13.4-gliders-radius-of-turn.png",
+      "source_page": "page-13.png",
+      "chapter": 3,
+      "figure_number": 18,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 3-19. ] This slip uses",
+      "caption_text": "] This slip uses",
+      "bbox_normalized": [
+        0.6837209302325581,
+        0.08888888888888889,
+        0.7305426356589148,
+        0.9123232323232323
+      ],
+      "bbox_pixels": [
+        2205,
+        220,
+        2356,
+        2258
+      ],
+      "filename": "03-19.13.this-slip-uses.png",
+      "source_page": "page-13.png",
+      "chapter": 3,
+      "figure_number": 19,
+      "page_number": 13
+    },
+    {
+      "caption_reference": "Figure 3-19. 4 comparison of a forward slip to a sideslip",
+      "caption_text": "4 comparison of a forward slip to a sideslip",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09373737373737374,
+        0.27348837209302324,
+        0.9058585858585858
+      ],
+      "bbox_pixels": [
+        209,
+        232,
+        882,
+        2242
+      ],
+      "filename": "03-19.14.4-comparison-of-a-forward.png",
+      "source_page": "page-14.png",
+      "chapter": 3,
+      "figure_number": 19,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 3-20. ] A stall",
+      "caption_text": "] A stall",
+      "bbox_normalized": [
+        0.5153488372093024,
+        0.0892929292929293,
+        0.5782945736434109,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        1662,
+        221,
+        1865,
+        2253
+      ],
+      "filename": "03-20.14.a-stall.png",
+      "source_page": "page-14.png",
+      "chapter": 3,
+      "figure_number": 20,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 3-20. 4 stall occurs when the angle of attack exceeds the critical angle of",
+      "caption_text": "4 stall occurs when the angle of attack exceeds the critical angle of",
+      "bbox_normalized": [
+        0.6902325581395349,
+        0.08848484848484849,
+        0.8815503875968992,
+        0.9111111111111111
+      ],
+      "bbox_pixels": [
+        2226,
+        219,
+        2843,
+        2255
+      ],
+      "filename": "03-20.14.4-stall-occurs-when-the-a.png",
+      "source_page": "page-14.png",
+      "chapter": 3,
+      "figure_number": 20,
+      "page_number": 14
+    },
+    {
+      "caption_reference": "Figure 3-21. ] The",
+      "caption_text": "] The",
+      "bbox_normalized": [
+        0.17953488372093024,
+        0.08888888888888889,
+        0.2750387596899225,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        579,
+        220,
+        887,
+        2254
+      ],
+      "filename": "03-21.15.the.png",
+      "source_page": "page-15.png",
+      "chapter": 3,
+      "figure_number": 21,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 3-21. The relative coefficients of lift and drag for each wing during a spin,",
+      "caption_text": "The relative coefficients of lift and drag for each wing during a spin,",
+      "bbox_normalized": [
+        0.41891472868217056,
+        0.30303030303030304,
+        0.6409302325581395,
+        0.6965656565656566
+      ],
+      "bbox_pixels": [
+        1351,
+        750,
+        2067,
+        1724
+      ],
+      "filename": "03-21.15.the-relative-coefficients.png",
+      "source_page": "page-15.png",
+      "chapter": 3,
+      "figure_number": 21,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 3-22. The entry, wing form, and CG usually determine",
+      "caption_text": "The entry, wing form, and CG usually determine",
+      "bbox_normalized": [
+        0.6902325581395349,
+        0.0892929292929293,
+        0.7534883720930232,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        2226,
+        221,
+        2430,
+        2253
+      ],
+      "filename": "03-22.15.the-entry-wing-form-and-c.png",
+      "source_page": "page-15.png",
+      "chapter": 3,
+      "figure_number": 22,
+      "page_number": 15
+    },
+    {
+      "caption_reference": "Figure 3-22. Three types of spins",
+      "caption_text": "Three types of spins",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09212121212121212,
+        0.5255813953488372,
+        0.9074747474747474
+      ],
+      "bbox_pixels": [
+        209,
+        228,
+        1695,
+        2246
+      ],
+      "filename": "03-22.16.three-types-of-spins.png",
+      "source_page": "page-16.png",
+      "chapter": 3,
+      "figure_number": 22,
+      "page_number": 16
+    },
+    {
+      "caption_reference": "Figure 3-2. Vector components of lift, thrust, drag, and weight (gravity)",
+      "caption_text": "Vector components of lift, thrust, drag, and weight (gravity)",
+      "bbox_normalized": [
+        0.06294573643410853,
+        0.2824242424242424,
+        0.33209302325581397,
+        0.7208080808080808
+      ],
+      "bbox_pixels": [
+        203,
+        699,
+        1071,
+        1784
+      ],
+      "filename": "03-02.02.vector-components-of-lift.png",
+      "source_page": "page-2.png",
+      "chapter": 3,
+      "figure_number": 2,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 3-3. shows the relationship",
+      "caption_text": "shows the relationship",
+      "bbox_normalized": [
+        0.5662015503875969,
+        0.09090909090909091,
+        0.6455813953488372,
+        0.9127272727272727
+      ],
+      "bbox_pixels": [
+        1826,
+        225,
+        2082,
+        2259
+      ],
+      "filename": "03-03.02.shows-the-relationship.png",
+      "source_page": "page-2.png",
+      "chapter": 3,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 3-3. Lift Equation",
+      "caption_text": "Lift Equation",
+      "bbox_normalized": [
+        0.7351937984496124,
+        0.3086868686868687,
+        0.8958139534883721,
+        0.6945454545454546
+      ],
+      "bbox_pixels": [
+        2371,
+        764,
+        2889,
+        1719
+      ],
+      "filename": "03-03.02.lift-equation.png",
+      "source_page": "page-2.png",
+      "chapter": 3,
+      "figure_number": 3,
+      "page_number": 2
+    },
+    {
+      "caption_reference": "Figure 3-4. ] The coefficient of lift increases linearly until reaching",
+      "caption_text": "] The coefficient of lift increases linearly until reaching",
+      "bbox_normalized": [
+        0.06914728682170543,
+        0.0892929292929293,
+        0.11596899224806202,
+        0.9103030303030303
+      ],
+      "bbox_pixels": [
+        223,
+        221,
+        374,
+        2253
+      ],
+      "filename": "03-04.03.the-coefficient-of-lift.png",
+      "source_page": "page-3.png",
+      "chapter": 3,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 3-4. Angle of attack",
+      "caption_text": "Angle of attack",
+      "bbox_normalized": [
+        0.20775193798449612,
+        0.09131313131313132,
+        0.33891472868217054,
+        0.9082828282828282
+      ],
+      "bbox_pixels": [
+        670,
+        226,
+        1093,
+        2248
+      ],
+      "filename": "03-04.03.angle-of-attack.png",
+      "source_page": "page-3.png",
+      "chapter": 3,
+      "figure_number": 4,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 3-5. Parasite drag versus speed",
+      "caption_text": "Parasite drag versus speed",
+      "bbox_normalized": [
+        0.6024806201550388,
+        0.2674747474747475,
+        0.8167441860465117,
+        0.7321212121212122
+      ],
+      "bbox_pixels": [
+        1943,
+        662,
+        2634,
+        1812
+      ],
+      "filename": "03-05.03.parasite-drag-versus-spee.png",
+      "source_page": "page-3.png",
+      "chapter": 3,
+      "figure_number": 5,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 3-6. , depicts the wing moving horizontally in level flight",
+      "caption_text": ", depicts the wing moving horizontally in level flight",
+      "bbox_normalized": [
+        0.6024806201550388,
+        0.2674747474747475,
+        0.8378294573643411,
+        0.7321212121212122
+      ],
+      "bbox_pixels": [
+        1943,
+        662,
+        2702,
+        1812
+      ],
+      "filename": "03-06.03.depicts-the-wing-moving.png",
+      "source_page": "page-3.png",
+      "chapter": 3,
+      "figure_number": 6,
+      "page_number": 3
+    },
+    {
+      "caption_reference": "Figure 3-6. Induced drag from the production of lift",
+      "caption_text": "Induced drag from the production of lift",
+      "bbox_normalized": [
+        0.14666666666666667,
+        0.09696969696969697,
+        0.56,
+        0.9034343434343435
+      ],
+      "bbox_pixels": [
+        473,
+        240,
+        1806,
+        2236
+      ],
+      "filename": "03-06.04.induced-drag-from-the-pro.png",
+      "source_page": "page-4.png",
+      "chapter": 3,
+      "figure_number": 6,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 3-7. Parasite drag, induced drag, and total drag versus airspeed",
+      "caption_text": "Parasite drag, induced drag, and total drag versus airspeed",
+      "bbox_normalized": [
+        0.6964341085271318,
+        0.30303030303030304,
+        0.8772093023255814,
+        0.696969696969697
+      ],
+      "bbox_pixels": [
+        2246,
+        750,
+        2829,
+        1725
+      ],
+      "filename": "03-07.04.parasite-drag-induced-dra.png",
+      "source_page": "page-4.png",
+      "chapter": 3,
+      "figure_number": 7,
+      "page_number": 4
+    },
+    {
+      "caption_reference": "Figure 3-8. ] Weight (W) always points to the ground (center of the",
+      "caption_text": "] Weight (W) always points to the ground (center of the",
+      "bbox_normalized": [
+        0.2775193798449612,
+        0.08888888888888889,
+        0.32434108527131783,
+        0.9107070707070707
+      ],
+      "bbox_pixels": [
+        895,
+        220,
+        1046,
+        2254
+      ],
+      "filename": "03-08.05.weight-w-always-points-t.png",
+      "source_page": "page-5.png",
+      "chapter": 3,
+      "figure_number": 8,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 3-8. The forces along an unpowered glider flight path and its perpendicular",
+      "caption_text": "The forces along an unpowered glider flight path and its perpendicular",
+      "bbox_normalized": [
+        0.5165891472868217,
+        0.11272727272727273,
+        0.8037209302325582,
+        0.8868686868686869
+      ],
+      "bbox_pixels": [
+        1666,
+        279,
+        2592,
+        2195
+      ],
+      "filename": "03-08.05.the-forces-along-an-unpow.png",
+      "source_page": "page-5.png",
+      "chapter": 3,
+      "figure_number": 8,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 3-8. A steeper flight path angle (y) increases the forward component of",
+      "caption_text": "A steeper flight path angle (y) increases the forward component of",
+      "bbox_normalized": [
+        0.5165891472868217,
+        0.11272727272727273,
+        0.8251162790697675,
+        0.8868686868686869
+      ],
+      "bbox_pixels": [
+        1666,
+        279,
+        2661,
+        2195
+      ],
+      "filename": "03-08.05.a-steeper-flight-path-ang.png",
+      "source_page": "page-5.png",
+      "chapter": 3,
+      "figure_number": 8,
+      "page_number": 5
+    },
+    {
+      "caption_reference": "Figure 3-9. Planforms of glider wings",
+      "caption_text": "Planforms of glider wings",
+      "bbox_normalized": [
+        0.25736434108527134,
+        0.09373737373737374,
+        0.6706976744186046,
+        0.9058585858585858
+      ],
+      "bbox_pixels": [
+        830,
+        232,
+        2163,
+        2242
+      ],
+      "filename": "03-09.06.planforms-of-glider-wings.png",
+      "source_page": "page-6.png",
+      "chapter": 3,
+      "figure_number": 9,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 3-10. , which generates significant lift at low angles of attack with",
+      "caption_text": ", which generates significant lift at low angles of attack with",
+      "bbox_normalized": [
+        0.25736434108527134,
+        0.09373737373737374,
+        0.6917829457364341,
+        0.9058585858585858
+      ],
+      "bbox_pixels": [
+        830,
+        232,
+        2231,
+        2242
+      ],
+      "filename": "03-10.06.which-generates-signific.png",
+      "source_page": "page-6.png",
+      "chapter": 3,
+      "figure_number": 10,
+      "page_number": 6
+    },
+    {
+      "caption_reference": "Figure 3-10. Aspect ratio",
+      "caption_text": "Aspect ratio",
+      "bbox_normalized": [
+        0.06480620155038759,
+        0.09696969696969697,
+        0.5237209302325582,
+        0.9026262626262627
+      ],
+      "bbox_pixels": [
+        209,
+        240,
+        1689,
+        2234
+      ],
+      "filename": "03-10.07.aspect-ratio.png",
+      "source_page": "page-7.png",
+      "chapter": 3,
+      "figure_number": 10,
+      "page_number": 7
+    },
+    {
+      "caption_reference": "Figure 3-11. types of dynamic stability",
+      "caption_text": "types of dynamic stability",
+      "bbox_normalized": [
+        0.14294573643410852,
+        0.09333333333333334,
+        0.4201550387596899,
+        0.9062626262626262
+      ],
+      "bbox_pixels": [
+        461,
+        231,
+        1355,
+        2243
+      ],
+      "filename": "03-11.08.types-of-dynamic-stabilit.png",
+      "source_page": "page-8.png",
+      "chapter": 3,
+      "figure_number": 11,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 3-12. The horizontal stabilizer offsets the natural tendency of a glider to pitch down",
+      "caption_text": "The horizontal stabilizer offsets the natural tendency of a glider to pitch down",
+      "bbox_normalized": [
+        0.5789147286821705,
+        0.09535353535353536,
+        0.8474418604651163,
+        0.9042424242424243
+      ],
+      "bbox_pixels": [
+        1867,
+        236,
+        2733,
+        2238
+      ],
+      "filename": "03-12.08.the-horizontal-stabilizer.png",
+      "source_page": "page-8.png",
+      "chapter": 3,
+      "figure_number": 12,
+      "page_number": 8
+    },
+    {
+      "caption_reference": "Figure 3-13. Lateral stability",
+      "caption_text": "Lateral stability",
+      "bbox_normalized": [
+        0.2576744186046512,
+        0.12080808080808081,
+        0.867906976744186,
+        0.8787878787878788
+      ],
+      "bbox_pixels": [
+        831,
+        299,
+        2799,
+        2175
+      ],
+      "filename": "03-13.09.lateral-stability.png",
+      "source_page": "page-9.png",
+      "chapter": 3,
+      "figure_number": 13,
+      "page_number": 9
+    }
+  ],
+  "skipped": [
+    {
+      "page": "page-10.png",
+      "caption": "[Figure 3-14]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-10.png",
+      "caption": "[Figure 3-15]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 3-5]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-3.png",
+      "caption": "[Figure 3-6]. Panel 4 of Figure 3-6, depicts the wing moving horizontally in level flight.",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-4.png",
+      "caption": "[Figure 3-7]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-6.png",
+      "caption": "[Figure 3-9]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-8.png",
+      "caption": "[Figure 3-11]",
+      "reason": "Caption demasiado corto"
+    },
+    {
+      "page": "page-9.png",
+      "caption": "[Figure 3-13]",
+      "reason": "Caption demasiado corto"
+    }
+  ]
+}
