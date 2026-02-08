@@ -254,33 +254,33 @@ En un vuelo hecho desde un área de alta presión a un área de baja presión si
 
 Para ajustar el {term-altimeter} para presión no estándar, el piloto ajusta la escala de presión en la ventana del {term-altimeter} (ventana Kollsman) al ajuste de {term-altimeter} local dado o a la elevación del campo. Los ajustes del {term-altimeter} corresponden a la presión de la estación reducida al nivel del mar, expresada en pulgadas de mercurio.
 
-Una estación de reporte toma una medición horaria de la presión atmosférica y corrige este valor a presión a nivel del mar. Estos ajustes del {term-altimeter} reflejan la altura sobre el nivel del mar solo cerca de la estación de reporte. Cuando se vuela por debajo de 18 000 pies MSL, el piloto debe reajustar el {term-altimeter} a medida que el vuelo progresa de una estación a la siguiente. Cuando se vuela a o por encima de 18 000 pies MSL, el piloto ajusta el {term-altimeter} a 29'92.
+Una estación de reporte toma una medición horaria de la presión atmosférica y corrige este valor a presión a nivel del mar. Estos ajustes del {term-altimeter} reflejan la altura sobre el nivel del mar solo cerca de la estación de reporte. Cuando se vuela por debajo de 18\u00A0000 pies MSL, el piloto debe reajustar el {term-altimeter} a medida que el vuelo progresa de una estación a la siguiente. Cuando se vuela a o por encima de 18\u00A0000 pies MSL, el piloto ajusta el {term-altimeter} a 29,92.
 
-Cuando se vuela sobre terreno montañoso alto, ciertas condiciones atmosféricas pueden hacer que el {term-altimeter} indique una altitud de 1 000 pies o más por encima de la {term-true-altitude}. Por esta razón, el piloto debe volar con un margen de altitud aumentada—no solo por posible error del {term-altimeter}, sino también por corrientes descendentes, que pueden ocurrir si se encuentran vientos fuertes.
+Cuando se vuela sobre terreno montañoso alto, ciertas condiciones atmosféricas pueden hacer que el {term-altimeter} indique una altitud de 1\u00A0000 pies o más por encima de la {term-true-altitude}. Por esta razón, el piloto debe volar con un margen de altitud aumentada—no solo por posible error del {term-altimeter}, sino también por corrientes descendentes, que pueden ocurrir si se encuentran vientos fuertes.
 
-Un vuelo de travesía desde TSA Gliderport, Midlothian, Texas, hasta Winston Airport, Snyder, Texas, vía Stephens County Airport, Breckenridge, Texas, ilustra el uso de los ajustes del {term-altimeter}. Antes del lanzamiento desde TSA Gliderport, el piloto recibe el ajuste de {term-altimeter} local actual de 29'85 y ajusta el {term-altimeter} a este valor. La indicación varía ligeramente de la elevación conocida del aeropuerto de 660 pies debido a un ligero error de calibración del {term-altimeter}.
+Un vuelo de travesía desde TSA Gliderport, Midlothian, Texas, hasta Winston Airport, Snyder, Texas, vía Stephens County Airport, Breckenridge, Texas, ilustra el uso de los ajustes del {term-altimeter}. Antes del lanzamiento desde TSA Gliderport, el piloto recibe el ajuste de {term-altimeter} local actual de 29,85 y ajusta el {term-altimeter} a este valor. La indicación varía ligeramente de la elevación conocida del aeropuerto de 660 pies debido a un ligero error de calibración del {term-altimeter}.
 
-Cuando está sobre Stephens County Airport, el piloto recibe un ajuste de {term-altimeter} de área actual de 29'94 y aplica este ajuste al {term-altimeter}. Antes de entrar en el {term-pattern} en Winston Airport, el piloto recibe un nuevo ajuste de {term-altimeter} de 29'69 del Sistema Automatizado de Observación Meteorológica (AWOS - Automated Weather Observing System). Si el piloto desea entrar en el {term-pattern} aproximadamente a 1 000 pies sobre el terreno, y si la elevación del campo de Winston Airport es de 2 430 pies MSL, el piloto debe usar una {term-indicated-altitude} de 3 400 pies.
+Cuando está sobre Stephens County Airport, el piloto recibe un ajuste de {term-altimeter} de área actual de 29,94 y aplica este ajuste al {term-altimeter}. Antes de entrar en el {term-pattern} en Winston Airport, el piloto recibe un nuevo ajuste de {term-altimeter} de 29,69 del Sistema Automatizado de Observación Meteorológica (AWOS - Automated Weather Observing System). Si el piloto desea entrar en el {term-pattern} aproximadamente a 1\u00A0000 pies sobre el terreno, y si la elevación del campo de Winston Airport es de 2\u00A0430 pies MSL, el piloto debe usar una {term-indicated-altitude} de 3\u00A0400 pies.
 
 .2,430 pies + 1,000 pies = 3,430 pies, redondeado a 3,400 pies
 
-Para ilustrar, suponga que una distracción hizo que el piloto descuidara el ajuste para el ajuste del {term-altimeter} de Winston Airport y continuara usando el ajuste de Stephens County Airport de 29,94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3 400 pies y el {term-altimeter} indicaría aproximadamente 2 680 pies al aterrizar o 250 pies más alto que la elevación del campo.
+Para ilustrar, suponga que una distracción hizo que el piloto descuidara el ajuste para el ajuste del {term-altimeter} de Winston Airport y continuara usando el ajuste de Stephens County Airport de 29,94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3\u00A0400 pies y el {term-altimeter} indicaría aproximadamente 2 680 pies al aterrizar o 250 pies más alto que la elevación del campo.
 
-.Ajuste de {term-altimeter} real = 29'94
+.Ajuste de {term-altimeter} real = 29,94
 
-.Ajuste de {term-altimeter} correcto = 29'69
+.Ajuste de {term-altimeter} correcto = 29,69
 
-.Diferencia =0'25
+.Diferencia =0,25
 
-Una pulgada de presión es igual a aproximadamente 1 000 pies de altitud.
+Una pulgada de presión es igual a aproximadamente 1\u00A0000 pies de altitud.
 
-.0'25 × 1 000 pies = 250 pies
+.0,25 × 1\u00A0000 pies = 250 pies
 
 En este escenario, el piloto, aunque bajo, podría volar un ángulo de {term-approach} visual exitoso a la zona de {term-landing}. El piloto debe ajustar el ángulo visual a la zona de {term-landing} para compensar la altitud más baja. Sin embargo, el riesgo de un accidente aumenta debido a la altitud incorrecta de entrada al circuito. Por ejemplo, el {term-glider} podría golpear un obstáculo en la trayectoria de vuelo si no es visto por el piloto. Si el piloto no reajusta el {term-altimeter}, el siguiente auxiliar de memoria ilustra lo que puede suceder _«De alto a bajo—cuidado abajo»_.
 
 ==== Efecto de la Temperatura No Estándar
 
-Las variaciones en la temperatura del aire también afectan el {term-altimeter}. En un día cálido, el aire pesa menos por unidad de volumen que en un día frío. Por ejemplo, el nivel de presión al que el {term-altimeter} indica 10 000 pies ocurre a una altitud más alta en un día cálido que bajo condiciones estándar. En un día frío, la indicación de 10 000 pies se mueve más abajo. El ajuste hecho por el piloto para compensar la presión no estándar no compensa la temperatura no estándar. Si se considera el despeje de terreno u obstáculos durante la selección de una {term-true-altitude} de crucero, particularmente a altitudes más altas, el piloto debe considerar este efecto. Una temperatura más fría que el estándar coloca el {term-glider} más cerca del terreno para una {term-true-altitude} dada, y el piloto debe usar una altitud más alta para proporcionar un despeje de terreno adecuado. <<fig-04-17>>
+Las variaciones en la temperatura del aire también afectan el {term-altimeter}. En un día cálido, el aire pesa menos por unidad de volumen que en un día frío. Por ejemplo, el nivel de presión al que el {term-altimeter} indica 10\u00A0000 pies ocurre a una altitud más alta en un día cálido que bajo condiciones estándar. En un día frío, la indicación de 10\u00A0000 pies se mueve más abajo. El ajuste hecho por el piloto para compensar la presión no estándar no compensa la temperatura no estándar. Si se considera el despeje de terreno u obstáculos durante la selección de una {term-true-altitude} de crucero, particularmente a altitudes más altas, el piloto debe considerar este efecto. Una temperatura más fría que el estándar coloca el {term-glider} más cerca del terreno para una {term-true-altitude} dada, y el piloto debe usar una altitud más alta para proporcionar un despeje de terreno adecuado. <<fig-04-17>>
 
 
 [[fig-04-17]]
