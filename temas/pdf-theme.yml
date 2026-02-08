@@ -28,7 +28,7 @@ last_update_label: Última actualización
 base:
   font_color: #1F2937
   font_family: Noto Serif
-  font_size: 10.5
+  font_size: 9.0
   line_height_length: 15
   line_height: $base_line_height_length / $base_font_size
 
@@ -87,11 +87,11 @@ chapter:
 
 # === TABLA DE CONTENIDOS ===
 toc:
-  font_size: 10
+  font_size: 8.0
   line_height: 1.6
   indent: 15
   # Nivel 1 (Capítulos) - mapea a h2 internamente
-  h2_font_size: 12
+  h2_font_size: 10.0
   h2_font_style: bold
   # Nivel 2 (Secciones) - mapea a h3
   h3_font_style: normal

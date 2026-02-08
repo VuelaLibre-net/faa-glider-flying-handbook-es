@@ -292,16 +292,16 @@
     - Exceso de Confianza
   - Error del Piloto
     - Tipos de Errores
-  - Fatiga
-  - Hiperventilación
-  - Hipoxia
+    - Fatiga
+    - Hiperventilación
+    - Hipoxia
     - Síntomas de Hipoxia
-  - Malestar del Oído Interno
-  - Buceo
-  - Desorientación Espacial
-  - Deshidratación
-  - Golpe de Calor
-  - Clima Frío
+    - Malestar del Oído Interno
+    - Buceo
+    - Desorientación Espacial
+    - Deshidratación
+    - Golpe de Calor
+    - Clima Frío
   - Gestión de Cabina y Equipo
     - Paracaídas
     - Oxígeno Suplementario
