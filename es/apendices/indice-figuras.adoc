@@ -59,7 +59,7 @@ Este apéndice lista todas las figuras del manual organizadas por capítulo.
 * <<fig-04-06,Figura 04-06>>: Efectos de la altitud en el indicador de velocidad del aire
 * <<fig-04-07,Figura 04-07>>: Tres tipos de velocidad del aire
 * <<fig-04-08,Figura 04-08>>: Velocidades de pérdida indicadas y velocidades del aire verdaderas a varias altitudes
-* <<fig-04-09,Figura 04-09>>: La IAS correspondiente a VNE disminuye con la altitud
+* <<fig-04-09,Figura 04-09>>: La IAS correspondiente a V~NE~ disminuye con la altitud
 * <<fig-04-10,Figura 04-10>>: Ejemplos de placas de limitación de velocidad colocadas en un planeador y a la vista del piloto
 * <<fig-04-11,Figura 04-11>>: Ventilas estáticas y plomería del altímetro
 * <<fig-04-12,Figura 04-12>>: Altímetro
