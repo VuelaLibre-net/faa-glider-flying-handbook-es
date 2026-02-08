@@ -37,7 +37,7 @@ El Principio de Bernoulli establece que a medida que aumenta la velocidad de un 
 
 === Sustentación (Lift)
 
-A mathematical relationship exists between lift, the coefficient of lift, airspeed, air density, and the size of the wing. Figure 3-3 shows the relationship.
+// A mathematical relationship exists between lift, the coefficient of lift, airspeed, air density, and the size of the wing. Figure 3-3 shows the relationship.
 
 Existe una relación matemática entre la {term-lift-force}, el coeficiente de {term-lift-force}, la velocidad del aire, la densidad del aire y el tamaño del {term-wing}. La figura <<fig-03-03>> muestra la relación.
 

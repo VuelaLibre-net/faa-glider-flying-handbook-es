@@ -196,7 +196,7 @@ Si se suelta el {term-tow-rope} antes del {term-landing}, el piloto normalmente 
 Un remolque de travesía seguro y exitoso requiere planificación. El piloto remolcador debe planificar para el consumo máximo de combustible para el {term-towplane} usado. El piloto debe estudiar la ruta de vuelo en cartas seccionales, planificar para cualquier desviación potencial, y cumplir con cualquier requisito de espacio aéreo.
 
 [[fig-12-09]]
-.Cross-country tow.
+.Remolque de travesía.
 image::12/fig-12-09.cross-country-tow.png[width=600]
 
 [float-group]
