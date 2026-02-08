@@ -9,13 +9,17 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Añadido
 - Reglas de capitalización y uso de comillas latinas en `AGENTS.md`.
+- **Capítulo 3 completamente traducido**: Todas las 22 imágenes del capítulo de Aerodinámica del Vuelo traducidas al español con etiquetas técnicas correctas.
 
 ### Corregido
 - Script `validate-terminology.sh`: corregido error que impedía detectar atributos definidos debido a la inclusión del nombre del archivo en la salida de `grep`.
 - Eliminadas inconsistencias críticas de terminología ("patrón de tráfico", "entrada en pérdida").
+- **Comillas angulares**: Corrección masiva de comillas rectas (") por comillas latinas (« ») en los 12 capítulos según norma RAE.
+- **Capítulo 12**: Corregida numeración duplicada de figuras 12-9 a 12-12.
 
 ### Actualizado
 - `REVIEW.md` actualizado con métricas precisas y estado real de los capítulos.
+- Imágenes del capítulo 3: figuras 03-01 a 03-22 con texto traducido al español.
 
 ## [0.1.2] - 2026-02-06
 
