@@ -12,6 +12,12 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ### Cambiado
 
 ### Corregido
+- **URL de GitHub**: Corregida referencia obsoleta al repositorio en sección "Cómo Contribuir".
+- **Referencias de imágenes**: Corregidas 6 referencias a figuras con nombres de archivo incorrectos:
+  - Capítulo 2: fig-02-11 (sustainer-engine → sustainer)
+  - Capítulo 5: fig-05-14, fig-05-15, fig-05-16 (rendimiento-polar → performance-polar)
+  - Capítulo 7: fig-07-07 (roll-oscillations → balanceo-oscillations)
+  - Capítulo 10: fig-10-17 (roll-the-craft → balanceo-the-craft)
 
 ## [0.1.3] - 2026-02-08
 
