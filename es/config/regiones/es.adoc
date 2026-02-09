@@ -101,7 +101,7 @@
 :term-breaking-strength: resistencia a la rotura
 :term-schweizer-hook: gancho tipo Schweizer
 :term-tost-hook: gancho Tost
-:term-ground-loop: caballito (ground loop)
+:term-ground-loop: trompo (caballito)
 :term-cartwheel: voltereta
 :term-tow-pilot: piloto del remolcador
 :term-boxing-wake: caja de estela

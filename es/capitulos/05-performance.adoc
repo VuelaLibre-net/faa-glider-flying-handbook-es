@@ -117,7 +117,7 @@ El GFM/POH proporciona al piloto la información de performance necesaria para o
 
 • Instrucciones de ensamblaje del {term-glider}
 
-• Datos de {term-weight} y balance
+• Datos de {term-weight} y centrado
 
 • Descripción de los sistemas del {term-glider}
 
@@ -209,19 +209,19 @@ Durante estas excursiones, el {term-weight} de la mano y el brazo del piloto pue
 
 Para minimizar la intensificación de ráfagas verticales y evitar oscilaciones inducidas por el piloto a alta velocidad (PIOs), el piloto debe reducir la velocidad cuando vuela a través de aire turbulento. El piloto también puede apoyar ambos brazos y usar ambas manos en la palanca de control para prevenir entradas no deseadas. Algunos diseños de {term-glider}es incorporan un mecanismo de palanca de control de paralelogramo para reducir la probabilidad de PIOs durante crucero a alta velocidad.
 
-== {term-weight} y balance
+== {term-weight} y centrado
 
-El piloto debe entender la gestión adecuada de {term-weight} y balance y las consecuencias de sobrecargar o cargar incorrectamente el {term-glider}.
+El piloto debe entender la gestión adecuada de {term-weight} y centrado y las consecuencias de sobrecargar o cargar incorrectamente el {term-glider}.
 
-=== Información de {term-weight} y balance
+=== Información de {term-weight} y centrado
 
-El GFM/POH proporcionado por el fabricante da información sobre el {term-weight} y balance del {term-glider}. Dado que la adición o remoción de equipo, como radios, baterías, instrumentos de vuelo, o reparaciones de estructura afectan la posición del CG, los técnicos de mantenimiento aeronáutico (AMTs) registran los cambios a los datos de {term-weight} y balance en el GFM/POH y el libro de mantenimiento del {term-glider}. También actualizan las placas de {term-weight} y balance.
+El GFM/POH proporcionado por el fabricante da información sobre el {term-weight} y centrado del {term-glider}. Dado que la adición o remoción de equipo, como radios, baterías, instrumentos de vuelo, o reparaciones de estructura afectan la posición del CG, los técnicos de mantenimiento aeronáutico (AMTs) registran los cambios a los datos de {term-weight} y centrado en el GFM/POH y el libro de mantenimiento del {term-glider}. También actualizan las placas de {term-weight} y centrado.
 
 === Centro de gravedad
 
-El balance longitudinal afecta la estabilidad alrededor del eje lateral de un {term-glider}. Para lograr un manejo satisfactorio de la actitud de cabeceo, los fabricantes posicionan el centro de gravedad (CG) de un {term-glider} adecuadamente cargado al frente del centro de {term-lift-force} (CL) y publican los límites de CG del {term-glider} en el GFM/POH.
+El equilibrio longitudinal afecta la estabilidad alrededor del eje lateral de un {term-glider}. Para lograr un manejo satisfactorio de la actitud de cabeceo, los fabricantes posicionan el centro de gravedad (CG) de un {term-glider} adecuadamente cargado al frente del centro de {term-lift-force} (CL) y publican los límites de CG del {term-glider} en el GFM/POH.
 
-En la mayoría de los {term-glider}es, el {term-tailplane} y el elevador proporcionan una fuerza hacia abajo para balancear el arreglo del CG y centro de {term-lift-force}. A medida que la velocidad del aire cambia, el piloto ajusta el trim, y la fuerza hacia abajo de la cola equilibra exactamente el CG al frente. Un {term-glider} en esta configuración tiende a reanudar su actitud de cabeceo previa después de una perturbación alrededor del eje lateral. Si ocurre una perturbación que inclina la nariz hacia arriba, la velocidad del aire resultante más lenta y la disminución de la fuerza hacia abajo de la cola baja la nariz y permite que la velocidad del aire retorne hacia su valor pre-perturbación. Por el contrario, si la perturbación coloca la aeronave en una actitud de nariz hacia abajo, el aumento en la velocidad del aire aumenta la fuerza hacia abajo de la cola y levanta la nariz hacia la condición pre-perturbación. Este arreglo crea estabilidad positiva. Sin embargo, si la cola se pierde, esta acción estabilizadora no comenzará hasta que la cola comience a producir fuerza hacia abajo.
+En la mayoría de los {term-glider}es, el {term-tailplane} y el elevador proporcionan una fuerza hacia abajo para equilibrar el arreglo del CG y centro de {term-lift-force}. A medida que la velocidad del aire cambia, el piloto ajusta el trim, y la fuerza hacia abajo de la cola equilibra exactamente el CG al frente. Un {term-glider} en esta configuración tiende a reanudar su actitud de cabeceo previa después de una perturbación alrededor del eje lateral. Si ocurre una perturbación que inclina la nariz hacia arriba, la velocidad del aire resultante más lenta y la disminución de la fuerza hacia abajo de la cola baja la nariz y permite que la velocidad del aire retorne hacia su valor pre-perturbación. Por el contrario, si la perturbación coloca la aeronave en una actitud de nariz hacia abajo, el aumento en la velocidad del aire aumenta la fuerza hacia abajo de la cola y levanta la nariz hacia la condición pre-perturbación. Este arreglo crea estabilidad positiva. Sin embargo, si la cola se pierde, esta acción estabilizadora no comenzará hasta que la cola comience a producir fuerza hacia abajo.
 
 ==== Problemas asociados con CG adelante del límite publicado
 
@@ -247,14 +247,14 @@ Un CG por detrás del límite podría ocurrir por estas razones:
 
 • Acumulación de materia extraña o escombros (agua, hielo, lodo, arena, o nidos) en el {term-fuselage} trasero.
 
-=== Problemas de ejemplo de {term-weight} y balance
+=== Problemas de ejemplo de {term-weight} y centrado
 
-Algunos fabricantes de {term-glider}es proporcionan información de {term-weight} y balance en una presentación gráfica. Un gráfico bien diseñado proporciona una forma conveniente de determinar si el {term-glider} está dentro de los límites de {term-weight} y balance.
+Algunos fabricantes de {term-glider}es proporcionan información de {term-weight} y centrado en una presentación gráfica. Un gráfico bien diseñado proporciona una forma conveniente de determinar si el {term-glider} está dentro de los límites de {term-weight} y centrado.
 
-La figura de ejemplo 5-18 indica que el {term-weight} mínimo para el piloto del asiento delantero es 125 libras (el número más bajo en el eje x) hasta un máximo de 250 libras (el número más alto en el eje x). También indica un {term-weight} máximo del piloto del asiento trasero de 225 libras (el número más alto en el eje y). Si cada piloto pesa 150 libras, la intersección de los pesos de los pilotos cae dentro de la envolvente. Por lo tanto, la carga del {term-glider} cae dentro de la envolvente para vuelo seguro. Si cada piloto pesa 225 libras, las líneas se intersectan en la porción amarilla de la gráfica e indican una carga fuera de los límites de {term-weight} y balance.
+La figura de ejemplo 5-18 indica que el {term-weight} mínimo para el piloto del asiento delantero es 125 libras (el número más bajo en el eje x) hasta un máximo de 250 libras (el número más alto en el eje x). También indica un {term-weight} máximo del piloto del asiento trasero de 225 libras (el número más alto en el eje y). Si cada piloto pesa 150 libras, la intersección de los pesos de los pilotos cae dentro de la envolvente. Por lo tanto, la carga del {term-glider} cae dentro de la envolvente para vuelo seguro. Si cada piloto pesa 225 libras, las líneas se intersectan en la porción amarilla de la gráfica e indican una carga fuera de los límites de {term-weight} y centrado.
 
 [[fig-05-18]]
-.Ejemplo de envolvente de peso y balance.
+.Ejemplo de envolvente de peso y centrado.
 image::05/fig-05-18.sample-peso-and-balance-envelope.png[width=600]
 
 El {term-weight} a lo largo del eje longitudinal del {term-glider} afecta la ubicación del CG. Los pilotos calculan el CG usando el brazo o distancia de pesos conocidos desde un punto específico (datum) en el eje longitudinal. El GFM/POH proporciona el brazo desde el datum para el {term-glider} vacío, cada asiento ocupante, y para cualquier almacenamiento de carga.
@@ -279,10 +279,10 @@ Para determinar el {term-weight} cargado y el CG, siga estos pasos:
 3. Sume el {term-weight} y los momentos.
 4. Para determinar el CG, divida los momentos totales por el {term-weight} total. <<fig-05-19>>
 
-Nota: Los registros de {term-weight} y balance para un {term-glider} particular proporcionan el {term-weight} vacío y el momento, así como la información sobre la distancia del brazo. <<fig-05-19>>
+Nota: Los registros de {term-weight} y centrado para un {term-glider} particular proporcionan el {term-weight} vacío y el momento, así como la información sobre la distancia del brazo. <<fig-05-19>>
 
 [[fig-05-19]]
-.Ejemplo de peso y balance: pesos y momentos del piloto del asiento delantero y trasero.
+.Ejemplo de peso y centrado: pesos y momentos del piloto del asiento delantero y trasero.
 image::05/fig-05-19.sample-peso-and-balance-frente-and-posterior.png[width=600]
 
 En la Figura 5-19 arriba, el {term-weight} de cada piloto aparece en el bloque apropiado en la tabla. Para el piloto del asiento delantero, multiplicar 180 libras por 43,8 pulgadas produce un momento de 7 884 pulgadas-libras. Para el piloto del asiento trasero, multiplicar 190 libras por 74,7 pulgadas produce un momento de 14 193 pulgadas-libras. El siguiente paso es encontrar la suma de todos los pesos (980 libras) incluyendo el {term-weight} vacío del {term-glider}. Luego, encuentre la suma de todos los momentos (+84 762 pulgadas-libras). Para determinar la posición del CG del {term-glider} cargado, divida el momento total por el {term-weight} total en pulgadas desde el datum: 84 762 pulgadas-libras ÷ 1039 libras = 81,58 detrás del datum.
@@ -333,7 +333,7 @@ Un {term-glider} cargando grandes cantidades de {term-water-ballast} tiene carac
 
 • Aumenta la velocidad de {term-stall}.
 
-• Reduce el control de alerones durante la carrera de {term-takeoff}, aumentando la posibilidad de caída de {term-wing} descontrolada y resultante caballito.
+• Reduce el control de alerones durante la carrera de {term-takeoff}, aumentando la posibilidad de caída de {term-wing} descontrolada y resultante {term-ground-loop}.
 
 • Reduce la velocidad de ascenso durante la salida.
 
@@ -353,4 +353,4 @@ Mientras que las ventajas de rendimiento del lastre ocurren durante condiciones 
 
 == Resumen del capítulo
 
-Los factores que afectan todos los vuelos de {term-glider} incluyen temperatura, presión atmosférica, humedad, viento, y {term-weight} operativo. Los pilotos deben considerar el diseño del {term-glider} y sus características operativas y conocer el rendimiento esperado antes del vuelo. Los pilotos solo deben volar cuando las condiciones de {term-weight} y balance permanezcan dentro de los límites ya que estas condiciones afectan la estabilidad y el control. Los polares del {term-glider} indican las velocidades de rendimiento que los pilotos pueden esperar a diferentes pesos y bajo diferentes condiciones de viento y pueden asistir en maximizar el rendimiento. Los pilotos de {term-glider}es que usan modelos con {term-water-ballast} deben entender cómo verificar la operación adecuada del sistema antes del vuelo y saber cuándo drenar cualquier agua cuando sea necesario o antes del {term-landing}.
+Los factores que afectan todos los vuelos de {term-glider} incluyen temperatura, presión atmosférica, humedad, viento, y {term-weight} operativo. Los pilotos deben considerar el diseño del {term-glider} y sus características operativas y conocer el rendimiento esperado antes del vuelo. Los pilotos solo deben volar cuando las condiciones de {term-weight} y centrado permanezcan dentro de los límites ya que estas condiciones afectan la estabilidad y el control. Los polares del {term-glider} indican las velocidades de rendimiento que los pilotos pueden esperar a diferentes pesos y bajo diferentes condiciones de viento y pueden asistir en maximizar el rendimiento. Los pilotos de {term-glider}es que usan modelos con {term-water-ballast} deben entender cómo verificar la operación adecuada del sistema antes del vuelo y saber cuándo drenar cualquier agua cuando sea necesario o antes del {term-landing}.

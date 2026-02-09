@@ -46,7 +46,7 @@ image::02/fig-02-03.types-of-lift-drag-devices.png[width=600]
 [[fig-02-04]]
 .Posiciones de los flaps.
 image::02/fig-02-04.flap-positions.png[width=300,float=right]
-Algunos {term-glider}es tienen {term-flap}s instalados en el borde de salida de cada {term-wing} hacia adentro de los alerones, que pueden cambiar la {term-lift-force}, la {term-drag} y la tasa de descenso. El piloto generalmente puede ajustar los {term-flap}s en tres posiciones diferentes: en bandera, bajados o negativos. <<fig-02-04>> Cuando el piloto ajusta los {term-flap}s para desviarlos hacia abajo en vuelo, el {term-wing} produce más {term-lift-force} y {term-drag}. Por otro lado, una posición de {term-flap} negativa resulta en {term-lift-force} y {term-drag} reducidos.
+Algunos {term-glider}es tienen {term-flap}s instalados en el borde de salida de cada {term-wing} hacia adentro de los alerones, que pueden cambiar la {term-lift-force}, la {term-drag} y la tasa de descenso. El piloto generalmente puede ajustar los {term-flap}s en tres posiciones diferentes: neutros, bajados o negativos. <<fig-02-04>> Cuando el piloto ajusta los {term-flap}s para desviarlos hacia abajo en vuelo, el {term-wing} produce más {term-lift-force} y {term-drag}. Por otro lado, una posición de {term-flap} negativa resulta en {term-lift-force} y {term-drag} reducidos.
 
 --
 
@@ -94,7 +94,7 @@ Hay dos tipos de {term-glider}es {term-self-launch}s: {term-motorglider}s de tur
 
 ==== {term-motorglider}s de turismo (TMG)
 
-Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice de pleno bandeo. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de avión, están certificados en la categoría de {term-glider}.
+Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice con puesta en bandera. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de avión, están certificados en la categoría de {term-glider}.
 
 [[fig-02-09]]
 .Un planeador de motor TMG Grob G109B.
@@ -114,7 +114,7 @@ Algunos {term-glider}es tienen motores de sostenimiento (también denominados «
 
 [[fig-02-11]]
 .Un Schleicher ASG-29 E con mástil de motor de sostenimiento de gasolina extendido.
-image::02/fig-02-11.a-schleicher-asg-29-e-with-gasoline-sustainer.png[width=600]
+image::02/fig-02-11.a-schleicher-asg-29-e-with-gasoline-sustainer-engine.png[width=600]
 
 == Tren de {term-landing}
 
@@ -134,4 +134,4 @@ Los {term-glider}es tempranos a menudo dependían de la fricción entre el patí
 
 == Resumen del capítulo
 
-Aunque los {term-glider}es vienen en una variedad de formas y tamaños, la mayoría de los {term-glider}es comparten características de diseño básicas. Estas incluyen un {term-fuselage}, {term-wing}s y componentes, dispositivos de {term-lift-force}/{term-drag}, y empenaje. Dependiendo del método de lanzamiento utilizado, un {term-glider} puede tener un gancho de remolque o un motor.
+Aunque los {term-glider}es se presentan en una variedad de formas y tamaños, la mayoría de los {term-glider}es comparten características de diseño básicas. Estas incluyen un {term-fuselage}, {term-wing}s y componentes, dispositivos de {term-lift-force}/{term-drag}, y empenaje. Dependiendo del método de lanzamiento utilizado, un {term-glider} puede tener un gancho de remolque o un motor.

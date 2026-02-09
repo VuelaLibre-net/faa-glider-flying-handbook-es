@@ -115,7 +115,7 @@ La suciedad, polvo, hielo o nieve que se acumulan en la abertura del tubo pitot 
 
 ====== Velocidad aerodinámica verdadera (TAS)
 
-La TAS es la velocidad real a la que la aeronave se mueve a través del aire. En aire en calma, la TAS es igual a la velocidad real sobre el terreno. Sin embargo, el indicador de velocidad aerodinámica solo indica TAS bajo condiciones atmosféricas estándar al nivel del mar (29.92 pulgadas de mercurio ["Hg] y 15°C). A una IAS constante, la TAS aumenta a medida que el {term-glider} asciende porque la densidad del aire disminuye con el aumento de altitud.
+La TAS es la velocidad real a la que la aeronave se mueve a través del aire. En aire en calma, la TAS es igual a la velocidad real sobre el terreno. Sin embargo, el indicador de velocidad aerodinámica solo indica TAS bajo condiciones atmosféricas estándar al nivel del mar (29.92 pulgadas de mercurio [inHg] y 15°C). A una IAS constante, la TAS aumenta a medida que el {term-glider} asciende porque la densidad del aire disminuye con el aumento de altitud.
 
 El indicador de velocidad aerodinámica proporciona un medio conveniente para gestionar la mayoría de los parámetros de vuelo ya que indica la presión dinámica. Si el indicador de velocidad aerodinámica mostrara la TAS, el piloto necesitaría usar una tarjeta de referencia rápida para buscar la velocidad de {term-stall}, la velocidad de mejor relación de planeo (L/D), y la velocidad de mínimo hundimiento para la altitud actual mientras intenta volar. Afortunadamente, el piloto solo necesita recordar un conjunto de números para la mayoría de los parámetros. Por ejemplo, la Figura 4-8 ilustra que para cada {term-glider}, el piloto solo necesita recordar una velocidad de {term-stall} para todas las altitudes.
 
@@ -401,11 +401,11 @@ Como se explica en el siguiente capítulo, el {term-water-ballast} aumenta la ve
 
 La mayoría de los {term-glider}es no están sujetos a regulación para aeronaves propulsadas según lo referenciado en el Título 14 del Código de Regulaciones Federales (14 CFR) parte 91, sección 91.205, y solo necesitan cumplir con regulaciones para «aeronaves civiles». Por esta razón, algunos {term-glider}es no tienen brújula a menos que sea requerido según las Hojas de Datos del Certificado de Tipo (TCDS - Type Certificate Data Sheets) de la aeronave.
 
-== Indicadores de Resbale/Derrape Excesivo
+== Indicadores de Resbale y Derrape
 
 === Lanita
 
-Un trozo de hilo montado en la corriente de aire libre y fácilmente visible para el piloto, proporciona un indicador efectivo de deslizamiento/deslizamiento excesivo. <<fig-04-28>> Durante el {term-coordinated-flight}, la lanita apunta directamente hacia atrás. Durante un giro con deslizamiento, la cola (extremo no sujeto) de la lanita se desplaza hacia el exterior del giro. Durante un giro con deslizamiento excesivo (skid), la cola de la lanita se desplaza hacia el interior del giro. Un piloto que tiene dificultad para sentir y corregir el vuelo no coordinado puede aplicar presión al pedal de timón no alineado con la cola de la lanita.
+Un trozo de hilo montado en la corriente de aire libre y fácilmente visible para el piloto, proporciona una indicación efectiva de resbale/derrape. <<fig-04-28>> Durante el {term-coordinated-flight}, la lanita apunta directamente hacia atrás. Durante un resbale, la cola (extremo no sujeto) de la lanita se desplaza hacia el exterior del giro. Durante un derrape (skid), la cola de la lanita se desplaza hacia el interior del giro. Un piloto que tiene dificultad para sentir y corregir el vuelo no coordinado puede aplicar presión al pedal de timón no alineado con la cola de la lanita.
 
 
 [[fig-04-28]]
@@ -414,7 +414,7 @@ image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=600]
 
 === {term-inclinometer}
 
-Un {term-inclinometer} también proporciona indicación de deslizamiento/deslizamiento excesivo. El {term-inclinometer} responde a la fuerza centrífuga y la gravedad. El {term-inclinometer} consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el {term-glider} vuela de manera coordinada, la bola permanece centrada en la parte inferior del tubo de vidrio. El {term-inclinometer} difiere de la lanita durante el vuelo no coordinado. La bola se mueve hacia el interior del giro para indicar un deslizamiento y hacia el exterior del giro para indicar un deslizamiento excesivo. <<fig-04-28>> La frase, «pisa la bola» explica cómo un piloto debería responder para restaurar el {term-coordinated-flight}. Durante una {term-spin}, el {term-inclinometer} no proporciona información de dirección de rotación, y los pilotos no deben usar el {term-inclinometer} para guía.
+Un {term-inclinometer} también proporciona indicación de resbale/derrape. El {term-inclinometer} responde a la fuerza centrífuga y la gravedad. El {term-inclinometer} consiste en una bola metálica en un tubo de vidrio curvo lleno de aceite. Cuando el {term-glider} vuela de manera coordinada, la bola permanece centrada en la parte inferior del tubo de vidrio. El {term-inclinometer} difiere de la lanita durante el vuelo no coordinado. La bola se mueve hacia el interior del giro para indicar un resbale y hacia el exterior del giro para indicar un derrape. <<fig-04-28>> La frase, «pisa la bola» explica cómo un piloto debería responder para restaurar el {term-coordinated-flight}. Durante una {term-spin}, el {term-inclinometer} no proporciona información de dirección de rotación, y los pilotos no deben usar el {term-inclinometer} para guía.
 
 == Instrumentos Giroscópicos
 
@@ -424,7 +424,7 @@ Los {term-glider}es no propulsados usualmente no tienen instrumentos giroscópic
 
 Un medidor de G montado en el panel registra fuerzas G positivas de ascensos y giros, así como fuerzas G negativas al descender o empujar desde un ascenso. Durante el vuelo recto, no acelerado en aire tranquilo, el medidor de G registra un factor de carga de 1 G (1,0 veces la fuerza de gravedad). Durante el vuelo en aire turbulento, el {term-glider} y el piloto experimentan cargas G mayores o menores que 1 G al encontrar corrientes ascendentes o descendentes.
 
-Cada tipo de {term-glider} puede soportar una carga G máxima positiva especificada y una carga G máxima negativa especificada. Las limitaciones operativas, como se describen en el GFM/POH o en placas, son la fuente definitiva para esta información. Exceder las cargas límite permitidas puede resultar en deformación de la estructura del {term-glider}. En casos extremos, exceder las cargas límite permisibles puede causar falla estructural del {term-glider}. El medidor de G permite al piloto monitorear las cargas G de momento a momento durante el vuelo acrobático y durante el vuelo en aire turbulento. La mayoría de los medidores de G también registran y muestran la carga G máxima positiva y la carga G máxima negativa encontradas durante el vuelo. Las cargas G máximas positivas y negativas registradas pueden reiniciarse ajustando el knob de control del medidor de G. <<fig-04-29>>
+Cada tipo de {term-glider} puede soportar una carga G máxima positiva especificada y una carga G máxima negativa especificada. Las limitaciones operativas, como se describen en el GFM/POH o en placas, son la fuente definitiva para esta información. Exceder las cargas límite permitidas puede resultar en deformación de la estructura del {term-glider}. En casos extremos, exceder las cargas límite permisibles puede causar falla estructural del {term-glider}. El medidor de G permite al piloto monitorear las cargas G de momento a momento durante el vuelo acrobático y durante el vuelo en aire turbulento. La mayoría de los medidores de G también registran y muestran la carga G máxima positiva y la carga G máxima negativa encontradas durante el vuelo. Las cargas G máximas positivas y negativas registradas pueden reiniciarse ajustando la perilla de control del medidor de G. <<fig-04-29>>
 
 
 [[fig-04-29]]
