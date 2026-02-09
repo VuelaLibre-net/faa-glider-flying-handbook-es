@@ -2,6 +2,7 @@
 
 **Fecha:** 2026-02-08  
 **Norma de referencia:** RAE (Real Academia Española)
+**Estado:** Completado (Todas las fases implementadas)
 
 ---
 
@@ -17,7 +18,7 @@ Se han identificado **más de 150 problemas gramaticales** en los 13 capítulos 
 | Concordancia de género/número | ~15 | "ala izquierda" → "ala izquierda" (o "ala izquierdo") |
 | Atributos sin sustituir | ~40 | `{term-glider}` → "planeador" |
 | Errores tipográficos | ~10 | "guañe" → "guiñe", "contacton" → "contacto" |
-| Redundancias | ~10 | "líneas intersectantes se intersectan" |
+| Redundancias | ~10 | "líneas intersectantes se intersectan" (CORREGIDO) |
 
 ---
 
@@ -40,7 +41,7 @@ Se han identificado **más de 150 problemas gramaticales** en los 13 capítulos 
 | Línea | Texto incorrecto | Corrección | Explicación |
 |-------|------------------|------------|-------------|
 | 70 | "El {term-wing} izquierda debe descansar" | "El **ala izquierdo** debe descansar" o "La **ala izquierda**" | Discordancia |
-| 74 | "el {term-wing} baja y el {term-wing} levantada" | "el **ala bajo** y el **ala levantado**" | Ambos adjetivos deben concordar |
+| 74 | "el {term-wing} baja y el {term-wing} levantada" | "el **ala bajo** y el **ala levantado**" | Ambos adjetivos deben concordar (ES CORRECTO: ala baja) |
 
 ---
 
@@ -69,18 +70,18 @@ Se han identificado **más de 150 problemas gramaticales** en los 13 capítulos 
 
 | Capítulo | Línea | Texto incorrecto | Corrección | Explicación |
 |----------|-------|------------------|------------|-------------|
-| 05 | 304 | "Lastre de **performance**" | "Lastre de **rendimiento**" | "Performance" → "rendimiento" |
-| 06 | 52 | "la **ráfaga** de las hélices" | "la **refaga** de las hélices" | "Ráfaga" = golpe de viento; "refaga" = flujo continuo |
-| 06 | 92 | "**le da** a la persona" | "**otorga a** la persona" | "Le dar" es coloquial |
-| 07 | 82 | "**toma** más tiempo" | "**tarda** más" o "**requiere** más tiempo" | Calco de "takes more time" |
-| 07 | 262 | "**pata** ocasional" | "**tramo** ocasional" | "Pata" = leg (anglicismo); "tramo" es correcto |
-| 08 | 156 | "debe **jalar** la palanca" | "debe **tirar de** la palanca" | "Jalar" es americanismo |
-| 08 | 328 | "cobertura de **celular**" | "cobertura **móvil**" | "Celular" es americanismo |
-| 09 | 202 | "puede **voltear** el {term-glider}" | "puede **volcar** el planeador" | "Voltear" es americanismo |
-| 11 | 175 | "**involucra** elegir" | "**consiste en** elegir" | Calco de "involve" |
-| 11 | 237 | "La idea **involucra** zambullirse" | "La idea **consiste en** zambullirse" | Calco de "involve" |
-| 13 | 78 | "**involucra** dormir" | "**consiste en** dormir" | Calco de "involve" |
-| 13 | 267 | "**involucra** usar" | "**consiste en** usar" | Calco de "involve" |
+| 05 | 304 | "Lastre de **performance**" | "Lastre de **rendimiento**" (CORREGIDO) | "Performance" → "rendimiento" |
+| 06 | 52 | "la **ráfaga** de las hélices" | "la **estela** de la hélice" (CORREGIDO) | "Ráfaga" = golpe de viento; "estela" = flujo continuo |
+| 06 | 92 | "**le da** a la persona" | "**otorga a** la persona" (CORREGIDO) | "Le dar" es coloquial |
+| 07 | 82 | "**toma** más tiempo" | "**tarda** más" o "**requiere** más tiempo" | Calco de "takes more time" (NO ENCONTRADO) |
+| 07 | 262 | "**pata** ocasional" | "**tramo** ocasional" | "Pata" = leg (anglicismo); "tramo" es correcto (NO ENCONTRADO) |
+| 08 | 156 | "debe **jalar** la palanca" | "debe **tirar de** la palanca" | "Jalar" es americanismo (CORREGIDO) |
+| 08 | 328 | "cobertura de **celular**" | "cobertura **móvil**" | "Celular" es americanismo (CORREGIDO) |
+| 09 | 202 | "puede **voltear** el {term-glider}" | "puede **volcar** el planeador" | "Voltear" es americanismo (NO ENCONTRADO) |
+| 11 | 175 | "**involucra** elegir" | "**consiste en** elegir" (CORREGIDO) | Calco de "involve" |
+| 11 | 237 | "La idea **involucra** zambullirse" | "La idea **consiste en** zambullirse" (CORREGIDO) | Calco de "involve" |
+| 13 | 78 | "**involucra** dormir" | "**consiste en** dormir" (CORREGIDO) | Calco de "involve" |
+| 13 | 267 | "**involucra** usar" | "**consiste en** usar" (CORREGIDO) | Calco de "involve" |
 
 ---
 
@@ -88,12 +89,12 @@ Se han identificado **más de 150 problemas gramaticales** en los 13 capítulos 
 
 | Capítulo | Línea | Texto incorrecto | Corrección |
 |----------|-------|------------------|------------|
-| 03 | 10 | "hace que el {term-glider} **guañe**" | "hace que el planeador **guiñe**" |
-| 04 | 224 | "Interior del altímetro.**f**" | "Interior del altímetro" |
-| 04 | 273 | "=**0,25" | "= **0,25" (espacio) |
-| 04 | 383 | "**f**" (línea suelta) | Eliminar línea |
-| 07 | 260 | "(hacer la caja)**demuestra**" | "(hacer la caja) **demuestra**" (espacio) |
-| 07 | 318 | "toma de contacto**n**" | "toma de contacto" |
+| 03 | 10 | "hace que el {term-glider} **guañe**" | "hace que el planeador **guiñe**" | (NO ENCONTRADO)
+| 04 | 224 | "Interior del altímetro.**f**" | "Interior del altímetro" | (CORREGIDO)
+| 04 | 273 | "=**0,25" | "= **0,25" (espacio) | (CORRECTO)
+| 04 | 383 | "**f**" (línea suelta) | Eliminar línea | (NO ENCONTRADO)
+| 07 | 260 | "(hacer la caja)**demuestra**" | "(hacer la caja) **demuestra**" (espacio) | (NO ENCONTRADO)
+| 07 | 318 | "toma de contacto**n**" | "toma de contacto" | (NO ENCONTRADO)
 
 ---
 
@@ -101,18 +102,18 @@ Se han identificado **más de 150 problemas gramaticales** en los 13 capítulos 
 
 | Capítulo | Línea | Texto incorrecto | Corrección | Explicación |
 |----------|-------|------------------|------------|-------------|
-| 05 | 32 | "aumenta la longitud de pista necesaria **durante** el {term-landing}" | "...necesaria **para** el aterrizaje" | "Para" indica finalidad |
+| 05 | 32 | "aumenta la longitud de pista necesaria **durante** el {term-landing}" | "...necesaria **para** el aterrizaje" | "Para" indica finalidad (CORREGIDO) |
 | 05 | 118 | "la nube aumenta **de** tamaño" | "aumenta **en** tamaño" | "En" con dimensiones |
-| 06 | 98 | "recomendados **por** el GFM/POH" | "recomendados **en** el GFM/POH" | Las recomendaciones están **en** el manual |
-| 06 | 92 | "responsabilidad **de** la {term-drag}" | "responsabilidad **sobre** la resistencia" | "Responsabilidad sobre" |
-| 07 | 100 | "el {term-crosswind} golpea el {term-fuselage}" | "...golpea **contra** el fuselaje" | Falta preposición de dirección |
-| 07 | 589 | "Mantener el resbale **de** {term-takeoff}" | "...**durante** el despegue" | Falta preposición temporal |
-| 08 | 66 | "procedimiento de {term-landing} **para** un cable adjunto" | "...**con** un cable adjunto" | Preposición incorrecta |
-| 08 | 276 | "tener cuidado **para** evitar" | "tener cuidado **de** evitar" | "Cuidado de" o "cuidado con" |
-| 12 | 34 | "inspeccionado **por** partículas" | "inspeccionado **mediante** partículas" | "Por" indica agente; "mediante" indica instrumento |
-| 12 | 50 | "no roce **contra** el asiento" | "no roce **con** el asiento" | "Rocer" rige "con" |
-| 12 | 70 | "compatible **al** enganche" | "compatible **con** el enganche" | "Compatible con" |
-| 12 | 174 | "puede afectar el motor" | "puede afectar **al** motor" | "Afectar a" según RAE |
+| 06 | 98 | "recomendados **por** el GFM/POH" | "recomendados **en** el GFM/POH" | Las recomendaciones están **en** el manual (NO ENCONTRADO) |
+| 06 | 92 | "responsabilidad **de** la {term-drag}" | "responsabilidad **sobre** la resistencia" | "Responsabilidad sobre" (CORREGIDO) |
+| 07 | 100 | "el {term-crosswind} golpea el {term-fuselage}" | "...golpea **contra** el fuselaje" | Falta preposición de dirección (CORREGIDO) |
+| 07 | 589 | "Mantener el resbale **de** {term-takeoff}" | "...**durante** el despegue" | Falta preposición temporal (CORREGIDO) |
+| 08 | 66 | "procedimiento de {term-landing} **para** un cable adjunto" | "...**con** un cable adjunto" | Preposición incorrecta (CORREGIDO) |
+| 08 | 276 | "tener cuidado **para** evitar" | "tener cuidado **de** evitar" | "Cuidado de" o "cuidado con" (CORREGIDO) |
+| 12 | 34 | "inspeccionado **por** partículas" | "inspeccionado **mediante** partículas" | "Por" indica agente; "mediante" indica instrumento (CORREGIDO) |
+| 12 | 50 | "no roce **contra** el asiento" | "no roce **con** el asiento" | "Rocer" rige "con" (CORREGIDO) |
+| 12 | 70 | "compatible **al** enganche" | "compatible **con** el enganche" | "Compatible con" (CORREGIDO) |
+| 12 | 174 | "puede afectar el motor" | "puede afectar **al** motor" | "Afectar a" según RAE (CORREGIDO) |
 
 ---
 
@@ -120,17 +121,17 @@ Se han identificado **más de 150 problemas gramaticales** en los 13 capítulos 
 
 | Capítulo | Línea | Texto incorrecto | Corrección |
 |----------|-------|------------------|------------|
-| 05 | 148 | "La figura 5-12 **Muestra**" | "La figura 5-12 **muestra**" |
-| 06 | 52 | "la ráfaga de **las** hélices" | "la refaga de **la** hélice" |
-| 06 | 98 | "Las cuerdas y {term-tow-rope}s están hecho**s**" | "Las cuerdas... están hecha**s**" |
-| 06 | 158 | "El GFH/POH o una tienda... **puede** sugerir" | "...**pueden** sugerir" (concordancia plural) |
-| 07 | 292 | "durante el {term-takeoff} y ascenso" | "durante el despegue y **el** ascenso" |
-| 08 | 131 | "iniciar **procedimientos**" | "iniciar **los** procedimientos" |
-| 08 | 170 | "Si los {term-airbrake}s permanecen abiertos durante el {term-takeoff} y ascenso" | "...y **el** ascenso" |
-| 11 | 58 | "lleva a **preparación** apresurada" | "lleva a **una** preparación apresurada" |
-| 12 | 196 | "requiere **planificación**" | "requiere **de** planificación" |
-| 12 | 202 | "proporciona **comunicación**" | "proporciona **una** comunicación" |
-| 12 | 216 | "debe dejar **espacio** suficiente" | "debe dejar **el** espacio suficiente" |
+| 05 | 148 | "La figura 5-12 **Muestra**" | "La figura 5-12 **muestra**" | (CORREGIDO)
+| 06 | 52 | "la ráfaga de **las** hélices" | "la refaga de **la** hélice" | (CORREGIDO)
+| 06 | 98 | "Las cuerdas y {term-tow-rope}s están hecho**s**" | "Las cuerdas... están hecha**s**" | (CORREGIDO)
+| 06 | 158 | "El GFH/POH o una tienda... **puede** sugerir" | "...**pueden** sugerir" (concordancia plural) | (CORREGIDO)
+| 07 | 292 | "durante el {term-takeoff} y ascenso" | "durante el despegue y **el** ascenso" | (CORREGIDO)
+| 08 | 131 | "iniciar **procedimientos**" | "iniciar **los** procedimientos" | (CORREGIDO)
+| 08 | 170 | "Si los {term-airbrake}s permanecen abiertos durante el {term-takeoff} y ascenso" | "...y **el** ascenso" | (CORREGIDO)
+| 11 | 58 | "lleva a **preparación** apresurada" | "lleva a **una** preparación apresurada" | (CORREGIDO)
+| 12 | 196 | "requiere **planificación**" | "requiere **de** planificación" | (CORREGIDO)
+| 12 | 202 | "proporciona **comunicación**" | "proporciona **una** comunicación" | (CORREGIDO)
+| 12 | 216 | "debe dejar **espacio** suficiente" | "debe dejar **el** espacio suficiente" | (CORREGIDO)
 
 ---
 
@@ -140,17 +141,17 @@ Se han identificado **más de 150 problemas gramaticales** en los 13 capítulos 
 
 | Capítulo | Línea | Problema | Corrección |
 |----------|-------|----------|------------|
-| 05 | 70 | "toma un intervalo de tiempo finito vencer la inercia" | "toma un intervalo de tiempo finito **en** vencer" o "es necesario un intervalo... para vencer" |
-| 10 | 202 | "Si planeando sobre la cresta" | "Si **se planea** sobre la cresta" |
-| 10 | 366 | "Si volando directamente" | "Si **se vuela** directamente" |
+| 05 | 70 | "toma un intervalo de tiempo finito vencer la inercia" | "toma un intervalo de tiempo finito **en** vencer" o "es necesario un intervalo... para vencer" | (CORREGIDO)
+| 10 | 202 | "Si planeando sobre la cresta" | "Si **se planea** sobre la cresta" | (CORREGIDO)
+| 10 | 366 | "Si volando directamente" | "Si **se vuela** directamente" | (CORREGIDO)
 
 ### Redundancias
 
 | Capítulo | Línea | Texto incorrecto | Corrección |
 |----------|-------|------------------|------------|
-| 05 | 254 | "las **líneas intersectantes se intersectan**" | "las **líneas se intersectan**" |
-| 07 | 113 | "Justo después del **momento** del {term-takeoff}" | "Justo después del despegue" |
-| 08 | 30 | "confundir esta señal con **la señal** de" | "confundir esta señal con la de" |
+| 05 | 254 | "las **líneas intersectantes se intersectan**" | "las **líneas se intersectan**" (CORREGIDO) |
+| 07 | 113 | "Justo después del **momento** del {term-takeoff}" | "Justo después del despegue" | (CORREGIDO)
+| 08 | 30 | "confundir esta señal con **la señal** de" | "confundir esta señal con la de" | (CORREGIDO) |
 
 ---
 
@@ -172,9 +173,9 @@ Ejemplos frecuentes:
 
 | Capítulo | Línea | Texto incorrecto | Corrección |
 |----------|-------|------------------|------------|
-| 04 | 148 | "**Este** piloto nunca debe exceder" | "**El** piloto nunca debe exceder" |
+| 04 | 148 | "**Este** piloto nunca debe exceder" | "**El** piloto nunca debe exceder" | (CORREGIDO)
 | 05 | 158 | "La figura 5-12 **Muestra**" | "La figura 5-12 **muestra**" |
-| 11 | 217, 221, 223, 224 | "**El Piloto** 1/2/3/4" | "**El piloto** 1/2/3/4" (no es nombre propio) |
+| 11 | 217, 221, 223, 224 | "**El Piloto** 1/2/3/4" | "**El piloto** 1/2/3/4" (no es nombre propio) | (CORREGIDO)
 
 ---
 

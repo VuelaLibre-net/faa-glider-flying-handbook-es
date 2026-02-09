@@ -5,7 +5,7 @@
 
 == Introducción
 
-El estudio de los factores humanos involucra diferentes disciplinas. <<fig-13-01>> Al referirse a factores humanos, los ingenieros a veces se refieren a las 3Ds: diseño, desarrollo y despliegue de sistemas que mejoran la interfaz sistema/humano. El estudio de los factores humanos también involucra entender y prevenir errores humanos que los ingenieros no pueden prevenir usando las 3Ds. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, temas fisiológicos relacionados con la seguridad de la vela, manejo del piloto de un {term-glider} y sus sistemas, y toma de decisiones del piloto como un proceso que puede mitigar el riesgo de vuelo de {term-glider} y prevenir muchos tipos comunes de accidentes. Para más información sobre factores humanos y riesgo, ver el Manual de Gestión de Riesgo (FAA-H-8083-2) o el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25).
+El estudio de los factores humanos abarca diferentes disciplinas. <<fig-13-01>> Al referirse a factores humanos, los ingenieros a veces se refieren a las 3Ds: diseño, desarrollo y despliegue de sistemas que mejoran la interfaz sistema/humano. El estudio de los factores humanos también incluye entender y prevenir errores humanos que los ingenieros no pueden prevenir usando las 3Ds. Este capítulo se enfoca en el elemento humano—actitudes del piloto, error del piloto, temas fisiológicos relacionados con la seguridad de la vela, manejo del piloto de un {term-glider} y sus sistemas, y toma de decisiones del piloto como un proceso que puede mitigar el riesgo de vuelo de {term-glider} y prevenir muchos tipos comunes de accidentes. Para más información sobre factores humanos y riesgo, ver el Manual de Gestión de Riesgo (FAA-H-8083-2) o el Manual de Conocimientos Aeronáuticos del Piloto (FAA-H-8083-25).
 
 
 [[fig-13-01]]
@@ -50,7 +50,7 @@ Todos los pilotos cometen errores, y muchos pilotos pueden tener vacíos en el c
 
 === Tipos de errores
 
-Un tipo de error involuntario involucra el fallo para realizar una acción prevista dentro de tolerancias aceptables. Por otro lado, una opinión incorrecta, mal juicio, razonamiento deficiente, actitud descuidada o conocimiento insuficiente pueden causar un error más grave. Por ejemplo, un piloto con buenas habilidades de palanca y pedales pero nuevo en vela de cresta podría volar hacia fuerte descendencia en el lado de sotavento de una cresta y escapar por poco de golpear el terreno. La falta de conocimiento y el mal juicio del piloto podrían llevar a este tipo de error.
+Un tipo de error involuntario consiste en el fallo para realizar una acción prevista dentro de tolerancias aceptables. Por otro lado, una opinión incorrecta, mal juicio, razonamiento deficiente, actitud descuidada o conocimiento insuficiente pueden causar un error más grave. Por ejemplo, un piloto con buenas habilidades de palanca y pedales pero nuevo en vela de cresta podría volar hacia fuerte descendencia en el lado de sotavento de una cresta y escapar por poco de golpear el terreno. La falta de conocimiento y el mal juicio del piloto podrían llevar a este tipo de error.
 
 ==== Intencional
 
@@ -60,7 +60,7 @@ Si un piloto sabiamente hace algo mal, ese piloto se desvió intencionalmente de
 
 === Fatiga
 
-La fatiga involucra una reducción o deterioro en cualquiera de los siguientes: capacidad cognitiva, toma de decisiones, tiempo de reacción, coordinación, velocidad, fuerza y balance. La fatiga reduce el estado de alerta y a menudo reduce la capacidad de una persona para enfocar y mantener la atención en una tarea. <<fig-13-02>> Existe fatiga emocional y puede afectar el rendimiento mental y físico. La falta de sueño, el estrés y el exceso de trabajo pueden causar o agravar la fatiga.
+La fatiga implica una reducción o deterioro en cualquiera de los siguientes: capacidad cognitiva, toma de decisiones, tiempo de reacción, coordinación, velocidad, fuerza y balance. La fatiga reduce el estado de alerta y a menudo reduce la capacidad de una persona para enfocar y mantener la atención en una tarea. <<fig-13-02>> Existe fatiga emocional y puede afectar el rendimiento mental y físico. La falta de sueño, el estrés y el exceso de trabajo pueden causar o agravar la fatiga.
 
 ==== Indicadores de fatiga
 
@@ -79,7 +79,7 @@ El estado mental y físico de una persona naturalmente cicla a través de varios
 .Muchos factores de rendimiento humano suben y caen diariamente.
 image::13/fig-13-03.many-human-performance-factors-rise-and-fall-daily.png[width=600]
 
-El mejor remedio para la fatiga involucra dormir lo suficiente regularmente. Los pilotos deben rastrear sus horas y calidad de sueño para conciencia de fatiga. Las contramedidas a la fatiga como la cafeína, pueden funcionar por una corta duración, pero muchas contramedidas pueden empeorar la fatiga a largo plazo. Los pilotos deben ejercer precaución si usan medicación para combatir la fatiga ya que una persona fatigada puede tener dificultades para descansar después de usar medicación. Un piloto experimentando problemas continuos de fatiga o fatiga crónica, debe dejar de volar un {term-glider}, consultar a un médico, y resolver el problema antes de volar de nuevo.
+El mejor remedio para la fatiga consiste en dormir lo suficiente regularmente. Los pilotos deben rastrear sus horas y calidad de sueño para conciencia de fatiga. Las contramedidas a la fatiga como la cafeína, pueden funcionar por una corta duración, pero muchas contramedidas pueden empeorar la fatiga a largo plazo. Los pilotos deben ejercer precaución si usan medicación para combatir la fatiga ya que una persona fatigada puede tener dificultades para descansar después de usar medicación. Un piloto experimentando problemas continuos de fatiga o fatiga crónica, debe dejar de volar un {term-glider}, consultar a un médico, y resolver el problema antes de volar de nuevo.
 
 === Hiperventilación
 
@@ -87,7 +87,7 @@ La hiperventilación resulta cuando una persona respira a una tasa aumentada o r
 
 La hiperventilación puede ocurrir como resultado de estrés emocional, miedo o dolor. Los pilotos de {term-glider} que encuentran turbulencia extrema o inesperada o áreas fuertes de descendencia sobre terreno accidentado o agua pueden aumentar inconscientemente su tasa respiratoria o volumen de respiración. Cuando se vuela a altitudes más altas, ya sea con o sin oxígeno, puede ocurrir una tendencia a respirar más rápido de lo normal.
 
-La Figura 13-4 lista los síntomas comunes de hiperventilación. El tratamiento para la hiperventilación involucra restaurar el nivel apropiado de dióxido de carbono. Disminuir conscientemente la tasa respiratoria o hablar en voz alta puede revertir los efectos de la hiperventilación. La recuperación usualmente ocurre rápidamente una vez que la tasa respiratoria vuelve a la normalidad. En casos raros, la hiperventilación puede causar inconsciencia.
+La Figura 13-4 lista los síntomas comunes de hiperventilación. El tratamiento para la hiperventilación consiste en restaurar el nivel apropiado de dióxido de carbono. Disminuir conscientemente la tasa respiratoria o hablar en voz alta puede revertir los efectos de la hiperventilación. La recuperación usualmente ocurre rápidamente una vez que la tasa respiratoria vuelve a la normalidad. En casos raros, la hiperventilación puede causar inconsciencia.
 
 
 [[fig-13-04]]
@@ -136,7 +136,7 @@ A medida que empeora la hipoxia, el campo de visión del piloto comienza a estre
 
 ==== Tratamiento de la hipoxia
 
-El tratamiento para la hipoxia involucra aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que aumenta la altitud por encima de 10 000 pies, los síntomas de la hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
+El tratamiento para la hipoxia consiste en aumentar la cantidad de oxígeno disponible. Los pilotos comúnmente descienden a altitudes más bajas o usan oxígeno suplementario para contrarrestar los efectos de la hipoxia. El tiempo de conciencia útil da el tiempo máximo disponible para que el piloto tome decisiones racionales que salven vidas y las lleve a cabo a una altitud específica sin oxígeno suplementario. A medida que aumenta la altitud por encima de 10 000 pies, los síntomas de la hipoxia aumentan, y el tiempo de conciencia útil disminuye significativamente. <<fig-13-05>>
 
 
 [[fig-13-05]]
@@ -208,7 +208,7 @@ Los pilotos pueden usar un paracaídas para emergencias. Un empacador de paraca�
 
 Los vuelos de vela de gran altitud requieren el uso de oxígeno suplementario. En algunas partes del país, la vela ocurre rutinariamente hasta una base de nubes de 16 000 a 18 000 pies en {term-thermal}s. El vuelo usando ondas montañosas puede llevar a vuelo a altitudes de más de 30 000 pies en Estados Unidos.
 
-La respiración suministra oxígeno a la sangre y remueve dióxido de carbono. En cada respiración a 18 000 pies, el piloto respira solo la mitad de oxígeno que a nivel del mar. La reacción automática del piloto sin un suministro adecuado de oxígeno involucraría respirar dos veces más rápido. Esta hiperventilación, o respiración excesiva, resultaría en eliminar demasiado dióxido de carbono de la sangre.
+La respiración suministra oxígeno a la sangre y remueve dióxido de carbono. En cada respiración a 18 000 pies, el piloto respira solo la mitad de oxígeno que a nivel del mar. La reacción automática del piloto sin un suministro adecuado de oxígeno implicaría respirar dos veces más rápido. Esta hiperventilación, o respiración excesiva, resultaría en eliminar demasiado dióxido de carbono de la sangre.
 
 El 14 CFR, parte 91, sección 91.211, dicta los requisitos de tiempo y altitud para el uso de oxígeno suplementario. Antes del uso de oxígeno suplementario, el sistema debe revisarse por disponibilidad de oxígeno y flujo. El piloto puede usar la lista de verificación PRICE:
 
@@ -258,7 +258,7 @@ La gestión de riesgo para pilotos incluye la identificación de peligros que pl
 
 Los peligros incluyen cualquier condición que previsiblemente pueda causar o contribuir a un accidente de aeronave. Los peligros típicos incluyen la condición del piloto o falta de pericia, fallas o deficiencias de la aeronave o equipo, y condiciones ambientales que incluyen clima, montañas, obstáculos, otras aeronaves, cables y vuelo de gran altidad. Cualquier presión externa para hacer un vuelo particular puede crear un peligro adicional. Estos artículos forman parte de la lista de verificación PAVE (Piloto, Aeronave, amViente, presión Externa) que los pilotos pueden usar para considerar y manejar riesgos comunes de vuelo.
 
-El compuesto de severidad predicha y probabilidad del efecto potencial de un peligro constituye el riesgo. El nivel de riesgo asociado con un peligro depende de la probabilidad de un accidente y la severidad del daño o lesión que podría ocurrir. La mitigación de riesgo involucra un análisis e implementación de cambios que el piloto puede hacer para bajar el nivel de riesgo. Por ejemplo, un piloto de {term-glider} reconoce el riesgo asociado con una rotura de {term-tow-rope}. El piloto baja el nivel de este riesgo entrenando para esta posibilidad. Antes de cada remolque, el piloto también debe considerar un plan de acción en caso de rotura de cable. Si esa consideración no mitiga adecuadamente ese riesgo para el conjunto dado de condiciones en un día particular, el piloto podría decidir esperar a que cambien los vientos, pedir una dirección diferente de remolque, o posponer o cancelar la operación.
+El compuesto de severidad predicha y probabilidad del efecto potencial de un peligro constituye el riesgo. El nivel de riesgo asociado con un peligro depende de la probabilidad de un accidente y la severidad del daño o lesión que podría ocurrir. La mitigación de riesgo requiere un análisis e implementación de cambios que el piloto puede hacer para bajar el nivel de riesgo. Por ejemplo, un piloto de {term-glider} reconoce el riesgo asociado con una rotura de {term-tow-rope}. El piloto baja el nivel de este riesgo entrenando para esta posibilidad. Antes de cada remolque, el piloto también debe considerar un plan de acción en caso de rotura de cable. Si esa consideración no mitiga adecuadamente ese riesgo para el conjunto dado de condiciones en un día particular, el piloto podría decidir esperar a que cambien los vientos, pedir una dirección diferente de remolque, o posponer o cancelar la operación.
 
 === Sistema de Gestión de Seguridad (SMS)
 
@@ -266,15 +266,15 @@ Este Manual se enfoca en el individuo y no en los sistemas de gestión de seguri
 
 === Toma de decisiones aeronáuticas (ADM)
 
-Un piloto toma numerosas decisiones aeronáuticas involucrando gestión de riesgo antes de que comience un vuelo. Un medio estructurado involucra usar una Herramienta de Evaluación de Riesgo de Vuelo o FRAT. Los pilotos pueden consultar el Manual de Gestión de Riesgo de la FAA (FAA-H-8083-2) para una muestra de FRAT y pueden usar una para mejorar la seguridad del vuelo.
+Un piloto toma numerosas decisiones aeronáuticas relacionadas con gestión de riesgo antes de que comience un vuelo. Un medio estructurado involucra usar una Herramienta de Evaluación de Riesgo de Vuelo o FRAT. Los pilotos pueden consultar el Manual de Gestión de Riesgo de la FAA (FAA-H-8083-2) para una muestra de FRAT y pueden usar una para mejorar la seguridad del vuelo.
 
 Las regulaciones de la FAA establecen requisitos mínimos de seguridad específicos para algunas condiciones, pero eso no significa que cada piloto tenga la capacidad de volar en esas condiciones. Como se mencionó previamente, los pilotos pueden establecer sus propias reglas más estrictas para las condiciones personales, de equipo y ambientales que podrían llevarlos a decidir no volar en un día dado. El Manual de Gestión de Riesgo de la FAA (FAA-H-8083-2) tiene un capítulo explicando la racionalidad de mínimos personales en más detalle y cómo establecer y mantener estos mínimos.
 
-La toma de decisiones aeronáuticas (ADM) en vuelo usualmente involucra un proceso mental sistemático que los pilotos usan para determinar un curso de acción en respuesta a un conjunto dado de circunstancias. Los pilotos deben percibir cualquier peligro que amenace la seguridad del vuelo, determinar un curso de acción que llevará a un resultado exitoso, y luego realizar los pasos esperados para llevar a ese resultado exitoso. El proceso de percepción de peligro, procesamiento de situación y rendimiento debe repetirse a medida que progresa el vuelo. A la conclusión de un vuelo el piloto puede auto-evaluar la calidad de la toma de decisiones.
+La toma de decisiones aeronáuticas (ADM) en vuelo usualmente implica un proceso mental sistemático que los pilotos usan para determinar un curso de acción en respuesta a un conjunto dado de circunstancias. Los pilotos deben percibir cualquier peligro que amenace la seguridad del vuelo, determinar un curso de acción que llevará a un resultado exitoso, y luego realizar los pasos esperados para llevar a ese resultado exitoso. El proceso de percepción de peligro, procesamiento de situación y rendimiento debe repetirse a medida que progresa el vuelo. A la conclusión de un vuelo el piloto puede auto-evaluar la calidad de la toma de decisiones.
 
 A pesar del avance en métodos de entrenamiento, equipos y sistemas de aeronaves, y servicios para pilotos, todavía ocurren incidentes y accidentes. A pesar de todos los cambios en tecnología para mejorar la seguridad del vuelo, el factor humano juega un papel en un alto porcentaje de todos los accidentes de aviación.
 
-Los accidentes relacionados con factores humanos usualmente no involucran una sola decisión sino que resultan de una cadena de decisiones y factores que podrían llevar a un accidente. Una cadena de error describe la secuencia de varios eventos en un accidente relacionado con factores humanos. Romper un eslabón en la cadena normalmente cambiaría el resultado de la secuencia de eventos.
+Los accidentes relacionados con factores humanos usualmente no se deben a una sola decisión sino que resultan de una cadena de decisiones y factores que podrían llevar a un accidente. Una cadena de error describe la secuencia de varios eventos en un accidente relacionado con factores humanos. Romper un eslabón en la cadena normalmente cambiaría el resultado de la secuencia de eventos.
 
 Esta lista presenta diferentes peligros y respuestas de pilotos. ¿Estos pilotos consideraron cuidadosamente las consecuencias de sus decisiones?
 

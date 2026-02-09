@@ -25,7 +25,7 @@ Muchas gráficas de performance usan entradas de {term-pressure-altitude} y temp
 
 ==== **Presión atmosférica**
 
-La presión atmosférica en una ubicación dada cambia de día a día. El siguiente ejemplo de Reporte Meteorológico de Aeródromo (METAR) indica una presión local de A2953, o ajuste de {term-altimeter} de 29,53 inHg. Al considerar solo la presión barométrica, la lectura de presión más baja de lo normal resulta en una {term-density-altitude} más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de {term-takeoff} y ascenso y aumenta la longitud de pista necesaria durante el {term-landing} tanto para el {term-glider} como para el avión de remolque. Por otro lado, si la presión barométrica aumenta, la {term-density-altitude} más baja mejora el rendimiento de {term-takeoff} y ascenso, y la longitud de pista necesaria para el {term-landing} disminuye.
+La presión atmosférica en una ubicación dada cambia de día a día. El siguiente ejemplo de Reporte Meteorológico de Aeródromo (METAR) indica una presión local de A2953, o ajuste de {term-altimeter} de 29,53 inHg. Al considerar solo la presión barométrica, la lectura de presión más baja de lo normal resulta en una {term-density-altitude} más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de {term-takeoff} y ascenso y aumenta la longitud de pista necesaria para el {term-landing} tanto para el {term-glider} como para el avión de remolque. Por otro lado, si la presión barométrica aumenta, la {term-density-altitude} más baja mejora el rendimiento de {term-takeoff} y ascenso, y la longitud de pista necesaria para el {term-landing} disminuye.
 
 ==== **Temperatura**
 
@@ -67,7 +67,7 @@ image::05/fig-05-05.the-effect-of-viento-on-final-aproximacion-and.png[width=600
 
 Cuando se aproxima para aterrizar durante condiciones de viento y ráfagas, un piloto normalmente agrega la mitad de la diferencia entre el viento constante y las ráfagas a la velocidad de {term-approach} para mitigar cualquier variación en la velocidad del aire. En lugar de mantener el {term-glider} sobre el suelo para un {term-landing} de baja energía cinética durante estas condiciones, el piloto puede aterrizar un poco más rápido de lo normal. Al tocar tierra, extender los frenos de aire previene que el {term-glider} {term-takeoff} nuevamente por una ráfaga durante la {term-rollout}.
 
-El piloto usualmente espera que cualquier viento en cara disminuya durante el descenso hacia el {term-landing}. Esto se llama el gradiente de viento. Si el gradiente de viento es abrupto, el piloto puede experimentar una {term-stall} repentina de velocidad del aire. Después de que el piloto baje la nariz para compensar, toma un intervalo de tiempo finito vencer la inercia del {term-glider} y recuperar la velocidad del aire. Una {term-stall} significativa de velocidad cerca del suelo puede impedir recuperar cualquier parte de la velocidad perdida. Un gradiente de viento en la {term-approach} final puede causar que el {term-glider} aterrice corto del punto de toque de tierra previsto, por lo tanto, puede ser necesaria una {term-approach} más cercana.
+El piloto usualmente espera que cualquier viento en cara disminuya durante el descenso hacia el {term-landing}. Esto se llama el gradiente de viento. Si el gradiente de viento es abrupto, el piloto puede experimentar una {term-stall} repentina de velocidad del aire. Después de que el piloto baje la nariz para compensar, toma un intervalo de tiempo finito en vencer la inercia del {term-glider} y recuperar la velocidad del aire. Una {term-stall} significativa de velocidad cerca del suelo puede impedir recuperar cualquier parte de la velocidad perdida. Un gradiente de viento en la {term-approach} final puede causar que el {term-glider} aterrice corto del punto de toque de tierra previsto, por lo tanto, puede ser necesaria una {term-approach} más cercana.
 
 El piloto que aterriza con viento en cola tiene una {term-groundspeed} más alta y debe esperar una {term-rollout} más larga. A medida que la fricción superficial frena los vientos, el piloto puede observar un aumento en la velocidad del aire.
 
@@ -251,7 +251,7 @@ Un CG por detrás del límite podría ocurrir por estas razones:
 
 Algunos fabricantes de {term-glider}es proporcionan información de {term-weight} y balance en una presentación gráfica. Un gráfico bien diseñado proporciona una forma conveniente de determinar si el {term-glider} está dentro de los límites de {term-weight} y balance.
 
-La figura de ejemplo 5-18 indica que el {term-weight} mínimo para el piloto del asiento delantero es 125 libras (el número más bajo en el eje x) hasta un máximo de 250 libras (el número más alto en el eje x). También indica un {term-weight} máximo del piloto del asiento trasero de 225 libras (el número más alto en el eje y). Si cada piloto pesa 150 libras, la intersección de los pesos de los pilotos cae dentro de la envolvente. Por lo tanto, la carga del {term-glider} cae dentro de la envolvente para vuelo seguro. Si cada piloto pesa 225 libras, las líneas intersectantes se intersectan en la porción amarilla de la gráfica e indican una carga fuera de los límites de {term-weight} y balance.
+La figura de ejemplo 5-18 indica que el {term-weight} mínimo para el piloto del asiento delantero es 125 libras (el número más bajo en el eje x) hasta un máximo de 250 libras (el número más alto en el eje x). También indica un {term-weight} máximo del piloto del asiento trasero de 225 libras (el número más alto en el eje y). Si cada piloto pesa 150 libras, la intersección de los pesos de los pilotos cae dentro de la envolvente. Por lo tanto, la carga del {term-glider} cae dentro de la envolvente para vuelo seguro. Si cada piloto pesa 225 libras, las líneas se intersectan en la porción amarilla de la gráfica e indican una carga fuera de los límites de {term-weight} y balance.
 
 [[fig-05-18]]
 .Ejemplo de envolvente de peso y balance.
@@ -301,7 +301,7 @@ Cuando cualquier limitación aprobada en la sección de limitaciones del POH o M
 
 El lastre de trim también puede incluir agua en un tanque de cola en el {term-fin}. El agua pesa 8,35 libras por galón. Debido a su ubicación tan atrás, el piloto puede usar una pequeña cantidad de agua en el tanque de cola para compensar el momento de cualquier lastre de rendimiento del tanque principal del {term-wing}. Aunque un tanque de cola generalmente contiene menos de dos galones de agua, un error de cálculo que lleve a exceso de agua en la cola podría resultar en vuelo con un CG por detrás del límite.
 
-=== Lastre de performance
+=== Lastre de rendimiento
 
 Agregar {term-weight} mejora el rendimiento a alta velocidad en {term-glider}es. Aumentar el {term-weight} operativo del {term-glider} aumenta la velocidad óptima para volar durante el vuelo de crucero nivelado. La {term-groundspeed} resultante más alta proporciona una ventaja en vuelo a vela de travesía y en carreras de {term-glider}es.
 

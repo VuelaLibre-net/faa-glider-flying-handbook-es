@@ -110,7 +110,7 @@ image::07/fig-07-05.when-setting-up-for-a-viento-cruzado-despegue-the.png[width=
 
 Durante los primeros momentos de la carrera de {term-takeoff}, a medida que el flujo de aire comienza a impactar las superficies de control, se necesita un desplazamiento considerable de los controles de vuelo para afectar la trayectoria de vuelo del {term-glider}. El piloto también experimenta un mayor tiempo de retardo del control debido a la reducida efectividad del control a baja velocidad. A medida que el {term-glider} acelera, la respuesta aerodinámica mejora, el tiempo de retardo disminuye, y las OIP se vuelven menos probables.
 
-Varias técnicas de piloto reducen la probabilidad y severidad de las PIO durante el lanzamiento en {term-aerotow}. Un piloto no debe intentar despegar hasta que el {term-glider} responda suficientemente al control aerodinámico. Justo después del momento del {term-takeoff}, el piloto debe llevar el {term-glider} a dos a cuatro pies sobre la pista para evitar el contacto con el suelo por cualquier excursión menor en la actitud de cabeceo. <<fig-07-06>>
+Varias técnicas de piloto reducen la probabilidad y severidad de las PIO durante el lanzamiento en {term-aerotow}. Un piloto no debe intentar despegar hasta que el {term-glider} responda suficientemente al control aerodinámico. Justo después del {term-takeoff}, el piloto debe llevar el {term-glider} a dos a cuatro pies sobre la pista para evitar el contacto con el suelo por cualquier excursión menor en la actitud de cabeceo. <<fig-07-06>>
 
 [[fig-07-06]]
 .Despegues prematuros y PIOs.
@@ -586,7 +586,7 @@ Los errores comunes en el {term-takeoff} con {term-crosswind} incluyen:
 
 • Falla en establecer y mantener la actitud de ascenso y velocidad del aire adecuadas.
 
-• Mantener el resbale de {term-takeoff} en lugar de pasar a virar después del {term-takeoff}.
+• Mantener el resbale durante el {term-takeoff} en lugar de pasar a virar después del {term-takeoff}.
 
 === Ascenso y procedimientos de parada del motor
 
