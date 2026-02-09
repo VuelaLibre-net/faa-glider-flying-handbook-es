@@ -8,16 +8,35 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ## [Unreleased]
 
 ### Añadido
+- **ANALISIS_GRAMATICAL.md**: Nuevo documento con correcciones gramaticales sistemáticas (preposiciones, artículos, sintaxis, anglicismos).
+- **Scripts de post-procesamiento**:
+  - `capitalize-terms.rb`: Capitalización automática de términos técnicos.
+  - Extensión `figura-por-capitulo.rb`: Contador compartido para figuras y tablas.
+- **Imágenes del Capítulo 4**: 6 figuras traducidas (instrumentos de vuelo).
 
 ### Cambiado
+- **Revisión masiva de capítulos 1-8**: Mejoras en terminología, estilo y gramática.
+  - Capítulos 1-3: Revisión terminológica y correcciones de estilo.
+  - Capítulo 4: Imágenes traducidas + texto revisado.
+  - Capítulos 5-6: Revisiones de terminología y estilo.
+  - Capítulo 7: Correcciones gramaticales fases 3 y 4.
+  - Capítulo 8: Reemplazo sistemático "falla" → "fallo".
+- **Formato según norma RAE**:
+  - Separadores numéricos aplicados (ej: `1 000` en lugar de `1000`).
+  - Capitalización en estilo oración (solo primera palabra en mayúscula en títulos).
+  - Comillas latinas (« ») en todo el documento.
+- **Estilo PDF**: Tablas con esquinas redondeadas, header ajustado a 10mm.
+- **Versión**: Bump a 0.1.4-dev.
 
 ### Corregido
-- **URL de GitHub**: Corregida referencia obsoleta al repositorio en sección "Cómo Contribuir".
-- **Referencias de imágenes**: Corregidas 6 referencias a figuras con nombres de archivo incorrectos:
-  - Capítulo 2: fig-02-11 (sustainer-engine → sustainer)
-  - Capítulo 5: fig-05-14, fig-05-15, fig-05-16 (rendimiento-polar → performance-polar)
-  - Capítulo 7: fig-07-07 (roll-oscillations → balanceo-oscillations)
-  - Capítulo 10: fig-10-17 (roll-the-craft → balanceo-the-craft)
+- **URL de GitHub**: Referencia obsoleta `faa-gfh-castellano` → `faa-glider-flying-handbook-es`.
+- **Referencias de imágenes**: 6 figuras con nombres de archivo incorrectos:
+  - Capítulo 2: fig-02-11
+  - Capítulo 5: fig-05-14, fig-05-15, fig-05-16
+  - Capítulo 7: fig-07-07
+  - Capítulo 10: fig-10-17
+- **Estructura**: Jerarquía de secciones y numeración de figuras (cap. 12).
+- **AGENTS.md**: Reglas de autorización y estilo actualizadas.
 
 ## [0.1.3] - 2026-02-08
 
