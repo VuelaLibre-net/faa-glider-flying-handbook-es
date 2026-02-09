@@ -83,6 +83,7 @@ image::04/fig-04-07.three-types-of-velocidad-aire.png[width=600]
 
 El piloto lee la IAS directamente del anemómetro, sin corrección por error de instalación o error de instrumento. Aunque la densidad del aire afecta la velocidad aerodinámica indicada, un {term-glider} particular en vuelo estable nivelado a un {term-weight} fijo entra en {term-stall} a una presión dinámica específica (velocidad aerodinámica indicada) independientemente de la densidad del aire. <<tab-04-08>>
 
+El piloto lee la IAS directamente del anemómetro, sin corrección por error de instalación o error de instrumento. Aunque la densidad del aire afecta la velocidad aerodinámica indicada, un {term-glider} particular en vuelo estable nivelado a un {term-weight} fijo entra en {term-stall} a una presión dinámica específica (velocidad aerodinámica indicada) independientemente de la densidad del aire. <<tab-04-08>>
 
 // [[fig-04-08]]
 // .Velocidades indicadas de pérdida y velocidades verdaderas a varias altitudes.
