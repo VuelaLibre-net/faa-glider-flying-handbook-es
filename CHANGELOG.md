@@ -16,7 +16,7 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ### Cambiado
 - **Revisión masiva de capítulos 1-8**: Mejoras en terminología, estilo y gramática.
   - Capítulos 1-3: Revisión terminológica y correcciones de estilo.
-  - Capítulo 4: 31 imágenes traducidas + texto revisado. Figuras 04-08 y 04-09 comentadas (reemplazadas por tablas equivalentes).
+  - Capítulo 4: ✅ COMPLETADO - Texto revisado, 31 imágenes traducidas y validadas. Figuras 04-08 y 04-09 comentadas (reemplazadas por tablas equivalentes).
   - Capítulos 5-6: Revisiones de terminología y estilo.
   - Capítulo 7: Correcciones gramaticales fases 3 y 4.
   - Capítulo 8: Reemplazo sistemático "falla" → "fallo".

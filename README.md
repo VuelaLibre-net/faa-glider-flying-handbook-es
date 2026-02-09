@@ -199,7 +199,7 @@ Más detalles en [AGENTS.md](AGENTS.md).
 | 1 | Planeadores y Veleros | ✅ Revisado | 4 | ✅ | ✅ |
 | 2 | Componentes y Sistemas | ✅ Revisado | 12 | ✅ | ✅ |
 | 3 | Aerodinámica del Vuelo | ✅ Revisado | 23 | ✅ | ✅ |
-| 4 | Instrumentos de Vuelo | ✅ Revisado | 31 | ✅ | ✅ |
+| 4 | Instrumentos de Vuelo | ✅ Completado | 31 | ✅ | ✅ |
 | 5 | Performance del Planeador | 📝 Borrador | 21 | ⏳ | ⏳ |
 | 6 | Prevuelo y Operaciones en Tierra | 📝 Borrador | 17 | ⏳ | ⏳ |
 | 7 | Lanzamiento, Aterrizaje y Maniobras | 📝 Borrador | 41 | ⏳ | ⏳ |

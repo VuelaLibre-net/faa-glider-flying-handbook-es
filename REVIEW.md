@@ -175,7 +175,7 @@
 9. **Revisión Capítulo 04:** Corrección de semántica de `{term-stall}` (altura), localización ("morro", "margen") y terminología completada.
 10. **Revisión Capítulo 05:** Corrección de "velocidad del aire", semántica de `{term-stall}` y localización completada.
 11. **Revisión Capítulo 06:** Corrección de "ensamblaje" a "montaje", terminología técnica y estilo completada.
-12. **Imágenes Capítulo 4:** Todas las 31 figuras traducidas al español (las figuras 04-08 y 04-09 están comentadas intencionalmente, reemplazadas por tablas).
+12. **Capítulo 4 completamente finalizado:** Texto revisado, 31 imágenes traducidas y validadas. Figuras 04-08 y 04-09 comentadas intencionalmente (reemplazadas por tablas equivalentes).
 
 ---
 
