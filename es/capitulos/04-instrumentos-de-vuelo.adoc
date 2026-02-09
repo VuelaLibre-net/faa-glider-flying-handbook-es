@@ -83,6 +83,7 @@ image::04/fig-04-07.three-types-of-velocidad-aire.png[width=600]
 
 El piloto lee la IAS directamente del anemómetro, sin corrección por error de instalación o error de instrumento. Aunque la densidad del aire afecta la velocidad aerodinámica indicada, un {term-glider} particular en vuelo estable nivelado a un {term-weight} fijo entra en {term-stall} a una presión dinámica específica (velocidad aerodinámica indicada) independientemente de la densidad del aire. <<tab-04-08>>
 
+El piloto lee la IAS directamente del anemómetro, sin corrección por error de instalación o error de instrumento. Aunque la densidad del aire afecta la velocidad aerodinámica indicada, un {term-glider} particular en vuelo estable nivelado a un {term-weight} fijo entra en {term-stall} a una presión dinámica específica (velocidad aerodinámica indicada) independientemente de la densidad del aire. <<tab-04-08>>
 
 // [[fig-04-08]]
 // .Velocidades indicadas de pérdida y velocidades verdaderas a varias altitudes.
@@ -255,14 +256,14 @@ Un vuelo de travesía desde TSA Gliderport, Midlothian, Texas, hasta Winston Air
 
 Cuando está sobre Stephens County Airport, el piloto recibe un ajuste de {term-altimeter} de área actual de 29,94 y aplica este ajuste al {term-altimeter}. Antes de entrar en el {term-pattern} en Winston Airport, el piloto recibe un nuevo ajuste de {term-altimeter} de 29,69 del Sistema Automatizado de Observación Meteorológica (AWOS - Automated Weather Observing System). Si el piloto desea entrar en el {term-pattern} aproximadamente a 1 000 pies sobre el terreno, y si la elevación del campo de Winston Airport es de 2 430 pies MSL, el piloto debe usar una {term-indicated-altitude} de 3 400 pies.
 
+.Ajuste actual del altímetro = 29,94
+.Sin embargo, el ajuste correcto del altímetro debería ser = 29.69
 .2 430 pies + 1 000 pies = 3 430 pies, redondeado a 3 400 pies
 
 Para ilustrar, suponga que una distracción hizo que el piloto descuidara el ajuste para el ajuste del {term-altimeter} de Winston Airport y continuara usando el ajuste de Stephens County Airport de 29,94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3 400 pies y el {term-altimeter} indicaría aproximadamente 2 680 pies al aterrizar o 250 pies más alto que la elevación del campo.
 
 .Ajuste de {term-altimeter} real = 29,94
-
 .Ajuste de {term-altimeter} correcto = 29,69
-
 .Diferencia = 0,25
 
 Una pulgada de presión es igual a aproximadamente 1 000 pies de altitud.
@@ -319,18 +320,20 @@ Algunos {term-variometer}s eléctricos usan sensores especiales. A medida que el
 
 Muchos {term-variometer}s eléctricos proporcionan tonos audibles, o pitidos, que indican la tasa de ascenso o tasa de descenso del {term-glider}. Los pilotos que usan un {term-variometer} de audio pueden escuchar la tasa de ascenso o descenso, lo que permite más tiempo para enfocar la atención fuera de la aeronave. <<fig-04-23>>
 
-
+[group-flex]
 [[fig-04-23]]
+--
 .Cuando se monta un variómetro eléctrico en el planeador, la instalación de un variómetro no eléctrico puede proporcionar un respaldo.
-image::04/fig-04-23.when-an-electric-variometro-is-mounted-to-the.png[width=600]
+image::04/fig-04-23.when-an-electric-variometro-is-mounted-to-the.png[width=300,float=right]
 
 En el pasado, algunos {term-variometer}s tenían una escala de velocidad en el borde giratorio llamada {term-maccready-ring}. Esta escala indica la velocidad aerodinámica óptima para volar cuando se viaja entre {term-thermal}s para máximo rendimiento de travesía. Durante el planeo entre {term-thermal}s, el piloto ajusta la flecha índice a la tasa de ascenso esperada en la siguiente {term-thermal}. En el anillo de velocidad, la aguja del {term-variometer} apunta a la velocidad óptima para volar entre {term-thermal}s. Si el piloto espera una tasa de ascenso baja, el instrumento selecciona una velocidad óptima más baja entre {term-thermal}s. Cuando el piloto espera una {term-lift} fuerte en la siguiente {term-thermal}, el instrumento sugiere una velocidad de crucero óptima más rápida. <<fig-04-24>> Un {term-maccready-ring} tiene valores para un solo piloto, valores con pasajero, y también puede ajustar para lastre ya que más {term-weight} resulta en velocidades de planeo más altas. Las visualizaciones de instrumentos electrónicos se han vuelto más comunes que los anillos MacCready.
 
 [[fig-04-24]]
 .El anillo MacCready.
-image::04/fig-04-24.the-maccready-anillo.png[width=600]
+image::04/fig-04-24.the-maccready-anillo.png[width=300,float=right]
 
 Los ascensos y descensos inducidos por el piloto resultan en cambios de velocidad aerodinámica y afectan un {term-uncompensated-variometer} al causar cambios en la {term-pressure-altitude}. En aire en calma, cuando el piloto inicia un descenso en picado, el {term-variometer} indica un descenso. Cuando el piloto del {term-glider} recupera del descenso e inicia un ascenso rápido, el {term-variometer} indica un ascenso. Un {term-glider} con un {term-uncompensated-variometer} da una indicación precisa de aire ascendente y descendente solo si el piloto mantiene una velocidad aerodinámica constante.
+--
 
 ==== Sistema de {term-total-energy}
 
@@ -344,11 +347,13 @@ image::04/fig-04-25.a-total-energy-variometro-sistema.png[width=600]
 
 Otro tipo de diseño de sistema de {term-total-energy} usa un {term-trim} de tipo diafragma colocado en línea desde el tubo pitot a la línea que viene de la cámara de referencia (termo o botella de capacidad). La deflexión del diafragma compensa el efecto que el cambio de velocidad aerodinámica tiene en la presión pitot. En efecto, el diafragma modula los cambios de presión en la botella de capacidad y enmascara las {term-thermal}s del stick.
 
+==== Netto {term-variometer}
+
 Un {term-netto} indica el movimiento vertical de la masa de aire, independientemente de la tasa de ascenso o descenso del {term-glider}. Algunos sistemas de {term-netto} emplean un tubo capilar calibrado que funciona como una pequeña válvula. La presión pitot empuja cantidades minúsculas de aire a través de la válvula y hacia la tubería de la cámara de referencia. Esto remueve la tasa de hundimiento conocida del {term-glider} a varias velocidades aerodinámicas de la indicación del {term-variometer}. <<fig-04-26>>
 
 [[fig-04-26]]
 .Un ejemplo de un sistema variómetro Netto.
-image::04/fig-04-26.an-example-of-a-netto-variometro-sistema.png[width=600]
+image::04/fig-04-26.an-example-of-a-netto-variometro-sistema.png[width=400]
 
 Los {term-netto}s computarizados (electrónicos) emplean un método diferente para remover la tasa de hundimiento del {term-glider}. En este tipo de sistema, sensores tanto para presión pitot como presión estática proporcionan información de velocidad aerodinámica a la computadora. La computadora almacena la tasa de hundimiento conocida del {term-glider} a cada velocidad aerodinámica. A cualquier velocidad aerodinámica dada, la computadora remueve la tasa de hundimiento del {term-glider}, y el {term-variometer} muestra la tasa de ascenso o descenso de la masa de aire misma.
 
@@ -356,28 +361,22 @@ Los {term-netto}s computarizados (electrónicos) emplean un método diferente pa
 
 Dado que los {term-glider}es no propulsados carecen de generador o alternador, los componentes eléctricos, como la computadora de vuelo, si están instalados, extraen energía de la batería o baterías recargables del {term-glider}. Algunos {term-glider}es usan células solares dispuestas detrás del piloto, o en la parte superior de la cubierta del panel de instrumentos, para suministrar energía adicional al sistema eléctrico durante el vuelo en condiciones soleadas.
 
-Los componentes principales de la mayoría de los sistemas de computadora de vuelo incluyen un {term-variometer} eléctrico, un receptor GPS acoplado, y un microprocesador. El {term-variometer} mide la tasa de ascenso y descenso. El GPS proporciona información de posición. El microprocesador interpreta la información de altitud, velocidad y posición. La salida del microprocesador ayuda al piloto en la toma de decisiones de travesía sugiriendo una velocidad para volar. La <<fig-04-27,Figura 4-27>> muestra una computadora de vuelo de {term-glider}.
-
+[group-flex]
+--
 [[fig-04-27]]
 .Pantalla de computadora de vuelo de planeador.
-image::04/fig-04-27.planeador-vuelo-computer-pantalla.png[width=600]
+image::04/fig-04-27.planeador-vuelo-computer-pantalla.png[width=300,float=right]
+Los componentes principales de la mayoría de los sistemas de computadora de vuelo incluyen un {term-variometer} eléctrico, un receptor GPS acoplado, y un microprocesador. El {term-variometer} mide la tasa de ascenso y descenso. El GPS proporciona información de posición. El microprocesador interpreta la información de altitud, velocidad y posición. La salida del microprocesador ayuda al piloto en la toma de decisiones de travesía sugiriendo una velocidad para volar. La <<fig-04-27,Figura 4-27>> muestra una computadora de vuelo de {term-glider}.
 
 La computadora de vuelo acoplada a GPS puede proporcionar la siguiente información:
 
 • Posición actual
-
 • Posición anterior
-
 • Velocidad y tiempo al destino
-
 • Distancia al destino planificado
-
 • Altura necesaria para planear al destino
-
 • Tasa de ascenso o descenso actual
-
 • La velocidad aerodinámica óptima para volar a la siguiente {term-thermal}
-
 • La velocidad aerodinámica óptima para volar a una ubicación en el suelo, como la línea de llegada en una carrera o el aeropuerto de {term-landing} previsto al final de un vuelo de travesía
 
 Los beneficios principales de la computadora de vuelo se dividen en dos áreas: asistencia de navegación y mejora de rendimiento (velocidad).
@@ -389,6 +388,7 @@ Durante la porción de ascenso del vuelo, el {term-variometer} de la computadora
 Cuando la computadora de vuelo detecta ascensos rápidos, sugiere velocidades de crucero más altas para mejorar el rendimiento. Cuando la computadora detecta una tasa de ascenso baja, compensa las condiciones más débiles sugiriendo velocidades aerodinámicas más bajas. La computadora de vuelo libera al piloto para buscar otro tráfico aéreo, buscar fuentes de {term-lift}, observar el clima adelante, y trazar una estrategia para la porción restante del vuelo.
 
 Como se explica en el siguiente capítulo, el {term-water-ballast} aumenta la velocidad óptima para volar. La computadora de vuelo compensa por el {term-water-ballast} transportado, ajustando los cálculos de velocidad para volar de acuerdo con el {term-weight} y rendimiento del {term-glider}. Algunas computadoras de vuelo requieren que el piloto ingrese datos sobre la carga de lastre del {term-glider}. Otras computadoras de vuelo compensan automáticamente por el efecto del {term-water-ballast} midiendo constantemente el rendimiento del {term-glider} y deduciendo el {term-weight} operativo del {term-glider} de estas mediciones. Si las {term-wing}s del {term-glider} se contaminan con insectos, el rendimiento del {term-glider} disminuye. La computadora de vuelo puede ajustarse para tener en cuenta la degradación de rendimiento resultante.
+--
 
 == Brújula magnética
 
@@ -403,7 +403,7 @@ Un trozo de hilo montado en la corriente de aire libre y fácilmente visible par
 
 [[fig-04-28]]
 .Indicaciones de condición de giro a la izquierda de un hilo de lana e inclinómetro.
-image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=600]
+image::04/fig-04-28.left-giro-condition-indications-of-a-guinada.png[width=300]
 
 === {term-inclinometer}
 
@@ -417,28 +417,33 @@ Los {term-glider}es no propulsados usualmente no tienen instrumentos giroscópic
 
 Un medidor de G montado en el panel registra fuerzas G positivas de ascensos y giros, así como fuerzas G negativas al descender o bajar el morro desde un ascenso. Durante el vuelo recto, no acelerado en aire tranquilo, el medidor de G registra un factor de carga de 1 G (1,0 veces la fuerza de gravedad). Durante el vuelo en aire turbulento, el {term-glider} y el piloto experimentan cargas G mayores o menores que 1 G al encontrar corrientes ascendentes o descendentes.
 
-Cada tipo de {term-glider} puede soportar una carga G máxima positiva especificada y una carga G máxima negativa especificada. Las limitaciones operativas, como se describen en el GFM/POH o en placas, son la fuente definitiva para esta información. Exceder las cargas límite permitidas puede resultar en deformación de la estructura del {term-glider}. En casos extremos, exceder las cargas límite permisibles puede causar falla estructural del {term-glider}. El medidor de G permite al piloto monitorear las cargas G de momento a momento durante el vuelo acrobático y durante el vuelo en aire turbulento. La mayoría de los medidores de G también registran y muestran la carga G máxima positiva y la carga G máxima negativa encontradas durante el vuelo. Las cargas G máximas positivas y negativas registradas pueden reiniciarse ajustando la perilla de control del medidor de G. <<fig-04-29>>
-
-
+[group-flex]
+--
 [[fig-04-29]]
 .El medidor de G.
-image::04/fig-04-29.the-g-meter.png[width=600]
+image::04/fig-04-29.the-g-meter.png[width=300,float=right]
+Cada tipo de {term-glider} puede soportar una carga G máxima positiva especificada y una carga G máxima negativa especificada. Las limitaciones operativas, como se describen en el GFM/POH o en placas, son la fuente definitiva para esta información. Exceder las cargas límite permitidas puede resultar en deformación de la estructura del {term-glider}. En casos extremos, exceder las cargas límite permisibles puede causar falla estructural del {term-glider}. El medidor de G permite al piloto monitorear las cargas G de momento a momento durante el vuelo acrobático y durante el vuelo en aire turbulento. La mayoría de los medidores de G también registran y muestran la carga G máxima positiva y la carga G máxima negativa encontradas durante el vuelo. Las cargas G máximas positivas y negativas registradas pueden reiniciarse ajustando la perilla de control del medidor de G. <<fig-04-29>>
+--
 
 == Sistema de Evitación de Colisiones FLARM
 
 Una colisión en el aire presenta un riesgo para todos los pilotos, y los pilotos de {term-glider}es tienen escenarios adicionales de colisión en el aire a considerar cuando vuelan en {term-thermal}s, vuelan en calles de nubes, o vuelan a lo largo de laderas. Periódicamente, ocurren colisiones en el aire o casi colisiones en vuelos de club, durante competiciones, y entre {term-glider}es y aviones de remolque después del desenganche.
 
-Los sistemas FLARM (el nombre inspirado en «flight alarm» - alarma de vuelo) pueden advertir a los pilotos de colisiones inminentes con otros {term-glider}es equipados con FLARM y dar la ubicación de {term-glider}es cercanos no amenazantes equipados con FLARM. La <<fig-04-30,Figura 4-30>> muestra el interior de un {term-glider} ASW 19 con una unidad FLARM encima del panel de instrumentos. FLARM transmite y recibe información, modela las características de vuelo únicas de los {term-glider}es, y permanece silencioso a menos que detecte una amenaza real. Sin embargo, solo puede proporcionar información sobre otras aeronaves con un sistema FLARM operativo.
-
+[group-flex]
+--
 [[fig-04-30]]
 .Unidad FLARM en la parte superior del panel de instrumentos.
-image::04/fig-04-30.flarm-unit-on-superior-of-the-instrumento-panel.png[width=600]
+image::04/fig-04-30.flarm-unit-on-superior-of-the-instrumento-panel.png[width=400,float=right]
+
+Los sistemas FLARM (el nombre inspirado en «flight alarm» - alarma de vuelo) pueden advertir a los pilotos de colisiones inminentes con otros {term-glider}es equipados con FLARM y dar la ubicación de {term-glider}es cercanos no amenazantes equipados con FLARM. La <<fig-04-30,Figura 4-30>> muestra el interior de un {term-glider} ASW 19 con una unidad FLARM encima del panel de instrumentos. FLARM transmite y recibe información, modela las características de vuelo únicas de los {term-glider}es, y permanece silencioso a menos que detecte una amenaza real. Sin embargo, solo puede proporcionar información sobre otras aeronaves con un sistema FLARM operativo.
+
 
 FLARM obtiene su posición de un sistema de posicionamiento global (GPS - Global Positioning System) interno y un sensor barométrico y luego transmite estos datos con datos de pronóstico sobre la trayectoria de vuelo 3D futura. Su receptor recibe señales de otros dispositivos FLARM típicamente dentro de 3-5 kilómetros y procesa la información recibida. Los algoritmos de predicción de movimiento predicen conflictos potenciales para hasta otras 50 señales y advierten al piloto usando medios sonoros y visuales. FLARM también puede almacenar información sobre obstáculos aéreos estáticos, como cables, en una base de datos.
 
 ¿Por qué usar FLARM en un {term-glider}? Los Sistemas Convencionales de Evitación de Colisiones Aéreas (ACAS - Airborne Collision Avoidance Systems) proporcionarían advertencias continuas e innecesarias sobre todas las aeronaves en las cercanías. FLARM solo da alertas selectivas a aeronaves que representan un riesgo de colisión. Consume mucha menos energía que un transpondedor o ADS-B y es relativamente económico de comprar e instalar. Aunque existen versiones para uso en aeronaves ligeras y helicópteros, así como {term-glider}es, el corto alcance de la señal hace que FLARM sea inadecuado para evitar colisiones con aeronaves rápidas.
 
 Aunque los {term-glider}es están exentos de llevar transpondedores y transmisores ADS-B out en la mayoría, pero no todo el espacio aéreo, la Soaring Society of America (Sociedad de Planeo de América) alienta fuertemente a los pilotos a instalar este equipo cuando operen cerca de espacio aéreo de alta densidad. Esto aumenta su visibilidad para otros usuarios del Sistema de Espacio Aéreo Nacional (NAS - National Airspace System).
+--
 
 == Código de transpondedor
 
@@ -447,24 +452,20 @@ La Administración Federal de Aviación (FAA - Federal Aviation Administration) 
 === Definiciones
 
 • CÓDIGO SQUAWK: El código de 4 dígitos establecido en el transpondedor, como 1202.
-
-• IDENT o SQUAWK IDENT: Un controlador puede dirigir a un piloto a «ident» o «squawk ident» para verificar la ubicación de la aeronave
-
-en la pantalla de radar. Cuando se le indica, el piloto presiona el botón en el transpondedor marcado IDENT. Esto
-
-causa que el blanco en la pantalla de radar del controlador cambie durante varios segundos. El piloto no debe presionar el botón ident sin dirección de ATC.
-
+• IDENT o SQUAWK IDENT: Un controlador puede dirigir a un piloto a «ident» o «squawk ident» para verificar la ubicación de la aeronave en la pantalla de radar. Cuando se le indica, el piloto presiona el botón en el transpondedor marcado IDENT. Esto causa que el blanco en la pantalla de radar del controlador cambie durante varios segundos. El piloto no debe presionar el botón ident sin dirección de ATC.
 • Los aviones de remolque normalmente transmiten (squawk) 1200 a menos que se les indique lo contrario por ATC.
 
 == Indicador de Temperatura del Aire Exterior (OAT)
 
-El indicador de temperatura del aire exterior (OAT - Outside Air Temperature) se monta con el elemento sensor en contacto con el aire exterior. Los indicadores OAT muestran grados Celsius, grados Fahrenheit, o ambos, y proporcionan al piloto de {term-glider} información sobre temperaturas de congelación que podrían afectar el {term-water-ballast} o los controles de vuelo. <<fig-04-31>>
-
+[group-flex]
+--
 [[fig-04-31]]
 .Indicador de temperatura de aire exterior (OAT).
-image::04/fig-04-31.outside-air-temperatura-oat-gauge.png[width=600]
+image::04/fig-04-31.outside-air-temperatura-oat-gauge.png[width=300,float=right]
+El indicador de temperatura del aire exterior (OAT - Outside Air Temperature) se monta con el elemento sensor en contacto con el aire exterior. Los indicadores OAT muestran grados Celsius, grados Fahrenheit, o ambos, y proporcionan al piloto de {term-glider} información sobre temperaturas de congelación que podrían afectar el {term-water-ballast} o los controles de vuelo. <<fig-04-31>>
 
 Cuando se vuela un {term-glider} cargado con {term-water-ballast}, el conocimiento de la altura del nivel de congelación puede afectar la seguridad del vuelo. La operación extendida de un {term-glider} cargado con {term-water-ballast} en temperaturas bajo cero puede resultar en válvulas de drenaje congeladas, tanques de lastre reventados, y daño estructural al {term-glider}.
+--
 
 == Resumen del capítulo
 
