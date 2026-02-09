@@ -2,7 +2,7 @@
 
 > **Fecha de auditoría:** 2026-02-08  
 > **Auditores:** Gemini 3 pro & Kimi Code CLI  
-> **Versión revisada:** 0.1.4-dev (Draft)
+> **Versión revisada:** 0.1.4
 
 ---
 

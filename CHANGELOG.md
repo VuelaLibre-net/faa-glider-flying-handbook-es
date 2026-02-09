@@ -5,7 +5,7 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 El formato se basa en [Keep a Changelog](https://keepachangelog.com/es/1.0.0/),
 y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.1.4] - 2026-02-09
 
 ### Añadido
 - **Scripts de post-procesamiento**:
@@ -25,7 +25,7 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
   - Capitalización en estilo oración (solo primera palabra en mayúscula en títulos).
   - Comillas latinas (« ») en todo el documento.
 - **Estilo PDF**: Tablas con esquinas redondeadas, header ajustado a 10mm.
-- **Versión**: Bump a 0.1.4-dev.
+- **Versión**: Bump a 0.1.4.
 
 ### Corregido
 - **URL de GitHub**: Referencia obsoleta `faa-gfh-castellano` → `faa-glider-flying-handbook-es`.
