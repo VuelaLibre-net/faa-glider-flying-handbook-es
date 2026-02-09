@@ -21,7 +21,7 @@ Durante el ensamblaje del {term-glider}, los pilotos normalmente verifican los d
 
 4. GFM/POH
 
-Las herramientas y accesorios adecuados facilitan el ensamblaje del {term-glider}. <<fig-06-01>> Algunas personas colocan todo el hardware necesario en un estante o lona con un lugar para cada artículo. Un inventario del hardware después del ensamblaje reduce el riesgo de que una herramienta extraviada quede en la estructura del {term-glider}, lo que podría restringir o atascar un control de vuelo. Dado que la cinta desprendida también podría causar problemas de control en vuelo, cualquier persona que aplique cinta debe tener cuidado al encintar las raíces del {term-wing}, la cubierta del {term-fuselage} (tapa donde se unen los controles de vuelo), el elevador u otras áreas.
+Las herramientas y accesorios adecuados facilitan el ensamblaje del {term-glider}. <<fig-06-01>> Algunas personas colocan todos los herrajes necesarios en un estante o lona con un lugar para cada artículo. Un inventario de los herrajes después del ensamblaje reduce el riesgo de que una herramienta extraviada quede en la estructura del {term-glider}, lo que podría restringir o atascar un control de vuelo. Dado que la cinta desprendida también podría causar problemas de control en vuelo, cualquier persona que aplique cinta debe tener cuidado al encintar las raíces del {term-wing}, la cubierta del {term-fuselage} (tapa donde se unen los controles de vuelo), el elevador u otras áreas.
 
 [[fig-06-01]]
 .Los soportes de alas y los carros de alas pueden ayudar a ensamblar el planeador.
@@ -45,7 +45,7 @@ El transporte, almacenamiento o recuperación de {term-glider}es utiliza remolqu
 .Componentes de un planeador almacenados y transportados en un remolque.
 image::06/fig-06-03.componentes-of-a-planeador-stored-and-transported.png[width=600]
 
-Al remolcar un remolque, se aplican las precauciones y experiencia estándar de remolque de vehículos motorizados.
+Al conducir con el remolque, se aplican las precauciones y experiencia estándar de remolque de vehículos motorizados.
 
 === Amarre y asegurado
 
@@ -155,7 +155,7 @@ image::06/fig-06-17.generic-pre-lanzamiento-checklists.png[width=600]
 
 Dependiendo del tipo de {term-glider}, se deben emplear diferentes métodos de limpieza. Después de todos los vuelos, el piloto o el personal de tierra pueden limpiar el {term-glider} con un paño suave o una gamuza húmeda. Esto elimina cualquier escombro o insectos. Retrasar este proceso permite que los insectos se sequen y dificulta su remoción.
 
-Los {term-glider}es hechos de tela deben limpiarse con productos de pulverizar y enjuagar. Cualquier persona que limpie un {term-glider} debe evitar usar grandes cantidades de agua ya que el agua puede penetrar grietas y agujeros, especialmente en {term-glider}es antiguos de madera o tela, lo que daña y reduce la vida de la madera o tela. La exposición persistente y prolongada a la humedad puede dañar cualquier {term-glider} con el tiempo. En {term-glider}es de metal, el personal puede usar una manguera de baja presión y detergente suave para limpiar. Los {term-glider}es de fibra de vidrio de alto rendimiento usan un aerosol o pasta especial para limpiar. Se debe tener cuidado al usar un pulidor eléctrico, ya que el pulidor puede quemar la fibra de vidrio si no se usa de manera apropiada. Cualquier persona que limpie una cúpula debe usar solo limpiadores recomendados para ese propósito. El GFH/POH o una tienda u organización de suministros de {term-glider}es pueden sugerir materiales de limpieza apropiados basados en el tipo de {term-glider}.
+Los {term-glider}es hechos de tela deben limpiarse con productos de pulverizar y enjuagar. Cualquier persona que limpie un {term-glider} debe evitar usar grandes cantidades de agua ya que el agua puede penetrar grietas y agujeros, especialmente en {term-glider}es antiguos de madera o tela, lo que daña y reduce la vida de la madera o tela. La exposición persistente y prolongada a la humedad puede dañar cualquier {term-glider} con el tiempo. En {term-glider}es de metal, el personal puede usar una manguera de baja presión y detergente suave para limpiar. Los {term-glider}es de fibra de vidrio de alto rendimiento usan un aerosol o pasta especial para limpiar. Se debe tener cuidado al usar una pulidora eléctrica, ya que la pulidora puede quemar la fibra de vidrio si no se usa de manera apropiada. Cualquier persona que limpie una cúpula debe usar solo limpiadores recomendados para ese propósito. El GFH/POH o una tienda u organización de suministros de {term-glider}es pueden sugerir materiales de limpieza apropiados basados en el tipo de {term-glider}.
 
 Después de limpiar, se puede aplicar una capa de cera o sellador a {term-glider}es de tela, metal y fibra de vidrio. Sin embargo, la cera que contiene silicona se adhiere a los poros de la fibra de vidrio y complica futuras reparaciones de fibra de vidrio. Después de aplicar cualquier cera, el personal puede usar un paño limpio y suave para quitar el exceso de cera y pulir el área a mano.
 

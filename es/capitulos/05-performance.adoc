@@ -5,9 +5,9 @@
 
 == Introducción
 
-El performance del {term-glider} depende del diseño, el tiempo meteorológico, el viento y otros fenómenos atmosféricos. Mientras que el diseño del {term-glider} afecta el performance en gran medida, el diseño permanece fijo y conocido por el piloto. Otros factores cambian y afectan el {term-takeoff}, el crucero y el {term-landing}.
+El rendimiento del {term-glider} depende del diseño, el tiempo meteorológico, el viento y otros fenómenos atmosféricos. Mientras que el diseño del {term-glider} afecta el rendimiento en gran medida, el diseño permanece fijo y conocido por el piloto. Otros factores cambian y afectan el {term-takeoff}, el crucero y el {term-landing}.
 
-== Factores variables de performance
+== Factores variables de rendimiento
 
 Para un vuelo específico de {term-glider}, algunos factores que afectan el rendimiento incluyen la {term-density-altitude}, el viento y el {term-weight}.
 
@@ -21,7 +21,7 @@ Una gráfica proporciona una forma de determinar la {term-density-altitude}. <<f
 .Gráfica de altitud de densidad.
 image::05/fig-05-01.densidad-altitud-grafico.png[width=600]
 
-Muchas gráficas de performance usan entradas de {term-pressure-altitude} y temperatura sin requerir que el piloto calcule la {term-density-altitude}. Sin embargo, si el piloto quiere conocer la {term-density-altitude}, una gráfica de {term-density-altitude} o una computadora de vuelo pueden proporcionar esa información.
+Muchas gráficas de rendimiento usan entradas de {term-pressure-altitude} y temperatura sin requerir que el piloto calcule la {term-density-altitude}. Sin embargo, si el piloto quiere conocer la {term-density-altitude}, una gráfica de {term-density-altitude} o una computadora de vuelo pueden proporcionar esa información.
 
 ==== **Presión atmosférica**
 
@@ -29,11 +29,11 @@ La presión atmosférica en una ubicación dada cambia de día a día. El siguie
 
 ==== **Temperatura**
 
-Los cambios de temperatura tienen un efecto significativo en la {term-density-altitude}. El aire calentado se expande—las moléculas se separan más, haciendo el aire menos denso. La {term-density-altitude} más alta reduce el performance de {term-takeoff} y ascenso del {term-glider} y del avión de remolque y aumenta la longitud de pista requerida para el {term-landing}.
+Los cambios de temperatura tienen un efecto significativo en la {term-density-altitude}. El aire calentado se expande—las moléculas se separan más, haciendo el aire menos denso. La {term-density-altitude} más alta reduce el rendimiento de {term-takeoff} y ascenso del {term-glider} y del avión de remolque y aumenta la longitud de pista requerida para el {term-landing}.
 
 Considere el siguiente METAR para dos aeropuertos con el mismo ajuste de {term-altimeter}, temperatura y punto de rocío. Love Field (KDAL) con elevación de aeropuerto de 487 pies versus Denver International (KDEN) a 5 431 pies.
 
-La {term-density-altitude} calculada para Love Field es 1 774 pies; para Denver, 7 837 pies—Denver experimenta casi el doble de aumento comparado con Love Field. Los efectos de la elevación y temperatura pueden sorprender a un piloto que no considere los problemas de performance relacionados.
+La {term-density-altitude} calculada para Love Field es 1 774 pies; para Denver, 7 837 pies—Denver experimenta casi el doble de aumento comparado con Love Field. Los efectos de la elevación y temperatura pueden sorprender a un piloto que no considere los problemas de rendimiento relacionados.
 
 === Viento
 
@@ -111,7 +111,7 @@ La velocidad de ascenso de los {term-glider}es con auto-lanzamiento puede variar
 
 == Manuales de vuelo y placas
 
-El GFM/POH proporciona al piloto la información de performance necesaria para operar el {term-glider} de manera segura. Un GFM/POH puede incluir la siguiente información:
+El GFM/POH proporciona al piloto la información de rendimiento necesaria para operar el {term-glider} de manera segura. Un GFM/POH puede incluir la siguiente información:
 
 • Descripción de los componentes primarios del {term-glider}
 
@@ -121,7 +121,7 @@ El GFM/POH proporciona al piloto la información de performance necesaria para o
 
 • Descripción de los sistemas del {term-glider}
 
-• Datos de performance del {term-glider}
+• Datos de rendimiento del {term-glider}
 
 • Limitaciones de operación
 
@@ -173,19 +173,19 @@ Si el {term-glider} tiene {term-water-ballast}, {term-flap}s alares, o extension
 
 [[fig-05-14]]
 .Efecto del lastre de agua en la polar de rendimiento.
-image::05/fig-05-14.effect-of-water-lastre-on-performance-polar.png[width=600]
+image::05/fig-05-14.effect-of-water-lastre-on-rendimiento-polar.png[width=600]
 
 Los {term-flap}s con una configuración negativa en oposición a una configuración de 0 grados durante el crucero también reducen la tasa de hundimiento a velocidades más altas, como se muestra en la polar. <<fig-05-15>> Por lo tanto, cuando se vuela en crucero a o por encima de 70 nudos, configurar los {term-flap}s a -8° proporcionaría una ventaja. La polar con {term-flap}s configurados a -8° no se extiende a velocidades menores de 70 nudos ya que la configuración negativa de {term-flap}s pierde su ventaja allí.
 
 [[fig-05-15]]
 .Polar de rendimiento con flaps a 0° y –8°.
-image::05/fig-05-15.performance-polar-with-flaps-at-0-deg-and-8-deg.png[width=600]
+image::05/fig-05-15.rendimiento-polar-with-flaps-at-0-deg-and-8-deg.png[width=600]
 
 Las extensiones de puntas alares también alteran los datos de la polar, como se muestra en la Figura 5-16. La ilustración muestra que los 3 metros adicionales de envergadura crean una ventaja a todas las velocidades. En algunos {term-glider}es, el rendimiento a baja velocidad mejora con las extensiones de puntas, mientras que el rendimiento a alta velocidad disminuye ligeramente.
 
 [[fig-05-16]]
 .Polar de rendimiento con configuraciones de envergadura de 15 y 18 metros.
-image::05/fig-05-16.performance-polar-with-15-meter-and-18-meter.png[width=600]
+image::05/fig-05-16.rendimiento-polar-with-15-meter-and-18-meter.png[width=600]
 
 === Limitaciones
 
@@ -221,11 +221,11 @@ El GFM/POH proporcionado por el fabricante da información sobre el {term-weight
 
 El equilibrio longitudinal afecta la estabilidad alrededor del eje lateral de un {term-glider}. Para lograr un manejo satisfactorio de la actitud de cabeceo, los fabricantes posicionan el centro de gravedad (CG) de un {term-glider} adecuadamente cargado al frente del centro de {term-lift-force} (CL) y publican los límites de CG del {term-glider} en el GFM/POH.
 
-En la mayoría de los {term-glider}es, el {term-tailplane} y el elevador proporcionan una fuerza hacia abajo para equilibrar el arreglo del CG y centro de {term-lift-force}. A medida que la velocidad del aire cambia, el piloto ajusta el trim, y la fuerza hacia abajo de la cola equilibra exactamente el CG al frente. Un {term-glider} en esta configuración tiende a reanudar su actitud de cabeceo previa después de una perturbación alrededor del eje lateral. Si ocurre una perturbación que inclina la nariz hacia arriba, la velocidad del aire resultante más lenta y la disminución de la fuerza hacia abajo de la cola baja la nariz y permite que la velocidad del aire retorne hacia su valor pre-perturbación. Por el contrario, si la perturbación coloca la aeronave en una actitud de nariz hacia abajo, el aumento en la velocidad del aire aumenta la fuerza hacia abajo de la cola y levanta la nariz hacia la condición pre-perturbación. Este arreglo crea estabilidad positiva. Sin embargo, si la cola se pierde, esta acción estabilizadora no comenzará hasta que la cola comience a producir fuerza hacia abajo.
+En la mayoría de los {term-glider}es, el {term-tailplane} y el elevador proporcionan una fuerza hacia abajo para equilibrar el arreglo del CG y centro de {term-lift-force}. A medida que la velocidad del aire cambia, el piloto ajusta el compensador, y la fuerza hacia abajo de la cola equilibra exactamente el CG al frente. Un {term-glider} en esta configuración tiende a reanudar su actitud de cabeceo previa después de una perturbación alrededor del eje lateral. Si ocurre una perturbación que inclina la nariz hacia arriba, la velocidad del aire resultante más lenta y la disminución de la fuerza hacia abajo de la cola baja la nariz y permite que la velocidad del aire retorne hacia su valor pre-perturbación. Por el contrario, si la perturbación coloca la aeronave en una actitud de nariz hacia abajo, el aumento en la velocidad del aire aumenta la fuerza hacia abajo de la cola y levanta la nariz hacia la condición pre-perturbación. Este arreglo crea estabilidad positiva. Sin embargo, si la cola se pierde, esta acción estabilizadora no comenzará hasta que la cola comience a producir fuerza hacia abajo.
 
 ==== Problemas asociados con CG adelante del límite publicado
 
-Cargar el {term-glider} con el CG al frente del límite hace difícil levantar la nariz en el {term-takeoff} y requiere presión considerable hacia atrás en los controles para regular la actitud de cabeceo. A bajas velocidades del aire la cola puede entrar en {term-stall} o no proporcionar suficiente fuerza hacia abajo. Cualquier {term-stall} de la cola resulta en un cambio repentino de cabeceo hacia abajo y potencial para una recuperación lenta. El piloto puede no tener suficiente autoridad del elevador para realizar el {term-flare} de {term-landing} debido al pesadez de nariz. La incapacidad de hacer el {term-flare} podría resultar en un {term-landing} fuerte de nariz primero.
+Cargar el {term-glider} con el CG al frente del límite hace difícil levantar la nariz en el {term-takeoff} y requiere presión considerable hacia atrás en los controles para regular la actitud de cabeceo. A bajas velocidades del aire la cola puede entrar en {term-stall} o no proporcionar suficiente fuerza hacia abajo. Cualquier {term-stall} de la cola resulta en un cambio repentino de cabeceo hacia abajo y potencial para una recuperación lenta. El piloto puede no tener suficiente autoridad del elevador para realizar el {term-flare} de {term-landing} debido a la pesadez de nariz. La incapacidad de hacer el {term-flare} podría resultar en un {term-landing} fuerte de nariz primero.
 
 Un CG al frente del límite podría ocurrir por estas razones:
 
@@ -243,7 +243,7 @@ Un CG por detrás del límite podría ocurrir por estas razones:
 
 • El carrito de la rueda de cola no fue removido antes del vuelo.
 
-• Una rueda de cola pesada y no aprobada, o un patín de cola instalado en el boom de cola trasero del {term-glider}.
+• Una rueda de cola pesada y no aprobada, o un patín de cola instalado en el botalón de cola trasero del {term-glider}.
 
 • Acumulación de materia extraña o escombros (agua, hielo, lodo, arena, o nidos) en el {term-fuselage} trasero.
 
@@ -257,7 +257,7 @@ La figura de ejemplo 5-18 indica que el {term-weight} mínimo para el piloto del
 .Ejemplo de envolvente de peso y centrado.
 image::05/fig-05-18.sample-peso-and-balance-envelope.png[width=600]
 
-El {term-weight} a lo largo del eje longitudinal del {term-glider} afecta la ubicación del CG. Los pilotos calculan el CG usando el brazo o distancia de pesos conocidos desde un punto específico (datum) en el eje longitudinal. El GFM/POH proporciona el brazo desde el datum para el {term-glider} vacío, cada asiento ocupante, y para cualquier almacenamiento de carga.
+El {term-weight} a lo largo del eje longitudinal del {term-glider} afecta la ubicación del CG. Los pilotos calculan el CG usando el brazo o distancia de pesos conocidos desde un punto específico (plano de referencia o datum) en el eje longitudinal. El GFM/POH proporciona el brazo desde el plano de referencia para el {term-glider} vacío, cada asiento ocupante, y para cualquier almacenamiento de carga.
 
 El piloto puede determinar la posición del CG usando las siguientes fórmulas:
 
@@ -285,15 +285,15 @@ Nota: Los registros de {term-weight} y centrado para un {term-glider} particular
 .Ejemplo de peso y centrado: pesos y momentos del piloto del asiento delantero y trasero.
 image::05/fig-05-19.sample-peso-and-balance-frente-and-posterior.png[width=600]
 
-En la Figura 5-19 arriba, el {term-weight} de cada piloto aparece en el bloque apropiado en la tabla. Para el piloto del asiento delantero, multiplicar 180 libras por 43,8 pulgadas produce un momento de 7 884 pulgadas-libras. Para el piloto del asiento trasero, multiplicar 190 libras por 74,7 pulgadas produce un momento de 14 193 pulgadas-libras. El siguiente paso es encontrar la suma de todos los pesos (980 libras) incluyendo el {term-weight} vacío del {term-glider}. Luego, encuentre la suma de todos los momentos (+84 762 pulgadas-libras). Para determinar la posición del CG del {term-glider} cargado, divida el momento total por el {term-weight} total en pulgadas desde el datum: 84 762 pulgadas-libras ÷ 1039 libras = 81,58 detrás del datum.
+En la Figura 5-19 arriba, el {term-weight} de cada piloto aparece en el bloque apropiado en la tabla. Para el piloto del asiento delantero, multiplicar 180 libras por 43,8 pulgadas produce un momento de 7 884 pulgadas-libras. Para el piloto del asiento trasero, multiplicar 190 libras por 74,7 pulgadas produce un momento de 14 193 pulgadas-libras. El siguiente paso es encontrar la suma de todos los pesos (980 libras) incluyendo el {term-weight} vacío del {term-glider}. Luego, encuentre la suma de todos los momentos (+84 762 pulgadas-libras). Para determinar la posición del CG del {term-glider} cargado, divida el momento total por el {term-weight} total en pulgadas desde el plano de referencia: 84 762 pulgadas-libras ÷ 1039 libras = 81,58 detrás del plano de referencia.
 
-Para el paso final el piloto determina si los valores de {term-weight} total y ubicación del CG están dentro de límites aceptables. El GFM/POH lista el {term-weight} bruto máximo como 1 040 libras. El {term-weight} operativo de 1039 libras no excede las 1 040 libras de {term-weight} bruto máximo. El GFM/POH lista el rango de CG aprobado como entre 78,2 pulgadas y 86,1 pulgadas desde el datum. El CG operativo de 81,58 pulgadas desde el datum cae dentro de estos límites. Por lo tanto, el cálculo muestra el {term-glider} dentro de límites operativos si se carga según lo planificado.
+Para el paso final el piloto determina si los valores de {term-weight} total y ubicación del CG están dentro de límites aceptables. El GFM/POH lista el {term-weight} bruto máximo como 1 040 libras. El {term-weight} operativo de 1039 libras no excede las 1 040 libras de {term-weight} bruto máximo. El GFM/POH lista el rango de CG aprobado como entre 78,2 pulgadas y 86,1 pulgadas desde el plano de referencia. El CG operativo de 81,58 pulgadas desde el plano de referencia cae dentro de estos límites. Por lo tanto, el cálculo muestra el {term-glider} dentro de límites operativos si se carga según lo planificado.
 
 == Lastre
 
 El lastre incluye {term-weight} no estructural agregado a un {term-glider}. En vuelo a vela, el {term-weight} de lastre sirve dos propósitos. El lastre de trim ajusta la ubicación del CG del {term-glider} para permanecer dentro de límites aceptables. El lastre de rendimiento mejora el rendimiento de crucero a alta velocidad.
 
-=== Lastre de trim
+=== Lastre de compensación
 
 Los pesos de lastre de trim removibles, a menudo hechos de metal, se sujetan a un receptáculo de lastre incorporado en la estructura del {term-glider}. Estos pesos compensan un piloto del asiento delantero que pesa menos de lo necesario para mantener el CG dentro de límites operativos aceptables. El {term-weight} de lastre montado bien al frente en la cabina del {term-glider} puede mover el CG dentro de límites permisibles con la mínima adición de {term-weight}.
 
@@ -311,7 +311,7 @@ Los fabricantes comúnmente instalan tanques de agua en los paneles principales 
 .Tapa de llenado con ventilación del tanque de lastre de agua.
 image::05/fig-05-20.water-lastre-tank-vented-filler-cap.png[width=600]
 
-Las válvulas de drenaje se ajustan a la parte inferior de cada tanque, y el piloto controla las válvulas desde dentro del {term-glider}. <<fig-05-21>> El piloto puede drenar completamente o parcialmente los tanques con el {term-glider} en tierra para reducir el {term-weight} antes del lanzamiento. El piloto también puede manipular las válvulas para drenar los tanques de lastre parcial o completamente en vuelo—un proceso llamado expulsar lastre, que normalmente ocurre antes del {term-landing}. Las largas franjas de spray blanco detrás de un {term-glider} en el aire indican agua drenando en el aire.
+Las válvulas de drenaje se ajustan a la parte inferior de cada tanque, y el piloto controla las válvulas desde dentro del {term-glider}. <<fig-05-21>> El piloto puede drenar completamente o parcialmente los tanques con el {term-glider} en tierra para reducir el {term-weight} antes del lanzamiento. El piloto también puede manipular las válvulas para drenar los tanques de lastre parcial o completamente en vuelo—un proceso llamado expulsar lastre, que normalmente ocurre antes del {term-landing}. Las largas franjas de rocío blanco detrás de un {term-glider} en el aire indican agua drenando en el aire.
 
 [[fig-05-21]]
 .Manijas de la válvula de drenaje de lastre de agua.
