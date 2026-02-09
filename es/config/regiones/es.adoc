@@ -156,6 +156,7 @@
 :term-self-launch: autolanzable
 :term-thermalling: vuelo en térmica
 :term-tow-rope: cable de remolque
+:term-tow-rope-strength: resistencia del cable de remolque
 :term-weak-link: eslabón fusible
 :term-release: gancho de suelta
 

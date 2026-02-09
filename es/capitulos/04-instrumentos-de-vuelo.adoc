@@ -255,14 +255,13 @@ Un vuelo de travesía desde TSA Gliderport, Midlothian, Texas, hasta Winston Air
 
 Cuando está sobre Stephens County Airport, el piloto recibe un ajuste de {term-altimeter} de área actual de 29,94 y aplica este ajuste al {term-altimeter}. Antes de entrar en el {term-pattern} en Winston Airport, el piloto recibe un nuevo ajuste de {term-altimeter} de 29,69 del Sistema Automatizado de Observación Meteorológica (AWOS - Automated Weather Observing System). Si el piloto desea entrar en el {term-pattern} aproximadamente a 1 000 pies sobre el terreno, y si la elevación del campo de Winston Airport es de 2 430 pies MSL, el piloto debe usar una {term-indicated-altitude} de 3 400 pies.
 
-.Ajuste actual del altímetro = 29,94
-.Sin embargo, el ajuste correcto del altímetro debería ser = 29.69
-.2 430 pies + 1 000 pies = 3 430 pies, redondeado a 3 400 pies
 
-Para ilustrar, suponga que una distracción hizo que el piloto descuidara el ajuste para el ajuste del {term-altimeter} de Winston Airport y continuara usando el ajuste de Stephens County Airport de 29,94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3 400 pies y el {term-altimeter} indicaría aproximadamente 2 680 pies al aterrizar o 250 pies más alto que la elevación del campo.
+.2 430 pies + 1 000 pies = 3 430 pies, redondeado a 3 400 pies
 
-.Ajuste de {term-altimeter} real = 29,94
-.Ajuste de {term-altimeter} correcto = 29,69
+Para ilustrar, suponga que una distracción hizo que el piloto olvidara ajustar el {term-altimeter} para Winston Airport y continuara usando el ajuste de Stephens County Airport de 29,94. La entrada al circuito ocurriría aproximadamente 250 pies por debajo de la altitud del {term-pattern} de Winston Airport de 3 400 pies y el {term-altimeter} indicaría aproximadamente 2 680 pies al aterrizar o 250 pies más alto que la elevación del campo.
+
+.Ajuste actual del {term-altimeter} = 29,94
+.Ajuste correcto del {term-altimeter} = 29,69
 .Diferencia = 0,25
 
 Una pulgada de presión es igual a aproximadamente 1 000 pies de altitud.

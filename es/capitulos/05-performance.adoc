@@ -23,11 +23,11 @@ image::05/fig-05-01.densidad-altitud-grafico.png[width=600]
 
 Muchas gráficas de rendimiento usan entradas de {term-pressure-altitude} y temperatura sin requerir que el piloto calcule la {term-density-altitude}. Sin embargo, si el piloto quiere conocer la {term-density-altitude}, una gráfica de {term-density-altitude} o una computadora de vuelo pueden proporcionar esa información.
 
-==== **Presión atmosférica**
+==== Presión atmosférica
 
 La presión atmosférica en una ubicación dada cambia de día a día. El siguiente ejemplo de Reporte Meteorológico de Aeródromo (METAR) indica una presión local de A2953, o ajuste de {term-altimeter} de 29,53 inHg. Al considerar solo la presión barométrica, la lectura de presión más baja de lo normal resulta en una {term-density-altitude} más alta que disminuye el rendimiento de la aeronave. Esta reducción afecta el rendimiento de {term-takeoff} y ascenso y aumenta la longitud de pista necesaria para el {term-landing} tanto para el {term-glider} como para el avión de remolque. Por otro lado, si la presión barométrica aumenta, la {term-density-altitude} más baja mejora el rendimiento de {term-takeoff} y ascenso, y la longitud de pista necesaria para el {term-landing} disminuye.
 
-==== **Temperatura**
+==== Temperatura
 
 Los cambios de temperatura tienen un efecto significativo en la {term-density-altitude}. El aire calentado se expande—las moléculas se separan más, haciendo el aire menos denso. La {term-density-altitude} más alta reduce el rendimiento de {term-takeoff} y ascenso del {term-glider} y del avión de remolque y aumenta la longitud de pista requerida para el {term-landing}.
 
@@ -145,7 +145,7 @@ Los manuales para {term-glider}es con auto-lanzamiento incluyen información de 
 
 El fabricante proporciona información sobre la tasa de hundimiento en términos de velocidad del aire resumida en una gráfica llamada curva polar, o simplemente una polar.
 
-El eje vertical de una polar muestra la tasa de hundimiento (hundimiento creciente hacia abajo), mientras que el eje horizontal muestra la velocidad en las mismas unidades (nudos). Cada tipo de {term-glider} tiene una polar característica derivada ya sea de cálculos teóricos o por medición real en vuelo de la tasa de hundimiento a diferentes velocidades. La polar de cada {term-glider} individual varía (incluso de otros {term-glider}es del mismo tipo) por unos pocos por ciento dependiendo de la suavidad relativa de la superficie del {term-wing}, el sellado alrededor de las superficies de control, e incluso el número de insectos en el borde de ataque del {term-wing}. La polar forma la base para la velocidad de vuelo y estrategias discutidas en el Capítulo 11, Vuelo de Travesía a Vela.
+El eje vertical de una polar muestra la tasa de hundimiento (hundimiento creciente hacia abajo), mientras que el eje horizontal muestra la velocidad en las mismas unidades (nudos). Cada tipo de {term-glider} tiene una polar característica derivada ya sea de cálculos teóricos o por medición real en vuelo de la tasa de hundimiento a diferentes velocidades. La polar de cada {term-glider} individual varía (incluso de otros {term-glider}es del mismo tipo) en un pequeño porcentaje dependiendo de la suavidad relativa de la superficie del {term-wing}, el sellado alrededor de las superficies de control, e incluso el número de insectos en el borde de ataque del {term-wing}. La polar forma la base para la velocidad de vuelo y estrategias discutidas en el Capítulo 11, Vuelo de Travesía a Vela.
 
 El pico de la curva azul de tasa de hundimiento determina la tasa de mínimo hundimiento. <<fig-05-11>> En este ejemplo, un mínimo hundimiento de 1,9 nudos ocurre a 40 nudos. Nótese que la tasa de hundimiento aumenta entre la velocidad de mínimo hundimiento y la velocidad de {term-stall} (el punto final izquierdo de la curva azul). Una tangente desde el origen a la polar indica la {term-best-glide} (mejor L/D). La velocidad de mejor L/D es 50 nudos con una velocidad de hundimiento de 2,1 nudos. La relación de planeo a velocidad de mejor L/D se determina dividiendo la velocidad de mejor L/D por la tasa de hundimiento a esa velocidad, o 50/2,1, que es aproximadamente 24 en este ejemplo. Por lo tanto, este {term-glider} tiene una mejor relación de planeo en aire calmado (sin {term-lift} o subsidencia y sin viento en cara o en cola) de 24:1 a 50 nudos.
 
@@ -203,7 +203,7 @@ La Condición 2 representa la velocidad a la cual el piloto puede usar toda la a
 
 ==== Ráfagas verticales durante crucero a alta velocidad
 
-En crucero a alta velocidad los pilotos deben prestar atención a las limitaciones de factor de carga. Un encuentro con una ráfaga ascendente abrupta durante crucero nivelado a alta velocidad aumenta el {term-aoa}, dobla las {term-wing}s hacia arriba, aumenta brevemente la carga G, y almacena energía elástica en los largueros del {term-wing}. A medida que las {term-wing}s liberan esta energía, los largueros del {term-wing} saltan hacia abajo y levantan el {term-fuselage} más alto. A medida que el {term-fuselage} alcanza la parte superior de este movimiento, los largueros del {term-wing}, ahora doblados hacia abajo, se mueven hacia arriba nuevamente para liberar la energía almacenada. Dado que puede ocurrir una carga G negativa mientras el {term-fuselage} cae hacia abajo, el cinturón de seguridad y el arnés de hombros pueden prevenir que la cabeza del piloto golpee contra la parte superior del dosel.
+En crucero a alta velocidad los pilotos deben prestar atención a las limitaciones de factor de carga. Un encuentro con una ráfaga ascendente abrupta durante crucero nivelado a alta velocidad aumenta el {term-aoa}, dobla las {term-wing}s hacia arriba, aumenta brevemente la carga G, y almacena energía elástica en los largueros del {term-wing}. A medida que las {term-wing}s liberan esta energía, los largueros del {term-wing} saltan hacia abajo y levantan el {term-fuselage} más alto. A medida que el {term-fuselage} alcanza la parte superior de este movimiento, los largueros del {term-wing}, ahora doblados hacia abajo, se mueven hacia arriba nuevamente para liberar la energía almacenada. Dado que puede ocurrir una carga G negativa mientras el {term-fuselage} cae hacia abajo, el cinturón de seguridad y el arnés de hombros pueden prevenir que la cabeza del piloto golpee contra la parte superior de la {term-canopy}.
 
 Durante estas excursiones, el {term-weight} de la mano y el brazo del piloto pueden mover inadvertidamente la palanca de control hacia adelante o atrás. La carga G positiva y el aumento del {term-weight} aparente del brazo del piloto tienden a mover la palanca de control hacia atrás y aumentar aún más el {term-aoa} y la carga G. La carga G negativa y la disminución del {term-weight} aparente del brazo del piloto tienden a mover la palanca de control hacia adelante y disminuir aún más el {term-aoa} y la carga G.
 
@@ -266,11 +266,11 @@ El piloto puede determinar la posición del CG usando las siguientes fórmulas:
 
 El método computacional involucra la aplicación de funciones matemáticas básicas como sigue:
 
-- {term-weight} bruto máximo: 1 040 lb
-- {term-weight} vacío: 669 lb
-- Rango de CG: 14,8–18,6 in
-- Ocupante asiento delantero: 180 lb
-- Ocupante asiento trasero: 200 lb
+- {term-weight} bruto máximo: 1 040 libras
+- {term-weight} vacío: 669 libras
+- Rango de CG: 14,8–18,6 pulgadas
+- Ocupante asiento delantero: 180 libras
+- Ocupante asiento trasero: 200 libras
 
 Para determinar el {term-weight} cargado y el CG, siga estos pasos:
 
@@ -325,7 +325,7 @@ El manual de vuelo proporciona guía con respecto al tiempo que toma para que lo
 
 El uso de {term-water-ballast} en temperaturas ambientales bajas puede resultar en el agua congelando la válvula de drenaje, haciendo la expulsión de lastre difícil o imposible. Si solo una válvula se congela, puede ocurrir expulsión desigual como se discutió arriba. Si el agua en las {term-wing}s se congela, puede ocurrir daño serio al {term-wing} porque el agua se expande mientras se congela. El volumen resultante aumentado puede deformar costillas y otras estructuras del {term-wing} o deslaminar uniones pegadas. En clima frío o cuando se esperan condiciones de vuelo frías, los pilotos no deben usar {term-water-ballast} a menos que agreguen anticongelante al agua. El GFM tiene información sobre compuestos de anticongelante aprobados para uso en el {term-glider}.
 
-Un {term-glider} cargando grandes cantidades de {term-water-ballast} tiene características de manejo notablemente diferentes que el mismo {term-glider} sin {term-water-ballast}. El {term-water-ballast}:
+Un {term-glider} cargando grandes cantidades de {term-water-ballast} tiene características de manejo notablemente diferentes a las del mismo {term-glider} sin {term-water-ballast}. El {term-water-ballast}:
 
 • Reduce la tasa de aceleración del {term-glider} al inicio del lanzamiento debido al {term-weight} aumentado del {term-glider}.
 

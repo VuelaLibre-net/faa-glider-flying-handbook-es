@@ -65,9 +65,9 @@
 | 06 | Prevuelo y operaciones en tierra | ✅ Revisado | 34 |
 | 07 | Lanzamiento, aterrizaje y maniobras | ✅ Revisado | 82 |
 | 08 | Emergencias | ✅ Revisado | 22 |
-| 09 | Meteorología vuelo vela | 🟡 En revisión | 60 |
-| 10 | Técnicas vuelo vela | 🟡 En revisión | 74 |
-| 11 | Vuelo de travesía | 🟡 En revisión | 34 |
+| 09 | Meteorología vuelo vela | ✅ Revisado | 60 |
+| 10 | Técnicas vuelo vela | ✅ Revisado | 74 |
+| 11 | Vuelo de travesía | ✅ Revisado | 75 |
 | 12 | Remolque | ✅ Revisado | 22 |
 | 13 | Factores humanos | ✅ Revisado | 26 |
 | **Total** | | | **538** |
