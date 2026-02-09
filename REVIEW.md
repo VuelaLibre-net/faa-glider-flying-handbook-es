@@ -68,7 +68,6 @@
 | 09 | Meteorología vuelo vela | ✅ Revisado | 60 |
 | 10 | Técnicas vuelo vela | ✅ Revisado | 74 |
 | 11 | Vuelo de travesía | ✅ Revisado | 75 |
-| 11 | Vuelo de travesía | 🟡 En revisión | 34 |
 | 12 | Remolque | ✅ Revisado | 22 |
 | 13 | Factores humanos | ✅ Revisado | 26 |
 | **Total** | | | **538** |
