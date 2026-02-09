@@ -65,7 +65,7 @@ image::04/fig-04-05.velocidad-aire-indicador-operation.png[width=500]
 --
 [[fig-04-06]]
 .Efectos de la altitud en el indicador de velocidad aerodinámica.
-image::04/fig-04-06.effects-of-altitud-on-the-velocidad-aire-indicador.png[width=400,float=right]
+image::04/fig-04-06.effects-of-altitud-on-the-velocidad-aire-indicador.png[width=300,float=right]
 
 El indicador de velocidad aerodinámica muestra la presión dinámica (presión pitot menos presión estática) calibrada a una velocidad aerodinámica a la presión estándar al nivel del mar. Debido a la menor densidad del aire a medida que aumenta la altitud, la acumulación de presión en el diafragma disminuye y la indicación se vuelve menor que al nivel del mar. El error se vuelve mayor a medida que aumenta la altitud. <<fig-04-06>>
 --
@@ -145,7 +145,7 @@ normales.
 
 • La línea roja—velocidad de nunca exceder (V~NE~ - Never-Exceed Speed). Esta es la velocidad máxima a la que el {term-glider} puede ser operado en aire suave.
 
-Este piloto nunca debe exceder intencionalmente esta velocidad.
+El piloto nunca debe exceder intencionalmente esta velocidad.
 
 === Efecto de la altitud en V~NE
 
@@ -221,7 +221,7 @@ El {term-altimeter} funciona como un barómetro aneroide que mide la presión at
 image::04/fig-04-14.how-the-altimetro-functions.png[width=600]
 
 [[fig-04-15]]
-.Interior del altímetro.f
+.Interior del altímetro.
 image::04/fig-04-15.inside-the-altimetro.png[width=300]
 
 Las marcas en el dial de un {term-altimeter} típico incluyen números dispuestos en sentido horario de 0 a 9 inclusive, como se muestra en la Figura 4-12. Cuando cambia la presión circundante, la expansión o contracción del elemento aneroide mueve las agujas a través de un tren de engranajes. Las agujas recorren el dial calibrado para indicar la altitud. En el {term-altimeter} con tres agujas mostrado en la Figura 4-12, la aguja más delgada con un extremo en forma de triángulo indica la altitud en decenas de miles de pies; la aguja puntiaguda más corta indica miles de pies; y la aguja puntiaguda larga indica cientos de pies, subdivididos en incrementos de 20 pies.
@@ -270,7 +270,7 @@ Para ilustrar, suponga que una distracción hizo que el piloto descuidara el aju
 
 .Ajuste de {term-altimeter} correcto = 29,69
 
-.Diferencia =0,25
+.Diferencia = 0,25
 
 Una pulgada de presión es igual a aproximadamente 1 000 pies de altitud.
 
@@ -380,7 +380,7 @@ La computadora de vuelo acoplada a GPS puede proporcionar la siguiente informaci
 • Distancia al destino planificado
 
 • Altura necesaria para planear al destino
-f
+
 • Tasa de ascenso o descenso actual
 
 • La velocidad aerodinámica óptima para volar a la siguiente {term-thermal}

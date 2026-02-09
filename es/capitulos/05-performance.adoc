@@ -74,7 +74,7 @@ El piloto que aterriza con viento en cola tiene una {term-groundspeed} más alta
 Un fuerte gradiente de cortante de viento puede afectar un {term-glider} durante un viraje empinado en una {term-approach} final de baja altitud a baja velocidad del aire. El gradiente puede crear diferente {term-lift-force} en el {term-wing} baja y el {term-wing} levantada. <<fig-05-06>> La fuerza de alabeo creada por el gradiente puede superar a los alerones, causar una {term-stall} de control, y explica por qué el piloto debe limitar el ángulo de bancada estando cerca del suelo y atravesando un fuerte gradiente de viento.
 
 [[fig-05-06]]
-.Efecto del gradiente de velocidad del viento en un planeador. Un flujo de aire más fuerte sobre el ala alta puede causar que el viraje se inestine.
+.Efecto del gradiente de velocidad del viento en un planeador. Un flujo de aire más fuerte sobre el ala alta puede causar que el viraje se inestabilice.
 image::05/fig-05-06.effect-of-viento-velocity-gradiente-on-a.png[width=600]
 
 === {term-weight}
@@ -155,7 +155,7 @@ image::05/fig-05-11.minimum-sink-velocidad-aire-and-maximum-l-d.png[width=600]
 
 Para determinar la mejor velocidad para volar para distancia sobre el suelo con viento en cara, el piloto puede desplazar el origen hacia la derecha a lo largo del eje horizontal por la velocidad del viento en cara y trazar una nueva línea tangente a la polar. Para vientos en cola, el piloto desplaza el origen a la izquierda de la marca cero en el eje horizontal.
 
-La figura 5-12 Muestra un ejemplo para un viento en cara de 20 nudos. La nueva tangente indica 60 nudos como la {term-best-glide}. Al repetir el procedimiento para diferentes vientos en cara, los datos muestran que volar más rápido a medida que aumentan los vientos en cara resulta en una mayor distancia recorrida sobre el suelo. El análisis de los datos de muchos {term-glider}es lleva a la siguiente regla general: el piloto puede agregar la mitad del componente de viento en cara al L/D de viento cero para obtener la máxima distancia.
+La figura 5-12 muestra un ejemplo para un viento en cara de 20 nudos. La nueva tangente indica 60 nudos como la {term-best-glide}. Al repetir el procedimiento para diferentes vientos en cara, los datos muestran que volar más rápido a medida que aumentan los vientos en cara resulta en una mayor distancia recorrida sobre el suelo. El análisis de los datos de muchos {term-glider}es lleva a la siguiente regla general: el piloto puede agregar la mitad del componente de viento en cara al L/D de viento cero para obtener la máxima distancia.
 
 [[fig-05-12]]
 .Mejor velocidad para volar con un viento en cara de 20 nudos.

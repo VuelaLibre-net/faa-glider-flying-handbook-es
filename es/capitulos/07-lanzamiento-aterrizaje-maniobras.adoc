@@ -97,7 +97,7 @@ Después de estar en el aire, pero antes de que el avión de remolque {term-take
 
 ===== No asistido
 
-Los pilotos experimentados pueden considerar usar un procedimiento de lanzamiento con {term-crosswind} no asistido. Un {term-takeoff} no asistido con {term-crosswind} usa diferente posicionamiento de {term-wing}s y alineación del {term-glider}. El {term-crosswind} golpea el {term-fuselage} del {term-glider}, tendiendo a empujarlo hacia sotavento, haciendo necesario posicionar el {term-glider} en el lado de barlovento de la pista. Si no puede desplazarse, el piloto del avión de remolque puede angulares hacia el viento para reducir el componente de {term-crosswind} para el {term-glider}.
+Los pilotos experimentados pueden considerar usar un procedimiento de lanzamiento con {term-crosswind} no asistido. Un {term-takeoff} no asistido con {term-crosswind} usa diferente posicionamiento de {term-wing}s y alineación del {term-glider}. El {term-crosswind} golpea contra el {term-fuselage} del {term-glider}, tendiendo a empujarlo hacia sotavento, haciendo necesario posicionar el {term-glider} en el lado de barlovento de la pista. Si no puede desplazarse, el piloto del avión de remolque puede angulares hacia el viento para reducir el componente de {term-crosswind} para el {term-glider}.
 
 El {term-glider} debe descansar desplazado en la pista con el {term-wing} de sotavento en el suelo y el {term-glider} angulado aproximadamente 20–30° hacia el viento. <<fig-07-05>> Como en un {term-takeoff} no asistido normal, la {term-drag} en el {term-wing} de sotavento imparte un momento de guiñada que balancea el {term-wing} de barlovento hacia adelante a una velocidad mayor que el {term-wing} de sotavento, ayudando al piloto a nivelar las {term-wing}s. Si el piloto comienza la carrera de {term-takeoff} con el {term-wing} de sotavento en el suelo, puede resultar un trompo ya que el {term-wing} de sotavento se arrastrará por el suelo. El piloto debe ejecutar los procedimientos de {term-takeoff} con {term-crosswind} descritos anteriormente una vez que el {term-wing} de barlovento se levante y mantener una posición normal directamente detrás del avión de remolque.
 
@@ -257,7 +257,7 @@ Los errores comunes respecto a la recuperación de cable flojo incluyen:
 
 === Rodear la estela
 
-Rodear la estela (hacer la caja)demuestra la capacidad del piloto para maniobrar el {term-glider} alrededor de la estela del avión de remolque con precisión y seguridad durante el {term-aerotow}. <<fig-07-15>> Un piloto puede maniobrar en sentido horario o antihorario alrededor de la estela. El ejemplo siguiente usa un ejemplo en sentido horario.
+Rodear la estela (hacer la caja) demuestra la capacidad del piloto para maniobrar el {term-glider} alrededor de la estela del avión de remolque con precisión y seguridad durante el {term-aerotow}. <<fig-07-15>> Un piloto puede maniobrar en sentido horario o antihorario alrededor de la estela. El ejemplo siguiente usa un ejemplo en sentido horario.
 
 Posición normal de remolque alto Esquina superior derecha Esquina superior izquierda
 
