@@ -24,7 +24,7 @@ Durante el montaje del {term-glider}, los pilotos normalmente verifican los docu
 Las herramientas y accesorios adecuados facilitan el montaje del {term-glider}. <<fig-06-01>> Algunas personas colocan todos los herrajes necesarios en un estante o lona con un lugar para cada artículo. Un inventario de los herrajes después del montaje reduce el riesgo de que una herramienta extraviada quede en la estructura del {term-glider}, lo que podría restringir o atascar un control de vuelo. Dado que la cinta desprendida también podría causar problemas de control en vuelo, cualquier persona que aplique cinta debe tener cuidado al encintar las raíces del {term-wing}, la cubierta del {term-fuselage} (tapa donde se unen los controles de vuelo), el elevador u otras áreas.
 
 [[fig-06-01]]
-.Los soportes de alas y los carros de alas pueden ayudar a montar el planeador.
+.Los soportes de {term-wing} y los carros de {term-wing} pueden ayudar a montar el {term-glider}.
 image::06/fig-06-01.ala-stands-and-ala-dollies-may-assist-assembling.png[width=600]
 
 Dependiendo del tipo de {term-glider}, el montaje puede requerir dos o más personas. Después del montaje, una inspección exhaustiva de todos los puntos de fijación garantiza una instalación adecuada y la seguridad de los pernos y pasadores.
@@ -32,7 +32,7 @@ Dependiendo del tipo de {term-glider}, el montaje puede requerir dos o más pers
 En muchos {term-glider}es, las {term-wing}s se desmontan rutinariamente del {term-fuselage} para su almacenamiento. En algunos {term-glider}es motorizados, las {term-wing}s se pliegan. Después de plegar o desmontar las {term-wing}s, las personas pueden mover el {term-glider} dentro y alrededor del área del hangar. <<fig-06-02>> Esto permite el montaje, desmontaje y almacenamiento en un hangar de tamaño normal. Los hangares generalmente varían entre 35 y 45 pies de ancho. Dado que la mayoría de las {term-wing}s de {term-glider}es abarcan un mínimo de 40 pies (12 metros) de longitud total, un hangar grande puede ahorrar tiempo y esfuerzo.
 
 [[fig-06-02]]
-.Plegar las alas del planeador reduce el espacio de almacenamiento.
+.Plegar las {term-wing}s del {term-glider} reduce el espacio de almacenamiento.
 image::06/fig-06-02.folding-the-alas-of-the-planeador-reduces-storage.png[width=600]
 
 Una vez que un {term-glider} ha sido completamente montado y antes del vuelo, el piloto inspecciona todas las áreas críticas para asegurar la finalización de todas las conexiones de los controles de vuelo. Muchos fabricantes proporcionan una lista de verificación de montaje crítico (CAC) para usar después del montaje. Una verificación de controles positiva (PCC) proporciona un medio adicional de verificación que debe realizarse incluso si el personal apropiado completa un CAC. El piloto debe referirse a una lista de verificación escrita proporcionada por el fabricante o una fuente comercial que reproduzca con precisión las listas de verificación del {term-glider}.
@@ -42,7 +42,7 @@ Una vez que un {term-glider} ha sido completamente montado y antes del vuelo, el
 El transporte, almacenamiento o recuperación de {term-glider}es utiliza remolques especialmente diseñados <<fig-06-03>>, y los componentes del {term-glider} deben ajustarse cómodamente en el espacio proporcionado, sin forzarlos, y de una manera que prevenga el rozamiento. Los remolques de {term-glider}es también pueden tener áreas de almacenamiento para asegurar las piezas.
 
 [[fig-06-03]]
-.Componentes de un planeador almacenados y transportados en un remolque.
+.Componentes de un {term-glider} almacenados y transportados en un remolque.
 image::06/fig-06-03.componentes-of-a-planeador-stored-and-transported.png[width=600]
 
 Al conducir con el remolque, se aplican las precauciones y experiencia estándar de remolque de vehículos motorizados.
@@ -71,12 +71,12 @@ Si se transporta un {term-glider} o se estaciona un {term-glider} en clima frío
 
 Mover un {term-glider} en tierra requiere procedimientos especiales de manejo, especialmente durante vientos fuertes. Al mover un {term-glider}, todo el personal debe recibir una explicación sobre los procedimientos y señales.
 
-Al usar un vehículo para mover un planedor, el personal debe usar una línea de remolque de más de la mitad de la envergadura del {term-glider}. Si una punta del {term-wing} deja de moverse por cualquier razón, esta longitud de línea de remolque evita que el {term-glider} gire y golpee el vehículo de remolque con la punta del {term-wing} opuesta. Dado que cualquier viento o corrientes de aire de otra aeronave pueden causar que la cúpula del {term-glider} se cierre abruptamente, una cúpula cerrada y trabada puede prevenir daños al marco o plexiglás.
+Al usar un vehículo para mover un {term-glider}, el personal debe usar una línea de remolque de más de la mitad de la envergadura del {term-glider}. Si una punta del {term-wing} deja de moverse por cualquier razón, esta longitud de línea de remolque evita que el {term-glider} gire y golpee el vehículo de remolque con la punta del {term-wing} opuesta. Dado que cualquier viento o corrientes de aire de otra aeronave pueden causar que la cúpula del {term-glider} se cierre abruptamente, una cúpula cerrada y trabada puede prevenir daños al marco o plexiglás.
 
 Al comenzar a mover el vehículo de remolque, el conductor debe tomar lentamente la holgura en la línea para evitar sacudir el {term-glider}. La velocidad de remolque no debe exceder la de una caminata rápida. El conductor debe usar al menos un asistente de {term-wing}. El/los asistente(s) de {term-wing} y el conductor del vehículo de remolque funcionan como un equipo, alerta a obstáculos, viento y cualquier otro factor que pueda afectar la seguridad del {term-glider}. El conductor debe mantenerse alerta a cualquier señal del/los asistente(s) de {term-wing}. <<fig-06-06>>
 
 [[fig-06-06]]
-.Posicionamiento del planeador para el vehículo de remolque.
+.Posicionamiento del {term-glider} para el vehículo de remolque.
 image::06/fig-06-06.positioning-the-planeador-for-the-remolque-vehicle.png[width=600]
 
 Los vientos fuertes y las ráfagas pueden dañar el {term-glider} durante el manejo en tierra. Durante el movimiento en tierra con vientos fuertes, dos o más miembros de la tripulación normalmente sostienen las puntas de las {term-wing}s y un piloto se sienta en los controles para desplegar los {term-airbrake}s y sostener los controles apropiadamente.
@@ -84,12 +84,12 @@ Los vientos fuertes y las ráfagas pueden dañar el {term-glider} durante el man
 Otro método de remolque utiliza equipos de remolque especialmente diseñados como una barra de remolque que se une directamente al vehículo que remolca un remolque. La barra de remolque y otros equipos facilitan mucho la guía del {term-glider} y permiten que los asistentes de {term-wing} se concentren en las distancias de las puntas de {term-wing}s. <<fig-06-07>>
 
 [[fig-06-07]]
-.Un carro de ala (izquierda) listo para su fijación y un carro de cola (derecha) siendo usado para el movimiento del planeador en tierra.
+.Un carro de {term-wing} (izquierda) listo para su fijación y un carro de cola (derecha) siendo usado para el movimiento del {term-glider} en tierra.
 image::06/fig-06-07.a-ala-dolly-left-ready-for-attachment-and-a-cola.png[width=600]
 
 == Inspección del equipo de lanzamiento
 
-Aunque un piloto de {term-glider} puede inspeccionar la cuerda de remolque, el 14 CFR parte 91, sección 91.309(a) otorga a la persona que opera una aeronave civil que remolca un {term-glider} la responsabilidad sobre la {term-drag} de la cuerda de remolque. <<fig-06-08>> Dado que un punto débil podría desarrollarse en cualquier momento, las cuerdas de remolque deben someterse a inspección antes de cada vuelo. La línea de remolque debe estar libre de desgaste excesivo; todos los filamentos deben estar intactos, y la línea debe estar libre de nudos. Un nudo en la línea de remolque reduce su {term-drag} hasta en un 50 por ciento y crea un punto grueso en la línea de remolque más susceptible al desgaste. El anillo al que se une el {term-glider} puede crear un área de alto desgaste. Los operadores pueden reemplazar la cuerda de remolque periódicamente debido a la exposición ultravioleta (UV) del sol o después de un número específico de remolques.
+Aunque un piloto de {term-glider} puede inspeccionar la cuerda de remolque, el 14 CFR parte 91, sección 91.309(a) otorga a la persona que opera una aeronave civil que remolca un {term-glider} la responsabilidad sobre la {term-tow-rope-strength}. <<fig-06-08>> Dado que un punto débil podría desarrollarse en cualquier momento, las cuerdas de remolque deben someterse a inspección antes de cada vuelo. La línea de remolque debe estar libre de desgaste excesivo; todos los filamentos deben estar intactos, y la línea debe estar libre de nudos. Un nudo en la línea de remolque reduce su {term-breaking-strength} hasta en un 50 por ciento y crea un punto grueso en la línea de remolque más susceptible al desgaste. El anillo al que se une el {term-glider} puede crear un área de alto desgaste. Los operadores pueden reemplazar la cuerda de remolque periódicamente debido a la exposición ultravioleta (UV) del sol o después de un número específico de remolques.
 
 [[fig-06-08]]
 .Inspección de la línea de remolque.
@@ -101,23 +101,23 @@ Las cuerdas y {term-tow-rope}s están hechas de materiales como nylon, fibra de 
 .Materiales de cuerda de remolque.
 image::06/fig-06-09.remolque-cable-materials.png[width=600]
 
-La figura 6-10 muestra la {term-drag} de algunas cuerdas típicamente usadas. El fabricante de la cuerda puede proporcionar especificaciones exactas. 14 CFR parte 91, sección 91.309(a)(3), requiere {term-drag} de la línea de remolque dentro de un rango del 80 al 200 por ciento del {term-weight} máximo certificado del {term-glider}. Sin embargo, la línea de remolque puede tener una {term-drag} a la rotura de más del doble del {term-weight} máximo certificado de operación del {term-glider} si se usan eslabones de seguridad según lo especificado en el 14 CFR parte 91, sección 91.309(a)(3). Tenga en cuenta que un modelo específico de {term-glider} puede tener una limitación más estricta sobre la {term-drag} máxima de la línea de remolque. El POH listaría esta limitación.
+La figura 6-10 muestra la {term-breaking-strength} de algunas cuerdas típicamente usadas. El fabricante de la cuerda puede proporcionar especificaciones exactas. 14 CFR parte 91, sección 91.309(a)(3), requiere {term-breaking-strength} de la línea de remolque dentro de un rango del 80 al 200 por ciento del {term-weight} máximo certificado del {term-glider}. Sin embargo, la línea de remolque puede tener una {term-breaking-strength} de más del doble del {term-weight} máximo certificado de operación del {term-glider} si se usan eslabones de seguridad según lo especificado en el 14 CFR parte 91, sección 91.309(a)(3). Tenga en cuenta que un modelo específico de {term-glider} puede tener una limitación más estricta sobre la {term-breaking-strength} máxima de la línea de remolque. El POH listaría esta limitación.
 
 [[fig-06-10]]
 .Resistencias típicas de cuerdas.
 image::06/fig-06-10.typical-cable-strengths.png[width=600]
 
-Si se usa una línea de remolque con una {term-drag} a la rotura de más del doble del {term-weight} máximo certificado de operación del {term-glider}, el 14 CFR parte 91, sección 91.309(a)(3) requiere la instalación de dos eslabones de seguridad/débiles, cualquiera de los cuales puede romperse antes de que la tensión excesiva en la línea de remolque cause daños estructurales al {term-glider} o a la aeronave de remolque. El eslabón débil cerca del punto de fijación del {term-glider} <<fig-06-11>> requiere el mismo rango de {term-drag} a la rotura que la cuerda de remolque, del 80 al 200 por ciento del {term-weight} máximo certificado de operación del {term-glider}. El eslabón débil instalado cerca del punto de fijación de la aeronave de remolque debe tener una {term-drag} a la rotura mayor, pero no más del 25 por ciento mayor, que la del eslabón débil en el extremo del {term-glider} de la línea de remolque y no más del doble del {term-weight} máximo certificado de operación del {term-glider}. Consulte la figura 6-12 para un análisis de ejemplo de {term-drag} de eslabón débil.
+Si se usa una línea de remolque con una {term-breaking-strength} de más del doble del {term-weight} máximo certificado de operación del {term-glider}, el 14 CFR parte 91, sección 91.309(a)(3) requiere la instalación de dos eslabones de seguridad/débiles, cualquiera de los cuales puede romperse antes de que la tensión excesiva en la línea de remolque cause daños estructurales al {term-glider} o a la aeronave de remolque. El eslabón débil cerca del punto de fijación del {term-glider} <<fig-06-11>> requiere el mismo rango de {term-breaking-strength} que la cuerda de remolque, del 80 al 200 por ciento del {term-weight} máximo certificado de operación del {term-glider}. El eslabón débil instalado cerca del punto de fijación de la aeronave de remolque debe tener una {term-breaking-strength} mayor, pero no más del 25 por ciento mayor, que la del eslabón débil en el extremo del {term-glider} de la línea de remolque y no más del doble del {term-weight} máximo certificado de operación del {term-glider}. Consulte la figura 6-12 para un análisis de ejemplo de {term-breaking-strength} de eslabón débil.
 
 [[fig-06-11]]
 .Un eslabón de seguridad. La espuma agregada a la línea de remolque previene la abrasión de la línea de remolque.
 image::06/fig-06-11.a-seguridad-link-the-foam-added-to-the-remolque.png[width=600]
 
 [[fig-06-12]]
-.Requisitos de resistencia de eslabones de seguridad asumiendo un eslabón de 1 000 lb. instalado cerca del planeador.
+.Requisitos de resistencia de eslabones de seguridad asumiendo un eslabón de 1 000 libras instalado cerca del {term-glider}.
 image::06/fig-06-12.seguridad-link-strength-requirements-assuming-a.png[width=600]
 
-Los dos tipos más comunes de gancho de remolque son un diseño de sobrecentrado, como un gancho Schweizer, o un estilo de agarre, como un gancho Tost. Los pilotos deben inspeccionar y verificar que cualquier gancho de remolque esté libre de daños y opere libremente. [Figura 6-13 and Figure 6-14]
+Los dos tipos más comunes de gancho de remolque son un diseño de sobrecentrado, como un gancho Schweizer, o un estilo de agarre, como un gancho Tost. Los pilotos deben inspeccionar y verificar que cualquier gancho de remolque esté libre de daños y opere libremente (ver <<fig-06-13>> y <<fig-06-14>>).
 
 [[fig-06-13]]
 .Gancho de remolque tipo Schweizer.
@@ -131,14 +131,52 @@ image::06/fig-06-14.tost-gancho.png[width=600]
 
 Los pilotos deben realizar una inspección exhaustiva del {term-glider} antes del lanzamiento. Si el GFM/POH del {term-glider} no contiene una lista de verificación de prevuelo, el piloto debe desarrollar una lista de verificación utilizando las pautas contenidas en la Figura 6-15.
 
+Comience evaluando el estado general de la fibra de vidrio o tela.
+
+Esté alerta a señales de daño o desgaste excesivo.
+
+Asegúrese de que la {term-canopy} esté limpia y libre de daños.
+
+Verifique que las conexiones interiores de las {term-wing}s y controles estén seguras y firmes.
+
+Si se usa una batería, asegúrese de que esté cargada y sujeta de forma segura en su lugar apropiado.
+
+Asegúrese de que los arneses de los asientos estén libres de desgaste excesivo.
+
+Abroche y ajuste cualquier arnés que no se vaya a usar para evitar que interfiera inadvertidamente con los controles.
+
+Pruebe el gancho de remolque para asegurarse de que funciona correctamente.
+
+Inspeccione la parte superior, inferior y el borde de ataque de las {term-wing}s, asegurándose de que estén libres de suciedad excesiva, insectos y daños.
+
+Inspeccione los {term-airbrake}s en busca de daños mecánicos. Deben estar libres de obstrucciones. Realice una verificación de continuidad de controles.
+
+Inspeccione la punta de {term-wing} y el patín o rueda de punta de {term-wing} para verificar su estado general.
+
+Inspeccione los {term-aileron}s para verificar la libertad de movimiento, el estado de las bisagras y conexiones, y el estado de la cinta de sellado. Realice una verificación de continuidad de controles.
+
+Verifique el estado de los {term-flap}s en busca de daños y para el rango de movimiento apropiado. Realice una verificación de continuidad de controles.
+
+Inspeccione el estado general del empenaje.
+
+Verifique los puertos estáticos, el tubo pitot y la sonda de energía total para asegurarse de que estén libres de obstrucciones.
+
+Verifique la parte superior, inferior y el borde de ataque del {term-tailplane} en busca de insectos, suciedad y daños.
+
+Verifique el tren de aterrizaje en busca de signos de daño o desgaste excesivo. Las pastillas de freno deben verificarse si son visibles; de lo contrario, los frenos pueden verificarse empujando el {term-glider} hacia adelante y aplicando los frenos. Tenga en cuenta que el tren de aterrizaje es frecuentemente un área problemática para los {term-glider}es utilizados en entrenamiento.
+
+Verifique el {term-elevator} y el {term-trim} para saber el estado de las conexiones, libertad de movimiento y estado de la cinta de sellado. Realice una verificación de continuidad de controles.
+
+Verifique la libertad de movimiento del {term-rudder} y el estado de las conexiones. Realice una verificación de continuidad de controles.
+
 
 [[fig-06-15]]
-.Lista de verificación de inspección de prevuelo de un planeador.
+.Lista de verificación de inspección de prevuelo de un {term-glider}.
 image::06/fig-06-15.a-planeador-pre-vuelo-inspeccion-lista.png[width=600]
 
 == Lista de verificación prevuelo
 
-El piloto debe realizar una verificación de controles positiva con la ayuda de un miembro adicional de la tripulación, especialmente si el {term-glider} acaba de ser montado. El piloto mueve la palanca de control y los pedales del timón mientras el miembro de la tripulación proporciona {term-drag}, sosteniendo cada {term-aileron}, el elevador, los {term-airbrake}s, los {term-flap}s y el timón para asegurar conexiones de control correctas y seguras. <<fig-06-16>> Una palanca o pedal que se mueve libremente con las superficies de control correspondientes restringidas indica que las conexiones no están seguras, y el {term-glider} no es aeronavegable. Los pilotos deben ajustar los asientos del piloto o pasajero, así como los controles ajustables, como los pedales del timón, antes de abrocharse el cinturón de seguridad y el arnés de hombros. Se debe tener cuidado de evitar pinzar o sujetar cualquier suministro de oxígeno a bordo.
+El piloto debe realizar una verificación de controles positiva con la ayuda de un miembro adicional de la tripulación, especialmente si el {term-glider} acaba de ser montado. El piloto mueve la palanca de control y los pedales del timón mientras el miembro de la tripulación proporciona resistencia, sosteniendo cada {term-aileron}, el elevador, los {term-airbrake}s, los {term-flap}s y el timón para asegurar conexiones de control correctas y seguras. <<fig-06-16>> Una palanca o pedal que se mueve libremente con las superficies de control correspondientes restringidas indica que las conexiones no están seguras, y el {term-glider} no es aeronavegable. Los pilotos deben ajustar los asientos del piloto o pasajero, así como los controles ajustables, como los pedales del timón, antes de abrocharse el cinturón de seguridad y el arnés de hombros. Se debe tener cuidado de evitar pinzar o sujetar cualquier suministro de oxígeno a bordo.
 
 [[fig-06-16]]
 .Verificación de controles positiva de los aerofrenos.

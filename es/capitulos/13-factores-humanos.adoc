@@ -50,7 +50,7 @@ Todos los pilotos cometen errores, y muchos pilotos pueden tener vacíos en el c
 
 === Tipos de errores
 
-Un tipo de error involuntario consiste en el fallo para realizar una acción prevista dentro de tolerancias aceptables. Por otro lado, una opinión incorrecta, mal juicio, razonamiento deficiente, actitud descuidada o conocimiento insuficiente pueden causar un error más grave. Por ejemplo, un piloto con buenas habilidades de palanca y pedales pero nuevo en vela de cresta podría volar hacia fuerte descendencia en el lado de sotavento de una cresta y escapar por poco de golpear el terreno. La falta de conocimiento y el mal juicio del piloto podrían llevar a este tipo de error.
+Un tipo de error involuntario consiste en el fallo para realizar una acción prevista dentro de tolerancias aceptables. Por otro lado, una opinión incorrecta, mal juicio, razonamiento deficiente, actitud descuidada o conocimiento insuficiente pueden causar un error más grave. Por ejemplo, un piloto con buenas habilidades de palanca y pedales pero nuevo en vela de ladera podría volar hacia fuerte descendencia en el lado de sotavento de una cresta y escapar por poco de golpear el terreno. La falta de conocimiento y el mal juicio del piloto podrían llevar a este tipo de error.
 
 ==== Intencional
 
@@ -202,7 +202,7 @@ Antes del lanzamiento, el piloto debe informar a cualquier pasajero sobre el uso
 
 === Paracaídas
 
-Los pilotos pueden usar un paracaídas para emergencias. Un empacador de paracaídas certificado y con calificación apropiada debe reempacar un paracaídas de nylon dentro de los 180 días precedentes. La información de fecha de empaque usualmente se encuentra en una tarjeta contenida en un pequeño bolsillo en el cuerpo del paracaídas. Refiérase al 14 CFR, parte 91, sección 91.307 para más información.
+Los pilotos pueden usar un paracaídas para emergencias. Un técnico de paracaídas certificado y con calificación apropiada debe reempacar un paracaídas de nylon dentro de los 180 días precedentes. La información de fecha de empaque usualmente se encuentra en una tarjeta contenida en un pequeño bolsillo en el cuerpo del paracaídas. Refiérase al 14 CFR, parte 91, sección 91.307 para más información.
 
 === Oxígeno suplementario
 
@@ -220,7 +220,7 @@ El 14 CFR, parte 91, sección 91.211, dicta los requisitos de tiempo y altitud p
 
 • C = Conexiones
 
-• E = Botella de emergencia de escape
+• E = Botella de oxígeno de emergencia
 
 ==== Sistemas de oxígeno de aviación
 
@@ -293,6 +293,156 @@ La Circular de Asesoramiento (AC) 60-22, Toma de Decisiones Aeronáuticas, propo
 La Junta Nacional de Seguridad en el Transporte (NTSB) compila un informe de accidente cada vez que ocurre un accidente de {term-glider} notificable. Las personas interesadas pueden encontrar esta información pública en www.ntsb.gov.
 
 Una persona usando la base de datos de accidentes del NTSB, puede usar su herramienta de consulta proporcionada para realizar una búsqueda simple usando el término «glider» (y otros elementos opcionales) para recuperar informes de accidentes que involucren a {term-glider}es. El detalle en estos informes proporciona una narrativa de circunstancias y eventos que llevaron a cada accidente. Dado que las decisiones del piloto antes y durante el vuelo pueden haber prevenido estos accidentes, una revisión puede ilustrar el concepto de una cadena de accidente. Ese entendimiento debería impulsar a los pilotos a hacer de la seguridad y la mitigación de riesgo una alta prioridad. La <<fig-13-13,Figura 13-13>> contiene un resumen de varios informes finales de accidentes de {term-glider} de los últimos años.
+
+[cols="1,2,1,4"]
+|===
+|Fecha del Evento |Tipo de {term-glider} |Lesiones |Causa Probable
+
+|09/02/2020
+|Aviastroitel AC 4C
+|Fatal
+|El piloto excedió el {term-aoa} crítico del {term-glider} mientras maniobraba para el {term-landing}, lo que resultó en una {term-stall} aerodinámica y posterior pérdida de control.
+
+|01/03/2020
+|Let L 23 SUPER BLANIK
+|Grave
+|El fallo del piloto para mantener el control del {term-glider} y exceder el {term-aoa} crítico del {term-glider} mientras maniobraba en condiciones de viento racheado, lo que resultó en una {term-stall} aerodinámica.
+
+|07/04/2020
+|Schempp Hirth Standard Cirrus
+|Fatal
+|El piloto excedió el {term-aoa} crítico del {term-glider} tras la terminación prematura del remolque por razones que no pudieron determinarse, resultando en una {term-stall} aerodinámica/{term-spin} durante un giro de regreso al aeropuerto de salida.
+
+|11/05/2020
+|Schempp Hirth VENTUS 2CT
+|Menor
+|Una pérdida de {term-lift} térmica durante un vuelo de planeador motorizado, que resultó en un {term-off-field-landing}. Contribuyó al accidente el intento retrasado de arranque del motor por parte del piloto.
+
+|04/06/2020
+|Gilasflugel Mosquito
+|Ninguna
+|La decisión del piloto de desviarse al aeropuerto privado y su posterior fallo para mantener el control direccional mientras aterrizaba en una pista de césped que contenía hierba alta.
+
+|13/06/2020
+|Pipistrel PIPISTREL SINUS 912
+|Ninguna
+|El fallo del piloto para mantener la velocidad mientras aterrizaba con un viento de cola cruzado, lo que resultó en una pérdida de control y un {term-landing} duro.
+
+|11/07/2020
+|Schleicher ASW27
+|Fatal
+|La pérdida de control del {term-glider} por parte del piloto mientras maniobraba cerca de una cresta montañosa en corrientes descendentes y micro ráfagas secas a una altitud que impidió la recuperación.
+
+|16/08/2020
+|Evektor Aerotechnik L13
+|Grave
+|El fallo del piloto para guardar el freno de velocidad antes de intentar el {term-takeoff}.
+
+|PIK PIK-200
+|Menor
+|El fallo del piloto para mantener el control direccional durante el {term-takeoff} que resultó en una colisión con otro {term-glider} que estaba estacionado cerca de la pista de salida, y la decisión impropia del piloto de intentar un {term-takeoff} sin asegurar que tenía espacio libre seguro del {term-glider} estacionado.
+
+|29/09/2020
+|Schleicher ASK21
+|Ninguna
+|La entrada de control impropia del piloto durante un {term-landing} rebotado que resultó en que el {term-glider} impactara el terreno.
+
+|07/11/2020
+|Schleicher ASW20C (A1); Schleicher ASW27 (A2)
+|Grave
+|El fallo de ambos pilotos de cada {term-glider} para ver y evitar al otro mientras maniobraban, lo que resultó en una colisión en el aire.
+
+|27/12/2020
+|Glasflugel CLUB LIBELLE 205
+|Grave
+|El fallo del piloto para mantener una separación adecuada de los árboles durante un {term-off-field-landing}.
+
+|22/04/2021
+|Schempp Hirth Ventus C
+|Grave
+|Impacto con árboles durante un {term-landing} forzoso en condiciones de {term-lift} atmosférica que eran insuficientes para mantener el vuelo. Contribuyó la decisión retrasada del piloto de regresar al aeropuerto.
+
+|I.C.A. BRASOV (RUMANIA) IS-2882
+|Grave
+|El fallo del instructor de vuelo para mantener el control de la aeronave resultando en exceder el {term-aoa} crítico del {term-glider} tras la rotura del enlace débil/seguridad durante un lanzamiento por torno, lo que resultó en una {term-stall} aerodinámica y {term-spin}, y posterior impacto con árboles y terreno.
+
+|20/05/2021
+|Pilatus 84-PC11
+|Menor
+|El ángulo de {term-approach} mal juzgado del piloto que resultó en impacto con árboles y terreno.
+
+|05/06/2021
+|Schweizer SGS 2-33A
+|Ninguna
+|El fallo del piloto para mantener el control direccional mientras aterrizaba en condiciones de viento racheado.
+
+|06/06/2021
+|Schweizer SGS 1-35
+|Fatal
+|La suelta a baja altitud del piloto del remolque por razones que no pudieron determinarse, y su posterior exceso del {term-aoa} crítico del {term-glider} mientras regresaba a la pista, lo que resultó en una {term-stall} aerodinámica e impacto con el terreno.
+
+|13/06/2021
+|Schweizer SGS 2-33A
+|Grave
+|El fallo del alumno piloto para mantener una trayectoria de planeo apropiada a la pista.
+
+|20/06/2021
+|Schweizer SGS 1-35
+|Menor
+|La pérdida de referencias visuales del piloto de {term-glider} durante la {term-approach} de {term-landing} resultando en un {term-off-field-landing} en terreno inclinado y áspero.
+
+|15/07/2021
+|ALEXANDER SCHLEICHER GMBH & CO ASW 27-18
+|Ninguna
+|El fallo del piloto para mantener la estabilidad del {term-glider} en el eje de alabeo durante la carrera de {term-takeoff}, lo que resultó en una punta de {term-wing} arrastrada y un caballito (ground loop).
+
+|BURKHART GROB G 103 TWIN
+|Menor
+|El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo lo que resultó en un {term-off-field-landing} y una colisión con una cerca.
+
+|15/08/2021
+|Schweizer SGS 2-33A
+|Ninguna
+|El fallo del piloto examinador para tener en cuenta la distancia de salida extendida del aeropuerto durante una rotura de {term-tow-rope} simulada y recuperación.
+
+|07/09/2021
+|Aeromot AMT-100
+|Ninguna
+|El fallo del piloto para extender el tren de aterrizaje.
+
+|21/10/2021
+|Pipistrel Apis-Bee
+|Grave
+|El fallo del piloto para mantener el control del {term-glider} durante la {term-approach} de {term-landing}, lo que resultó en una {term-stall} aerodinámica y posterior impacto con la pista.
+
+|17/11/2021
+|PHOENIX AIR U-15 PHOENIX
+|Ninguna
+|El fallo del piloto para mantener distancia con una señal de aeropuerto mientras rodaba.
+
+|ALEXANDER SCHLEICHER GMBH & CO ASK 21
+|Ninguna
+|El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo y posterior impacto con terreno montañoso.
+
+|ROLLADEN-SCHNEIDER 15-6
+|Ninguna
+|El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo y posterior amaraje.
+
+|LET L-23 SUPER BLANIK
+|Grave
+|El encuentro del piloto con condiciones de aire descendente que resultaron en una pérdida de {term-lift} y una posterior pérdida de control.
+
+|DG FLUGZEUGBAU GMBH DG 10005
+|Ninguna
+|El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo. Contribuyó al accidente la decisión del piloto de sobrevolar un sitio de {term-landing} adecuado lo que resultó en un {term-off-field-landing} en un lago.
+
+|10/07/2022
+|Schleicher ASW-198
+|Ninguna
+|La mala identificación de la pista por parte del piloto durante la {term-approach} visual que resultó en un {term-landing} fuera de pista e impacto con un remolque.
+|===
+
+
 
 
 [[fig-13-13]]

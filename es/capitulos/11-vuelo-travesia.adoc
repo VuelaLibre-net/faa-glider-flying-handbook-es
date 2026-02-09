@@ -45,6 +45,88 @@ El piloto debe obtener un informe estándar y un pronóstico de vela de una fuen
 
 El piloto debe contactar a un informador o fuente derivada del NWS para un pronóstico de vuelo a vela actual. Como se discutió brevemente en el Capítulo 9, Vuelo de {term-glider} y Meteorología, ciertas Oficinas de Pronóstico del Servicio Meteorológico Nacional (WFO) emiten pronósticos de vuelo a vela. Estos pronósticos automatizados derivan principalmente de la observación de radiosonda o sondeos generados por modelos. El contenido y formato de un pronóstico de vuelo a vela varían dependiendo del NWS WFO que proporciona el pronóstico y las necesidades de la comunidad de vuelo a vela local. Un pronóstico de vuelo a vela se emite una vez al día sin monitoreo continuo o actualización después de la emisión inicial. El contenido y formato de un pronóstico de vuelo a vela así como los horarios de emisión están sujetos a cambio sin previo aviso. El siguiente pronóstico de vuelo a vela de muestra vino del WFO en Salt Lake City, Utah <<fig-11-02>>:
  
+*Pronóstico de Vuelo a Vela Servicio Meteorológico Nacional Denver/Boulder, Colorado 645 AM MDT Miércoles 25 de Agosto, 2010*
+
+Este pronóstico es para el miércoles 25 de agosto, 2010:
+
+Si se alcanza la temperatura de disparo de 77,3 F/25,2 C... entonces
+Índice de Vuelo Térmico....................... Excelente
+Tasa máxima de ascenso........................ 911 pies/min (4,6 m/s)
+Altura máxima de las térmicas................. 16.119 pies MSL (10.834 pies AGL)
+
+Temperatura máxima pronosticada.................... 89,0 F/32,1 C
+Hora de la temperatura de disparo.................. 1100 MDT
+Hora de sobredesarrollo............................ Ninguna
+Nubes medias/altas durante la ventana de vuelo..... Ninguna
+Vientos de superficie durante la ventana de vuelo.. 20 mph o menos
+Altura del índice térmico -3....................... 10.937 pies MSL (5.652 pies AGL)
+Perspectiva de vuelo térmico para el jueves 26/08.. Excelente
+
+Índice de Vuelo de Onda............................ Pobre
+Tendencia del Índice de Vuelo de Onda (hasta 1800 MDT)......... Sin cambio
+Altura de la capa estable (12-18K pies MSL)........ Ninguna
+PVA/NVA débil (hasta 1800 MDT)..................... Ninguna
+Altura potencial de la onda........................ 14.392 pies MSL (9.107 pies AGL)
+Perspectiva de vuelo de onda para el jueves 26/08.. Pobre
+
+Amanecer/Atardecer.................... 06:20:55 / 19:42:44 MDT
+Sol total posible..................... 13 hr 21 min 49 seg (801 min 49 seg)
+Altitud del sol a las 13:01:25 MDT.... 60,82 grados
+
+Datos de aire superior de la observación de radiosonda tomada el 25/08/2010 a las 0600 MDT
+
+Nivel de congelación.................. 15.581 pies MSL (10.296 pies AGL)
+Nivel de congelación adicional........ 54.494 pies MSL (49.209 pies AGL)
+Nivel de condensación por convección.. 13.902 pies MSL (8.617 pies AGL)
+Nivel de condensación por ascenso..... 14.927 pies MSL (9.641 pies AGL)
+Índice de inestabilidad (Lifted)...... -3,4
+Índice K.............................. +9,7
+
+* * * * * * Datos de pronóstico del modelo de predicción numérica del tiempo válidos * * * * * *
+
+25/08/2010 a las 0900 MDT | 25/08/2010 a las 1200 MDT
+
+Índice K... +4,0 | Índice K... -0,7
+
+Este producto se emite dos veces al día, una vez aproximadamente a las 0630 MST/0730 MDT (1330 UTC) y de nuevo aproximadamente a las 1830 MST/1930 MDT (0130 UTC). No es monitoreado continuamente ni actualizado después de su emisión inicial.
+
+La información contenida aquí se basa en la observación de radiosonda y/o datos del modelo de predicción numérica del tiempo tomados cerca del antiguo sitio del Aeropuerto Stapleton en Denver, Colorado en
+
+Latitud Norte: 39 deg 46 min 5,016 seg Longitud Oeste: 104 deg 52 min 9,984 seg Elevación: 5.285 pies (1.611 metros)
+
+y puede no ser representativa de otras áreas a lo largo del Front Range de las Montañas Rocosas de Colorado. Tenga en cuenta que algunas elevaciones en los modelos de predicción numérica del tiempo difieren de las elevaciones reales de las estaciones, lo que puede llevar a datos que parecen estar bajo tierra. Los datos erróneos como estos no deben usarse.
+
+El contenido y formato de este informe, así como los horarios de emisión, están sujetos a cambios sin previo aviso. Los comentarios y sugerencias son bienvenidos y deben dirigirse a una de las direcciones o números de teléfono que se muestran en la parte inferior de esta página. Para acelerar una respuesta a los comentarios, asegúrese de mencionar su interés en el pronóstico de vuelo a vela.
+
+=== DEFINICIONES:
+
+Nivel de Condensación por Convección (CCL): La altura a la que una parcela de aire que posee la relación de mezcla de saturación promedio en los 4.000 pies más bajos de la masa de aire, si se calienta suficientemente desde abajo, ascenderá seca adiabáticamente hasta que se sature. Estima la base de las nubes cúmulos que se producen solo por calentamiento de la superficie.
+
+Temperatura de Convección (ConvectionT): La temperatura superficial requerida para hacer que la masa de aire sea seca adiabática hasta el nivel dado. Puede considerarse una «temperatura de disparo» para ese nivel.
+
+Nivel de Congelación: La altura donde la temperatura es cero grados Celsius.
+
+Altura de la Capa Estable: La altura (entre 12.000 y 18.000 pies sobre el nivel medio del mar) donde existe el gradiente térmico más pequeño. La ubicación y existencia de esta característica es importante en la generación de ondas de montaña.
+
+Índice K: Una medida de estabilidad que combina la diferencia de temperatura entre aproximadamente 5.000 y 18.000 pies sobre la superficie, la cantidad de humedad a aproximadamente 5.000 pies sobre la superficie, y una medida de la sequedad a aproximadamente 10.000 pies sobre la superficie. Números positivos más grandes indican más inestabilidad y una mayor probabilidad de desarrollo de tormentas eléctricas. Una interpretación de los valores del índice K con respecto al vuelo a vela en el oeste de los Estados Unidos se da en la Nota Técnica 158 de la WMO y se reproduce en la siguiente tabla:
+
+debajo de -10, térmicas nulas o débiles
+-10 a 5, térmicas secas o 1/8 de cúmulos con térmicas moderadas
+5 a 15, buenas condiciones de vuelo a vela
+15 a 20, buenas condiciones de vuelo a vela con lluvias ocasionales
+20 a 30, excelentes condiciones de vuelo a vela, pero probabilidad creciente de lluvias y tormentas eléctricas
+por encima de 30, más del 60 por ciento de probabilidad de tormentas eléctricas
+
+Gradiente Térmico (Lapse Rate): El cambio con la altura de la temperatura. Los valores negativos indican inversiones.
+
+Nivel de Condensación por Ascenso (LCL): La altura a la que una parcela de aire que posee el punto de rocío promedio en los 4.000 pies más bajos de la masa de aire y la temperatura máxima pronosticada debe elevarse seca adiabáticamente para alcanzar la saturación.
+
+Índice de Inestabilidad (Lifted Index): La diferencia entre la temperatura ambiental a un nivel aproximadamente 18.000 pies sobre la superficie y la temperatura de una parcela de aire elevada seca adiabáticamente desde la superficie hasta su nivel de condensación por ascenso y luego pseudoadiabáticamente a partir de entonces hasta este mismo nivel. La temperatura inicial de la parcela es la temperatura máxima pronosticada y su punto de rocío es el punto de rocío promedio en los 4.000 pies más bajos de la masa de aire. Los valores negativos son indicativos de inestabilidad con valores positivos mostrando condiciones estables.
+
+Tasa de Ascenso (Lift Rate): Una estimación experimental de la fuerza de las térmicas. Se calcula de la misma manera que la tasa máxima de ascenso, pero utiliza el nivel real en lugar de la altura máxima de las térmicas en el cálculo. Además, ninguno de los ajustes empíricos basados en la nubosidad y el índice K se aplica a estos cálculos.
+
+Altura Máxima de las Térmicas: La altura donde la adiabática seca a través de la temperatura máxima pronosticada interseca la temperatura ambiental.
+
 [[fig-11-02]]
 .Pronóstico de Vuelo a Vela de Muestra.
 image::11/fig-11-02.sample-vuelo-vela-forecast.png[width=600]
@@ -53,7 +135,7 @@ En el pronóstico de vuelo a vela de muestra representado arriba, la línea para
 
 === Finalizando planes
 
-Los pilotos pueden tener objetivos específicos para su próximo vuelo de travesía y deben planificar basándose en el área y diferentes escenarios meteorológicos. Si planea un vuelo de 300 millas náuticas (MN) de ruta cerrada, el piloto debe considerar varios cursos posibles de ida y vuelta o triángulo con anticipación. El día de la salida, el piloto puede seleccionar la mejor opción pre-planeada basándose en la perspectiva meteorológica. Dado que numerosos detalles finales necesitan atención en la mañana del vuelo, el conteo de los artículos usados durante el vuelo debe tener lugar el día anterior.
+Los pilotos pueden tener objetivos específicos para su próximo vuelo de travesía y deben planificar basándose en el área y diferentes escenarios meteorológicos. Si planea un vuelo de 300 millas náuticas (NM) de ruta cerrada, el piloto debe considerar varios cursos posibles de ida y vuelta o triángulo con anticipación. El día de la salida, el piloto puede seleccionar la mejor opción pre-planeada basándose en la perspectiva meteorológica. Dado que numerosos detalles finales necesitan atención en la mañana del vuelo, el conteo de los artículos usados durante el vuelo debe tener lugar el día anterior.
 
 La falta de preparación puede llevar a retrasos, que pueden no dejar suficiente del día de vela para lograr el vuelo planeado. Peor aún, la mala planificación lleva a una preparación apresurada de último momento y prisa para lanzarse, haciendo fácil omitir elementos críticos de seguridad.
 
@@ -83,6 +165,16 @@ Varios artículos llevados a bordo pueden asistir en caso de un {term-off-field-
 
 El vuelo a vela de travesía requiere algún medio de medir distancias a la siguiente fuente de {term-lift} o a la siguiente área de {term-landing} adecuada. Los pilotos pueden usar un sistema GPS para medir distancias o un sistema mecánico como un trazador y carta en papel. <<fig-11-03>>
 
+=== INSTRUCCIONES DE USO
+
+Coloque el agujero sobre la intersección del curso verdadero y la línea del norte verdadero.
+
+Sin cambiar la posición, gire el trazador hasta que el borde esté sobre la línea del curso verdadero.
+
+Desde el agujero, siga la línea del norte verdadero hasta la escala curva con la flecha apuntando en la dirección del vuelo.
+
+Lea el curso verdadero en grados, en la escala apropiada, sobre la línea del norte verdadero. Lea las escalas en sentido antihorario.
+
 [[fig-11-03]]
 .Trazador navegacional.
 image::11/fig-11-03.navigational-plotter.png[width=600]
@@ -103,9 +195,9 @@ Además de una calculadora de planeo, una computadora de vuelo o {term-maccready
 
 Existen muchos modelos de calculadoras de planeo electrónicas. A menudo acopladas con un {term-variometer} electrónico, muestran la altitud necesaria para distancia y viento según lo ingresado por el piloto. Además, muchas calculadoras de planeo electrónicas tienen funciones de velocidad de vuelo que indican si el piloto debe volar más rápido o más lento. La mayoría de los directores de velocidad óptima electrónicos incluyen indicaciones de audio, así que el piloto puede mantenerse enfocado visualmente fuera de la cabina. El piloto debe tener respaldos manuales para calculadoras de planeo electrónicas y directores de velocidad óptima en caso de batería baja u otra falla del sistema electrónico.
 
-Otro equipo puede verificar el rendimiento de vela que permite a un piloto recibir una insignia de la Federación Aeronáutica Internacional (FAI) o registrar vuelos. Estos incluyen cámaras de punto de giro, barógrafos y grabadores de vuelo GPS. Para descripciones completas de estos artículos, así como reglas de insignias o récords, consulte el sitio web de la Soaring Society of America para detalles.
+Otro equipo puede verificar el rendimiento de vela que permite a un piloto recibir una insignia de la Federación Aeronáutica Internacional (FAI) o registrar vuelos. Estos incluyen cámaras de punto de viraje, barógrafos y grabadores de vuelo GPS. Para descripciones completas de estos artículos, así como reglas de insignias o récords, consulte el sitio web de la Soaring Society of America para detalles.
 
-Finalmente, los pilotos deben considerar usar un bloc de notas o tablero de rodilla para hacer notas antes y durante el vuelo. Las notas antes del vuelo podrían incluir información meteorológica como pronósticos de vientos en niveles altos o distancia entre puntos de giro. En vuelo, anotar la hora de {term-takeoff} y hora de inicio y hora alrededor de cualquier punto de giro ayuda a calcular la velocidad promedio alrededor del curso.
+Finalmente, los pilotos deben considerar usar un bloc de notas o tablero de rodilla para hacer notas antes y durante el vuelo. Las notas antes del vuelo podrían incluir información meteorológica como pronósticos de vientos en niveles altos o distancia entre puntos de viraje. En vuelo, anotar la hora de {term-takeoff} y hora de inicio y hora alrededor de cualquier punto de viraje ayuda a calcular la velocidad promedio alrededor del curso.
 
 == Navegación
 
@@ -114,7 +206,7 @@ Los pilotos de aviones navegan por pilotaje (volando por referencia a puntos de 
 
 === Un vuelo de travesía de muestra
 
-Para propósitos de entrenamiento, un piloto podría planificar un curso triangular comenzando en el Aeropuerto Portales (PRZ), con puntos de giro en el Aeropuerto Benger (X54) y el pueblo de Circle Back. La preparación de pre-vuelo incluye dibujar las líneas de curso para los tres tramos usando un sistema electrónico o carta. <<fig-11-06>>
+Para propósitos de entrenamiento, un piloto podría planificar un curso triangular comenzando en el Aeropuerto Portales (PRZ), con puntos de viraje en el Aeropuerto Benger (X54) y el pueblo de Circle Back. La preparación de pre-vuelo incluye dibujar las líneas de curso para los tres tramos usando un sistema electrónico o carta. <<fig-11-06>>
 
 [[fig-11-06]]
 .Triángulo de travesía dibujado en la Carta Seccional de Albuquerque.
@@ -126,19 +218,19 @@ Durante la preparación de pre-vuelo, el piloto debe estudiar la línea de curso
 
 El piloto debe ver el aeropuerto de Clovis (CVN) siguiente y vigilar el tráfico operando dentro y fuera del aeropuerto. Después de Clovis, los pueblos de Bovina y Friona pueden servir como puntos de referencia para el vuelo. El VOR Texico (TXO), una estación de VHF Omnidirectional Range cerca de Bovina sirve como ayuda de {term-approach} al aeropuerto de Clovis, y el piloto debe permanecer alerta por más tráfico de aeronaves con motor como resultado.
 
-El piloto puede ubicar el primer punto de giro fácilmente debido a buenos puntos de referencia, incluyendo el Aeropuerto Benger (X54). <<fig-11-07>> El segundo tramo tiene menos puntos de referencia. Después de aproximadamente 25 millas, el pueblo de Muleshoe y el Aeropuerto Muleshoe (2T1) deberían aparecer. (Ver Figura 11-6). El pueblo debería aparecer a la derecha y el aeropuerto a la izquierda del curso previsto.
+El piloto puede ubicar el primer punto de viraje fácilmente debido a buenos puntos de referencia, incluyendo el Aeropuerto Benger (X54). <<fig-11-07>> El segundo tramo tiene menos puntos de referencia. Después de aproximadamente 25 millas, el pueblo de Muleshoe y el Aeropuerto Muleshoe (2T1) deberían aparecer. (Ver Figura 11-6). El pueblo debería aparecer a la derecha y el aeropuerto a la izquierda del curso previsto.
 
 [[fig-11-07]]
 .VOR TEXICO y Aeropuerto Benger (X54).
 image::11/fig-11-07.texico-vor-and-benger-aerodromo-x54.png[width=600]
 
-A continuación, el curso entra en el Área de Operaciones Militares Bronco 1 (MOA). Las dimensiones del MOA aparecen en la carta seccional, y el piloto debe determinar los tiempos activos de este espacio aéreo. Aproximándose al segundo punto de giro, el piloto podría confundir los pueblos de Circle Back y Needmore. <<fig-11-06>> La posición relativa de una obstrucción de 466 pies sobre el nivel del terreno (AGL) y una carretera que se dirige hacia el norte fuera de Needmore proporcionan pistas para identificación. Los puntos de referencia en el tercer tramo <<fig-11-08>> incluyen líneas de transmisión de energía, Lago Salt (posiblemente seco), el pequeño pueblo de Arch, y una carretera principal viniendo hacia el sur de Portales.
+A continuación, el curso entra en el Área de Operaciones Militares Bronco 1 (MOA). Las dimensiones del MOA aparecen en la carta seccional, y el piloto debe determinar los tiempos activos de este espacio aéreo. Aproximándose al segundo punto de viraje, el piloto podría confundir los pueblos de Circle Back y Needmore. <<fig-11-06>> La posición relativa de una obstrucción de 466 pies sobre el nivel del terreno (AGL) y una carretera que se dirige hacia el norte fuera de Needmore proporcionan pistas para identificación. Los puntos de referencia en el tercer tramo <<fig-11-08>> incluyen líneas de transmisión de energía, Lago Salt (posiblemente seco), el pequeño pueblo de Arch, y una carretera principal viniendo hacia el sur de Portales.
 
 [[fig-11-08]]
 .Circle Back y Needmore.
 image::11/fig-11-08.circle-back-and-needmore.png[width=600]
 
-El vuelo puede comenzar después de una revisión final del tiempo, una inspección exhaustiva de pre-vuelo del {term-glider}, y después de estibar todo el equipo apropiado. Una vez en el aire y en curso, el piloto puede intentar verificar los vientos en niveles altos mientras usa pilotaje para permanecer lo más cerca posible de la línea de rumbo según lo permitan las condiciones de vuelo a vela. Si se hacen desviaciones de curso, el piloto debe permanecer consciente de la ubicación de la línea de rumbo al siguiente punto de giro. Por ejemplo, un Cu directamente adelante puede indicar {term-lift}, pero uno a 30° fuera de curso indica posiblemente aún más {term-lift}. El piloto elige si proceder hacia la {term-lift} mayor aceptando una distancia más larga para volar, o aceptar una {term-lift} menor con una desviación de curso más pequeña.
+El vuelo puede comenzar después de una revisión final del tiempo, una inspección exhaustiva de pre-vuelo del {term-glider}, y después de estibar todo el equipo apropiado. Una vez en el aire y en curso, el piloto puede intentar verificar los vientos en niveles altos mientras usa pilotaje para permanecer lo más cerca posible de la línea de rumbo según lo permitan las condiciones de vuelo a vela. Si se hacen desviaciones de curso, el piloto debe permanecer consciente de la ubicación de la línea de rumbo al siguiente punto de viraje. Por ejemplo, un Cu directamente adelante puede indicar {term-lift}, pero uno a 30° fuera de curso indica posiblemente aún más {term-lift}. El piloto elige si proceder hacia la {term-lift} mayor aceptando una distancia más larga para volar, o aceptar una {term-lift} menor con una desviación de curso más pequeña.
 
 A veces un piloto determina un curso aproximado mientras está en el aire. Suponga que a unas pocas millas antes de llegar al pueblo de Muleshoe, en el segundo tramo, el tiempo adelante se ha deteriorado—se desarrolló una lluvia en el {term-turnpoint} final (Circle Back). En lugar de continuar, el piloto puede acortar el triángulo y regresar directamente a Portales. El piloto determina que Portales está aproximadamente a 37 millas de distancia en un rumbo estimado de aproximadamente 240° verdadero o aproximadamente 231° magnético después de considerar la variación magnética. El piloto ajusta por el viento del noroeste en casi 90° a través del nuevo curso y usa una corrección de deriva de 10° o 20° a la derecha, permitiendo alguna deriva en ascensos térmicos. Con práctica, un piloto puede manejar un cambio de curso en vuelo con relativa facilidad.
 
@@ -160,7 +252,7 @@ Antes de aventurarse más allá de la distancia de planeo desde el aeropuerto de
 .Ejemplos de cursos de travesía de práctica.
 image::11/fig-11-09.examples-of-practice-travesia-courses.png[width=600]
 
-Algunas computadoras de vuelo calculan automáticamente los vientos en niveles altos mientras que otros sistemas GPS estiman los vientos calculando la deriva después de varios giros térmicos. Cuando se vuela con GPS, el piloto puede determinar un componente de viento de frente desde TAS por simple resta de la velocidad sobre el terreno mientras se mantiene un rumbo particular. Determinar los vientos en niveles altos sin ninguno de los sistemas puede resultar difícil. Una primera estimación viene de los pronósticos de vientos en niveles altos. Una vez en el aire, el piloto puede estimar la velocidad del viento a nivel de nube desde la trayectoria de las sombras de los cumulus sobre el terreno. Sin embargo, los vientos a niveles más bajos pueden diferir de los de nivel de nube. En días sin nubes, el piloto puede estimar el viento notando la deriva mientras hace {term-thermal}s. Si se está perdiendo más altura en planeos de lo esperado, el piloto debe aumentar la estimación de viento de frente.
+Algunas computadoras de vuelo calculan automáticamente los vientos en niveles altos mientras que otros sistemas GPS estiman los vientos calculando la deriva después de varios virajes térmicos. Cuando se vuela con GPS, el piloto puede determinar un componente de viento de frente desde TAS por simple resta de la velocidad sobre el terreno mientras se mantiene un rumbo particular. Determinar los vientos en niveles altos sin ninguno de los sistemas puede resultar difícil. Una primera estimación viene de los pronósticos de vientos en niveles altos. Una vez en el aire, el piloto puede estimar la velocidad del viento a nivel de nube desde la trayectoria de las sombras de los cumulus sobre el terreno. Sin embargo, los vientos a niveles más bajos pueden diferir de los de nivel de nube. En días sin nubes, el piloto puede estimar el viento notando la deriva mientras hace {term-thermal}s. Si se está perdiendo más altura en planeos de lo esperado, el piloto debe aumentar la estimación de viento de frente.
 
 Una técnica común de planificación de vuelo consiste en dibujar círculos de radio de 5 y 10 millas náuticas alrededor de sitios de {term-landing} alternativos a lo largo de la ruta planeada. Esto ayuda al piloto a visualizar la altitud necesaria para alcanzar de manera segura un sitio alternativo si la actividad {term-thermal} es insuficiente para continuar la travesía. Alternativamente, un piloto usando una calculadora de planeo o herramienta computarizada puede determinar rápidamente la altitud necesaria para planear una distancia específica. Por ejemplo, mientras está en un vuelo de travesía y sobre un buen punto de {term-landing}, el siguiente buen sitio de {term-landing} aparece a 12 millas de distancia contra un {term-headwind} de 10 nudos. <<fig-11-10>> Un cálculo de planeo muestra que el {term-glider} perderá 3.200 pies durante el planeo, y el piloto debe añadir al menos 1.500 pies para permitir la configuración para un {term-landing}, lo que hace la altitud total necesaria para hacer el planeo de 4.700 pies. Aunque no está lo suficientemente alto para lograr el planeo de 12 millas, la altitud actual de 3.800 pies permite al piloto comenzar a lo largo del curso siempre que el piloto permanezca dentro de la distancia de planeo del punto de {term-landing} donde comenzó el planeo. Después de dos millas sin {term-lift}, el {term-glider} ha descendido a una altitud de casi 3.300 pies. Aunque no está lo suficientemente alto para planear las 10 millas restantes, el piloto aún puede planear de regreso al sitio de {term-landing} a dos millas atrás. Después de casi 4 millas, el piloto encuentra una {term-thermal} de 4 nudos a aproximadamente 2.700 pies y asciende a 4.300 pies.
 
@@ -198,7 +290,7 @@ image::11/fig-11-11.example-of-the-height-band.png[width=600]
 
 Nota: Los METAR dan los niveles de nubes como AGL, mientras que los PIREPS reportan nubes usando MSL. Los Pronósticos Gráficos de Área (GFA) dan nubes como MSL. Los pilotos deben interpretar las alturas de nubes reportadas con cuidado. Esta interpretación toma significado adicional cuando los pilotos de {term-glider} viajan a aeropuertos de mayor elevación y restan la elevación del campo de los reportes MSL para asegurar separaciones de nubes.
 
-Determinar la parte superior de la banda de altura depende de la preferencia personal y experiencia, pero una regla general pone la parte superior en una altitud donde las {term-thermal}s caen a 75 por ciento del mejor ascenso logrado. Un piloto que encuentra 400 fpm como la fuerza {term-thermal} máxima en la banda de altura podría salir cuando las {term-thermal}s disminuyen a 300 fpm por más de un giro o dos. Los pilotos también pueden comparar el ascenso actual con el ascenso promedio logrado para determinar la parte superior de la banda de altura. Si el ascenso cae a 75 por ciento o menos del ascenso promedio, el piloto debe considerar salir de la {term-thermal}. Muchos {term-variometer}s electrónicos tienen una función de promedio que muestra el ascenso promedio sobre intervalos de tiempo específicos. Otra técnica consiste en simplemente cronometrar la altitud ganada durante 30 segundos o 1 minuto.
+Determinar la parte superior de la banda de altura depende de la preferencia personal y experiencia, pero una regla general pone la parte superior en una altitud donde las {term-thermal}s caen a 75 por ciento del mejor ascenso logrado. Un piloto que encuentra 400 fpm como la fuerza {term-thermal} máxima en la banda de altura podría salir cuando las {term-thermal}s disminuyen a 300 fpm por más de un viraje o dos. Los pilotos también pueden comparar el ascenso actual con el ascenso promedio logrado para determinar la parte superior de la banda de altura. Si el ascenso cae a 75 por ciento o menos del ascenso promedio, el piloto debe considerar salir de la {term-thermal}. Muchos {term-variometer}s electrónicos tienen una función de promedio que muestra el ascenso promedio sobre intervalos de tiempo específicos. Otra técnica consiste en simplemente cronometrar la altitud ganada durante 30 segundos o 1 minuto.
 
 Teóricamente, el piloto puede lograr la velocidad promedio más alta en un vuelo de travesía cuando se establece el {term-maccready-ring}, si está disponible, para la tasa de ascenso dentro de la banda de altura. Para hacer esto, el piloto rota el anillo de modo que la marca de índice se alinee con la tasa de ascenso (por ejemplo, 400 fpm) en lugar de a cero (el ajuste usado para máxima distancia). <<fig-11-12>> Este ajuste optimiza la distribución de tiempo entre ascenso y planeo. Si se vuela más lento que el ajuste MacCready, el piloto consume más tiempo entre {term-thermal}s de lo que puede ahorrar durante menos tiempo en {term-thermal}s fuertes. Si se vuela más rápido que el ajuste MacCready, el piloto pierde demasiada altitud entre {term-thermal}s y usa más que la cantidad óptima de tiempo para recuperar la altitud.
 
@@ -224,7 +316,7 @@ tiene al {term-glider} en el suelo antes de alcanzar la nube.
 
 • El piloto 4 calcula la altitud necesaria para planear hasta el cumulus grande usando un ajuste intermedio de 3 nudos y encuentra que el {term-glider} puede planear hasta la nube y todavía estar dentro de la banda de altura.
 
-Para cuando el piloto 4 asciende bajo el {term-cumulus} grande, el piloto se sienta bien adelante de los pilotos 2 y 3 y puede transmitir instrucciones de recuperación para el piloto 1. Este ejemplo ilustra la ciencia y el arte del vuelo de travesía más rápido. La ciencia viene de la teoría de la velocidad óptima de vuelo, mientras que el arte consiste en interpretar y modificar la teoría para las condiciones actuales.
+Para cuando el piloto 4 asciende bajo el {term-cumulus} grande, el piloto se sitúa bien adelante de los pilotos 2 y 3 y puede transmitir instrucciones de recuperación para el piloto 1. Este ejemplo ilustra la ciencia y el arte del vuelo de travesía más rápido. La ciencia viene de la teoría de la velocidad óptima de vuelo, mientras que el arte consiste en interpretar y modificar la teoría para las condiciones actuales.
 
 === Consejos y técnicas
 
@@ -234,7 +326,7 @@ La banda de altura cambia durante el día. En un día típico de vuelo a vela, l
 .Altura térmica y banda de altura versus hora del día.
 image::11/fig-11-14.termica-height-and-height-band-versus-time-of-day.png[width=600]
 
-Otra manera de aumentar la velocidad de travesía emplea una técnica conocida como «delfineo», que cubre distancias sorprendentes con poco o ningún giro o círculo. La idea consiste en zambullirse para acelerar mientras está en descendencia y frenar y ascender en {term-lift} mientras se mantiene una línea de curso recta. Esta técnica utiliza {term-thermal}s espaciadas cercanamente, como ocurre a lo largo de una calle de nubes. La velocidad óptima de vuelo entre áreas de {term-lift} depende del ajuste MacCready apropiado.
+Otra manera de aumentar la velocidad de travesía emplea una técnica conocida como «delfineo», que cubre distancias sorprendentes con poco o ningún viraje o círculo. La idea consiste en picar para acelerar mientras está en descendencia y frenar y ascender en {term-lift} mientras se mantiene una línea de curso recta. Esta técnica utiliza {term-thermal}s espaciadas cercanamente, como ocurre a lo largo de una calle de nubes. La velocidad óptima de vuelo entre áreas de {term-lift} depende del ajuste MacCready apropiado.
 
 Como ejemplo, asuma que dos {term-glider}es comienzan en el mismo punto y vuelan bajo una calle de nubes con {term-thermal}s frecuentes con descendencia débil entre las {term-thermal}s. El {term-glider} 1 usa el «delfineo» volando más rápido en la descendencia y más lento en {term-lift}. El {term-glider} 2 conserva altitud y permanece cerca de la base de la nube volando con mejor {term-glide-ratio} a través de descendencia débil. Para llegar a la siguiente nube, el piloto del {term-glider} 2 vuela más rápido en áreas de {term-lift}. Al final de la calle de nubes, un buen ascenso rápidamente pone al {term-glider} 1 cerca de la base de la nube y bien por delante del {term-glider} 2. <<fig-11-15>> La mejor velocidad para volar disminuye el tiempo en descendencia y por lo tanto disminuye la cantidad total de descenso pero produce el mejor progreso hacia adelante. Ser más lento en descendencia aumenta el tiempo descendiendo y frena el progreso hacia adelante. Ser rápido en {term-lift} disminuye el tiempo en {term-lift} y la altitud ganada.
 
@@ -282,7 +374,7 @@ El procedimiento de arranque del motor en un {term-glider} {term-self-launch} au
 
 El vuelo de travesía también puede hacerse bajo potencia con un {term-glider} {term-self-launch}, o una combinación de vuelo con motor y vela. Para algunos {term-glider}es {term-self-launch}s, la distancia más eficiente por galón de combustible usa un ascenso máximo bajo potencia seguido de un planeo sin potencia. El piloto debe consultar el GFM/POH para recomendaciones.
 
-Otro tipo de {term-glider} presenta un motor de {term-lift-force}. Aunque este tipo de motor no tiene suficiente potencia para autolanzamiento, puede mantener el {term-glider} en el aire si falla la {term-lift}. Sin embargo, los motores de {term-lift-force} solo pueden producir suficiente potencia para superar la tasa de descendencia del {term-glider}. Las tasas de descendencia más altas pueden abrumar la capacidad de muchas plantas de potencia sustentadoras. Los motores de {term-lift-force} típicamente eliminan la necesidad de una recuperación que consume mucho tiempo al final de una travesía, y operan con menos complejidad que sus contrapartes de autolanzamiento. Los pilotos volando un {term-glider} con motor de {term-lift-force} tienen preocupaciones similares que los pilotos volando {term-motorglider}s de autolanzamiento con respecto a terreno inadecuado y alturas de decisión de altitud.
+Otro tipo de {term-glider} presenta un motor sustentador. Aunque este tipo de motor no tiene suficiente potencia para autolanzamiento, puede mantener el {term-glider} en el aire si falla la {term-lift}. Sin embargo, los motores sustentadores solo pueden producir suficiente potencia para superar la tasa de descendencia del {term-glider}. Las tasas de descendencia más altas pueden abrumar la capacidad de muchas plantas de potencia sustentadoras. Los motores sustentadores típicamente eliminan la necesidad de una recuperación que consume mucho tiempo al final de una travesía, y operan con menos complejidad que sus contrapartes de autolanzamiento. Los pilotos volando un {term-glider} con motor sustentador tienen preocupaciones similares que los pilotos volando {term-motorglider}s de autolanzamiento con respecto a terreno inadecuado y alturas de decisión de altitud.
 
 == Operaciones de {term-glider}es de alto rendimiento y consideraciones
 

@@ -155,11 +155,17 @@ Los vientos en altura deben evaluarse continuamente para ayudar a determinar el 
 
 Los procedimientos estándar de suelta del {term-glider} incluyen <<fig-12-08>>:
 
-1. Algo de tensión en el {term-tow-rope} antes de la suelta permite al piloto remolcador sentir la suelta del {term-glider}. Un piloto remolcador mirando en el espejo puede ver una arruga en el {term-tow-rope} después de que el {term-glider} suelta.
+1. Algo de tensión en el {term-tow-rope} antes de la suelta permite al piloto remolcador sentir la suelta del {term-glider}. Un piloto remolcador mirando en el espejo puede ver una ondulación en el {term-tow-rope} después de que el {term-glider} suelta.
 
 2. El piloto remolcador espera que el {term-glider} vire a la derecha después de la suelta pero debe permanecer alerta ante maniobras no estándar del {term-glider}.
 
 3. Una vez confirmando que el {term-glider} ha soltado y se ha separado, el piloto remolcador debe despejar el espacio aéreo a la izquierda y comenzar un viraje descendente a la izquierda con alabeo medio.
+
+Suelta del {term-glider}.
+
+El piloto despeja a la derecha y luego gira a la derecha 90°.
+
+El {term-glider} continúa alejándose, el piloto remolcador despeja a la izquierda, y gira a la izquierda.
 
 [[fig-12-08]]
 .Suelta del remolque aéreo.
@@ -249,6 +255,10 @@ Un {term-glider} ascendiendo excesivamente alto durante el {term-takeoff} levant
 
 Si el piloto de {term-glider} no puede soltar, debe informar al piloto remolcador por medio de la radio de la aeronave o con la siguiente señal en el aire. El {term-glider} se moverá hacia el lado izquierdo del {term-towplane} y alabeará sus {term-wing}s. <<fig-12-11>> El piloto remolcador debe esperar unos segundos para asegurar que el alabeo de {term-wing}s señala un fallo de suelta. Una vez que el piloto remolcador determina que el {term-glider} no puede soltar, el {term-towplane} debe regresar al aeródromo y soltar al {term-glider} a una altitud segura sobre el campo.
 
+El {term-glider} no puede soltar.
+
+El {term-glider} se mueve hacia el lado izquierdo del {term-towplane} y alabea las alas.
+
 [[fig-12-11]]
 .Fallo de suelta del planeador.
 image::12/fig-12-11.planeador-soltado-fallo.png[width=600]
@@ -265,11 +275,15 @@ Si bien no está bien definido en la literatura de vuelo a vela como se discuti�
 
 ==== Problema del {term-glider}
 
-El piloto remolcador podría notar que el {term-glider} tiene un problema aún no conocido por el piloto de {term-glider}. El ejemplo más común involucra el despliegue no intencional de los {term-airbrake}s del {term-glider} a medida que el {term-glider} acelera en el {term-takeoff}. El piloto remolcador puede informar al piloto de {term-glider} vía radio o señal visual. El piloto remolcador guiña el {term-rudder} cuando alcanza una altitud segura como la señal visual de «Problema del {term-glider}».
+El piloto remolcador podría notar que el {term-glider} tiene un problema aún no conocido por el piloto de {term-glider}. El ejemplo más común involucra el despliegue no intencional de los {term-airbrake}s del {term-glider} a medida que el {term-glider} acelera en el {term-takeoff}. El piloto remolcador puede informar al piloto de {term-glider} vía radio o señal visual. El piloto remolcador abanica el {term-rudder} cuando alcanza una altitud segura como la señal visual de «Problema del {term-glider}».
 
 ==== Suelta inmediata
 
 El piloto remolcador alabea las {term-wing}s del {term-towplane} para indicar que el piloto de {term-glider} debe soltar inmediatamente. Esto podría ocurrir durante una emergencia crítica del {term-towplane} como fallo de motor o incendio. <<fig-12-12>>
+
+{term-glider}: Soltar inmediatamente.
+
+{term-towplane} alabea las alas.
 
 [[fig-12-12]]
 .El avión remolcador indica que el piloto de planeador debe soltar inmediatamente.
