@@ -18,7 +18,7 @@
 :term-divebrake: aerofreno tipo dive brake
 :term-dive-brake: aerofreno tipo dive brake
 :term-trim: compensador
-:term-canopy: carlinga
+:term-canopy: cúpula
 :term-fuselage: fuselaje
 :term-wing: ala
 :term-tailplane: estabilizador horizontal
@@ -49,6 +49,8 @@
 :term-dihedral: diedro
 :term-flutter: flameo (flutter)
 :term-pio: PIO (oscilación inducida por el piloto)
+:term-performance: rendimiento
+:term-kiting: hacer la cometa
 
 // Instrumentos
 :term-altimeter: altímetro
@@ -101,7 +103,8 @@
 :term-breaking-strength: resistencia a la rotura
 :term-schweizer-hook: gancho tipo Schweizer
 :term-tost-hook: gancho Tost
-:term-ground-loop: trompo (caballito)
+:term-ground-loop: trompo
+:term-wing-walker: asistente de ala
 :term-cartwheel: voltereta
 :term-tow-pilot: piloto del remolcador
 :term-boxing-wake: caja de estela

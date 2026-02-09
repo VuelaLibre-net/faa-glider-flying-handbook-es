@@ -29,7 +29,7 @@ Después del desarrollo del vuelo propulsado, un avión podía remolcar un {term
 .Un motovelero ASH 26 E de autolanzamiento con la hélice extendida.
 image::01/fig-01-04.an-ash-26-e-autolanzable-motor-planeador-with-the.png[width=600]
 
-== Instrucción de Piloto de {term-glider}
+== Instrucción de piloto de {term-glider}
 
 ¿Cómo obtiene una persona la instrucción de vuelo de {term-glider}? Con una ubicación general en mente, un individuo puede considerar varias opciones, incluyendo una escuela de {term-glider}es aprobada por la FAA, una escuela de {term-glider}es comercial de propiedad privada o una escuela técnica, universidad o club privado de vuelo a vela. Estos tendrán instructores de vuelo certificados por la FAA que pueden proporcionar instrucción. Artículos publicados, sitios web relacionados con el vuelo a vela y discusiones con otros pilotos pueden ayudar a un alumno potencial a crear una lista de elementos a buscar en un proveedor de instrucción.
 

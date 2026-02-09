@@ -21,7 +21,7 @@ Si bien todos los pilotos siguen el Título 14 del Código de Regulaciones Feder
 
 • 14 CFR parte 91, sección 91.309—Remolque: {term-glider}es y Vehículos Ultraligeros sin Motor.
 
-== Inspecciones de Equipo y Verificaciones Operacionales
+== Inspecciones de equipo y verificaciones operacionales
 
 El equipo del {term-towplane} en Estados Unidos típicamente usa uno de dos tipos de ganchos de remolque: Tost o Schweizer. <<fig-12-02>> El piloto remolcador debe inspeccionar el gancho de remolque para asegurar su operación adecuada diariamente y antes de cualquier actividad de remolque.
 
@@ -61,7 +61,7 @@ Las siguientes verificaciones funcionales deben realizarse:
 
 === Inspección del anillo de remolque
 
-La inspección del anillo de remolque comienza con una revisión de desgaste. Los pilotos remolcadores deben sacar los anillos de servicio si tienen rasguños o abolladuras. El diseño del anillo de remolque corresponde al tipo de conjunto de enganche de remolque: Schweizer o Tost. <<fig-12-03>> El anillo de remolque Schweizer usa un solo anillo de acero de alta calidad de dos pulgadas de diámetro de un cuarto de pulgada de espesor inspeccionado mediante partículas magnéticas con buena soldadura. El anillo de remolque Tost consiste en un par de anillos interconectados hechos de acero de alta calidad.
+La inspección del anillo de remolque comienza con una revisión de desgaste. Los pilotos remolcadores deben sacar los anillos de servicio si tienen rasguños o abolladuras. El diseño del anillo de remolque corresponde al tipo de conjunto de enganche de remolque: Schweizer o Tost. <<fig-12-03>> El anillo de remolque Schweizer usa un solo anillo de acero de alta calidad, de dos pulgadas de diámetro y un cuarto de pulgada de espesor, inspeccionado mediante partículas magnéticas con buena soldadura. El anillo de remolque Tost consiste en un par de anillos interconectados hechos de acero de alta calidad.
 
 [[fig-12-03]]
 .Anillo de remolque Schweizer y anillo de remolque Tost.
@@ -171,7 +171,7 @@ Si el piloto de {term-glider} suelta con comba en el {term-tow-rope}, el piloto 
 
 === Descenso
 
-Durante el descenso, un piloto remolcador debe ejercer un manejo apropiado del motor. Las buenas prácticas de conservación del motor incluyen tanto una reducción gradual de potencia como velocidades de descenso conservadoras. Los estudios indican que la velocidad aérea alta puede afectar al motor más que la reducción de potencia. El piloto puede usar un picado en espiral, {term-flap}s completos o virajes resbalados para obtener una tasa de descenso adecuada mientras reduce la potencia en incrementos y sin un gran aumento en la {term-ias}. Cerrar las aletas de refrigeración, si están equipadas, frena aún más la tasa de enfriamiento del motor. Cada modelo de avión requiere técnicas ligeramente diferentes para evitar que el motor se enfríe demasiado rápido mientras desciende.
+Durante el descenso, un piloto remolcador debe ejercer un manejo apropiado del motor. Las buenas prácticas de conservación del motor incluyen tanto una reducción gradual de potencia como velocidades de descenso conservadoras. Los estudios indican que la velocidad aérea alta puede afectar al motor más que la reducción de potencia. El piloto puede usar un picado en espiral, {term-flap}s completos o virajes resbalados para obtener una tasa de descenso adecuada mientras reduce la potencia en incrementos y sin un gran aumento en la {term-ias}. Cerrar las aletas de refrigeración, si están equipadas, disminuye aún más la tasa de enfriamiento del motor. Cada modelo de avión requiere técnicas ligeramente diferentes para evitar que el motor se enfríe demasiado rápido mientras desciende.
 
 El descenso y las actitudes de vuelo descendente aumentan el potencial de colisión en el aire. El piloto remolcador debe considerar desarrollar y usar corredores de descenso específicos que eviten otro tráfico de {term-glider}es y con motor.
 
@@ -193,7 +193,7 @@ Si se suelta el {term-tow-rope} antes del {term-landing}, el piloto normalmente 
 
 == Remolque de travesía
 
-Un remolque de travesía seguro y exitoso requiere de planificación. El piloto remolcador debe planificar para el consumo máximo de combustible para el {term-towplane} usado. El piloto debe estudiar la ruta de vuelo en cartas seccionales, planificar para cualquier desviación potencial, y cumplir con cualquier requisito de espacio aéreo.
+Un remolque de travesía seguro y exitoso requiere planificación. El piloto remolcador debe planificar para el consumo máximo de combustible para el {term-towplane} usado. El piloto debe estudiar la ruta de vuelo en cartas seccionales, planificar para cualquier desviación potencial, y cumplir con cualquier requisito de espacio aéreo.
 
 [[fig-12-09]]
 .Remolque de travesía.
@@ -204,7 +204,7 @@ image::12/fig-12-09.cross-country-tow.png[width=600]
 [[fig-12-10]]
 .En un remolque de travesía, el piloto remolcador y el piloto de planeador deben tener comunicación de dos vías usando ya sea radios montadas en panel o radios portátiles.
 image::12/fig-12-10.two-way-communication-during-a-cross-country-tow.png[width=300,float=right]
-Dado que puede ocurrir una rotura del {term-tow-rope} sin aviso, el piloto remolcador debe planificar la ruta sobre terreno adecuado para un {term-landing} de {term-glider}. El piloto remolcador debe considerar la preparación física y mental de ambos pilotos para hacer el vuelo. En un vuelo particularmente largo, los pilotos pueden planificar paradas de descanso en el camino. Ambos pilotos deben permanecer hidratados y tener un sistema de orina, si es necesario. El uso apropiado del {term-trim} de la aeronave ayuda a mantener el vuelo dentro de la velocidad máxima de remolque del {term-glider} y ayuda a reducir la fatiga del piloto.
+Dado que puede ocurrir una rotura del {term-tow-rope} sin aviso, el piloto remolcador debe planificar la ruta sobre terreno adecuado para un {term-landing} de {term-glider}. El piloto remolcador debe considerar la preparación física y mental de ambos pilotos para hacer el vuelo. En un vuelo particularmente largo, los pilotos pueden planificar paradas de descanso en el camino. Ambos pilotos deben permanecer hidratados y tener un sistema para orinar, si es necesario. El uso apropiado del {term-trim} de la aeronave ayuda a mantener el vuelo dentro de la velocidad máxima de remolque del {term-glider} y ayuda a reducir la fatiga del piloto.
 
 La radio bidireccional proporciona una comunicación esencial entre el {term-glider} y el {term-towplane} durante remolques de travesía. Los pilotos deben asegurar que las radios portátiles (si se usan) o las baterías del {term-glider} tengan carga suficiente antes del vuelo y realizar una prueba de radio como parte de las actividades previas al vuelo. <<fig-12-10>>
 --
@@ -219,7 +219,7 @@ Durante el {term-takeoff} y ascenso inicial, los pilotos deben recordar que la p
 
 ==== Fallo de potencia del {term-towplane} en la pista durante la carrera de {term-takeoff}
 
-El siguiente plan aplica en caso de que el {term-towplane} tenga un fallo de potencia en la pista durante la carrera de {term-takeoff}:
+El siguiente plan se aplica en caso de que el {term-towplane} tenga un fallo de potencia en la pista durante la carrera de {term-takeoff}:
 
 • Cualquiera de los pilotos debe soltar, y el {term-glider} debe maniobrar hacia el lado derecho de la pista, si es posible.
 
@@ -277,4 +277,4 @@ image::12/fig-12-12.immediate-release-of-the-glider.png[width=600]
 
 == Resumen del capítulo
 
-Los deberes y perspectivas de un piloto remolcador difieren de los de un piloto de {term-glider}. Sin embargo, ambos pilotos tienen una responsabilidad regulatoria para la ejecución segura de una operación de {term-aerotow} acordada, y ambos pilotos deben comunicarse y cooperar para asegurar la seguridad de ambas aeronaves durante un {term-aerotow}. Tener radio de dos vías hace la comunicación más fácil, pero no existe requisito legal para ello, y los pilotos pueden usar señales visuales apropiadas. El piloto remolcador debe maniobrar el {term-towplane} tomando en cuenta las características del {term-glider} y cualquier limitación de velocidad del {term-glider}. Un {term-aerotow} no debe impedir que el {term-glider} regrese al aeropuerto debido a condiciones de viento en la suelta ni poner ninguna de las aeronaves en conflicto con otras aeronaves. Cada piloto debe conocer los procedimientos estándar para emergencias potenciales. El piloto remolcador debe manejar el regreso posterior a la suelta al aeropuerto para prevenir el enfriamiento por choque del motor del {term-towplane}. Para cualquier remolque de larga distancia como podría ocurrir después de una recuperación de un aeropuerto después de una travesía, ambos pilotos deben tener la preparación mental y física para realizar el vuelo de manera segura.
+Los deberes y perspectivas de un piloto remolcador difieren de los de un piloto de {term-glider}. Sin embargo, ambos pilotos tienen una responsabilidad regulatoria para la ejecución segura de una operación de {term-aerotow} acordada, y ambos pilotos deben comunicarse y cooperar para asegurar la seguridad de ambas aeronaves durante un {term-aerotow}. Tener radio bidireccional hace la comunicación más fácil, pero no existe requisito legal para ello, y los pilotos pueden usar señales visuales apropiadas. El piloto remolcador debe maniobrar el {term-towplane} tomando en cuenta las características del {term-glider} y cualquier limitación de velocidad del {term-glider}. Un {term-aerotow} no debe impedir que el {term-glider} regrese al aeropuerto debido a condiciones de viento en la suelta ni poner ninguna de las aeronaves en conflicto con otras aeronaves. Cada piloto debe conocer los procedimientos estándar para emergencias potenciales. El piloto remolcador debe manejar el regreso posterior a la suelta al aeropuerto para prevenir el choque térmico del motor del {term-towplane}. Para cualquier remolque de larga distancia como podría ocurrir después de una recuperación de un aeropuerto después de una travesía, ambos pilotos deben tener la preparación mental y física para realizar el vuelo de manera segura.

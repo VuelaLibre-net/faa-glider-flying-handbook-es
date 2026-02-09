@@ -156,7 +156,7 @@ table:
     background_color: #1E3A5F  # Fondo AZUL OSCURO (Clave para arreglar tu problema)
     border_bottom_width: 1.5
   cell:
-    padding: [2, 5, 2, 5]            # Padding reducido para controlar la altura
+    padding: [1, 5, 1, 5]            # Padding reducido para controlar la altura
 # === IMÁGENES ===
 image:
   align: center

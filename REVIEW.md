@@ -1,8 +1,8 @@
 # REVIEW.md - Auditoría del Repositorio FAA-Glider-Flying-Handbook-ES
 
 > **Fecha de auditoría:** 2026-02-08  
-> **Auditor:** Kimi Code CLI  
-> **Versión revisada:** 0.1.3 (Draft)
+> **Auditores:** Gemini 3 pro & Kimi Code CLI  
+> **Versión revisada:** 0.1.4-dev (Draft)
 
 ---
 
@@ -12,7 +12,7 @@
 |---------|--------|-------|
 | **Estructura del proyecto** | ✅ Buena | Bien organizado, sigue convenciones |
 | **Contenido traducido** | 🟡 En Progreso | 3/13 capítulos revisados, 10/13 en proceso |
-| **Imágenes** | 🟡 En Progreso | 280 importadas, 38 traducidas (14%) |
+| **Imágenes** | 🟡 En Progreso | 280 importadas, ~60 traducidas (~21%) |
 | **Build system** | ✅ Funcional | Makefile completo, genera PDF/HTML/EPUB |
 | **Documentación** | ✅ Buena | AGENTS.md, CONTRIBUTING.md actualizados |
 | **Terminología** | ✅ Consistente | Uso extensivo de atributos (2706 usos), 0 errores críticos |
@@ -48,7 +48,6 @@
 | `Gemfile` | ✅ | Dependencias Ruby correctamente definidas |
 | `.ruby-version` | ✅ | Ruby 3.3.5 |
 | `.python-version` | ✅ | Python para image manager |
-| `.env` | ⚠️ | Existe pero no se inspecciona (API keys) |
 
 ---
 
@@ -61,16 +60,16 @@
 | 01 | Planeadores y veleros | ✅ Revisado | 8 |
 | 02 | Componentes y sistemas | ✅ Revisado | 24 |
 | 03 | Aerodinámica del vuelo | ✅ Revisado + Imágenes | 48 |
-| 04 | Instrumentos de vuelo | 🟡 En revisión | 62 |
-| 05 | Performance | 🟡 En revisión | 42 |
-| 06 | Prevuelo y operaciones en tierra | 🟡 En revisión | 34 |
-| 07 | Lanzamiento, aterrizaje y maniobras | 🟡 En revisión | 82 |
-| 08 | Emergencias | 🟡 En revisión | 22 |
+| 04 | Instrumentos | ✅ Revisado | 43 |
+| 05 | Performance | ✅ Revisado | 42 |
+| 06 | Prevuelo y operaciones en tierra | ✅ Revisado | 34 |
+| 07 | Lanzamiento, aterrizaje y maniobras | ✅ Revisado | 82 |
+| 08 | Emergencias | ✅ Revisado | 22 |
 | 09 | Meteorología vuelo vela | 🟡 En revisión | 60 |
 | 10 | Técnicas vuelo vela | 🟡 En revisión | 74 |
 | 11 | Vuelo de travesía | 🟡 En revisión | 34 |
-| 12 | Remolque | 🟡 En revisión | 22 |
-| 13 | Factores humanos | 🟡 En revisión | 26 |
+| 12 | Remolque | ✅ Revisado | 22 |
+| 13 | Factores humanos | ✅ Revisado | 26 |
 | **Total** | | | **538** |
 
 ### 2.2 Problemas Detectados en Traducción
@@ -102,12 +101,24 @@
 | WebP | ~267 | ✅ Para web/HTML |
 | JPEG | 1 (cover) | ✅ Portada |
 
-### 3.2 Problemas de Imágenes
+### 3.2 Estado de Imágenes por Capítulo
+
+| Capítulo | Estado | Notas |
+|----------|--------|-------|
+| 01 | ✅ Completado | 4 figuras |
+| 02 | ✅ Completado | 12 figuras |
+| 03 | ✅ Completado | 22 figuras traducidas |
+| 04 | ✅ Completado | 31 figuras traducidas* |
+| 05-13 | 🟡 En progreso | Pendiente de traducción |
+
+*Nota: Las figuras 04-08 y 04-09 están comentadas intencionalmente (reemplazadas por tablas equivalentes), pero las imágenes traducidas se conservan en el repositorio.
+
+### 3.3 Problemas de Imágenes
 
 | Problema | Severidad | Descripción |
 |----------|-----------|-------------|
-| Texto en inglés | 🟡 Media | 38/280 imágenes traducidas (14%) |
-| Capítulos 4-13 | 🟡 Media | En revisión de texto e imágenes |
+| Texto en inglés | 🟡 Media | ~60/280 imágenes traducidas (~21%) |
+| Capítulos 5-13 | 🟡 Media | En revisión de texto e imágenes |
 | Revisión de calidad | 🟡 Media | En progreso |
 
 ---
@@ -159,6 +170,12 @@
 4. **Actualización de AGENTS.md:** Reglas claras para futuros agentes.
 5. **Traducción de imágenes del Capítulo 3:** Todas las 22 imágenes traducidas al español.
 6. **Corrección de comillas:** Estandarización a comillas latinas (« ») en todo el texto.
+7. **Revisión Capítulo 12:** Corrección gramatical y terminológica completada.
+8. **Revisión Capítulo 13:** Corrección de semántica de atributos (`{term-stall}`) y anglicismos médicos completada.
+9. **Revisión Capítulo 04:** Corrección de semántica de `{term-stall}` (altura), localización ("morro", "margen") y terminología completada.
+10. **Revisión Capítulo 05:** Corrección de "velocidad del aire", semántica de `{term-stall}` y localización completada.
+11. **Revisión Capítulo 06:** Corrección de "ensamblaje" a "montaje", terminología técnica y estilo completada.
+12. **Imágenes Capítulo 4:** Todas las 31 figuras traducidas al español (las figuras 04-08 y 04-09 están comentadas intencionalmente, reemplazadas por tablas).
 
 ---
 
@@ -168,6 +185,88 @@
 2. **Comenzar traducción de diagramas clave.**
 3. **Crear CHANGELOG.md.**
 4. **Validar variantes regionales (Argentina).**
+
+---
+
+## 📐 9. Auditoría de Sintaxis AsciiDoc
+
+> **Fecha de auditoría:** 2026-02-09  
+> **Auditor:** Kimi Code CLI  
+> **Archivos analizados:** 13 capítulos + 2 apéndices
+
+### 9.1 Resumen de Sintaxis
+
+| Aspecto | Estado | Detalles |
+|---------|--------|----------|
+| **Anclas de capítulos** | ✅ Correcto | 13/13 capítulos con ancla `[[capNN]]` correcta |
+| **Anclas de figuras** | ✅ Correcto | 269 figuras con anclas correctamente formadas |
+| **Referencias cruzadas** | ✅ Correcto | Sin referencias inválidas detectadas |
+| **Build system** | ✅ Funcional | PDF, HTML y EPUB generan sin errores críticos |
+| **Atributos de terminología** | ✅ Corregido | 4,990 usos, todos los atributos definidos |
+| **Capitalización títulos** | ✅ Corregido | 9 títulos estandarizados a estilo oración |
+
+### 9.2 Errores de Sintaxis Encontrados y Corregidos
+
+#### ✅ Atributo No Definido — CORREGIDO
+
+| Ubicación | Error | Corrección aplicada |
+|-----------|-------|---------------------|
+| `cap07:907` | `{term-spoyler}` | → `{term-airbrake}` ✅ |
+
+#### ✅ Capitalización Incorrecta en Títulos — CORREGIDO
+
+Según AGENTS.md, los títulos en español deben usar **estilo oración** (solo primera palabra en mayúscula, excepto nombres propios):
+
+| Archivo | Línea | Título original | Título corregido |
+|---------|-------|-----------------|------------------|
+| `cap01` | 32 | `Instrucción de Piloto de {term-glider}` | `Instrucción de piloto de {term-glider}` ✅ |
+| `cap04` | 362 | `Computadoras de Vuelo Electrónicas` | `Computadoras de vuelo electrónicas` ✅ |
+| `cap04` | 404 | `Indicadores de Resbale y Derrape` | `Indicadores de resbale y derrape` ✅ |
+| `cap04` | 419 | `Instrumentos Giroscópicos` | `Instrumentos giroscópicos` ✅ |
+| `cap04` | 450 | `Código de Transpondedor` | `Código de transpondedor` ✅ |
+| `cap04` | 476 | `Resumen del Capítulo` | `Resumen del capítulo` ✅ |
+| `cap10` | 310 | `Vuelo de Onda` | `Vuelo de onda` ✅ |
+| `cap10` | 448 | `Resumen del Capítulo` | `Resumen del capítulo` ✅ |
+| `cap12` | 24 | `Inspecciones de Equipo y Verificaciones Operacionales` | `Inspecciones de equipo y verificaciones operacionales` ✅ |
+
+#### ✅ Figuras Comentadas (Intencionalmente)
+
+Las siguientes figuras están comentadas en el código fuente (reemplazadas por tablas equivalentes), pero las imágenes traducidas se conservan en el repositorio:
+
+| Figura | Estado | Nota |
+|--------|--------|------|
+| `fig-04-08` | ✅ Traducida, comentada | Reemplazada por tabla `tab-04-08` |
+| `fig-04-09` | ✅ Traducida, comentada | Reemplazada por tabla `tab-04-09` |
+
+**Razón:** Las tablas proporcionan la misma información de forma más clara y accesible.
+
+### 9.3 Estadísticas de Sintaxis
+
+```
+Total de líneas en capítulos:    5,007
+Total de anclas de figuras:        269
+Total de atributos {term-...}:   4,990
+Total de imágenes referenciadas:   269
+Total de tablas:                    14
+Total de admonitions:              ~45
+```
+
+### 9.4 Verificaciones Realizadas
+
+- ✅ **Anclas de capítulos:** Todas presentes y correctamente formadas (`[[cap01]]` a `[[cap13]]`)
+- ✅ **Build PDF:** Sin errores críticos
+- ✅ **Build HTML:** Sin errores críticos  
+- ✅ **Build EPUB:** Sin errores críticos (warnings anteriores corregidos)
+- ✅ **Imágenes:** Todas las imágenes referenciadas existen (excepto las comentadas intencionalmente)
+- ✅ **Tablas:** Estructura correcta en todas las tablas
+- ✅ **Admonitions:** Sintaxis correcta (WARNING, CAUTION, IMPORTANT, NOTE, TIP)
+- ⚠️ **Comillas:** Las comillas rectas (") detectadas son legítimas (pulgadas de mercurio: "Hg)
+
+### 9.5 Acciones Completadas
+
+- ✅ **Corregido:** `{term-spoyler}` → `{term-airbrake}` en capítulo 07, línea 907
+- ✅ **Corregido:** Capitalización de 9 títulos a estilo oración (español)
+- ✅ **Validado:** Build PDF/HTML/EPUB funcionan correctamente después de correcciones
 
 ---
 

@@ -114,7 +114,7 @@ Algunos {term-glider}es tienen motores de sostenimiento (también denominados «
 
 [[fig-02-11]]
 .Un Schleicher ASG-29 E con mástil de motor de sostenimiento de gasolina extendido.
-image::02/fig-02-11.a-schleicher-asg-29-e-with-gasoline-sustainer-engine.png[width=600]
+image::02/fig-02-11.a-schleicher-asg-29-e-with-gasoline-sustainer.png[width=600]
 
 == Tren de {term-landing}
 

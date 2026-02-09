@@ -5,13 +5,13 @@
 
 == Introducción
 
-La operación segura de un {term-glider} depende de un cuidadoso ensamblaje y prevuelo. Las técnicas de ensamblaje adecuadas, seguidas de una inspección minuciosa del {term-glider} utilizando las listas de verificación contenidas en el Manual de Vuelo del {term-glider}/Manual del Piloto (GFM/POH), garantizan esa seguridad. Los pilotos deben llevar a cabo los procedimientos de lanzamiento de forma sistemática y consistente para cada vuelo, utilizando métodos apropiados y trabajo en equipo. Los estudiantes y pilotos no familiarizados con el ensamblaje del {term-glider} deben buscar instrucción de un instructor de vuelo sin motor.
+La operación segura de un {term-glider} depende de un cuidadoso montaje y prevuelo. Las técnicas de montaje adecuadas, seguidas de una inspección minuciosa del {term-glider} utilizando las listas de verificación contenidas en el Manual de Vuelo del {term-glider}/Manual del Piloto (GFM/POH), garantizan esa seguridad. Los pilotos deben llevar a cabo los procedimientos de lanzamiento de forma sistemática y consistente para cada vuelo, utilizando métodos apropiados y trabajo en equipo. Los estudiantes y pilotos no familiarizados con el montaje del {term-glider} deben buscar instrucción de un instructor de vuelo a vela.
 
 == Ensamblaje y almacenamiento
 
-El personal que se prepara para ensamblar un {term-glider} debe considerar los siguientes elementos: ubicación, número de ayudantes, herramientas, piezas y listas de verificación que detallen los procedimientos de ensamblaje apropiados. El GFM/POH debe contener listas de verificación para ensamblar e inspeccionar un {term-glider}. Si no es así, el personal debe desarrollar una y seguirla. Los pilotos de {term-glider} deben evitar distracciones que puedan ocurrir durante el ensamblaje y verificar que los documentos requeridos estén a bordo del {term-glider}.
+El personal que se prepara para montar un {term-glider} debe considerar los siguientes elementos: ubicación, número de ayudantes, herramientas, piezas y listas de verificación que detallen los procedimientos de montaje apropiados. El GFM/POH debe contener listas de verificación para montar e inspeccionar un {term-glider}. Si no es así, el personal debe desarrollar una y seguirla. Los pilotos de {term-glider} deben evitar distracciones que puedan ocurrir durante el montaje y verificar que los documentos requeridos estén a bordo del {term-glider}.
 
-Durante el ensamblaje del {term-glider}, los pilotos normalmente verifican los documentos transportados a bordo, que incluyen:
+Durante el montaje del {term-glider}, los pilotos normalmente verifican los documentos transportados a bordo, que incluyen:
 
 1. Certificado de aeronavegabilidad exhibido en la aeronave
 
@@ -21,21 +21,21 @@ Durante el ensamblaje del {term-glider}, los pilotos normalmente verifican los d
 
 4. GFM/POH
 
-Las herramientas y accesorios adecuados facilitan el ensamblaje del {term-glider}. <<fig-06-01>> Algunas personas colocan todos los herrajes necesarios en un estante o lona con un lugar para cada artículo. Un inventario de los herrajes después del ensamblaje reduce el riesgo de que una herramienta extraviada quede en la estructura del {term-glider}, lo que podría restringir o atascar un control de vuelo. Dado que la cinta desprendida también podría causar problemas de control en vuelo, cualquier persona que aplique cinta debe tener cuidado al encintar las raíces del {term-wing}, la cubierta del {term-fuselage} (tapa donde se unen los controles de vuelo), el elevador u otras áreas.
+Las herramientas y accesorios adecuados facilitan el montaje del {term-glider}. <<fig-06-01>> Algunas personas colocan todos los herrajes necesarios en un estante o lona con un lugar para cada artículo. Un inventario de los herrajes después del montaje reduce el riesgo de que una herramienta extraviada quede en la estructura del {term-glider}, lo que podría restringir o atascar un control de vuelo. Dado que la cinta desprendida también podría causar problemas de control en vuelo, cualquier persona que aplique cinta debe tener cuidado al encintar las raíces del {term-wing}, la cubierta del {term-fuselage} (tapa donde se unen los controles de vuelo), el elevador u otras áreas.
 
 [[fig-06-01]]
-.Los soportes de alas y los carros de alas pueden ayudar a ensamblar el planeador.
+.Los soportes de alas y los carros de alas pueden ayudar a montar el planeador.
 image::06/fig-06-01.ala-stands-and-ala-dollies-may-assist-assembling.png[width=600]
 
-Dependiendo del tipo de {term-glider}, el ensamblaje puede requerir dos o más personas. Después del ensamblaje, una inspección exhaustiva de todos los puntos de fijación garantiza una instalación adecuada y la seguridad de los pernos y pasadores.
+Dependiendo del tipo de {term-glider}, el montaje puede requerir dos o más personas. Después del montaje, una inspección exhaustiva de todos los puntos de fijación garantiza una instalación adecuada y la seguridad de los pernos y pasadores.
 
-En muchos {term-glider}es, las {term-wing}s se desmontan rutinariamente del {term-fuselage} para su almacenamiento. En algunos {term-glider}es motorizados, las {term-wing}s se pliegan. Después de plegar o desmontar las {term-wing}s, las personas pueden mover el {term-glider} dentro y alrededor del área del hangar. <<fig-06-02>> Esto permite el ensamblaje, desensamblaje y almacenamiento en un hangar de tamaño normal. Los hangares generalmente varían entre 35 y 45 pies de ancho. Dado que la mayoría de las {term-wing}s de {term-glider}es abarcan un mínimo de 40 pies (12 metros) de longitud total, un hangar grande puede ahorrar tiempo y esfuerzo.
+En muchos {term-glider}es, las {term-wing}s se desmontan rutinariamente del {term-fuselage} para su almacenamiento. En algunos {term-glider}es motorizados, las {term-wing}s se pliegan. Después de plegar o desmontar las {term-wing}s, las personas pueden mover el {term-glider} dentro y alrededor del área del hangar. <<fig-06-02>> Esto permite el montaje, desmontaje y almacenamiento en un hangar de tamaño normal. Los hangares generalmente varían entre 35 y 45 pies de ancho. Dado que la mayoría de las {term-wing}s de {term-glider}es abarcan un mínimo de 40 pies (12 metros) de longitud total, un hangar grande puede ahorrar tiempo y esfuerzo.
 
 [[fig-06-02]]
 .Plegar las alas del planeador reduce el espacio de almacenamiento.
 image::06/fig-06-02.folding-the-alas-of-the-planeador-reduces-storage.png[width=600]
 
-Una vez que un {term-glider} ha sido completamente ensamblado y antes del vuelo, el piloto inspecciona todas las áreas críticas para asegurar la finalización de todas las conexiones de los controles de vuelo. Muchos fabricantes proporcionan una lista de verificación de ensamblaje crítico (CAC) para usar después del ensamblaje. Una verificación de controles positiva (PCC) proporciona un medio adicional de verificación que debe realizarse incluso si el personal apropiado completa un CAC. El piloto debe referirse a una lista de verificación escrita proporcionada por el fabricante o una fuente comercial que reproduzca con precisión las listas de verificación del {term-glider}.
+Una vez que un {term-glider} ha sido completamente montado y antes del vuelo, el piloto inspecciona todas las áreas críticas para asegurar la finalización de todas las conexiones de los controles de vuelo. Muchos fabricantes proporcionan una lista de verificación de montaje crítico (CAC) para usar después del montaje. Una verificación de controles positiva (PCC) proporciona un medio adicional de verificación que debe realizarse incluso si el personal apropiado completa un CAC. El piloto debe referirse a una lista de verificación escrita proporcionada por el fabricante o una fuente comercial que reproduzca con precisión las listas de verificación del {term-glider}.
 
 === Transporte en remolque
 
@@ -49,7 +49,7 @@ Al conducir con el remolque, se aplican las precauciones y experiencia estándar
 
 === Amarre y asegurado
 
-Al amarrar en aeropuertos compartidos con aeronaves propulsadas, la estela de la hélice puede causar daños a un {term-glider} inadecuadamente asegurado. El personal debe amarrar un {term-glider} con la cúpula cerrada y trabada antes de dejarlo desatendido. Si es posible, el punto de amarre debe enfrentarse al viento. Los amarres permanentes a menudo utilizan correas, cuerdas o cadenas para las {term-wing}s y la cola y no se ajustan a las variaciones del viento. Los pilotos deben llevar un kit de amarre apropiado para un viaje de campo si no existe un amarre permanente en el destino. Los pilotos deben consultar el GFH/POH para los procedimientos específicos de amarre.
+Al amarrar en aeropuertos compartidos con aeronaves con motor, la estela de la hélice puede causar daños a un {term-glider} inadecuadamente asegurado. El personal debe amarrar un {term-glider} con la cúpula cerrada y trabada antes de dejarlo desatendido. Si es posible, el punto de amarre debe enfrentarse al viento. Los amarres permanentes a menudo utilizan correas, cuerdas o cadenas para las {term-wing}s y la cola y no se ajustan a las variaciones del viento. Los pilotos deben llevar un kit de amarre apropiado para un viaje de campo si no existe un amarre permanente en el destino. Los pilotos deben consultar el GFH/POH para los procedimientos específicos de amarre.
 
 Si se esperan vientos fuertes, los pilotos pueden amarrar los {term-airbrake}s abiertos con los cinturones de seguridad, o colocar un soporte acolchado bajo la cola para reducir el {term-aoa} de las {term-wing}s. Al asegurar el {term-glider} por un período extendido, los bloqueos de ráfaga en las superficies de control evitan que golpeen contra sus topes. Las cubiertas del tubo pitot y de la sonda de {term-total-energy} previenen la entrada de insectos o escombros. <<fig-06-04>>
 
@@ -117,7 +117,7 @@ image::06/fig-06-11.a-seguridad-link-the-foam-added-to-the-remolque.png[width=60
 .Requisitos de resistencia de eslabones de seguridad asumiendo un eslabón de 1 000 lb. instalado cerca del planeador.
 image::06/fig-06-12.seguridad-link-strength-requirements-assuming-a.png[width=600]
 
-Los dos tipos más comunes de gancho de remolque son un diseño por encima, como un gancho Schweizer, o un estilo de agarre, como un gancho Tost. Los pilotos deben inspeccionar y verificar que cualquier gancho de remolque esté libre de daños y opere libremente. [Figura 6-13 and Figure 6-14]
+Los dos tipos más comunes de gancho de remolque son un diseño de sobrecentrado, como un gancho Schweizer, o un estilo de agarre, como un gancho Tost. Los pilotos deben inspeccionar y verificar que cualquier gancho de remolque esté libre de daños y opere libremente. [Figura 6-13 and Figure 6-14]
 
 [[fig-06-13]]
 .Gancho de remolque tipo Schweizer.
@@ -138,7 +138,7 @@ image::06/fig-06-15.a-planeador-pre-vuelo-inspeccion-lista.png[width=600]
 
 == Lista de verificación prevuelo
 
-El piloto debe realizar una verificación de controles positiva con la ayuda de un miembro adicional de la tripulación, especialmente si el {term-glider} acaba de ser ensamblado. El piloto mueve la palanca de control y los pedales del timón mientras el miembro de la tripulación proporciona {term-drag}, sosteniendo cada {term-aileron}, el elevador, los {term-airbrake}s, los {term-flap}s y el timón para asegurar conexiones de control correctas y seguras. <<fig-06-16>> Una palanca o pedal que se mueve libremente con las superficies de control correspondientes restringidas indica que las conexiones no están seguras, y el {term-glider} no es aeronavegable. Los pilotos deben ajustar los asientos del piloto o pasajero, así como los controles ajustables, como los pedales del timón, antes de abrocharse el cinturón de seguridad y el arnés de hombros. Se debe tener cuidado de evitar pinzar o sujetar cualquier suministro de oxígeno a bordo.
+El piloto debe realizar una verificación de controles positiva con la ayuda de un miembro adicional de la tripulación, especialmente si el {term-glider} acaba de ser montado. El piloto mueve la palanca de control y los pedales del timón mientras el miembro de la tripulación proporciona {term-drag}, sosteniendo cada {term-aileron}, el elevador, los {term-airbrake}s, los {term-flap}s y el timón para asegurar conexiones de control correctas y seguras. <<fig-06-16>> Una palanca o pedal que se mueve libremente con las superficies de control correspondientes restringidas indica que las conexiones no están seguras, y el {term-glider} no es aeronavegable. Los pilotos deben ajustar los asientos del piloto o pasajero, así como los controles ajustables, como los pedales del timón, antes de abrocharse el cinturón de seguridad y el arnés de hombros. Se debe tener cuidado de evitar pinzar o sujetar cualquier suministro de oxígeno a bordo.
 
 [[fig-06-16]]
 .Verificación de controles positiva de los aerofrenos.
@@ -155,7 +155,7 @@ image::06/fig-06-17.generic-pre-lanzamiento-checklists.png[width=600]
 
 Dependiendo del tipo de {term-glider}, se deben emplear diferentes métodos de limpieza. Después de todos los vuelos, el piloto o el personal de tierra pueden limpiar el {term-glider} con un paño suave o una gamuza húmeda. Esto elimina cualquier escombro o insectos. Retrasar este proceso permite que los insectos se sequen y dificulta su remoción.
 
-Los {term-glider}es hechos de tela deben limpiarse con productos de pulverizar y enjuagar. Cualquier persona que limpie un {term-glider} debe evitar usar grandes cantidades de agua ya que el agua puede penetrar grietas y agujeros, especialmente en {term-glider}es antiguos de madera o tela, lo que daña y reduce la vida de la madera o tela. La exposición persistente y prolongada a la humedad puede dañar cualquier {term-glider} con el tiempo. En {term-glider}es de metal, el personal puede usar una manguera de baja presión y detergente suave para limpiar. Los {term-glider}es de fibra de vidrio de alto rendimiento usan un aerosol o pasta especial para limpiar. Se debe tener cuidado al usar una pulidora eléctrica, ya que la pulidora puede quemar la fibra de vidrio si no se usa de manera apropiada. Cualquier persona que limpie una cúpula debe usar solo limpiadores recomendados para ese propósito. El GFH/POH o una tienda u organización de suministros de {term-glider}es pueden sugerir materiales de limpieza apropiados basados en el tipo de {term-glider}.
+Los {term-glider}es hechos de tela deben limpiarse con productos de limpieza específicos. Cualquier persona que limpie un {term-glider} debe evitar usar grandes cantidades de agua ya que el agua puede penetrar grietas y agujeros, especialmente en {term-glider}es antiguos de madera o tela, lo que daña y reduce la vida de la madera o tela. La exposición persistente y prolongada a la humedad puede dañar cualquier {term-glider} con el tiempo. En {term-glider}es de metal, el personal puede usar una manguera de baja presión y detergente suave para limpiar. Los {term-glider}es de fibra de vidrio de alto rendimiento usan un aerosol o pasta especial para limpiar. Se debe tener cuidado al usar una pulidora eléctrica, ya que la pulidora puede dañar la superficie si no se usa de manera apropiada. Cualquier persona que limpie una cúpula debe usar solo limpiadores recomendados para ese propósito. El GFH/POH o una tienda u organización de suministros de {term-glider}es pueden sugerir materiales de limpieza apropiados basados en el tipo de {term-glider}.
 
 Después de limpiar, se puede aplicar una capa de cera o sellador a {term-glider}es de tela, metal y fibra de vidrio. Sin embargo, la cera que contiene silicona se adhiere a los poros de la fibra de vidrio y complica futuras reparaciones de fibra de vidrio. Después de aplicar cualquier cera, el personal puede usar un paño limpio y suave para quitar el exceso de cera y pulir el área a mano.
 
@@ -163,8 +163,8 @@ Un propietario o piloto puede realizar reparaciones menores en un {term-glider} 
 
 === Mantenimiento preventivo
 
-Los pilotos pueden realizar mantenimiento preventivo en su {term-glider}. El mantenimiento preventivo no involucra operaciones de ensamblaje complejas. Para la lista de actividades de mantenimiento permitidas realizadas por el piloto y para más información sobre mantenimiento preventivo, refiérase al Apéndice A del 14 CFR Parte 43, Alteraciones Mayores, Reparaciones Mayores y Mantenimiento Preventivo encontrado en www.ecfr.gov.
+Los pilotos pueden realizar mantenimiento preventivo en su {term-glider}. El mantenimiento preventivo no involucra operaciones de montaje complejas. Para la lista de actividades de mantenimiento permitidas realizadas por el piloto y para más información sobre mantenimiento preventivo, refiérase al Apéndice A del 14 CFR Parte 43, Alteraciones Mayores, Reparaciones Mayores y Mantenimiento Preventivo encontrado en www.ecfr.gov.
 
 == Resumen del capítulo
 
-Este capítulo introduce las prácticas de seguridad recomendadas para el ensamblaje, almacenamiento, amarre, asegurado y manejo en tierra de un {term-glider}. La autoridad final para cualquier {term-glider} es el Manual de Vuelo específico o Manual del Piloto (POH) desarrollado por el fabricante de la aeronave y aprobado por la FAA.
+Este capítulo introduce las prácticas de seguridad recomendadas para el montaje, almacenamiento, amarre, asegurado y manejo en tierra de un {term-glider}. La autoridad final para cualquier {term-glider} es el Manual de Vuelo específico o Manual del Piloto (POH) desarrollado por el fabricante de la aeronave y aprobado por la FAA.

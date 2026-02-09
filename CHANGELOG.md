@@ -8,16 +8,15 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 ## [Unreleased]
 
 ### Añadido
-- **ANALISIS_GRAMATICAL.md**: Nuevo documento con correcciones gramaticales sistemáticas (preposiciones, artículos, sintaxis, anglicismos).
 - **Scripts de post-procesamiento**:
   - `capitalize-terms.rb`: Capitalización automática de términos técnicos.
   - Extensión `figura-por-capitulo.rb`: Contador compartido para figuras y tablas.
-- **Imágenes del Capítulo 4**: 6 figuras traducidas (instrumentos de vuelo).
+- **Imágenes del Capítulo 4**: Todas las 31 figuras traducidas al español (instrumentos de vuelo).
 
 ### Cambiado
 - **Revisión masiva de capítulos 1-8**: Mejoras en terminología, estilo y gramática.
   - Capítulos 1-3: Revisión terminológica y correcciones de estilo.
-  - Capítulo 4: Imágenes traducidas + texto revisado.
+  - Capítulo 4: 31 imágenes traducidas + texto revisado. Figuras 04-08 y 04-09 comentadas (reemplazadas por tablas equivalentes).
   - Capítulos 5-6: Revisiones de terminología y estilo.
   - Capítulo 7: Correcciones gramaticales fases 3 y 4.
   - Capítulo 8: Reemplazo sistemático "falla" → "fallo".
@@ -30,7 +29,7 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Corregido
 - **URL de GitHub**: Referencia obsoleta `faa-gfh-castellano` → `faa-glider-flying-handbook-es`.
-- **Referencias de imágenes**: 6 figuras con nombres de archivo incorrectos:
+- **Referencias de imágenes**: 6 figuras con nombres de archivo incorrectos corregidos:
   - Capítulo 2: fig-02-11
   - Capítulo 5: fig-05-14, fig-05-15, fig-05-16
   - Capítulo 7: fig-07-07
