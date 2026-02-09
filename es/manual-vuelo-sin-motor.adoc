@@ -315,7 +315,7 @@ Este manual es el resultado del trabajo de muchas personas que han contribuido s
 
 Este es un proyecto de código abierto. Si deseas contribuir:
 
-* Visita: https://github.com/VuelaLibre-net/faa-gfh-castellano
+* Visita: https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es
 * Envía correcciones o sugerencias via Pull Request
 * Reporta errores en Issues
 
