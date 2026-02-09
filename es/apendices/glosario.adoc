@@ -90,7 +90,7 @@ Caja de estela (Boxing the wake)::
 Calle de nubes (Cloud street)::
   Alineación de nubes cúmulo en filas paralelas al viento, que indica una banda continua de ascendencia térmica. Permite volar largas distancias sin girar («delfinear»).
 
-Carlinga (Canopy)::
+cúpula (Canopy)::
   Cubierta transparente que protege la cabina del piloto, proporcionando visibilidad y aerodinámica.
 
 Centro de gravedad (CG)::

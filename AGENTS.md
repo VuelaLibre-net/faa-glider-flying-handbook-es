@@ -415,7 +415,12 @@ Antes de marcar una tarea como completada:
    - ✗ `== Despegue Normal`
    - ✗ `== La Atmósfera`
 8. **Comillas:** Usar comillas latinas (« ») según norma RAE
-9. **AUTORIZACIÓN REQUERIDA:** **NUNCA** hacer commit, push ni PR sin autorización expresa del usuario. **PROHIBIDO** tocar la rama `main`.
+9. **AUTORIZACIÓN REQUERIDA - REGLA CRÍTICA:** 
+   - **JAMÁS** hacer commit sin autorización expresa y explícita del usuario
+   - **JAMÁS** hacer push al repositorio remoto sin autorización
+   - **JAMÁS** crear Pull Requests sin autorización  
+   - **PROHIBIDO ABSOLUTO** tocar la rama `main`
+   - Esta regla es INQUEBRANTABLE, sin excepciones
 
 ---
 

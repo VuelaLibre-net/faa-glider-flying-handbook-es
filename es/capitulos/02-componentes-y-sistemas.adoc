@@ -46,7 +46,7 @@ image::02/fig-02-03.types-of-lift-drag-devices.png[width=600]
 [[fig-02-04]]
 .Posiciones de los flaps.
 image::02/fig-02-04.flap-positions.png[width=300,float=right]
-Algunos {term-glider}es tienen {term-flap}s instalados en el borde de salida de cada {term-wing} hacia adentro de los alerones, que pueden cambiar la {term-lift-force}, la {term-drag} y la tasa de descenso. El piloto generalmente puede ajustar los {term-flap}s en tres posiciones diferentes: en bandera, bajados o negativos. <<fig-02-04>> Cuando el piloto ajusta los {term-flap}s para desviarlos hacia abajo en vuelo, el {term-wing} produce más {term-lift-force} y {term-drag}. Por otro lado, una posición de {term-flap} negativa resulta en {term-lift-force} y {term-drag} reducidos.
+Algunos {term-glider}es tienen {term-flap}s instalados en el borde de salida de cada {term-wing} hacia adentro de los alerones, que pueden cambiar la {term-lift-force}, la {term-drag} y la tasa de descenso. El piloto generalmente puede ajustar los {term-flap}s en tres posiciones diferentes: neutros, bajados o negativos. <<fig-02-04>> Cuando el piloto ajusta los {term-flap}s para desviarlos hacia abajo en vuelo, el {term-wing} produce más {term-lift-force} y {term-drag}. Por otro lado, una posición de {term-flap} negativa resulta en {term-lift-force} y {term-drag} reducidos.
 
 --
 
@@ -76,7 +76,7 @@ image::02/fig-02-07.an-anti-servo-tab.png[width=300,float=right]
 Los diseños de {term-glider}es con cola convencional incorporan el {term-tailplane} montado en la parte inferior del {term-fin}. Los {term-glider}es con cola en T tienen el {term-tailplane} montado en la parte superior del {term-fin} formando una «T». Los empenajes en V tienen dos superficies de cola montadas para formar una «V» que combina los movimientos del {term-elevator} y el timón.
 --
 
-== Dispositivos de Gancho de Remolque
+== Dispositivos de gancho de remolque
 
 Los {term-glider}es que despegan usando remolque tienen un gancho de remolque aprobado. Para un {term-aerotow}, la tripulación normalmente conecta la línea de remolque a un gancho de remolque ubicado en o justo debajo de la nariz del {term-glider}. Para un remolque usando un torno o vehículo terrestre, la tripulación sujeta la línea de remolque a un gancho de remolque posicionado debajo del centro de gravedad (CG) del {term-glider}—el punto donde el {term-glider} se equilibraría en el suelo si se levantara desde arriba o desde abajo de esa posición. <<fig-02-08>>. Ambos diseños de gancho de remolque permiten la liberación rápida de la cuerda o cable cuando el piloto del {term-glider} tira de la palanca de liberación. Un {term-takeoff} por {term-aerotow} de un {term-glider} usando un gancho de remolque específico solo puede ocurrir si el Manual de Vuelo del {term-glider}/Manual de Operaciones del Piloto aprueba el procedimiento.
 
@@ -84,23 +84,23 @@ Los {term-glider}es que despegan usando remolque tienen un gancho de remolque ap
 .Ubicaciones del gancho de remolque.
 image::02/fig-02-08.remolque-gancho-locations.png[width=600]
 
-== Grupo Motopropulsor
+== Grupo motopropulsor
 
 Mientras que los aviones de remolque proporcionan el medio más común para lanzar un {term-glider} en los Estados Unidos, los {term-glider}es con motor incorporado se han vuelto más comunes.
 
-=== {Term-glider}es {term-self-launch}s
+=== {term-glider}es {term-self-launch}s
 
 Hay dos tipos de {term-glider}es {term-self-launch}s: {term-motorglider}s de turismo (TMG) y {term-glider}es {term-self-launch}s de alto rendimiento.
 
-==== {Term-motorglider}s de Turismo (TMG)
+==== {term-motorglider}s de turismo (TMG)
 
-Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice de pleno bandeo. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de avión, están certificados en la categoría de {term-glider}.
+Los {term-motorglider}s TMG tienen un motor montado en la nariz y una hélice con puesta en bandera. <<fig-02-09>> Aunque los {term-motorglider}s de turismo tienen algunas características básicas de avión, están certificados en la categoría de {term-glider}.
 
 [[fig-02-09]]
 .Un planeador de motor TMG Grob G109B.
 image::02/fig-02-09.a-grob-g109b-touring-motor-planeador.png[width=600]
 
-==== {Term-glider}es de Alto Rendimiento
+==== {term-glider}es de alto rendimiento
 
 Los {term-glider}es {term-self-launch}s de alto rendimiento tienen motores que se retraen en el {term-fuselage} para una {term-drag} mínima. <<fig-02-10>> La hélice puede plegarse o simplemente alinearse con el motor. Esta configuración preserva una configuración de baja {term-drag} suave.
 
@@ -128,10 +128,10 @@ Casi todos los {term-glider}es de alto rendimiento tienen tren de {term-landing}
 
 Algunos {term-glider}es de alto rendimiento tienen solo un gancho de remolque de centro de gravedad (CG) ya sea delante del tren de {term-landing} o en el compartimiento del tren de {term-landing}. Con un gancho de CG dentro del compartimiento del tren de {term-landing}, retraer el tren durante el remolque interfiere con la línea de remolque. Incluso si el {term-glider} tiene un gancho de nariz, el retraimiento del tren debe esperar. Un gancho de CG, en comparación con un gancho de nariz, hace que un {term-takeoff} con {term-crosswind} sea más difícil ya que el {term-glider} puede orientarse hacia el viento más fácilmente. Además, un gancho de CG hace que el {term-glider} sea más susceptible a elevarse (subir por encima del avión de remolque) en el {term-takeoff}, lo que amenaza la seguridad del piloto de remolque.
 
-=== Frenos de Rueda
+=== Frenos de rueda
 
 Los {term-glider}es tempranos a menudo dependían de la fricción entre el patín de nariz y el suelo para detenerse. Los modelos posteriores usan un freno de rueda montado en la rueda del tren de {term-landing} principal, que ayuda al {term-glider} a reducir la velocidad o detenerse después del contacto con la pista. Los {term-glider}es modernos comúnmente usan un freno de disco hidráulico, que proporciona una capacidad de frenado sustancial.
 
-== Resumen del Capítulo
+== Resumen del capítulo
 
-Aunque los {term-glider}es vienen en una variedad de formas y tamaños, la mayoría de los {term-glider}es comparten características de diseño básicas. Estas incluyen un {term-fuselage}, {term-wing}s y componentes, dispositivos de {term-lift-force}/{term-drag}, y empenaje. Dependiendo del método de lanzamiento utilizado, un {term-glider} puede tener un gancho de remolque o un motor.
+Aunque los {term-glider}es se presentan en una variedad de formas y tamaños, la mayoría de los {term-glider}es comparten características de diseño básicas. Estas incluyen un {term-fuselage}, {term-wing}s y componentes, dispositivos de {term-lift-force}/{term-drag}, y empenaje. Dependiendo del método de lanzamiento utilizado, un {term-glider} puede tener un gancho de remolque o un motor.

@@ -145,16 +145,18 @@ table:
   font_size: 9.5
   border_color: #D1D5DB
   border_width: 0.5
+  # Configuración del CUERPO (Efecto Pijama)
+  body:
+    background_color: #FFFFFF        # Filas impares (Blanco)
+    stripe_background_color: #E6EEF5 # Filas pares (Azul muy pálido)
+  # Configuración de la CABECERA (Fondo Azul Oscuro)
   head:
     font_style: bold
-    font_color: #FFFFFF
-    background_color: #1E3A5F
+    font_color: #FFFFFF        # Texto blanco
+    background_color: #1E3A5F  # Fondo AZUL OSCURO (Clave para arreglar tu problema)
     border_bottom_width: 1.5
-  body:
-    stripe_background_color: #F9FAFB
   cell:
-    padding: [6, 8, 6, 8]
-
+    padding: [1, 5, 1, 5]            # Padding reducido para controlar la altura
 # === IMÁGENES ===
 image:
   align: center

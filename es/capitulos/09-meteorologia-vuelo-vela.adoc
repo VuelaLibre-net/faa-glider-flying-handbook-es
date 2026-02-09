@@ -5,9 +5,9 @@
 
 == Introducción
 
-Los pilotos de {term-glider} enfrentan una multitud de decisiones, comenzando con la decisión de despegar. Los pilotos deben determinar si las condiciones meteorológicas son seguras y si las condiciones actuales favorecen un vuelo de vela. Los {term-glider}es, al estar propulsados por la gravedad, siempre están descendiendo a través del aire. Por lo tanto, los pilotos de {term-glider} deben buscar aire que ascienda más rápido que la tasa de descenso del {term-glider} para permitir un vuelo prolongado. Los pilotos de {term-glider} se refieren al aire ascendente como {term-lift}, no debe confundirse con la {term-lift-force} creada por el {term-wing}. Este capítulo se centra en el tiempo meteorológico que comúnmente afecta los vuelos de {term-glider}. Sin embargo, todos los pilotos deben entender la teoría meteorológica, los peligros meteorológicos para la aviación, y los detalles técnicos de los productos meteorológicos aeronáuticos. El Aviation Weather Handbook (FAA-H-8083-28) proporciona información completa.
+Los pilotos de {term-glider} enfrentan una multitud de decisiones, comenzando con la decisión de despegar. Los pilotos deben determinar si las condiciones meteorológicas son seguras y si las condiciones actuales favorecen un vuelo a vela. Los {term-glider}es, al estar propulsados por la gravedad, siempre están descendiendo a través del aire. Por lo tanto, los pilotos de {term-glider} deben buscar aire que ascienda más rápido que la tasa de descenso del {term-glider} para permitir un vuelo prolongado. Los pilotos de {term-glider} se refieren al aire ascendente como {term-lift}, no debe confundirse con la {term-lift-force} creada por el {term-wing}. Este capítulo se centra en el tiempo meteorológico que comúnmente afecta los vuelos de {term-glider}. Sin embargo, todos los pilotos deben entender la teoría meteorológica, los peligros meteorológicos para la aviación, y los detalles técnicos de los productos meteorológicos aeronáuticos. El Aviation Weather Handbook (FAA-H-8083-28) proporciona información completa.
 
-== La Atmósfera
+== La atmósfera
 
 Sin la atmósfera, el viento, las nubes, la precipitación y la protección contra la radiación solar no existirían. La altura de la atmósfera representa una distancia pequeña cuando se compara con el radio de la tierra de 3.438 millas náuticas. No existe un límite superior específico para la atmósfera—simplemente se adelgaza hasta un punto donde se desvanece en el espacio. La atmósfera por debajo de aproximadamente 27 MN (164.000 pies) contiene el 99,9 por ciento de la masa atmosférica. A esa altitud, la densidad atmosférica cae aproximadamente a una milésima de su valor al nivel del mar. <<fig-09-01>>
 
@@ -25,7 +25,7 @@ image::09/fig-09-02.the-composicion-of-the-atmosfera.png[width=600]
 
 Aunque el vapor de agua existe en la atmósfera en pequeñas cantidades en comparación con el nitrógeno y oxígeno, tiene un impacto significativo en el tiempo meteorológico. Los estados físicos adicionales del vapor de agua como líquido y sólido contribuyen a la formación de nubes, precipitación, niebla y hielo.
 
-=== Medidas Atmosféricas
+=== Medidas atmosféricas
 
 Las mediciones de temperatura, densidad y presión proporcionan información sobre la atmósfera. Estas variables cambian con el tiempo, y combinadas con diferencias verticales y horizontales, las mediciones y tendencias comprenden datos para informes y pronósticos meteorológicos.
 
@@ -41,21 +41,21 @@ La densidad de cualquier sustancia da su masa por unidad de volumen. La baja den
 
 Las moléculas en un volumen de aire no solo poseen una cierta temperatura y densidad, sino que también chocan con otras moléculas de gas y empujan objetos cercanos. Las colisiones resultan en una presión medible o una fuerza por unidad de área. Dado que la fuerza creada por las moléculas de gas en movimiento actúa igualmente en todas direcciones, las mediciones localizadas de presión de gas usando equipos calibrados deberían ser iguales entre sí. Las unidades comunes de medida para la presión incluyen libras por pulgada cuadrada (lb/pulg²), pulgadas de mercurio ("Hg), y las unidades equivalentes de milibares (mb) o hectopascales (hPa).
 
-=== Ley de los Gases Ideales
+=== Ley de los gases ideales
 
 ¿Cómo se relacionan la temperatura, presión y densidad entre sí? El aire seco se comporta casi como un gas ideal, lo que significa que obedece la ley de los gases ideales P/DT = R, donde P es presión, D es densidad, T es temperatura, y R es una constante. En general, la densidad, presión y temperatura de una parcela de aire cambian predeciblemente de acuerdo con las variables en la fórmula.
 
-=== Atmósfera Estándar
+=== Atmósfera estándar
 
 Para proporcionar una referencia común usada para temperatura y presión, los científicos establecieron la Atmósfera Estándar Internacional (ISA). Esta atmósfera estándar usa una distribución vertical representativa de variables de temperatura y presión para calibraciones de {term-altimeter}s de presión. Las condiciones estándar también son un punto de partida para la mayoría de los datos de rendimiento de aeronaves. Al nivel del mar, la atmósfera estándar consiste en una presión barométrica de 29,92 "Hg, 1.013,2 mb, o 14,7 lb/pulg², y una temperatura de 15 °C o 59 °F.
 
-Dado que la temperatura normalmente disminuye con la altitud a una tasa predecible, un cálculo de tasa de lapsus estándar da la temperatura estándar a varias altitudes. Por debajo de 36.000 pies, la tasa de lapsus estándar es 2 °C (3,5 °F) por cada 1.000 pies de cambio de altitud. La presión no disminuye linealmente con la altitud, pero una disminución de 1 "Hg por cada 1.000 pies de altitud aumentada aproxima la tasa de cambio de presión por debajo de 10.000 pies. Los pilotos pueden usar las tasas de lapsus estándar para fines de planificación de vuelo con el entendimiento de que existen variaciones de las condiciones estándar en la atmósfera. <<fig-09-03>>
+Dado que la temperatura normalmente disminuye con la altitud a una tasa predecible, un cálculo de gradiente térmico estándar da la temperatura estándar a varias altitudes. Por debajo de 36.000 pies, el gradiente térmico estándar es 2 °C (3,5 °F) por cada 1.000 pies de cambio de altitud. La presión no disminuye linealmente con la altitud, pero una disminución de 1 "Hg por cada 1.000 pies de altitud aumentada aproxima la tasa de cambio de presión por debajo de 10.000 pies. Los pilotos pueden usar los gradientes térmicos estándar para fines de planificación de vuelo con el entendimiento de que existen variaciones de las condiciones estándar en la atmósfera. <<fig-09-03>>
 
 [[fig-09-03]]
 .Temperaturas de la atmósfera estándar.
 image::09/fig-09-03.standard-atmosfera-temperatures.png[width=600]
 
-=== Capas de la Atmósfera
+=== Capas de la atmósfera
 
 Los científicos dividen la atmósfera de la tierra en cinco capas: troposfera, estratosfera, mesosfera, termosfera y exosfera. <<fig-09-04>> La tasa de cambio en temperatura a medida que aumenta la altitud define estas capas. La capa más baja, llamada troposfera, exhibe una disminución promedio de temperatura desde la superficie de la tierra hasta aproximadamente 36.000 pies sobre el nivel medio del mar (MSL). La troposfera se extiende a una mayor altitud sobre los trópicos y una menor altitud sobre las regiones polares. También varía estacionalmente, siendo más alta durante el verano y más baja durante el invierno.
 
@@ -71,7 +71,7 @@ La tropopausa separa la troposfera de la estratosfera. Con el aumento de altura 
 
 Los {term-glider}es han alcanzado la estratosfera inferior usando ondas de montaña. A grandes altitudes, los requisitos de oxígeno suplementario se vuelven obligatorios. Las capas por encima de la estratosfera tienen algunas características interesantes que normalmente no son de importancia para los pilotos de {term-glider}. Sin embargo, los pilotos interesados pueden referirse a cualquier texto general sobre tiempo meteorológico o meteorología.
 
-== Escala de Fenómenos Meteorológicos
+== Escala de fenómenos meteorológicos
 
 Al preparar pronósticos, los meteorólogos consideran la circulación atmosférica en diferentes escalas. Para ayudar al pronóstico del tiempo a corto y largo plazo, varios fenómenos meteorológicos han sido organizados en tres categorías amplias o escalas de circulación. El tamaño y la vida útil de los fenómenos en cada escala son aproximadamente proporcionales, de modo que las escalas más grandes coinciden con vidas útiles más largas. El término «microescala» se refiere a características con dimensiones espaciales de 0,1 a 1 MN, que duran de segundos a minutos. Un ejemplo es una {term-thermal} individual. El término «mesoescala» se refiere a las dimensiones horizontales de 1 a 1.000 MN, que duran minutos a semanas. Los ejemplos incluyen ondas de montaña, frentes de brisa marina, tormentas eléctricas y frentes. Los científicos de investigación descomponen la mesoescala en subdivisiones adicionales para clasificar mejor varios fenómenos. El término «macroescala» se refiere a las dimensiones horizontales mayores a 1.000 MN, que duran semanas a meses. Estos incluyen las ondas largas en la circulación global general y los chorros de viento embebidos dentro de esas ondas. <<fig-09-05>>
 
@@ -87,9 +87,9 @@ Los pilotos interpretando pronósticos deben comenzar con la macroescala, que id
 
 Las {term-thermal}s son la forma más común de aire ascendente usada para sostener el vuelo de {term-glider}. Los párrafos en esta sección exploran temas relacionados con las {term-thermal}s, incluyendo la estructura {term-thermal}, la estabilidad atmosférica y las masas de aire propicias para el vuelo en {term-thermal}s.
 
-== {Term-thermal}s
+== {term-thermal}s
 
-=== Forma y Estructura de las {term-thermal}s
+=== Forma y estructura de las {term-thermal}s
 
 La convección describe una forma de transferencia de calor que involucra el movimiento o flujo de masa en un fluido (gas o líquido). Las corrientes de convección ascendente de aire o «{term-thermal}s» son un medio por el cual la atmósfera transfiere energía {term-thermal} verticalmente. Las {term-thermal}s no necesariamente se desarrollan en un día cálido y soleado. Diferencias sutiles en la atmósfera hacen la diferencia entre un día cálido y soleado con muchas {term-thermal}s y un día cálido y soleado que no produce {term-thermal}s. Los pilotos de {term-glider} que entienden las condiciones que crean {term-thermal}s pueden usar sus propias habilidades de pronóstico para predecir la actividad {term-thermal}.
 
@@ -123,9 +123,9 @@ Una atmósfera estable dificulta el movimiento vertical, mientras que una atmós
 
 Cuando se discute la estabilidad atmosférica, una capa de aire en la atmósfera representa el sistema dinámico y una parcela de aire representa el elemento desplazado. En un sistema dinámico estable, un elemento desplazado regresa a su posición original. En un sistema dinámico inestable, un elemento desplazado continúa moviéndose más lejos de su posición original. En un sistema dinámico neutral, un elemento desplazado ni regresa a ni se mueve más lejos de su posición original.
 
-Una parcela de aire seco o no saturado moviéndose hacia arriba en la atmósfera se expande y se enfría a medida que asciende debido a la disminución de presión. Por el contrario, una parcela descendente de aire seco o no saturado se comprime y se calienta debido al aumento de presión. Cuando no ocurre transferencia de calor entre la parcela desplazada y el aire ambiente circundante, el proceso se llama adiabático. Durante este proceso adiabático, una parcela no saturada ascendente se enfría a una tasa de lapsus de 3 °C (5,4 °F) por cada 1.000 pies. Esta tasa de lapsus adiabática seca (DALR) se aproxima a lo que ocurre en la naturaleza aunque ocurre algo de mezcla de aire a medida que las {term-thermal}s ascienden.
+Una parcela de aire seco o no saturado moviéndose hacia arriba en la atmósfera se expande y se enfría a medida que asciende debido a la disminución de presión. Por el contrario, una parcela descendente de aire seco o no saturado se comprime y se calienta debido al aumento de presión. Cuando no ocurre transferencia de calor entre la parcela desplazada y el aire ambiente circundante, el proceso se llama adiabático. Durante este proceso adiabático, una parcela no saturada ascendente se enfría a un gradiente térmico de 3 °C (5,4 °F) por cada 1.000 pies. Este gradiente adiabático seco (DALR) se aproxima a lo que ocurre en la naturaleza aunque ocurre algo de mezcla de aire a medida que las {term-thermal}s ascienden.
 
-La figura 9-10 muestra una manera de predecir si una capa de la atmósfera funcionará como un sistema dinámico estable, inestable o neutral. Los paneles A y B representan dos escenarios con la misma temperatura de 20 °C en la superficie, pero con diferentes temperaturas de capa de aire a 3,000 pies sobre el nivel del terreno (AGL). Usando la DALR para ambos escenarios, una parcela de aire a 20 °C que se eleva desde la superficie se enfría a 11 °C al alcanzar 3,000 pies AGL. En el escenario A, la parcela elevada sigue siendo más caliente que el aire circundante y continuará ascendiendo por convección—a condición de inestabilidad que podría producir una buena {term-thermal}. En el escenario B, la parcela elevada a 3,000 pies AGL ha enfriado a una temperatura más baja que el aire circundante y descendirá. En este caso, la capa exhibe estabilidad del sistema. Vea el Manual de Clima Aéreo (FAA-H-8083-28) para más información sobre la estabilidad atmosférica.
+La figura 9-10 muestra una manera de predecir si una capa de la atmósfera funcionará como un sistema dinámico estable, inestable o neutral. Los paneles A y B representan dos escenarios con la misma temperatura de 20 °C en la superficie, pero con diferentes temperaturas de capa de aire a 3.000 pies sobre el nivel del terreno (AGL). Usando la DALR para ambos escenarios, una parcela de aire a 20 °C que se eleva desde la superficie se enfría a 11 °C al alcanzar 3.000 pies AGL. En el escenario A, la parcela elevada sigue siendo más caliente que el aire circundante y continuará ascendiendo por convección—a condición de inestabilidad que podría producir una buena {term-thermal}. En el escenario B, la parcela elevada a 3.000 pies AGL ha enfriado a una temperatura más baja que el aire circundante y descendirá. En este caso, la capa exhibe estabilidad del sistema. Vea el Manual de Clima Aéreo (FAA-H-8083-28) para más información sobre la estabilidad atmosférica.
 
 [[fig-09-10]]
 .Aire inestable (A) y estable (B).
@@ -135,9 +135,9 @@ Cambiar los valores en la figura 9-10 ilustra factores que afectarían la estabi
 
 Una inversión ocurre cuando la troposfera se calienta a medida que aumenta la altitud. Las inversiones pueden ocurrir a diferentes altitudes y variar en intensidad. En inversiones fuertes, la temperatura puede subir hasta 10 °C en unos pocos cientos de pies de ganancia de altitud. Junto con atrapar la bruma o polución debajo, una inversión también limita efectivamente cualquier actividad {term-thermal}.
 
-Aunque la humedad en forma de vapor de agua constituye un pequeño porcentaje de la atmósfera, puede afectar la tasa de lapsus de temperatura de una parcela de aire ascendente. Una parcela de aire ascendente se enfría a la DALR hasta que alcanza su punto de rocío, momento en el cual el vapor de agua en la parcela comienza a condensarse. El proceso de condensación libera calor, referido como calor latente, dentro de la parcela de aire ascendente. Por lo tanto, una parcela de aire saturado ascendente se enfría a una tasa menor que la DALR. Esta tasa de lapsus adiabática saturada (SALR), varía sustancialmente con la altitud. A menores altitudes, se aproxima a 1,2 °C por cada 1.000 pies, mientras que a altitudes medias aumenta a 2,2 °C por cada 1.000 pies. Por encima de aproximadamente 30.000 pies, existe poco vapor de agua para condensar, y la SALR se aproxima a la DALR.
+Aunque la humedad en forma de vapor de agua constituye un pequeño porcentaje de la atmósfera, puede afectar el gradiente térmico de una parcela de aire ascendente. Una parcela de aire ascendente se enfría a la DALR hasta que alcanza su punto de rocío, momento en el cual el vapor de agua en la parcela comienza a condensarse. El proceso de condensación libera calor, referido como calor latente, dentro de la parcela de aire ascendente. Por lo tanto, una parcela de aire saturado ascendente se enfría a una tasa menor que la DALR. Este gradiente adiabático saturado (SALR), varía sustancialmente con la altitud. A menores altitudes, se aproxima a 1,2 °C por cada 1.000 pies, mientras que a altitudes medias aumenta a 2,2 °C por cada 1.000 pies. Por encima de aproximadamente 30.000 pies, existe poco vapor de agua para condensar, y la SALR se aproxima a la DALR.
 
-== Masas de Aire Propicias para el Planeo por {term-thermal}s
+== Masas de aire propicias para el planeo por {term-thermal}s
 
 Generalmente, las mejores masas de aire para {term-thermal}s son aquellas con aire frío en altura, con condiciones lo suficientemente secas para permitir que la radiación de calentamiento del sol caliente la superficie y limite la formación extensiva de nubes cumulus. Este aire frío en altura puede originarse después del paso de un frente frío del Pacífico en el Oeste de Estados Unidos o de regiones continentales polares como el interior de Canadá en el Este de Estados Unidos. En ambos casos, la alta presión construyéndose en la región a menudo incluye una inversión en altura, que evita que los cumulus crezcan hasta convertirse en lluvias o tormentas eléctricas. Sin embargo, a medida que la alta presión se construye después del segundo o tercer día, la inversión a menudo desciende hasta el punto en que las {term-thermal}s adecuadas para el planeo ya no se forman. Esto puede llevar a condiciones cálidas y soleadas, pero muy estables. Los frentes que llegan demasiado cerca también pueden causar mal planeo post-frontal, ya que las nubes altas del siguiente frente evitan que la superficie se caliente lo suficiente. Los frentes fríos muy poco profundos desde la dirección noreste (con aire frío de solo uno o dos mil pies de profundidad) a menudo tienen un efecto estabilizador a lo largo de las llanuras directamente al este de las Montañas Rocosas. Esto se debe al aire frío de bajo nivel socavando el aire más cálido en altura que fluye desde el oeste.
 
@@ -147,7 +147,7 @@ En el suroeste desértico, la Gran Cuenca y el oeste intermontañoso, las buenas
 .Flujo típico del monzón norteamericano.
 image::09/fig-09-11.typical-north-american-monsoon-flow.png[width=600]
 
-=== Calles de Nubes
+=== Calles de nubes
 
 Las nubes cumulus a menudo aparecen distribuidas aleatoriamente a través del cielo, especialmente sobre terreno relativamente plano. Bajo las condiciones correctas, sin embargo, los cumulus pueden alinearse en una banda larga, llamada calle de nubes. Una calle de nubes individual puede extenderse 50 millas o más mientras que un campo completo de calles de nubes puede extenderse cientos de millas. El espaciado entre calles es típicamente tres veces la altura de las nubes. Las calles de nubes se alinean paralelas a la dirección del viento e indican el patrón de aire ascendente y descendente. Los pilotos de {term-glider} a menudo pueden volar muchas millas con poco o ningún giro, a veces logrando relaciones de planeo que exceden con creces el valor en aire quieto volando cerca y paralelo a las nubes mientras evitan el espacio entre las nubes. Así, las calles de nubes marcan una ubicación ideal para volar un vuelo de travesía a favor del viento.
 
@@ -163,7 +163,7 @@ Las calles {term-thermal}s, con una circulación como la Figura 9-12, pueden exi
 
 === Calles de nubes
 
-La figura 9-13 muestra una forma ondulada para la inversión que cubre las nubes cumulus. Si los vientos por encima de la inversión se mueven perpendicular a las calles de nubes y aumentan a 10 nudos por 5,000 pies o más, las ondas de las calles de nubes pueden formarse en el aire estable por encima. Aunque generalmente relativamente débiles, las ondas {term-thermal}s pueden producir una elevación de 100 a 500 fpm y permitir un vuelo suave a lo largo de las calles de nubes por encima de la base de las nubes.
+La figura 9-13 muestra una forma ondulada para la inversión que cubre las nubes cumulus. Si los vientos por encima de la inversión se mueven perpendicular a las calles de nubes y aumentan a 10 nudos por 5.000 pies o más, las ondas de las calles de nubes pueden formarse en el aire estable por encima. Aunque generalmente relativamente débiles, las ondas {term-thermal}s pueden producir una elevación de 100 a 500 fpm y permitir un vuelo suave a lo largo de las calles de nubes por encima de la base de las nubes.
 
 [[fig-09-13]]
 .Onda térmica de calle de nubes.
@@ -171,7 +171,7 @@ image::09/fig-09-13.nube-street-termica-onda.png[width=600]
 
 Las llamadas ondas de cumulus pueden existir donde las nubes cumulus no se organizan en calles. Las ondas de cumulus requieren una inversión limitante o capa estable y viento creciente sobre las nubes cumulus. Sin embargo, la cizalladura direccional no es necesaria. Las ondas de cumulus también pueden ser de corta duración, y difíciles de trabajar por cualquier período de tiempo. Una excepción ocurre cuando la nube cumulus se ancla a alguna característica, como una línea de cresta o cordillera corta. Como nota final, las ondas {term-thermal}s también pueden formarse sin nubes. Sin nubes, la posible influencia de una cresta o montaña en crear la {term-lift} de ondas se vuelve difícil de determinar.
 
-== Tormentas Eléctricas
+== Tormentas eléctricas
 
 Los pronosticadores a veces usan el término «convección profunda» para referirse a la convección que asciende a grandes alturas, lo que usualmente significa tormentas eléctricas, y usan el término «actividad convectiva» para referirse a las tormentas eléctricas. La tremenda cantidad de energía asociada con las nubes cumulonimbus surge de la liberación de calor latente a medida que ocurre la condensación dentro de la nube en crecimiento. Mientras que una atmósfera inestable puede proporcionar grandes condiciones para la formación de {term-thermal}s, una atmósfera que es húmeda e inestable puede crear nubes cumulonimbus (Cb) o nubes de tormenta. Las nubes Cb son el marcador estándar reconocido de las tormentas eléctricas. Cuando la Cb se construye suficientemente, cambia del estado de tormenta de lluvia al estado de tormenta eléctrica. No todas las formaciones grandes de cumulus con precipitación están acompañadas por rayos y truenos, pero la presencia de estas nubes indica que existen condiciones peligrosas o que pueden intensificarse.
 
@@ -189,7 +189,7 @@ La etapa de cumulus de una tormenta eléctrica se caracteriza por una nube cumul
 .Una nube cúmulo convirtiéndose en cúmulo torrencial.
 image::09/fig-09-15.a-cumulo-nube-becoming-a-towering-cumulo.png[width=600]
 
-A medida que el desarrollo de una tormenta eléctrica continúa, alcanza la etapa madura. Para este momento, las corrientes descendentes conocidas como downbursts o microbursts alcanzan el suelo y se dispersan creando vientos superficiales fuertes y a veces dañinos. Los pilotos de {term-glider} deben evitar el vuelo hacia estas corrientes descendentes y su cizalladura de viento asociada, ya que el {term-glider} podría perder la capacidad de alcanzar un área de {term-landing} seleccionada.
+A medida que el desarrollo de una tormenta eléctrica continúa, alcanza la etapa madura. Para este momento, las corrientes descendentes conocidas como _downbursts_ o _microbursts_ alcanzan el suelo y se dispersan creando vientos superficiales fuertes y a veces dañinos. Los pilotos de {term-glider} deben evitar el vuelo hacia estas corrientes descendentes y su cizalladura de viento asociada, ya que el {term-glider} podría perder la capacidad de alcanzar un área de {term-landing} seleccionada.
 
 Nota: la cizalladura de viento peligrosa crea un riesgo significativo para cualquier lanzamiento desde tierra o {term-aerotow}, y estas operaciones no deberían ocurrir si el piloto sospecha que puede ocurrir un encuentro con cizalladura de viento asociada con Cb. Dependiendo del tamaño de la cizalladura de viento, el avión de remolque podría estar en viento en cola mientras el {term-glider} está en viento de frente.
 
@@ -201,11 +201,11 @@ El riesgo de las tormentas eléctricas involucra varios peligros, incluyendo tur
 
 Un piloto nunca debería volar intencionalmente hacia una Cb ya que puede ocurrir turbulencia severa o extrema que lleve a falla estructural en cualquier lugar dentro de la tormenta eléctrica. Las violentas corrientes ascendentes pueden ser seguidas un segundo o dos después por violentas corrientes descendentes, con ráfagas laterales ocasionales. La turbulencia severa comúnmente ocurre cerca de la tormenta, y la turbulencia moderada puede existir a varias millas de una tormenta eléctrica. Debajo de la base de la Cb, puede ocurrir turbulencia moderada a severa a lo largo del límite entre el flujo de salida frío y el aire cálido alimentando la Cb. Los pilotos deberían esperar turbulencia cerca de la superficie desde un frente de ráfaga a medida que el flujo de salida frío se dispersa desde la tormenta. Ráfagas turbulentas impredecibles de escala más pequeña pueden ocurrir en cualquier lugar cerca de una tormenta eléctrica y evitar el frente de ráfaga no garantiza el evitar la turbulencia severa.
 
-=== Corrientes Ascendentes y Descendentes
+=== Corrientes ascendentes y descendentes
 
-Grandes y fuertes corrientes ascendentes y descendentes acompañan a las tormentas eléctricas en la etapa madura. Las corrientes ascendentes alimentando la Cb desde debajo de la base pueden exceder 1.000 pies por minuto. Cerca de la base de la nube, un piloto puede tener dificultad para determinar la distancia al borde de la nube, y las fuertes corrientes ascendentes podrían succionar un {term-glider} hacia la nube de tormenta. Durante las etapas tardía de cumulus y temprana madura, las corrientes ascendentes alimentando la nube pueden cubrir muchas millas cuadradas. A medida que la tormenta entra en su etapa madura, los downbursts o microbursts pueden ocurrir incluso sin precipitación muy intensa presente. Los downbursts también pueden cubrir muchas millas cuadradas con aire descendente de 2.000 pies por minuto o más. Un piloto volando debajo de un downburst en formación, que puede no ser visible, podría encontrar corriente descendente de 3.000 pies por minuto o mayor en casos extremos. Tal downburst encontrado a altitud de circuito puede reducir el tiempo normal disponible para el piloto para ejecutar un {term-approach}. Mientras que un circuito normal de 800 pies AGL al suelo podría abarcar 3 minutos, el contacto con el suelo ocurre en 19 segundos en corriente descendente de 2.500 pies por minuto.
+Grandes y fuertes corrientes ascendentes y descendentes acompañan a las tormentas eléctricas en la etapa madura. Las corrientes ascendentes alimentando la Cb desde debajo de la base pueden exceder 1.000 pies por minuto. Cerca de la base de la nube, un piloto puede tener dificultad para determinar la distancia al borde de la nube, y las fuertes corrientes ascendentes podrían succionar un {term-glider} hacia la nube de tormenta. Durante las etapas tardía de cumulus y temprana madura, las corrientes ascendentes alimentando la nube pueden cubrir muchas millas cuadradas. A medida que la tormenta entra en su etapa madura, los _downbursts_ o _microbursts_ pueden ocurrir incluso sin precipitación muy intensa presente. Los _downbursts_ también pueden cubrir muchas millas cuadradas con aire descendente de 2.000 pies por minuto o más. Un piloto volando debajo de un _downburst_ en formación, que puede no ser visible, podría encontrar corriente descendente de 3.000 pies por minuto o mayor en casos extremos. Tal _downburst_ encontrado a altitud de circuito puede reducir el tiempo normal disponible para el piloto para ejecutar un {term-approach}. Mientras que un circuito normal de 800 pies AGL al suelo podría abarcar 3 minutos, el contacto con el suelo ocurre en 19 segundos en corriente descendente de 2.500 pies por minuto.
 
-=== Vientos de Salida
+=== Vientos de salida
 
 Cuando un downburst o microburst golpea el suelo, la corriente descendente se dispersa, llevando a vientos superficiales fuertes, conocidos como salida de tormenta. Típicamente, los vientos golpean rápidamente y dan poca advertencia de su {term-approach}. Mientras vuelan, los pilotos deberían mantener una observación aguda entre cualquier tormenta y el lugar de {term-landing} previsto en busca de señales de un cambio de viento. Polvo levantado, humo o estelas de viento en un lago causadas por viento de la tormenta pueden indicar un frente de ráfaga que se aproxima rápidamente. Los vientos de salida de tormenta usualmente viajan a velocidades de 20 a 40 nudos por un período de 5 a 10 minutos antes de disminuir. Sin embargo, los vientos pueden fácilmente exceder 60 nudos, y en algunos casos, con una tormenta eléctrica de movimiento lento, los vientos fuertes pueden durar sustancialmente más tiempo. Aunque los vientos de salida dañinos usualmente no se extienden más de 5 o 10 millas de la Cb, vientos de 20 o 30 nudos pueden extenderse 50 millas o más de tormentas eléctricas grandes.
 
@@ -217,7 +217,7 @@ El granizo asociado con cualquier tormenta eléctrica puede existir dentro de pa
 
 El hielo puede crear un problema significativo dentro de una nube o donde existe humedad visible, especialmente a niveles donde la {term-oat} es aproximadamente -10 °C. Bajo estas condiciones, las gotas de agua superenfriadas (agua existiendo en estado líquido a 0 °C y debajo) pueden congelarse rápidamente al contacto con las {term-wing}s y otras superficies del {term-glider}. La precipitación temprana debajo de la base de una nube de una tormenta en desarrollo puede ser difícil de ver. A veces, la precipitación puede incluso estar cayendo a través de una corriente ascendente alimentando la nube. Nieve, graupel (una combinación de nieve/agua congelada) o pellets de hielo cayendo desde la tormenta en formación arriba pueden adherirse al borde de ataque del {term-wing} y degradar el rendimiento. El hielo puede formarse en el dosel e interferir con la visión hacia adelante del piloto.
 
-=== Baja Visibilidad
+=== Baja visibilidad
 
 La mala visibilidad debido a precipitación o techos bajos a medida que el aire debajo de una tormenta eléctrica se enfría crea otra preocupación para el piloto. Incluso precipitación ligera o moderada puede reducir dramáticamente la visibilidad. A menudo, debajo de una Cb precipitante, puede ocurrir confusión al distinguir entre la precipitación y la nube.
 
@@ -229,7 +229,7 @@ Los golpes de rayo son completamente impredecibles. Los rayos en una tormenta el
 
 Las tormentas eléctricas severas a veces pueden generar tornados de unos pocos cientos a unos pocos miles de pies de ancho con vientos que pueden exceder 200 mph. Los tornados que no alcanzan el suelo se llaman nubes embudo. Los pilotos deberían considerar cualquier información de vigilancia o advertencia de tornado y permanecer bien alejados de las nubes embudo y tornados.
 
-== Tiempo Meteorológico para Planeo de Ladera
+== Tiempo meteorológico para planeo de ladera
 
 El viento se desvía horizontalmente, verticalmente, o alguna combinación de ambas cuando encuentra topografía. El planeo de ladera o cresta depende de las corrientes ascendentes producidas por la elevación mecánica del aire a medida que encuentra la ladera de barlovento de una colina, cresta o montaña.
 
@@ -273,7 +273,7 @@ El aire húmedo ascendiendo desde el contacto con una ladera que se enfría sufi
 .Nube de casquete (Cap cloud).
 image::09/fig-09-20.cap-nube.png[width=600]
 
-=== Ondas de Montaña
+=== Ondas de montaña
 
 El viento soplando sobre montañas o crestas puede producir ondas, las más poderosas de las cuales han elevado {term-glider}es a más de 49.000 pies en Estados Unidos. Con vientos fuertes y generalizados en altura y atmósfera estable, las ondas de montaña pueden extenderse hacia sotavento a lo largo de toda la extensión de una cordillera. Los pilotos se refieren a estas ondas como ondas de montaña, ondas de sotavento, ondas de montaña de sotavento u ondas estacionarias. Los pilotos han logrado vuelos de múltiples etapas de más de 2.000 kilómetros en ondas de montaña. Nótese que por períodos breves en algunas partes del mundo, las ondas de montaña alcanzan la estratosfera y reciben un impulso del vórtice polar. Los pilotos en un {term-glider} presurizado experimental alcanzaron altitudes por encima de 76.000 pies en 2018 usando este fenómeno en Argentina.
 
@@ -283,7 +283,7 @@ Las ondas de montaña difieren fundamentalmente de la {term-lift} de ladera. El 
 
 Las colinas pequeñas aisladas o montañas cónicas no forman ondas de sotavento clásicas. En algunos casos, sí forman ondas emanando en un ángulo al flujo de viento como ondas de agua creadas por la estela de un barco. Un pico único puede requerir solo una milla o dos en la dimensión perpendicular al viento para que se formen ondas de sotavento de alta amplitud, aunque la {term-lift} de ondas producida de esta manera ocurre en un área relativamente pequeña.
 
-=== Mecanismo de Formación de Ondas
+=== Mecanismo de formación de ondas
 
 El aire estable puede soportar la formación de ondas cuando una perturbación causa movimiento vertical del aire y el viento causa desplazamiento horizontal. Como se ilustra en la Figura 9-21 en la línea discontinua 1, la parcela seca no saturada (representada por el punto rojo) se encuentra en reposo en su nivel de equilibrio. Después del desplazamiento hacia arriba de la parcela (línea discontinua 2), la parcela levantada, ahora más fría que el aire circundante, acelera hacia abajo hacia su nivel de equilibrio. Sobrepasa el nivel debido al momentum y sigue bajando. La línea discontinua 3 muestra que la parcela, ahora más cálida que el aire circundante y a una altitud más baja que en la línea discontinua 1, se mueve hacia arriba nuevamente. El proceso continúa con el movimiento eventualmente amortiguándose. El número de oscilaciones depende del desplazamiento inicial de la parcela y la estabilidad del aire. En la parte inferior de la figura, se ha agregado el viento, ilustrando el patrón de onda que hace la parcela mientras oscila verticalmente. Si no hubiera viento, una parcela desplazada verticalmente solo oscilaría arriba y abajo, mientras se amortigua en un punto sobre el suelo.
 
@@ -296,7 +296,7 @@ La parte inferior de la Figura 9-21 también ilustra dos características de cua
 La figura 9-22 ilustra un modelo conceptual bidimensional de una montaña con perfiles de viento y temperatura. Note el incremento en la velocidad del viento (soplando de izquierda a derecha) con la altitud y una capa estable cerca de la altura de la cima de la montaña con aire menos estable por encima y por debajo. A medida que el aire fluye sobre la montaña, desciende por la ladera de sotavento (por debajo de su nivel de equilibrio en aire estable), lo que establece una serie de oscilaciones río abajo. Mientras que la onda exhibe un flujo suave, existe una zona turbulenta de bajo nivel debajo, con una circulación de rotor incrustada bajo cada cresta. La turbulencia, especialmente dentro de los rotores individuales, aunque usualmente moderada a severa, ocasionalmente puede volverse extrema.
 
 [[fig-09-22]]
-.Mountain lee wave system.
+.Sistema de onda de montaña a sotavento.
 image::09/fig-09-22.above-indicates-nube-types-associated-with-a.png[width=600]
 
 Este modelo conceptual simple tiene muchas posibles variaciones. Por ejemplo, la topografía podría tener muchas características tridimensionales complejas, como grandes crestas o espolones en ángulo recto con la cordillera principal. Las variaciones pueden ocurrir cuando una cordillera Norte-Sur se curva para orientarse Noreste-Suroeste. Además, pueden ocurrir numerosas variaciones de los perfiles de viento y estabilidad. En algunas condiciones, la segunda o tercera cresta de onda aumenta en amplitud, y el piloto puede volar más alto si vuela esa porción de la onda.
@@ -333,7 +333,7 @@ El vuelo por ondas requiere planificación y equipo apropiado. Además, el vuelo
 .Los Premios Lennie se otorgan por completar y documentar un vuelo de onda.
 image::09/fig-09-25.lennie-awards-are-given-for-completing-and.png[width=600]
 
-=== {Term-lift} por Convergencia
+=== {term-lift} por convergencia
 
 La {term-lift} por convergencia ocurre cuando dos masas de aire opuestas se encuentran, y el aire se mueve hacia arriba en respuesta a los vientos opuestos. El aire no necesita encontrarse de frente para ascender. Dondequiera que el aire se acumule de esta manera, conduce a convergencia y aire ascendente.
 
@@ -367,13 +367,13 @@ Como ejemplo final, cuando el calentamiento diurno disminuye en terreno montaño
 .Convergencia inducida por flujo alrededor de topografía.
 image::09/fig-09-29.convergencia-induced-by-flow-around-topography.png[width=600]
 
-== Obtención de Información Meteorológica
+== Obtención de información meteorológica
 
 Para vuelos bajo reglas de vuelo visual (VFR), los reglamentos federales requieren que los pilotos revisen informes y pronósticos meteorológicos si planean salir de la vecindad del aeropuerto. Incluso para un vuelo local, los pilotos de {term-glider} deberían conocer el tiempo meteorológico actual y pronosticado para evitar el vuelo en condiciones peligrosas.
 
 Para detalles adicionales sobre los servicios y productos meteorológicos disponibles, los pilotos de {term-glider} deberían referirse a la versión actual del Pilot's Handbook of Aeronautical Knowledge, FAA-H-8083-25, Capítulo 12, Aviation Weather Services y el Aviation Weather Handbook, FAA-H-8083-28. Estas fuentes incluyen una riqueza de información. Un piloto familiarizado con los informes y pronósticos meteorológicos relevantes y disponibles puede analizar los peligros meteorológicos y mitigar cualquier riesgo asociado. Los pilotos que entienden el tiempo meteorológico pueden experimentar vuelo seguro en una variedad de condiciones.
 
-=== Briefing Meteorológico de Pre-vuelo
+=== Briefing meteorológico de pre-vuelo
 
 La FAA proporciona servicios de vuelo a pilotos en los Estados Unidos continentales, Alaska, Hawái y Puerto Rico. Los servicios se proporcionan por teléfono al 1-800-WX-BRIEF, en Internet a través del Portal Web de Servicio de Vuelo para Pilotos, y en persona (solo Alaska) en 17 Estaciones de Servicio de Vuelo (FSS). Los servicios incluyen, pero no se limitan a: briefings meteorológicos de pre-vuelo, planificación de vuelo y servicios de asesoría en vuelo.
 
@@ -383,14 +383,14 @@ Los meteorólogos de briefing en realidad no predicen el tiempo; simplemente tra
 .Pronóstico de vuelo a vela.
 image::09/fig-09-30.vuelo-vela-forecast.png[width=600]
 
-=== Información Relacionada con el Tiempo Meteorológico
+=== Información relacionada con el tiempo meteorológico
 
 Los pilotos también pueden encontrar información relacionada con el tiempo meteorológico en Internet, incluyendo sitios dirigidos hacia la aviación. Los pilotos deberían verificar la actualidad y fuente de la información meteorológica proporcionada por cualquier sitio de Internet para asegurar que la información esté actualizada y sea precisa. Por ejemplo, una fuente de información precisa incluye el sitio web del NWS.
 
-== Interpretación de Cartas, Informes y Pronósticos Meteorológicos
+== Interpretación de cartas, informes y pronósticos meteorológicos
 
 Saber cómo interpretar y entender la información meteorológica requiere conocimiento y práctica. Las cartas e informes meteorológicos registran condiciones atmosféricas observadas en ciertas ubicaciones en tiempos específicos. El NWS recopila datos de fuentes automatizadas o de observadores entrenados usando instrumentos electrónicos, computadoras y observaciones personales así como observaciones de radiosonda o sondeos generados por modelos para producir los productos meteorológicos que los pilotos usan para determinar si un vuelo puede realizarse de manera segura. Esta misma información puede ser usada por pilotos de vela para determinar si puede existir suficiente {term-lift} para un vuelo planificado, dónde encontrarla y cuánto tiempo debería durar la {term-lift}.
 
-== Resumen del Capítulo
+== Resumen del capítulo
 
 Los pilotos usan varios tipos diferentes de {term-lift} para realizar vuelos extendidos de {term-glider}. La {term-lift} viene de {term-thermal}s, crestas de montaña, formación de ondas o zonas de convergencia. La estabilidad de la atmósfera afecta varias de estas fuentes. Cada fuente de {term-lift} tiene su propio conjunto de peligros y riesgos asociados. Por ejemplo, el tiempo que lleva a {term-thermal}s también puede llevar a tormentas eléctricas. Los pilotos que buscan condiciones meteorológicas que favorecen vuelos extendidos también deberían saber cómo identificar condiciones y peligros que les indiquen no volar. Los pilotos no deberían volar cerca de tormentas eléctricas, en baja visibilidad, o en vientos altos que afecten la seguridad de {term-takeoff}s y {term-landing}s. Los pilotos pueden obtener información general y específica de una variedad de fuentes y deberían asegurarse de que cualquier fuente de información meteorológica usada antes del vuelo sea precisa. La FAA tiene información y documentos sobre productos y servicios meteorológicos en su sitio web.
