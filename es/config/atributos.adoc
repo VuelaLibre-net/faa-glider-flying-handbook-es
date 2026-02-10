@@ -3,7 +3,7 @@
 
 // === METADATOS ===
 :project-name: Manual de Vuelo sin Motor
-:project-version: 0.1.4
+:project-version: 0.1.5-dev
 :original-title: FAA Glider Flying Handbook (FAA-H-8083-13B)
 :original-author: Federal Aviation Administration
 :translator: VuelaLibre.net
