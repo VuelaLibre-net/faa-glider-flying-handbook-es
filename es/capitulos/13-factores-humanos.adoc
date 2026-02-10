@@ -338,6 +338,7 @@ Una persona usando la base de datos de accidentes del NTSB, puede usar su herram
 |Grave
 |El fallo del piloto para guardar el freno de velocidad antes de intentar el {term-takeoff}.
 
+|19/09/2020
 |PIK PIK-200
 |Menor
 |El fallo del piloto para mantener el control direccional durante el {term-takeoff} que resultó en una colisión con otro {term-glider} que estaba estacionado cerca de la pista de salida, y la decisión impropia del piloto de intentar un {term-takeoff} sin asegurar que tenía espacio libre seguro del {term-glider} estacionado.
@@ -362,6 +363,7 @@ Una persona usando la base de datos de accidentes del NTSB, puede usar su herram
 |Grave
 |Impacto con árboles durante un {term-landing} forzoso en condiciones de {term-lift} atmosférica que eran insuficientes para mantener el vuelo. Contribuyó la decisión retrasada del piloto de regresar al aeropuerto.
 
+|16/05/2021
 |I.C.A. BRASOV (RUMANIA) IS-2882
 |Grave
 |El fallo del instructor de vuelo para mantener el control de la aeronave resultando en exceder el {term-aoa} crítico del {term-glider} tras la rotura del enlace débil/seguridad durante un lanzamiento por torno, lo que resultó en una {term-stall} aerodinámica y {term-spin}, y posterior impacto con árboles y terreno.
@@ -396,6 +398,7 @@ Una persona usando la base de datos de accidentes del NTSB, puede usar su herram
 |Ninguna
 |El fallo del piloto para mantener la estabilidad del {term-glider} en el eje de alabeo durante la carrera de {term-takeoff}, lo que resultó en una punta de {term-wing} arrastrada y un caballito (ground loop).
 
+|25/07/2021
 |BURKHART GROB G 103 TWIN
 |Menor
 |El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo lo que resultó en un {term-off-field-landing} y una colisión con una cerca.
@@ -420,26 +423,31 @@ Una persona usando la base de datos de accidentes del NTSB, puede usar su herram
 |Ninguna
 |El fallo del piloto para mantener distancia con una señal de aeropuerto mientras rodaba.
 
+|08/04/2022
 |ALEXANDER SCHLEICHER GMBH & CO ASK 21
 |Ninguna
 |El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo y posterior impacto con terreno montañoso.
 
+|19/06/2022
 |ROLLADEN-SCHNEIDER 15-6
 |Ninguna
 |El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo y posterior amaraje.
 
+|22/06/2022
 |LET L-23 SUPER BLANIK
 |Grave
 |El encuentro del piloto con condiciones de aire descendente que resultaron en una pérdida de {term-lift} y una posterior pérdida de control.
 
+|22/06/2022
 |DG FLUGZEUGBAU GMBH DG 10005
 |Ninguna
 |El encuentro del {term-glider} con condiciones atmosféricas donde la {term-lift} no era suficiente para mantener el vuelo. Contribuyó al accidente la decisión del piloto de sobrevolar un sitio de {term-landing} adecuado lo que resultó en un {term-off-field-landing} en un lago.
 
-|10/07/2022
+|07/10/2022
 |Schleicher ASW-198
 |Ninguna
 |La mala identificación de la pista por parte del piloto durante la {term-approach} visual que resultó en un {term-landing} fuera de pista e impacto con un remolque.
+
 |===
 
 
