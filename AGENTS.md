@@ -101,8 +101,8 @@ Este proyecto es una **traducción técnica 1:1** del *FAA Glider Flying Handboo
 ├── Gemfile                                # Dependencias Ruby
 ├── Gemfile.lock                           # Lock de gemas
 ├── Makefile                               # Automatización de build
-├── .ruby-version                          # Ruby 3.3.5
-├── .ruby-gemset                           # Gemset: faa-gfh
+├── .mise.toml                             # Configuración de mise (Ruby 3.3.5)
+├── .ruby-version                          # Ruby 3.3.5 (también leído por mise)
 ├── .python-version                        # Python: faa-gfh-images (pyenv)
 └── .env                                   # Variables de entorno (API keys)
 ```
@@ -110,6 +110,8 @@ Este proyecto es una **traducción técnica 1:1** del *FAA Glider Flying Handboo
 ### 2.2 Stack Tecnológico
 
 #### Ruby (Document Processing)
+
+El proyecto usa [mise](https://mise.jdx.dev) para gestionar Ruby 3.3.5 y sus dependencias.
 
 | Gema | Versión | Uso |
 |------|---------|-----|
@@ -139,12 +141,12 @@ Este proyecto es una **traducción técnica 1:1** del *FAA Glider Flying Handboo
 ### 3.1 Setup Inicial
 
 ```bash
-# Configurar entorno Ruby completo
+# Configurar entorno Ruby completo (requiere mise: https://mise.jdx.dev)
 make setup
 
 # O manualmente:
-rvm use 3.3.5@faa-gfh
-bundle install
+mise install
+mise exec -- bundle install
 
 # Configurar entorno Python para Image Manager
 make setup-images

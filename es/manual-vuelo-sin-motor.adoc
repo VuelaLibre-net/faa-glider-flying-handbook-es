@@ -1,7 +1,7 @@
 = Manual de Vuelo sin Motor
 :author: VuelaLibre.net
 :email: soporte@vuelalibre.net
-:revnumber: 0.1.4
+:revnumber: 0.1.5
 :revdate: {docdate}
 :revremark: Borrador en construcción
 :description: Traducción al español del FAA Glider Flying Handbook (FAA-H-8083-13B)
@@ -119,21 +119,6 @@ Actualizaciones y mejoras son bienvenidas en nuestro repositorio de GitHub: http
 | *Versión* | {revnumber}
 | *Fecha* | {revdate}
 |===
-
-'''
-[dedication]
-== Dedicatoria
-
-*A la memoria de Iñaqui Ulibarri*
-
-El maestro que nos dio las alas y nos transmitió la sabiduría para usarlas.
-
-Sigues con nosotros en el asiento de atrás; vuelas con nosotros en cada térmica y en cada decisión segura, que seguimos tomando en tu nombre. Gracias por la inmensa pasión que nos dejaste como herencia.
-
-_Siempre en nuestros vuelos._
-
-
-'''
 
 :page-break-before: always
 [colophon]

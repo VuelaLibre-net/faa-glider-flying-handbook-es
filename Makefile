@@ -163,11 +163,11 @@ mrproper: clean
 check:
 	@echo "🔍 Verificando entorno y herramientas..."
 	@echo ""
+	@echo "📦 mise:"
+	@mise --version 2>/dev/null || echo "⚠️  mise no instalado (ver https://mise.jdx.dev)"
+	@echo ""
 	@echo "📦 Ruby:"
 	@ruby --version || (echo "❌ Ruby no instalado" && exit 1)
-	@echo ""
-	@echo "📦 Gemset:"
-	@rvm current 2>/dev/null || echo "⚠️  RVM no disponible (opcional)"
 	@echo ""
 	@echo "📚 Gemas Ruby (requeridas):"
 	@$(ASCIIDOCTOR) --version 2>/dev/null | head -1 || echo "❌ asciidoctor no instalado"
@@ -202,21 +202,24 @@ setup-images:
 	@echo "🔧 Configurando entorno virtual para el gestor de imágenes..."
 	@scripts/setup-image-manager.sh
 
-## Configura el entorno completo (RVM gemset + gemas)
+## Configura el entorno completo (mise + gemas)
 setup:
-	@echo "🔧 Configurando entorno Ruby..."
-	@echo "1. Creando gemset faa-gfh..."
-	rvm gemset create faa-gfh || true
-	rvm use 3.3.5@faa-gfh
-	@echo "2. Instalando gemas..."
-	bundle install
+	@echo "🔧 Configurando entorno Ruby con mise..."
+	@mise --version >/dev/null 2>&1 || (echo "❌ mise no está instalado. Instálalo desde https://mise.jdx.dev" && exit 1)
+	@echo "1. Confiando en configuración de mise..."
+	@mise trust
+	@echo "2. Instalando/verificando Ruby 3.3.5 con mise..."
+	@mise install
+	@echo "3. Instalando gemas..."
+	@mise exec -- bundle install
 	@echo ""
 	@echo "✅ Entorno configurado"
 	@echo ""
 	@echo "Para activar el entorno en una nueva terminal:"
-	@echo "  cd $(shell pwd) && rvm use 3.3.5@faa-gfh"
+	@echo "  cd $(shell pwd) && mise activate"
 	@echo ""
-	@echo "O simplemente entra al directorio (RVM lo detectará automáticamente)"
+	@echo "O ejecuta comandos directamente con:"
+	@echo "  mise exec -- make pdf"
 
 ## Observa cambios y regenera el PDF automáticamente
 watch:
@@ -247,8 +250,8 @@ help:
 	@echo "  clean        Limpia los artefactos de build"
 	@echo "  mrproper     Limpia todo (build + backups de imágenes)"
 	@echo "  check        Verifica las herramientas instaladas"
-	@echo "  install      Instala dependencias (bundle install)"
-	@echo "  setup        Configura entorno completo (RVM + gemas)"
+	@echo "  install      Instala dependencias (bundle install dentro de mise)"
+	@echo "  setup        Configura entorno completo (mise + gemas)"
 	@echo "  validate     Valida terminología en capítulos"
 	@echo "  watch        Observa cambios y regenera PDF automáticamente"
 	@echo "  pdf-ar       Genera PDF con terminología argentina"
@@ -266,6 +269,7 @@ help:
 	@echo "  make mrproper # Elimina build + backups de imágenes"
 	@echo ""
 	@echo "Requisitos:"
-	@echo "  - Ruby 3.3.5 (via RVM)"
+	@echo "  - mise (https://mise.jdx.dev)"
+	@echo "  - Ruby 3.3.5 (gestionado por mise)"
 	@echo "  - Bundler"
 	@echo ""

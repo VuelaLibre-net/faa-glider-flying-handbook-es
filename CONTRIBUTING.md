@@ -146,8 +146,12 @@ Si quieres generar los documentos por tí mismo puedes hacer lo siguiente:
 git clone https://github.com/VuelaLibre-net/faa-glider-flying-handbook-es.git
 cd faa-gfh
 
-# Configura Ruby con RVM
-rvm use 3.3.5@faa-gfh
+# Configura Ruby con mise (https://mise.jdx.dev)
+make setup
+
+# O manualmente:
+mise install
+mise exec -- bundle install
 
 # Instala dependencias
 make install

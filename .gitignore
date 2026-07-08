@@ -1,6 +1,8 @@
 # Directorios temporales y de trabajo
 .tmp/
 .opencode/
+.bundle/
+vendor/bundle/
 AGENTS.md
 GEMINI.md
 # en/

@@ -5,6 +5,19 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 El formato se basa en [Keep a Changelog](https://keepachangelog.com/es/1.0.0/),
 y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.5] - 2026-07-08
+
+### Añadido
+- **Migración a mise**: Se migró la gestión del entorno Ruby de RVM a `mise` para mayor portabilidad y consistencia.
+
+### Cambiado
+- **Ajustes en la introducción**: Mejoras en los textos introductorios del manual.
+
+### Corregido
+- **Referencias de figuras a tablas (Capítulo 4)**: Se corrigieron las referencias rotas a las figuras `fig-04-08` y `fig-04-09` cambiándolas a las tablas equivalentes `tab-04-08` y `tab-04-09`.
+- **Fallas en tabla NTSB (Capítulo 13)**: Corrección de filas incompletas en la tabla de accidentes de la NTSB que impedían la correcta compilación del documento.
+- **Tipos de aerofrenos**: Corrección de la terminología de tipos de aerofrenos según la especificación de la FAA.
+
 ## [0.1.4] - 2026-02-09
 
 ### Añadido
